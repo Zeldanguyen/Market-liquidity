@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-22T02:30:18.954340",
+  "fetched_at": "2026-08-22T02:42:48.026640",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VN-Index tăng mạnh nhất 1 tháng, tuần tới chứng khoán sẽ ra sao?",
+        "link": "https://cafef.vn/vn-index-tang-manh-nhat-1-thang-tuan-toi-chung-khoan-se-ra-sao-188260822091048792.chn",
+        "published": "Sat, 22 Aug 26 09:31:00 +0700"
+      },
       {
         "title": "Seaprodex chốt ngày chia cổ tức tiền mặt tỷ lệ 5%",
         "link": "https://cafef.vn/seaprodex-chot-ngay-chia-co-tuc-tien-mat-ty-le-5-188260822091423251.chn",
@@ -27,11 +32,6 @@
         "title": "Điện Máy Xanh chốt danh sách nhận cổ tức tiền mặt ngay sau niêm yết",
         "link": "https://cafef.vn/dien-may-xanh-chot-danh-sach-nhan-co-tuc-tien-mat-ngay-sau-niem-yet-188260821232127531.chn",
         "published": "Sat, 22 Aug 26 00:03:00 +0700"
-      },
-      {
-        "title": "Đúng 1 tháng nữa, Việt Nam sẽ chính thức sánh ngang Trung Quốc, Ấn Độ",
-        "link": "https://cafef.vn/dung-1-thang-nua-viet-nam-se-chinh-thuc-sanh-ngang-trung-quoc-an-do-18826082123155854.chn",
-        "published": "Sat, 22 Aug 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
