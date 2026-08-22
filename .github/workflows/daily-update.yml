@@ -1,0 +1,56 @@
+name: Cập nhật Nhật ký Vốn hằng ngày
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cài đặt thư viện
+        run: pip install -r requirements.txt
+
+      - name: Fetch FRED (vĩ mô Mỹ)
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python scripts/fetch_fred.py
+
+      - name: Fetch Finnhub (chỉ số toàn cầu)
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python scripts/fetch_finnhub.py
+
+      - name: Fetch Crypto (CoinGecko)
+        env:
+          COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+        run: python scripts/fetch_crypto.py
+
+      - name: Fetch VN-Index (vnstock)
+        run: python scripts/fetch_vnstock.py
+
+      - name: Fetch tin tức (RSS)
+        run: python scripts/fetch_news_rss.py
+
+      - name: Dựng trang HTML
+        run: python scripts/build_site.py
+
+      - name: Commit & push dữ liệu mới
+        run: |
+          git config user.name "capital-flow-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/ docs/
+          git commit -m "Cập nhật dữ liệu tự động $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "Không có gì thay đổi"
+          git push
