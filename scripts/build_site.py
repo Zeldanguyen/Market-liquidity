@@ -39,7 +39,9 @@ def render_equities_html(finnhub_data):
             continue
         price = quote.get("c", "-")
         change_pct = quote.get("dp", 0)
-        direction = "up" if isinstance(change_pct, (int, float)) and change_pct >= 0 else "down"
+        if not isinstance(change_pct, (int, float)):
+            change_pct = 0
+        direction = "up" if change_pct >= 0 else "down"
         arrow = "UP" if direction == "up" else "DOWN"
         rows.append(f'<div class="tick"><div class="tick-label">{name.replace("_"," ").upper()}</div><div class="tick-val">{price}</div><div class="tick-chg {direction}">{arrow} {change_pct}%</div></div>')
     return "\n".join(rows) if rows else '<div class="empty">Chua co du lieu chi so.</div>'
@@ -47,17 +49,22 @@ def render_equities_html(finnhub_data):
 
 def render_crypto_html(crypto_data):
     prices = crypto_data.get("prices", {})
+    labels = crypto_data.get("coin_labels", {})
     rows = []
-    for coin, vals in prices.items():
+    for coin_id, vals in prices.items():
         if not isinstance(vals, dict):
             continue
         usd = vals.get("usd", None)
-        chg = vals.get("usd_24h_change", 0)
         if not isinstance(usd, (int, float)):
             continue
-        direction = "up" if isinstance(chg, (int, float)) and chg >= 0 else "down"
+        chg = vals.get("usd_24h_change", 0)
+        if not isinstance(chg, (int, float)):
+            chg = 0.0
+        direction = "up" if chg >= 0 else "down"
         arrow = "UP" if direction == "up" else "DOWN"
-        rows.append(f'<div class="tick"><div class="tick-label">{coin.upper()}</div><div class="tick-val">${usd:,.0f}</div><div class="tick-chg {direction}">{arrow} {chg:.2f}%</div></div>')
+        label = labels.get(coin_id, coin_id.upper())
+        price_str = f"${usd:,.4f}" if usd < 1 else f"${usd:,.2f}" if usd < 100 else f"${usd:,.0f}"
+        rows.append(f'<div class="tick"><div class="tick-label">{label}</div><div class="tick-val">{price_str}</div><div class="tick-chg {direction}">{arrow} {chg:.2f}%</div></div>')
     return "\n".join(rows) if rows else '<div class="empty">Chua co du lieu crypto.</div>'
 
 
@@ -70,7 +77,7 @@ def render_fx_html(fx_data):
     labels = {"JPY": "USD/JPY", "CNY": "USD/CNY", "VND": "USD/VND", "EUR": "USD/EUR"}
     for code, label in labels.items():
         val = r.get(code)
-        if val is None:
+        if not isinstance(val, (int, float)):
             continue
         rows.append(f'<div class="tick"><div class="tick-label">{label}</div><div class="tick-val">{val:,.2f}</div></div>')
     return "\n".join(rows) if rows else '<div class="empty">Chua co du lieu ty gia.</div>'
@@ -113,7 +120,7 @@ def main():
     html_parts.append("<p>Cap nhat tu dong luc " + now_vn + "</p>")
     html_parts.append("<h2>Chi so toan cau (Finnhub) - gom ca Dong va BDS My</h2><div class=\"grid\">" + equities_html + "</div>")
     html_parts.append("<h2>Ty gia (JPY / CNY / VND / EUR)</h2><div class=\"grid\">" + fx_html + "</div>")
-    html_parts.append("<h2>Crypto (CoinGecko)</h2><div class=\"grid\">" + crypto_html + "</div>")
+    html_parts.append("<h2>Crypto - BTC, BNB va he sinh thai Ethereum</h2><div class=\"grid\">" + crypto_html + "</div>")
     html_parts.append("<h2>VN-Index (vnstock)</h2><div class=\"grid\">" + vnstock_html + "</div>")
     html_parts.append("<h2>Tin tuc moi nhat</h2>" + news_html)
     html_parts.append("</div></body></html>")
