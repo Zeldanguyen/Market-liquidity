@@ -1,5 +1,5 @@
 """
-Lay du lieu chung khoan/FX toan cau tu Finnhub - MIEN PHI (~60 request/phut)
+Lay du lieu chung khoan/FX/hang hoa toan cau tu Finnhub - MIEN PHI (~60 request/phut)
 """
 import os
 import sys
@@ -23,6 +23,8 @@ SYMBOLS = {
     "china_etf": "FXI",
     "japan_etf": "EWJ",
     "vietnam_etf": "VNM",
+    "copper_etf": "CPER",
+    "realestate_etf": "IYR",
 }
 
 
@@ -69,7 +71,6 @@ if __name__ == "__main__":
     except Exception:
         print("LOI NGHIEM TRONG - traceback day du:")
         traceback.print_exc()
-        # Van co gang ghi file de khong lam gian doan workflow
         os.makedirs("data", exist_ok=True)
         with open(os.path.join("data", "finnhub.json"), "w", encoding="utf-8") as f:
             json.dump({"status": "fatal_error"}, f)
