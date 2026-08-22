@@ -38,6 +38,9 @@ jobs:
           COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
         run: python scripts/fetch_crypto.py
 
+      - name: Fetch FX (JPY, CNY, VND)
+        run: python scripts/fetch_fx.py
+
       - name: Fetch VN-Index (vnstock)
         run: python scripts/fetch_vnstock.py
 
