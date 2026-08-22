@@ -28,12 +28,8 @@ def render_news_html(news_data):
                 continue
             title = item.get("title", "")
             link = item.get("link", "#")
-            rows.append(f'''
-            <div class="news-item">
-              <div class="news-src">{source}</div>
-              <a class="news-headline" href="{link}" target="_blank" rel="noopener">{title}</a>
-            </div>''')
-    return "\n".join(rows) if rows else '<div class="empty">Chưa có dữ liệu tin tức — kiểm tra lại nguồn RSS.</div>'
+            rows.append(f'<div class="news-item"><div class="news-src">{source}</div><a class="news-headline" href="{link}" target="_blank" rel="noopener">{title}</a></div>')
+    return "\n".join(rows) if rows else '<div class="empty">Chua co du lieu tin tuc.</div>'
 
 
 def render_equities_html(finnhub_data):
@@ -41,17 +37,12 @@ def render_equities_html(finnhub_data):
     for name, quote in finnhub_data.get("equities", {}).items():
         if not isinstance(quote, dict) or "c" not in quote:
             continue
-        price = quote.get("c", "—")
+        price = quote.get("c", "-")
         change_pct = quote.get("dp", 0)
         direction = "up" if isinstance(change_pct, (int, float)) and change_pct >= 0 else "down"
-        arrow = "▲" if direction == "up" else "▼"
-        rows.append(f'''
-          <div class="tick">
-            <div class="tick-label">{name.replace("_", " ").upper()}</div>
-            <div class="tick-val">{price}</div>
-            <div class="tick-chg {direction}">{arrow} {change_pct}%</div>
-          </div>''')
-    return "\n".join(rows) if rows else '<div class="empty">Chưa có dữ liệu chỉ số — kiểm tra FINNHUB_API_KEY.</div>'
+        arrow = "UP" if direction == "up" else "DOWN"
+        rows.append(f'<div class="tick"><div class="tick-label">{name.replace("_"," ").upper()}</div><div class="tick-val">{price}</div><div class="tick-chg {direction}">{arrow} {change_pct}%</div></div>')
+    return "\n".join(rows) if rows else '<div class="empty">Chua co du lieu chi so.</div>'
 
 
 def render_crypto_html(crypto_data):
@@ -60,47 +51,47 @@ def render_crypto_html(crypto_data):
     for coin, vals in prices.items():
         if not isinstance(vals, dict):
             continue
-        usd = vals.get("usd", "—")
+        usd = vals.get("usd", None)
         chg = vals.get("usd_24h_change", 0)
+        if not isinstance(usd, (int, float)):
+            continue
         direction = "up" if isinstance(chg, (int, float)) and chg >= 0 else "down"
-        arrow = "▲" if direction == "up" else "▼"
-        rows.append(f'''
-          <div class="tick">
-            <div class="tick-label">{coin.upper()}</div>
-            <div class="tick-val">${usd:,.0f}</div>
-            <div class="tick-chg {direction}">{arrow} {chg:.2f}%</div>
-          </div>''' if isinstance(usd, (int, float)) else "")
-    return "\n".join(rows) if rows else '<div class="empty">Chưa có dữ liệu crypto — kiểm tra COINGECKO_API_KEY.</div>'
+        arrow = "UP" if direction == "up" else "DOWN"
+        rows.append(f'<div class="tick"><div class="tick-label">{coin.upper()}</div><div class="tick-val">${usd:,.0f}</div><div class="tick-chg {direction}">{arrow} {chg:.2f}%</div></div>')
+    return "\n".join(rows) if rows else '<div class="empty">Chua co du lieu crypto.</div>'
 
 
 def main():
-    fred = load_json("fred.json")
     finnhub = load_json("finnhub.json")
     crypto = load_json("crypto.json")
-    vnstock = load_json("vnstock.json")
     news = load_json("news.json")
 
-    now_vn = datetime.now(VN_TZ).strftime("%A, %d/%m/%Y %H:%M ICT")
+    now_vn = datetime.now(VN_TZ).strftime("%d/%m/%Y %H:%M ICT")
 
-    html = f"""<!DOCTYPE html>
-<html lang="vi">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mắt Xích Vốn — Cập nhật {now_vn}</title>
-<style>
-  :root{{--ink:#0A0F1A;--panel:#111826;--line:#232D40;--text:#E7EAF0;--muted:#8B96A8;
-  --gold:#CDA349;--jade:#3AA57C;--red:#C1544A;
-  --serif:Georgia,serif;--mono:ui-monospace,Menlo,Consolas,monospace;--sans:-apple-system,"Segoe UI",Arial,sans-serif;}}
-  *{{box-sizing:border-box;}}
-  body{{margin:0;background:var(--ink);color:var(--text);font-family:var(--sans);}}
-  .wrap{{max-width:1200px;margin:0 auto;padding:28px 22px 60px;}}
-  header{{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:26px;display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:10px;}}
-  h1{{font-family:var(--serif);font-size:22px;margin:0;}}
-  .updated{{font-family:var(--mono);font-size:11px;color:var(--muted);}}
-  .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);margin-bottom:32px;}}
-  .tick{{background:var(--panel);padding:14px;}}
-  .tick-label{{font-family:var(--mono);font-size:10px;color:var(--muted);text-transform:uppercase;margin-bottom:6px;}}
-  .tick-val{{font-family:var(--mono);font-size:16px;font-weight:600;}}
-  .tick-chg{{font-family:var(--mono);font-size:11px;margin-top:3px;}}
-  .up{{color:var(--jade);}}
+    equities_html = render_equities_html(finnhub)
+    crypto_html = render_crypto_html(crypto)
+    news_html = render_news_html(news)
+
+    style = "body{margin:0;background:#0A0F1A;color:#E7EAF0;font-family:Arial,sans-serif;} .wrap{max-width:1200px;margin:0 auto;padding:28px 22px;} h1{font-size:22px;} .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:1px;background:#232D40;border:1px solid #232D40;margin-bottom:32px;} .tick{background:#111826;padding:14px;} .tick-label{font-size:10px;color:#8B96A8;text-transform:uppercase;margin-bottom:6px;} .tick-val{font-size:16px;font-weight:600;} .tick-chg{font-size:11px;margin-top:3px;} .up{color:#3AA57C;} .down{color:#C1544A;} h2{font-size:18px;border-bottom:1px solid #232D40;padding-bottom:8px;margin-top:36px;} .news-item{padding:12px 0;border-bottom:1px solid #232D40;} .news-src{font-size:10px;color:#CDA349;margin-bottom:4px;} .news-headline{color:#E7EAF0;text-decoration:none;font-size:13.5px;} .empty{color:#8B96A8;font-size:12px;padding:14px 0;}"
+
+    html_parts = []
+    html_parts.append("<!DOCTYPE html><html lang=\"vi\"><head><meta charset=\"UTF-8\">")
+    html_parts.append("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">")
+    html_parts.append("<title>Mat Xich Von</title><style>" + style + "</style></head><body>")
+    html_parts.append("<div class=\"wrap\"><h1>Mat Xich Von - Nhat ky dong chay von toan cau</h1>")
+    html_parts.append("<p>Cap nhat tu dong luc " + now_vn + "</p>")
+    html_parts.append("<h2>Chi so toan cau (Finnhub)</h2><div class=\"grid\">" + equities_html + "</div>")
+    html_parts.append("<h2>Crypto (CoinGecko)</h2><div class=\"grid\">" + crypto_html + "</div>")
+    html_parts.append("<h2>Tin tuc moi nhat</h2>" + news_html)
+    html_parts.append("</div></body></html>")
+
+    html = "".join(html_parts)
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
+        f.write(html)
+    print("Da dung " + OUTPUT_DIR + "/index.html")
+
+
+if __name__ == "__main__":
+    main()
