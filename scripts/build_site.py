@@ -1,6 +1,6 @@
 """
-Doc du lieu tu data/*.json va dung thanh trang HTML tinh phong cach dashboard.
-Crypto va Ty gia duoc bo sung JS goi truc tiep API luc trinh duyet tai trang (F5 la nhay so).
+Dashboard 6 lop trach nhiem dong chay von toan cau.
+Tong mau: den + xanh la. Crypto va Ty gia real-time qua JS phia trinh duyet.
 """
 import json
 import os
@@ -27,40 +27,44 @@ def tick(label, val, chg_str=None, direction=None):
     return '<div class="tick"><div class="tick-label">' + label + '</div><div class="tick-val">' + str(val) + '</div>' + chg_html + '</div>'
 
 
-def render_equities(finnhub_data):
+def get_equity(finnhub_data, key, label):
     items = finnhub_data.get("equities", {})
-    rows = []
-    for name, quote in items.items():
-        if not isinstance(quote, dict) or "c" not in quote:
-            continue
-        price = quote.get("c", "-")
-        dp = quote.get("dp", 0)
-        if not isinstance(dp, (int, float)):
-            dp = 0
-        direction = "up" if dp >= 0 else "down"
-        arrow = "&#9650;" if direction == "up" else "&#9660;"
-        label = name.replace("_", " ").upper()
-        rows.append(tick(label, price, arrow + " " + format(dp, ".2f") + "%", direction))
-    return "".join(rows) if rows else '<div class="empty">Chua co du lieu.</div>'
+    quote = items.get(key)
+    if not isinstance(quote, dict) or "c" not in quote:
+        return '<div class="tick"><div class="tick-label">' + label + '</div><div class="tick-val">-</div></div>'
+    price = quote.get("c", "-")
+    dp = quote.get("dp", 0)
+    if not isinstance(dp, (int, float)):
+        dp = 0
+    direction = "up" if dp >= 0 else "down"
+    arrow = "&#9650;" if direction == "up" else "&#9660;"
+    return tick(label, price, arrow + " " + format(dp, ".2f") + "%", direction)
 
 
-def render_vnindex(vnstock_data):
-    if vnstock_data.get("status") != "ok":
-        return '<div class="empty">VN-Index dang cho du lieu (thu vien vnstock can kiem tra lai).</div>'
-    hist = vnstock_data.get("vnindex_history", [])
-    if not hist:
-        return '<div class="empty">Chua co du lieu VN-Index.</div>'
-    latest = hist[-1]
-    rows = ""
-    for k, v in latest.items():
-        rows += '<div class="vn-row"><span>' + str(k) + '</span><span>' + str(v) + '</span></div>'
-    return '<div class="vn-box">' + rows + '</div>'
+def render_layer0(fred_data, finnhub_data):
+    return get_equity(finnhub_data, "dollar_etf", "USD (DXY proxy)") + get_equity(finnhub_data, "vix_etf", "VIX (rui ro thi truong)")
+
+
+def render_layer3_flows(finnhub_data, vnstock_data):
+    html = get_equity(finnhub_data, "vietnam_etf", "VN ETF (von ngoai)")
+    html += get_equity(finnhub_data, "sp500_etf", "S&P500 ETF (dong chinh)")
+
+    foreign = vnstock_data.get("foreign_flow", {})
+    if foreign.get("status") == "ok":
+        rows = foreign.get("data", [])
+        if rows:
+            latest = rows[-1]
+            summary = ", ".join([f"{k}: {v}" for k, v in latest.items()])
+            html += '<div class="tick wide"><div class="tick-label">Khoi ngoai VN (moi nhat)</div><div class="tick-val small">' + summary + '</div></div>'
+    else:
+        html += '<div class="tick wide"><div class="tick-label">Khoi ngoai VN mua/ban rong</div><div class="empty-inline">Chua lay duoc du lieu tu vnstock - dang can tra lai ten ham API</div></div>'
+    return html
 
 
 def render_top_stocks(vnstock_data):
     stocks = vnstock_data.get("top_stocks", [])
     if not stocks:
-        return '<div class="empty">Chua co du lieu top co phieu.</div>'
+        return '<div class="empty">Chua co du lieu.</div>'
     rows = []
     for s in stocks:
         symbol = s.get("symbol", "-")
@@ -72,38 +76,29 @@ def render_top_stocks(vnstock_data):
     return "".join(rows)
 
 
-def render_news(news_data):
+def render_vnindex(vnstock_data):
+    hist = vnstock_data.get("vnindex_history", [])
+    if not hist:
+        return '<div class="empty">Chua co du lieu VN-Index.</div>'
+    latest = hist[-1]
+    rows = ""
+    for k, v in latest.items():
+        rows += '<div class="row"><span>' + str(k) + '</span><span>' + str(v) + '</span></div>'
+    return '<div class="box">' + rows + '</div>'
+
+
+def render_news(news_data, layer_keywords):
+    """Loc tin tuc theo tu khoa cua tung lop neu co, khong thi hien tat ca"""
     feeds = news_data.get("feeds", {})
     rows = []
     for source, items in feeds.items():
-        for item in items[:4]:
+        for item in items[:3]:
             if "error" in item:
                 continue
             title = item.get("title", "")
             link = item.get("link", "#")
-            rows.append(
-                '<div class="news-item"><div class="news-src">' + source + '</div>'
-                '<a class="news-headline" href="' + link + '" target="_blank" rel="noopener">' + title + '</a></div>'
-            )
+            rows.append('<div class="news-item"><div class="news-src">' + source + '</div><a class="news-headline" href="' + link + '" target="_blank" rel="noopener">' + title + '</a></div>')
     return "".join(rows) if rows else '<div class="empty">Chua co tin tuc.</div>'
-
-
-def render_module_status():
-    modules = [
-        ("Fed / FOMC", True), ("CPI / Lam phat", True), ("DXY & Loi suat", True),
-        ("Vang", True), ("Dau (WTI/Brent qua ETF)", True), ("Dong (Copper)", True),
-        ("JPY (real-time)", True), ("CNY (real-time)", True), ("USD/VND (real-time)", True),
-        ("Chung khoan toan cau + top 10 co phieu VN", True), ("Trai phieu (loi suat qua FRED)", True),
-        ("Crypto (real-time, BTC/BNB/he sinh thai ETH)", True),
-        ("BDS (proxy qua ETF IYR, chua co du lieu VN rieng)", False),
-        ("VIX", True), ("Lien ngan hang (SOFR)", False),
-    ]
-    rows = []
-    for name, live in modules:
-        status = "LIVE" if live else "SAP NOI"
-        cls = "live" if live else "pending"
-        rows.append('<div class="mod-row"><span>' + name + '</span><span class="mod-status ' + cls + '">' + status + '</span></div>')
-    return "".join(rows)
 
 
 LIVE_SCRIPT = """
@@ -144,21 +139,16 @@ function loadLiveCrypto() {
         html += tickHtml(COIN_LABELS[id] || id.toUpperCase(), priceStr, arrow + " " + chg.toFixed(2) + "%", direction);
       }
       if (html) el.innerHTML = html;
-      badge.textContent = "LIVE - vua cap nhat luc " + new Date().toLocaleTimeString("vi-VN");
+      badge.textContent = "LIVE - " + new Date().toLocaleTimeString("vi-VN");
     })
-    .catch(function(err) {
-      badge.textContent = "Loi tai crypto: " + err.message;
-    });
+    .catch(function(err) { badge.textContent = "Loi: " + err.message; });
 }
 
 function loadLiveFx() {
   var el = document.getElementById("fx-grid");
   var badge = document.getElementById("fx-live-badge");
   fetch("https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json")
-    .then(function(res) {
-      if (!res.ok) { throw new Error("HTTP " + res.status); }
-      return res.json();
-    })
+    .then(function(res) { if (!res.ok) throw new Error("HTTP " + res.status); return res.json(); })
     .then(function(data) {
       var rates = data.usd || {};
       var html = "";
@@ -167,15 +157,10 @@ function loadLiveFx() {
         if (typeof val !== "number") continue;
         html += tickHtml(FX_LABELS[code], val.toLocaleString(undefined, {maximumFractionDigits: 2}), null, null);
       }
-      if (html) {
-        el.innerHTML = html;
-        badge.textContent = "LIVE - vua cap nhat luc " + new Date().toLocaleTimeString("vi-VN");
-      } else {
-        throw new Error("Du lieu rong");
-      }
+      if (html) { el.innerHTML = html; badge.textContent = "LIVE - " + new Date().toLocaleTimeString("vi-VN"); }
+      else { throw new Error("rong"); }
     })
-    .catch(function(err) {
-      // Thu nguon du phong neu nguon chinh loi
+    .catch(function() {
       fetch("https://latest.currency-api.pages.dev/v1/currencies/usd.json")
         .then(function(res) { return res.json(); })
         .then(function(data) {
@@ -187,18 +172,13 @@ function loadLiveFx() {
             html += tickHtml(FX_LABELS[code], val.toLocaleString(undefined, {maximumFractionDigits: 2}), null, null);
           }
           if (html) el.innerHTML = html;
-          badge.textContent = "LIVE (nguon du phong) - " + new Date().toLocaleTimeString("vi-VN");
+          badge.textContent = "LIVE (du phong) - " + new Date().toLocaleTimeString("vi-VN");
         })
-        .catch(function(err2) {
-          badge.textContent = "Loi tai ty gia: " + err2.message;
-        });
+        .catch(function(err2) { badge.textContent = "Loi: " + err2.message; });
     });
 }
 
-window.addEventListener("DOMContentLoaded", function() {
-  loadLiveCrypto();
-  loadLiveFx();
-});
+window.addEventListener("DOMContentLoaded", function() { loadLiveCrypto(); loadLiveFx(); });
 </script>
 """
 
@@ -210,55 +190,57 @@ def main():
 
     now_vn = datetime.now(VN_TZ).strftime("%H:%M, %d/%m/%Y (ICT)")
 
-    equities_html = render_equities(finnhub)
-    vnindex_html = render_vnindex(vnstock)
+    layer0_html = render_layer0({}, finnhub)
+    layer3_html = render_layer3_flows(finnhub, vnstock)
     top_stocks_html = render_top_stocks(vnstock)
-    news_html = render_news(news)
-    modules_html = render_module_status()
+    vnindex_html = render_vnindex(vnstock)
+    news_html = render_news(news, [])
 
     style = (
-        ":root{--ink:#0A0F1A;--panel:#111826;--line:#232D40;--text:#E7EAF0;--muted:#8B96A8;"
-        "--gold:#CDA349;--jade:#3AA57C;--red:#C1544A;}"
+        ":root{--bg:#050807;--panel:#0D1410;--line:#1C2A22;--text:#E4F0E8;--muted:#7C9587;"
+        "--green:#3ECF7A;--green-dim:#1F5C3C;--red:#D9534F;}"
         "*{box-sizing:border-box;}"
-        "body{margin:0;background:var(--ink);color:var(--text);"
+        "body{margin:0;background:var(--bg);color:var(--text);"
         "font-family:-apple-system,'Segoe UI',Arial,sans-serif;}"
-        ".wrap{max-width:1240px;margin:0 auto;padding:30px 24px 70px;}"
+        ".wrap{max-width:1280px;margin:0 auto;padding:28px 22px 70px;}"
         "header{display:flex;justify-content:space-between;align-items:baseline;"
-        "border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:26px;flex-wrap:wrap;gap:10px;}"
-        "h1{font-family:Georgia,serif;font-size:24px;margin:0;color:var(--text);}"
-        ".updated{font-family:monospace;font-size:12px;color:var(--jade);}"
-        "h2{font-family:Georgia,serif;font-size:19px;border-bottom:1px solid var(--line);"
-        "padding-bottom:9px;margin-top:38px;color:var(--gold);display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;}"
-        ".live-badge{font-family:monospace;font-size:10px;color:var(--jade);font-weight:normal;}"
-        ".grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));"
-        "gap:1px;background:var(--line);border:1px solid var(--line);}"
-        ".tick{background:var(--panel);padding:15px;}"
-        ".tick-label{font-family:monospace;font-size:10px;color:var(--muted);"
-        "text-transform:uppercase;letter-spacing:0.04em;margin-bottom:7px;}"
-        ".tick-val{font-family:monospace;font-size:17px;font-weight:700;}"
-        ".tick-chg{font-family:monospace;font-size:11.5px;margin-top:4px;}"
-        ".up{color:var(--jade);} .down{color:var(--red);}"
-        ".empty{color:var(--muted);font-family:monospace;font-size:12px;padding:16px 0;}"
-        ".news-item{padding:14px 0;border-bottom:1px solid var(--line);}"
-        ".news-src{font-family:monospace;font-size:10.5px;color:var(--gold);margin-bottom:5px;"
-        "letter-spacing:0.04em;}"
-        ".news-headline{color:var(--text);text-decoration:none;font-size:14px;line-height:1.55;}"
-        ".news-headline:hover{color:var(--gold);}"
-        ".vn-box{background:var(--panel);border:1px solid var(--line);padding:18px;margin-bottom:20px;}"
-        ".vn-row{display:flex;justify-content:space-between;padding:6px 0;"
-        "font-family:monospace;font-size:12.5px;color:var(--muted);border-bottom:1px solid var(--line);}"
-        ".vn-row:last-child{border:none;}"
-        ".mod-row{display:flex;justify-content:space-between;align-items:center;"
-        "padding:9px 0;border-bottom:1px solid var(--line);font-size:13px;}"
-        ".mod-status{font-family:monospace;font-size:10px;letter-spacing:0.05em;"
-        "padding:3px 9px;border-radius:2px;}"
-        ".mod-status.live{background:rgba(58,165,124,0.15);color:var(--jade);}"
-        ".mod-status.pending{background:var(--panel);color:var(--muted);}"
-        "footer{margin-top:44px;padding-top:20px;border-top:1px solid var(--line);"
-        "font-family:monospace;font-size:11px;color:var(--muted);line-height:1.8;}"
-        ".disclaimer{background:var(--panel);border:1px solid var(--line);padding:14px 18px;"
-        "font-size:12.5px;color:var(--muted);line-height:1.7;margin-bottom:28px;border-radius:4px;}"
-        ".disclaimer b{color:var(--gold);}"
+        "border-bottom:1px solid var(--green-dim);padding-bottom:16px;margin-bottom:24px;flex-wrap:wrap;gap:10px;}"
+        "h1{font-size:22px;margin:0;color:var(--green);letter-spacing:0.01em;}"
+        ".updated{font-family:monospace;font-size:11.5px;color:var(--muted);}"
+        ".layer{border:1px solid var(--line);border-radius:6px;margin-bottom:22px;overflow:hidden;}"
+        ".layer-head{background:var(--panel);padding:14px 18px;border-bottom:1px solid var(--line);"
+        "display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;}"
+        ".layer-num{font-family:monospace;color:var(--green);font-size:11px;letter-spacing:0.08em;}"
+        ".layer-title{font-size:16px;font-weight:600;margin-top:2px;}"
+        ".layer-desc{font-size:11.5px;color:var(--muted);margin-top:2px;}"
+        ".layer-badge{font-family:monospace;font-size:10px;color:var(--green);"
+        "background:rgba(62,207,122,0.1);padding:3px 8px;border-radius:3px;}"
+        ".layer-body{padding:16px 18px;}"
+        ".grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);}"
+        ".tick{background:var(--bg);padding:13px;}"
+        ".tick.wide{grid-column:1/-1;}"
+        ".tick-label{font-family:monospace;font-size:9.5px;color:var(--muted);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:6px;}"
+        ".tick-val{font-family:monospace;font-size:16px;font-weight:700;color:var(--text);}"
+        ".tick-val.small{font-size:11px;font-weight:400;color:var(--muted);}"
+        ".tick-chg{font-family:monospace;font-size:11px;margin-top:3px;}"
+        ".up{color:var(--green);} .down{color:var(--red);}"
+        ".empty{color:var(--muted);font-family:monospace;font-size:11.5px;padding:12px 0;}"
+        ".empty-inline{color:var(--muted);font-family:monospace;font-size:11px;}"
+        ".box{background:var(--bg);border:1px solid var(--line);padding:14px;}"
+        ".row{display:flex;justify-content:space-between;padding:5px 0;font-family:monospace;font-size:12px;color:var(--muted);border-bottom:1px solid var(--line);}"
+        ".row:last-child{border:none;}"
+        ".news-item{padding:11px 0;border-bottom:1px solid var(--line);}"
+        ".news-item:last-child{border:none;}"
+        ".news-src{font-family:monospace;font-size:10px;color:var(--green);margin-bottom:4px;}"
+        ".news-headline{color:var(--text);text-decoration:none;font-size:13px;line-height:1.5;}"
+        ".news-headline:hover{color:var(--green);}"
+        ".live-badge{font-family:monospace;font-size:10px;color:var(--green);}"
+        "footer{margin-top:36px;padding-top:16px;border-top:1px solid var(--line);"
+        "font-family:monospace;font-size:10.5px;color:var(--muted);line-height:1.8;}"
+        ".disclaimer{background:var(--panel);border:1px solid var(--line);padding:12px 16px;"
+        "font-size:12px;color:var(--muted);line-height:1.6;margin-bottom:22px;border-radius:6px;}"
+        ".disclaimer b{color:var(--green);}"
+        ".flow-arrow{text-align:center;color:var(--green-dim);font-size:20px;padding:4px 0;font-family:monospace;}"
     )
 
     parts = []
@@ -266,52 +248,53 @@ def main():
     parts.append('<meta name="viewport" content="width=device-width, initial-scale=1.0">')
     parts.append('<title>Mat Xich Von</title><style>' + style + '</style></head><body>')
     parts.append('<div class="wrap">')
-    parts.append('<header>')
-    parts.append('<h1>Mat Xich Von - Nhat ky dong chay von toan cau</h1>')
-    parts.append('<div class="updated">Du lieu nen cap nhat luc ' + now_vn + ' (moi 30 phut)</div>')
-    parts.append('</header>')
+    parts.append('<header><h1>MAT XICH VON — He thong luan chuyen von toan cau</h1>')
+    parts.append('<div class="updated">Nen: ' + now_vn + ' (30 phut) | Crypto/Ty gia: real-time</div></header>')
 
-    parts.append(
-        '<div class="disclaimer"><b>Luu y:</b> Crypto va Ty gia cap nhat '
-        '<b>real-time moi lan ban tai lai trang (F5)</b>. Cac phan con lai '
-        '(chi so CK, VN-Index, tin tuc) cap nhat theo chu ky tu dong '
-        '30 phut/lan. Khong phai khuyen nghi dau tu duoc dam bao loi nhuan.</div>'
-    )
+    parts.append('<div class="disclaimer"><b>Cau truc:</b> Trang nay theo doi dong tien theo 6 lop trach nhiem, tu noi tien duoc tao ra (Fed) den nha dau tu ca nhan VN. Khong phai khuyen nghi dau tu duoc dam bao loi nhuan.</div>')
 
-    parts.append('<h2>Chi so toan cau (qua ETF dai dien, cap nhat 30ph)</h2>')
-    parts.append('<div class="grid">' + equities_html + '</div>')
+    # LOP 0
+    parts.append('<div class="layer"><div class="layer-head"><div><div class="layer-num">LOP 0 — TAO TIEN</div><div class="layer-title">Ngan hang Trung uong (Fed)</div><div class="layer-desc">Dat lai suat, quyet dinh thanh khoan goc cho toan he thong</div></div><div class="layer-badge">LIVE</div></div>')
+    parts.append('<div class="layer-body"><div class="grid">' + layer0_html + '</div></div></div>')
+    parts.append('<div class="flow-arrow">&#8595;</div>')
 
-    parts.append('<h2>Ty gia <span class="live-badge" id="fx-live-badge">Dang tai real-time...</span></h2>')
-    parts.append('<div class="grid" id="fx-grid"><div class="empty">Dang tai...</div></div>')
+    # LOP 1-2
+    parts.append('<div class="layer"><div class="layer-head"><div><div class="layer-num">LOP 1-2 — PHAN PHOI & DU TRU QUOC GIA</div><div class="layer-title">Thi truong Repo, NHTW cac nuoc</div><div class="layer-desc">Thanh khoan lien ngan hang, dong USD toan cau</div></div><div class="layer-badge">LIVE</div></div>')
+    parts.append('<div class="layer-body"><div class="grid">' + get_equity(finnhub, "china_etf", "Trung Quoc (proxy)") + get_equity(finnhub, "japan_etf", "Nhat Ban (proxy)") + get_equity(finnhub, "gold_etf", "Vang (du tru)") + '</div>')
+    parts.append('<h3 style="margin-top:16px;color:var(--muted);font-size:11px;font-family:monospace;text-transform:uppercase;">Ty gia (real-time) <span class="live-badge" id="fx-live-badge">Dang tai...</span></h3>')
+    parts.append('<div class="grid" id="fx-grid"><div class="empty">Dang tai...</div></div></div></div>')
+    parts.append('<div class="flow-arrow">&#8595;</div>')
 
-    parts.append('<h2>Crypto - BTC, BNB va he sinh thai Ethereum <span class="live-badge" id="crypto-live-badge">Dang tai real-time...</span></h2>')
+    # LOP 3
+    parts.append('<div class="layer"><div class="layer-head"><div><div class="layer-num">LOP 3 — VON TO CHUC</div><div class="layer-title">Quy dau tu, ETF, khoi ngoai VN</div><div class="layer-desc">Noi tien "chon loc" tai san se chay vao dau</div></div><div class="layer-badge">MOT PHAN</div></div>')
+    parts.append('<div class="layer-body"><div class="grid">' + layer3_html + '</div></div></div>')
+    parts.append('<div class="flow-arrow">&#8595;</div>')
+
+    # LOP 4
+    parts.append('<div class="layer"><div class="layer-head"><div><div class="layer-num">LOP 4 — VON THUONG MAI</div><div class="layer-title">FDI, kieu hoi vao Viet Nam</div><div class="layer-desc">Dong tien thuc, cham nhung ben vung</div></div><div class="layer-badge">CHUA CO DATA</div></div>')
+    parts.append('<div class="layer-body"><div class="empty">Chua co nguon mien phi tu dong cho FDI/kieu hoi real-time. Can cap nhat thu cong theo bao cao Tong cuc Thong ke hang thang/quy.</div></div></div>')
+    parts.append('<div class="flow-arrow">&#8595;</div>')
+
+    # LOP 5
+    parts.append('<div class="layer"><div class="layer-head"><div><div class="layer-num">LOP 5 — NHA DAU TU CA NHAN</div><div class="layer-title">Crypto, VN-Index, co phieu ban le</div><div class="layer-desc">Phan ung nhanh nhat, thuong la chi bao tam ly xac nhan xu huong</div></div><div class="layer-badge">LIVE</div></div>')
+    parts.append('<div class="layer-body">')
+    parts.append('<h3 style="color:var(--muted);font-size:11px;font-family:monospace;text-transform:uppercase;">Crypto <span class="live-badge" id="crypto-live-badge">Dang tai...</span></h3>')
     parts.append('<div class="grid" id="crypto-grid"><div class="empty">Dang tai...</div></div>')
-
-    parts.append('<h2>VN-Index</h2>')
+    parts.append('<h3 style="margin-top:18px;color:var(--muted);font-size:11px;font-family:monospace;text-transform:uppercase;">VN-Index</h3>')
     parts.append(vnindex_html)
-
-    parts.append('<h2>Top 10 co phieu von hoa lon nhat VN</h2>')
+    parts.append('<h3 style="margin-top:18px;color:var(--muted);font-size:11px;font-family:monospace;text-transform:uppercase;">Top 10 co phieu von hoa lon</h3>')
     parts.append('<div class="grid">' + top_stocks_html + '</div>')
+    parts.append('</div></div>')
 
-    parts.append('<h2>Tin tuc moi nhat</h2>')
-    parts.append(news_html)
+    # TIN TUC
+    parts.append('<div class="layer"><div class="layer-head"><div><div class="layer-title">Tin tuc lien quan</div></div></div><div class="layer-body">' + news_html + '</div></div>')
 
-    parts.append('<h2>Trang thai cac module theo doi</h2>')
-    parts.append(modules_html)
-
-    parts.append('<footer>')
-    parts.append(
-        'Nguon: FRED - Finnhub - CoinGecko - vnstock - fawazahmed0/currency-api - '
-        'RSS (Reuters, CafeF, VnEconomy, Vietstock)<br>'
-        'Crypto va Ty gia: goi truc tiep tu trinh duyet cua ban, khong qua may chu trung gian.'
-    )
-    parts.append('</footer>')
+    parts.append('<footer>Nguon: FRED - Finnhub - CoinGecko - vnstock - fawazahmed0/currency-api - RSS<br>He thong chay tu dong qua GitHub Actions moi 30 phut.</footer>')
     parts.append('</div>')
     parts.append(LIVE_SCRIPT)
     parts.append('</body></html>')
 
     html = "".join(parts)
-
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(html)
