@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T22:50:21.522377",
+  "fetched_at": "2026-08-24T23:50:04.374641",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "25/08: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/08/2508-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1484635.htm",
+        "published": "Tue, 25 Aug 2026 06:00:00 +0700"
+      },
+      {
         "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
         "link": "http://vietstock.vn/2026/08/dong-tien-rut-khoi-nhom-bat-dong-san-chung-khoan-830-1484411.htm",
         "published": "Mon, 24 Aug 2026 20:30:00 +0700"
@@ -91,18 +96,18 @@
         "title": "Phân tích kỹ thuật phiên chiều 24/08: Áp lực bán ngắn hạn xuất hiện",
         "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2408-ap-luc-ban-ngan-han-xuat-hien-585-1484336.htm",
         "published": "Mon, 24 Aug 2026 13:06:11 +0700"
-      },
-      {
-        "title": "Được nâng hạng thị trường rồi, Việt Nam cần nâng cấp điều gì tiếp theo?",
-        "link": "http://vietstock.vn/2026/08/duoc-nang-hang-thi-truong-roi-viet-nam-can-nang-cap-dieu-gi-tiep-theo-830-1484270.htm",
-        "published": "Mon, 24 Aug 2026 13:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
+        "link": "https://www.investing.com/news/economy-news/exclusivejapan-eyes-tax-breaks-for-noncore-business-sales-in-governance-reform-push-sources-say-4873958",
+        "published": "2026-08-24 23:30:28"
+      },
+      {
         "title": "Nevada sues to block Trump administration’s Colorado River plan",
         "link": "https://www.investing.com/news/economy-news/nevada-sues-to-block-trump-administrations-colorado-river-plan-4874244",
-        "published": "2026-08-24 21:36:49"
+        "published": "2026-08-24 23:00:24"
       },
       {
         "title": "Trading Day: Tech, tariffs & Treasuries",
@@ -123,11 +128,6 @@
         "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
         "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
         "published": "2026-08-24 20:12:55"
-      },
-      {
-        "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
-        "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
-        "published": "2026-08-24 19:18:40"
       }
     ]
   }
