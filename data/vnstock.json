@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T03:32:58.600179",
+  "fetched_at": "2026-08-24T03:59:28.376040",
   "status": "ok",
   "vnindex_history": [
     {
@@ -39,8 +39,114 @@
       "open": 1787.54,
       "high": 1795.38,
       "low": 1778.4,
-      "close": 1792.66,
-      "volume": 292975007
+      "close": 1786.68,
+      "volume": 367830306
     }
-  ]
+  ],
+  "top_stocks": [
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 60.2,
+      "high": 60.5,
+      "low": 59.7,
+      "close": 59.7,
+      "volume": 2870300,
+      "symbol": "VCB",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 208.0,
+      "high": 213.8,
+      "low": 208.0,
+      "close": 212.1,
+      "volume": 1390000,
+      "symbol": "VIC",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 72.9,
+      "high": 73.5,
+      "low": 72.4,
+      "close": 72.7,
+      "volume": 2419900,
+      "symbol": "VHM",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 22.0,
+      "high": 22.2,
+      "low": 21.85,
+      "close": 21.95,
+      "volume": 9585300,
+      "symbol": "HPG",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 72.5,
+      "high": 72.7,
+      "low": 71.6,
+      "close": 71.9,
+      "volume": 2318600,
+      "symbol": "FPT",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 83.8,
+      "high": 87.6,
+      "low": 82.0,
+      "close": 85.8,
+      "volume": 1799800,
+      "symbol": "GAS",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 70.7,
+      "high": 70.8,
+      "low": 70.0,
+      "close": 70.1,
+      "volume": 2298800,
+      "symbol": "MSN",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 75.5,
+      "high": 75.6,
+      "low": 74.6,
+      "close": 74.9,
+      "volume": 869500,
+      "symbol": "MWG",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 31.65,
+      "high": 31.9,
+      "low": 31.45,
+      "close": 31.6,
+      "volume": 4703600,
+      "symbol": "TCB",
+      "status": "ok"
+    },
+    {
+      "time": "2026-08-24 00:00:00",
+      "open": 26.1,
+      "high": 26.4,
+      "low": 25.9,
+      "close": 26.0,
+      "volume": 7193600,
+      "symbol": "VPB",
+      "status": "ok"
+    }
+  ],
+  "foreign_flow": {
+    "status": "unavailable",
+    "note": "Thu vien vnstock khong co ham cong khai on dinh cho du lieu khoi ngoai o phien ban hien tai. Can kiem tra lai github.com/thinh-vu/vnstock hoac bo sung nguon khac."
+  }
 }

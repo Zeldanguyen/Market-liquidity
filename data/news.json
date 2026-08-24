@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-08-24T03:33:05.914335",
+  "fetched_at": "2026-08-24T04:00:56.049874",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vàng sắp làm nên điều chưa từng có trong lịch sử?",
+        "link": "https://cafef.vn/vang-sap-lam-nen-dieu-chua-tung-co-trong-lich-su-188260824105536059.chn",
+        "published": "Mon, 24 Aug 26 10:56:00 +0700"
+      },
+      {
+        "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 24/8-28/8, tỷ lệ cao nhất hơn 44%",
+        "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-24-8-28-8-ty-le-cao-nhat-hon-44-188260824105105523.chn",
+        "published": "Mon, 24 Aug 26 10:51:00 +0700"
+      },
+      {
+        "title": "Bí ẩn những trùm tiền số mất tích",
+        "link": "https://cafef.vn/bi-an-nhung-trum-tien-so-mat-tich-188260824103815098.chn",
+        "published": "Mon, 24 Aug 26 10:38:00 +0700"
+      },
       {
         "title": "VN-Index bất ngờ đảo chiều bứt phá: Đáy quanh đây hay chỉ là phiên “bull trap”?",
         "link": "https://cafef.vn/vn-index-bat-ngo-dao-chieu-but-pha-day-quanh-day-hay-chi-la-phien-bull-trap-18826082410011042.chn",
@@ -17,21 +32,6 @@
         "title": "Transimex tiếp tục đăng ký mua vào 1 triệu cổ phiếu VNF",
         "link": "https://cafef.vn/transimex-tiep-tuc-dang-ky-mua-vao-1-trieu-co-phieu-vnf-188260824091908041.chn",
         "published": "Mon, 24 Aug 26 09:19:00 +0700"
-      },
-      {
-        "title": "Định giá ngân hàng về vùng thấp, VPB nổi bật nhờ lợi thế cạnh tranh dài hạn",
-        "link": "https://cafef.vn/dinh-gia-ngan-hang-ve-vung-thap-vpb-noi-bat-nho-loi-the-canh-tranh-dai-han-18826082321372293.chn",
-        "published": "Mon, 24 Aug 26 09:00:00 +0700"
-      },
-      {
-        "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ",
-        "link": "https://cafef.vn/mbs-chung-khoan-co-the-rung-lac-manh-truoc-ky-nghi-le-188260824084854797.chn",
-        "published": "Mon, 24 Aug 26 08:50:00 +0700"
-      },
-      {
-        "title": "Hiếm có: Người dân trong nước được mua vàng sát giá thế giới",
-        "link": "https://cafef.vn/hiem-co-nguoi-dan-trong-nuoc-duoc-mua-vang-sat-gia-the-gioi-18826082322093699.chn",
-        "published": "Mon, 24 Aug 26 06:03:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Tuần 24-28/08/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+        "link": "http://vietstock.vn/2026/08/tuan-24-28082026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1483950.htm",
+        "published": "Mon, 24 Aug 2026 10:00:00 +0700"
+      },
+      {
         "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
         "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
         "published": "Mon, 24 Aug 2026 09:57:07 +0700"
@@ -91,11 +96,6 @@
         "title": "Private Wealth và bước chuyển mới trong cách doanh nhân Việt quản lý tài sản",
         "link": "http://vietstock.vn/2026/08/private-wealth-va-buoc-chuyen-moi-trong-cach-doanh-nhan-viet-quan-ly-tai-san-830-1484097.htm",
         "published": "Mon, 24 Aug 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Vietstock Weekly 24-28/08/2026: Tìm lại động lực?",
-        "link": "http://vietstock.vn/2026/08/vietstock-weekly-24-28082026-tim-lai-dong-luc-1636-1483952.htm",
-        "published": "Sun, 23 Aug 2026 18:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
