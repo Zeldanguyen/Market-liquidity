@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T14:28:02.946725",
+  "fetched_at": "2026-08-24T16:09:19.816681",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar edges up, loonie drops after U.S. announces tariffs",
+        "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
+        "published": "2026-08-24 15:14:13"
+      },
+      {
+        "title": "Brazil’s central bank studies measures on household debt rise",
+        "link": "https://www.investing.com/news/economy-news/brazils-central-bank-studies-measures-on-household-debt-rise-93CH-4873888",
+        "published": "2026-08-24 15:02:08"
+      },
+      {
         "title": "S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week",
         "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
         "published": "2026-08-24 14:12:29"
@@ -118,16 +128,6 @@
         "title": "China and Jordan call for maintaining US-Iran ceasefire",
         "link": "https://www.investing.com/news/economy-news/china-and-jordan-call-for-maintaining-usiran-ceasefire-93CH-4873457",
         "published": "2026-08-24 12:28:46"
-      },
-      {
-        "title": "Bond market anxiety raises stakes for Warsh’s debut Jackson Hole speech",
-        "link": "https://www.investing.com/news/economy-news/bond-market-anxiety-raises-stakes-for-warshs-debut-jackson-hole-speech-4872977",
-        "published": "2026-08-24 12:24:34"
-      },
-      {
-        "title": "UK energy debt hits £6 billion as price cap set to rise",
-        "link": "https://www.investing.com/news/economy-news/uk-energy-debt-hits-6-billion-as-price-cap-set-to-rise-93CH-4873441",
-        "published": "2026-08-24 12:14:52"
       }
     ]
   }
