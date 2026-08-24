@@ -1,8 +1,8 @@
-name: Cập nhật Nhật ký Vốn hằng ngày
+name: Cập nhật Nhật ký Vốn liên tục
 
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch: {}
 
 permissions:
