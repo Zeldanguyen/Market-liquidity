@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-24T10:25:36.520256",
+  "fetched_at": "2026-08-24T11:50:56.660573",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một thế lực quay đầu bán ròng gần 200 tỷ đồng cổ phiếu trong phiên đầu tuần",
+        "link": "https://cafef.vn/mot-the-luc-quay-dau-ban-rong-gan-200-ty-dong-co-phieu-trong-phien-dau-tuan-188260824184823608.chn",
+        "published": "Mon, 24 Aug 26 18:48:00 +0700"
+      },
+      {
+        "title": "Nữ Chủ tịch sinh năm 1999 của PC1 làm việc tại loạt dự án thủy điện Cao Bằng",
+        "link": "https://cafef.vn/nu-chu-tich-sinh-nam-1999-cua-pc1-thi-sat-loat-du-an-thuy-dien-tai-cao-bang-188260824174720875.chn",
+        "published": "Mon, 24 Aug 26 17:47:00 +0700"
+      },
       {
         "title": "Giá vàng tăng vọt lên cao nhất 3 tháng, đón hai tin quan trọng sắp được công bố",
         "link": "https://cafef.vn/gia-vang-tang-vot-len-cao-nhat-3-thang-don-hai-tin-quan-trong-sap-duoc-cong-bo-188260824163753376.chn",
@@ -22,19 +32,14 @@
         "title": "Một cổ phiếu chứng khoán bất ngờ \"nằm sàn\" giữa lúc VN-Index hưng phấn",
         "link": "https://cafef.vn/mot-co-phieu-chung-khoan-bat-ngo-nam-san-giua-luc-vn-index-hung-phan-188260824160231026.chn",
         "published": "Mon, 24 Aug 26 16:03:00 +0700"
-      },
-      {
-        "title": "Một bluechip được khối ngoại \"gom\" hơn trăm tỷ trong phiên VN-Index tăng 20 điểm",
-        "link": "https://cafef.vn/mot-bluechip-duoc-khoi-ngoai-gom-hon-tram-ty-trong-phien-vn-index-tang-20-diem-188260824153852566.chn",
-        "published": "Mon, 24 Aug 26 15:45:00 +0700"
-      },
-      {
-        "title": "Toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi của VN-Index",
-        "link": "https://cafef.vn/toan-bo-91-quy-co-phieu-thua-lo-sau-cu-roi-cua-vn-index-188260824151818441.chn",
-        "published": "Mon, 24 Aug 26 15:19:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Chính thức giảm 30% thuế cho doanh nghiệp, cá nhân doanh thu dưới ngưỡng 10 tỷ đồng trong hai năm",
+        "link": "https://vneconomy.vn/chinh-thuc-giam-30-thue-cho-doanh-nghiep-ca-nhan-doanh-thu-duoi-nguong-10-ty-dong-trong-hai-nam.htm",
+        "published": "Mon, 24 Aug 2026 11:02:17 GMT"
+      },
       {
         "title": "Tổ chức cung ứng dịch vụ tài sản mã hóa phải báo cáo phòng, chống rửa tiền từ 1/12/2026",
         "link": "https://vneconomy.vn/to-chuc-cung-ung-dich-vu-tai-san-ma-hoa-phai-bao-cao-phong-chong-rua-tien-tu-1122026.htm",
@@ -59,14 +64,14 @@
         "title": "Samsung Electronics dự chi kỷ lục gần 80 tỷ USD cho cổ đông",
         "link": "https://vneconomy.vn/samsung-electronics-du-chi-ky-luc-gan-80-ty-usd-cho-co-dong.htm",
         "published": "Mon, 24 Aug 2026 04:00:14 GMT"
-      },
-      {
-        "title": "VPBank đồng hành cùng doanh nghiệp Đài Loan đón chu kỳ đầu tư mới tại Việt Nam",
-        "link": "https://vneconomy.vn/vpbank-dong-hanh-cung-doanh-nghiep-dai-loan-don-chu-ky-dau-tu-moi-tai-viet-nam.htm",
-        "published": "Mon, 24 Aug 2026 03:45:21 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Nhịp đập Thị trường 24/08: Áp lực chốt lời ngắn hạn xuất hiện, VN-Index diễn biến giằng co quanh mốc 1,788 điểm",
+        "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2408-ap-luc-chot-loi-ngan-han-xuat-hien-vn-index-dien-bien-giang-co-quanh-moc-1788-diem-1636-1484286.htm",
+        "published": "Mon, 24 Aug 2026 17:47:00 +0700"
+      },
       {
         "title": "Phân tích kỹ thuật phiên chiều 24/08: Áp lực bán ngắn hạn xuất hiện",
         "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2408-ap-luc-ban-ngan-han-xuat-hien-585-1484336.htm",
@@ -91,43 +96,38 @@
         "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
         "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
         "published": "Mon, 24 Aug 2026 09:57:07 +0700"
-      },
-      {
-        "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
-        "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
-        "published": "Mon, 24 Aug 2026 09:57:07 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Treasury’s yield-lowering push faces an uphill battle: Barclays",
-        "link": "https://www.investing.com/news/economy-news/treasurys-yieldlowering-push-faces-an-uphill-battle-barclays-4872948",
-        "published": "2026-08-24 09:47:41"
+        "title": "Moody’s affirms Philippines’ Baa2 rating with stable outlook",
+        "link": "https://www.investing.com/news/economy-news/moodys-affirms-philippines-baa2-rating-with-stable-outlook-93CH-4873271",
+        "published": "2026-08-24 11:20:34"
       },
       {
-        "title": "Is the Euro area economy strong enough for another ECB hike?",
-        "link": "https://www.investing.com/news/economy-news/is-the-euro-area-economy-strong-enough-for-another-ecb-hike-4872943",
-        "published": "2026-08-24 09:44:08"
+        "title": "Moody’s upgrades Pakistan’s debt ratings to B3 from Caa1",
+        "link": "https://www.investing.com/news/economy-news/moodys-upgrades-pakistans-debt-ratings-to-b3-from-caa1-93CH-4873116",
+        "published": "2026-08-24 10:58:22"
       },
       {
-        "title": "Take Five: Six months of war",
-        "link": "https://www.investing.com/news/economy-news/take-five-six-months-of-war-4872926",
-        "published": "2026-08-24 09:36:32"
+        "title": "China’s $119 billion policy financing tool begins project applications, faces roll-out lag",
+        "link": "https://www.investing.com/news/economy-news/chinas-119-billion-policy-financing-tool-begins-project-applications-faces-rolloutlag-4873099",
+        "published": "2026-08-24 10:55:03"
       },
       {
-        "title": "European shares steady on Iran sanctions uncertainty",
-        "link": "https://www.investing.com/news/economy-news/european-shares-slip-as-tech-drags-iran-sanctions-in-focus-4872794",
-        "published": "2026-08-24 09:30:30"
+        "title": "Bond market anxiety raises stakes for Warsh’s debut Jackson Hole speech",
+        "link": "https://www.investing.com/news/economy-news/bond-market-anxiety-raises-stakes-for-warshs-debut-jackson-hole-speech-4872977",
+        "published": "2026-08-24 10:30:50"
       },
       {
-        "title": "Barclays sees UK growth holding firm despite inflation pressure",
-        "link": "https://www.investing.com/news/economy-news/barclays-sees-uk-growth-holding-firm-despite-inflation-pressure-4872886",
-        "published": "2026-08-24 09:11:28"
+        "title": "China says Middle East at critical point, urges talks",
+        "link": "https://www.investing.com/news/economy-news/china-says-middle-east-at-critical-point-urges-talks-93CH-4873026",
+        "published": "2026-08-24 10:25:29"
       },
       {
-        "title": "Dollar pinned at multi-month lows as debt nerves unnerve investors",
-        "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
-        "published": "2026-08-24 08:48:52"
+        "title": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results",
+        "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
+        "published": "2026-08-24 10:12:54"
       }
     ]
   }
