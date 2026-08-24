@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T21:06:48.384261",
+  "fetched_at": "2026-08-24T22:50:21.522377",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Nevada sues to block Trump administration’s Colorado River plan",
+        "link": "https://www.investing.com/news/economy-news/nevada-sues-to-block-trump-administrations-colorado-river-plan-4874244",
+        "published": "2026-08-24 21:36:49"
+      },
+      {
+        "title": "Trading Day: Tech, tariffs & Treasuries",
+        "link": "https://www.investing.com/news/economy-news/trading-day-tech-tariffs--treasuries-4874226",
+        "published": "2026-08-24 21:19:47"
+      },
+      {
+        "title": "Bond market anxiety raises stakes for Warsh’s debut Jackson Hole speech",
+        "link": "https://www.investing.com/news/economy-news/bond-market-anxiety-raises-stakes-for-warshs-debut-jackson-hole-speech-4872977",
+        "published": "2026-08-24 21:13:56"
+      },
+      {
         "title": "Judge dismisses lawsuit over Trump offshore drilling order",
         "link": "https://www.investing.com/news/economy-news/judge-dismisses-lawsuit-over-trump-offshore-drilling-order-93CH-4874213",
         "published": "2026-08-24 20:56:36"
@@ -113,21 +128,6 @@
         "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
         "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
         "published": "2026-08-24 19:18:40"
-      },
-      {
-        "title": "Treasury launches task force to prepare finance sector for quantum computing risks",
-        "link": "https://www.investing.com/news/economy-news/treasury-launches-task-force-to-prepare-finance-sector-for-quantum-computing-risks-93CH-4874063",
-        "published": "2026-08-24 19:07:44"
-      },
-      {
-        "title": "Canada to invest C$11 billion in six new Coast Guard icebreakers",
-        "link": "https://www.investing.com/news/economy-news/canada-to-invest-c11-billion-in-six-new-coast-guard-icebreakers-4874013",
-        "published": "2026-08-24 17:44:38"
-      },
-      {
-        "title": "US removes Syria from State Sponsors of Terrorism list",
-        "link": "https://www.investing.com/news/economy-news/us-removes-syria-from-state-sponsors-of-terrorism-list-93CH-4874008",
-        "published": "2026-08-24 17:33:48"
       }
     ]
   }
