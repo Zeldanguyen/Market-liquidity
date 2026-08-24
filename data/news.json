@@ -1,40 +1,45 @@
 {
-  "fetched_at": "2026-08-23T23:43:43.637993",
+  "fetched_at": "2026-08-24T03:33:05.914335",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
+        "title": "VN-Index bất ngờ đảo chiều bứt phá: Đáy quanh đây hay chỉ là phiên “bull trap”?",
+        "link": "https://cafef.vn/vn-index-bat-ngo-dao-chieu-but-pha-day-quanh-day-hay-chi-la-phien-bull-trap-18826082410011042.chn",
+        "published": "Mon, 24 Aug 26 10:00:00 +0700"
+      },
+      {
+        "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam, sẽ giải ngân ra sao?",
+        "link": "https://cafef.vn/hang-ty-usd-sap-do-vao-chung-khoan-viet-nam-se-giai-ngan-ra-sao-188260824094132871.chn",
+        "published": "Mon, 24 Aug 26 09:41:00 +0700"
+      },
+      {
+        "title": "Transimex tiếp tục đăng ký mua vào 1 triệu cổ phiếu VNF",
+        "link": "https://cafef.vn/transimex-tiep-tuc-dang-ky-mua-vao-1-trieu-co-phieu-vnf-188260824091908041.chn",
+        "published": "Mon, 24 Aug 26 09:19:00 +0700"
+      },
+      {
+        "title": "Định giá ngân hàng về vùng thấp, VPB nổi bật nhờ lợi thế cạnh tranh dài hạn",
+        "link": "https://cafef.vn/dinh-gia-ngan-hang-ve-vung-thap-vpb-noi-bat-nho-loi-the-canh-tranh-dai-han-18826082321372293.chn",
+        "published": "Mon, 24 Aug 26 09:00:00 +0700"
+      },
+      {
+        "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ",
+        "link": "https://cafef.vn/mbs-chung-khoan-co-the-rung-lac-manh-truoc-ky-nghi-le-188260824084854797.chn",
+        "published": "Mon, 24 Aug 26 08:50:00 +0700"
+      },
+      {
         "title": "Hiếm có: Người dân trong nước được mua vàng sát giá thế giới",
         "link": "https://cafef.vn/hiem-co-nguoi-dan-trong-nuoc-duoc-mua-vang-sat-gia-the-gioi-18826082322093699.chn",
         "published": "Mon, 24 Aug 26 06:03:00 +0700"
-      },
-      {
-        "title": "Maybank gọi tên 10 DN triển vọng trong các tháng cuối năm: Nhóm ngân hàng, công nghệ, năng lượng góp mặt",
-        "link": "https://cafef.vn/maybank-goi-ten-10-dn-trien-vong-trong-cac-thang-cuoi-nam-nhom-ngan-hang-cong-nghe-nang-luong-gop-mat-188260823221031015.chn",
-        "published": "Mon, 24 Aug 26 00:11:00 +0700"
-      },
-      {
-        "title": "Nhóm chứng khoán đứng trước cơ hội \"tái định giá\", CTCK gọi tên cổ phiếu đáng chú ý",
-        "link": "https://cafef.vn/nhom-chung-khoan-dung-truoc-co-hoi-tai-dinh-gia-ctck-goi-ten-co-phieu-dang-chu-y-188260823221056105.chn",
-        "published": "Mon, 24 Aug 26 00:05:00 +0700"
-      },
-      {
-        "title": "Chuyên gia chỉ điểm hai mốc dòng tiền lớn thực sự trở lại sàn chứng khoán",
-        "link": "https://cafef.vn/chuyen-gia-chi-diem-hai-moc-dong-tien-lon-thuc-su-tro-lai-san-chung-khoan-188260823223657743.chn",
-        "published": "Mon, 24 Aug 26 00:02:00 +0700"
-      },
-      {
-        "title": "Vì sao nhiều tên tuổi quen mặt như MWG, TCB, REE...không được vào rổ nâng hạng của FTSE?",
-        "link": "https://cafef.vn/vi-sao-nhieu-ten-tuoi-quen-mat-nhu-mwg-tcb-reekhong-duoc-vao-ro-nang-hang-cua-ftse-188260823223757837.chn",
-        "published": "Mon, 24 Aug 26 00:01:00 +0700"
-      },
-      {
-        "title": "Động thái trái ngược giữa 2 doanh nghiệp",
-        "link": "https://cafef.vn/dong-thai-trai-nguoc-giua-2-doanh-nghiep-188260823195910547.chn",
-        "published": "Sun, 23 Aug 26 20:31:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giá vàng giữ đà tăng trong lúc chờ loạt thông tin kinh tế Mỹ quan trọng",
+        "link": "https://vneconomy.vn/gia-vang-giu-da-tang-trong-luc-cho-loat-thong-tin-kinh-te-my-quan-trong.htm",
+        "published": "Mon, 24 Aug 2026 00:52:17 GMT"
+      },
       {
         "title": "Luật Hải quan: Dữ liệu đã chia sẻ, doanh nghiệp không phải nộp lại bản giấy",
         "link": "https://vneconomy.vn/luat-hai-quan-du-lieu-da-chia-se-doanh-nghiep-khong-phai-nop-lai-ban-giay.htm",
@@ -59,14 +64,24 @@
         "title": "Ray Dalio cảnh báo về khủng hoảng nợ Mỹ, khuyên nhà đầu tư giữ vàng và bitcoin",
         "link": "https://vneconomy.vn/ray-dalio-canh-bao-ve-khung-hoang-no-my-khuyen-nha-dau-tu-giu-vang-va-bitcoin.htm",
         "published": "Sat, 22 Aug 2026 07:33:36 GMT"
-      },
-      {
-        "title": "Giá vàng nhảy vọt qua 4.600 USD/oz nhờ đồng USD yếu, SPDR Gold Trust mua quyết liệt",
-        "link": "https://vneconomy.vn/gia-vang-nhay-vot-qua-4600-usdoz-nho-dong-usd-yeu-spdr-gold-trust-mua-quyet-liet.htm",
-        "published": "Sat, 22 Aug 2026 01:32:20 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
+        "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
+        "published": "Mon, 24 Aug 2026 09:57:07 +0700"
+      },
+      {
+        "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
+        "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
+        "published": "Mon, 24 Aug 2026 09:57:07 +0700"
+      },
+      {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 24/08",
+        "link": "http://vietstock.vn/2026/08/top-co-phieu-dang-chu-y-dau-phien-2408-830-1483738.htm",
+        "published": "Mon, 24 Aug 2026 08:00:00 +0700"
+      },
       {
         "title": "24/08: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/08/2408-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1484215.htm",
@@ -81,24 +96,29 @@
         "title": "Vietstock Weekly 24-28/08/2026: Tìm lại động lực?",
         "link": "http://vietstock.vn/2026/08/vietstock-weekly-24-28082026-tim-lai-dong-luc-1636-1483952.htm",
         "published": "Sun, 23 Aug 2026 18:00:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 24-28/08/2026",
-        "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-24-28082026-585-1483951.htm",
-        "published": "Sun, 23 Aug 2026 07:30:00 +0700"
-      },
-      {
-        "title": "Thị trường bung như “lò xo” sau chuỗi ngày rung lắc, cổ phiếu nào dẫn dắt?",
-        "link": "http://vietstock.vn/2026/08/thi-truong-bung-nhu-lo-xo-sau-chuoi-ngay-rung-lac-co-phieu-nao-dan-dat-830-1484055.htm",
-        "published": "Sat, 22 Aug 2026 20:30:00 +0700"
-      },
-      {
-        "title": "Công ty mẹ - con cùng lên sàn, ảnh hưởng tới chỉ số chứng khoán ra sao?",
-        "link": "http://vietstock.vn/2026/08/cong-ty-me-con-cung-len-san-anh-huong-toi-chi-so-chung-khoan-ra-sao-746-1483936.htm",
-        "published": "Sat, 22 Aug 2026 08:32:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Samsung Electronics shares skid as record shareholder returns disappoint",
+        "link": "https://www.investing.com/news/economy-news/samsung-electronics-shares-fall-after-shareholder-return-announcement-4872511",
+        "published": "2026-08-24 02:06:29"
+      },
+      {
+        "title": "Dollar trading near multi-month lows, restrained by debt nerves",
+        "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
+        "published": "2026-08-24 02:01:35"
+      },
+      {
+        "title": "Shares flat in Asia before Iran sanctions news, Nvidia results",
+        "link": "https://www.investing.com/news/economy-news/shares-flat-in-asia-before-iran-sanctions-news-nvidia-results-4872527",
+        "published": "2026-08-24 00:54:31"
+      },
+      {
+        "title": "Bessent flags ‘economic D-Day’ for Iran as Tehran warns of more oil pain",
+        "link": "https://www.investing.com/news/economy-news/bessent-flags-economic-dday-for-iran-as-tehran-warns-of-more-oil-pain-4872525",
+        "published": "2026-08-24 00:52:10"
+      },
       {
         "title": "Analysis-China’s property crisis grinds on after Evergrande sentencing",
         "link": "https://www.investing.com/news/economy-news/analysischinas-property-crisis-grinds-on-after-evergrande-sentencing-4872486",
@@ -108,26 +128,6 @@
         "title": "UK productivity showing sustained improvement, economists say",
         "link": "https://www.investing.com/news/economy-news/uk-productivity-showing-sustained-improvement-economists-say-4872485",
         "published": "2026-08-23 23:12:36"
-      },
-      {
-        "title": "Turkey’s central bank to restart one-week repo auctions",
-        "link": "https://www.investing.com/news/economy-news/turkeys-central-bank-to-restart-oneweek-repo-auctions-93CH-4872468",
-        "published": "2026-08-23 18:02:49"
-      },
-      {
-        "title": "Fed’s Kashkari says rising Treasury yields not a concern",
-        "link": "https://www.investing.com/news/economy-news/feds-kashkari-says-rising-treasury-yields-not-a-concern-4872467",
-        "published": "2026-08-23 16:37:12"
-      },
-      {
-        "title": "Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed",
-        "link": "https://www.investing.com/news/economy-news/iran-warns-neighbours-against-joining-us-sanctions-as-hormuz-stays-closed-4872428",
-        "published": "2026-08-23 12:46:47"
-      },
-      {
-        "title": "Could Canada fully supply the U.S. with aluminium?",
-        "link": "https://www.investing.com/news/economy-news/could-canada-fully-supply-the-us-with-aluminium-4872433",
-        "published": "2026-08-23 08:51:28"
       }
     ]
   }
