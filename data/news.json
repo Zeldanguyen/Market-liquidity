@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-24T04:00:56.049874",
+  "fetched_at": "2026-08-24T06:00:54.994053",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Thành viên của “ông lớn” Abbott tại Việt Nam sắp trả cổ tức cao bằng tiền mặt",
+        "link": "https://cafef.vn/thanh-vien-cua-ong-lon-abbott-tai-viet-nam-sap-tra-co-tuc-cao-bang-tien-mat-18826082411274597.chn",
+        "published": "Mon, 24 Aug 26 11:28:00 +0700"
+      },
+      {
+        "title": "Diễn biến lạ tại PNJ",
+        "link": "https://cafef.vn/dien-bien-la-tai-pnj-188260824112547105.chn",
+        "published": "Mon, 24 Aug 26 11:27:00 +0700"
+      },
       {
         "title": "Vàng sắp làm nên điều chưa từng có trong lịch sử?",
         "link": "https://cafef.vn/vang-sap-lam-nen-dieu-chua-tung-co-trong-lich-su-188260824105536059.chn",
@@ -22,19 +32,24 @@
         "title": "VN-Index bất ngờ đảo chiều bứt phá: Đáy quanh đây hay chỉ là phiên “bull trap”?",
         "link": "https://cafef.vn/vn-index-bat-ngo-dao-chieu-but-pha-day-quanh-day-hay-chi-la-phien-bull-trap-18826082410011042.chn",
         "published": "Mon, 24 Aug 26 10:00:00 +0700"
-      },
-      {
-        "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam, sẽ giải ngân ra sao?",
-        "link": "https://cafef.vn/hang-ty-usd-sap-do-vao-chung-khoan-viet-nam-se-giai-ngan-ra-sao-188260824094132871.chn",
-        "published": "Mon, 24 Aug 26 09:41:00 +0700"
-      },
-      {
-        "title": "Transimex tiếp tục đăng ký mua vào 1 triệu cổ phiếu VNF",
-        "link": "https://cafef.vn/transimex-tiep-tuc-dang-ky-mua-vao-1-trieu-co-phieu-vnf-188260824091908041.chn",
-        "published": "Mon, 24 Aug 26 09:19:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
+        "link": "https://vneconomy.vn/vib-ap-dung-lai-suat-co-dinh-5-nam-cho-vay-mua-nha.htm",
+        "published": "Mon, 24 Aug 2026 04:10:57 GMT"
+      },
+      {
+        "title": "Samsung Electronics dự chi kỷ lục gần 80 tỷ USD cho cổ đông",
+        "link": "https://vneconomy.vn/samsung-electronics-du-chi-ky-luc-gan-80-ty-usd-cho-co-dong.htm",
+        "published": "Mon, 24 Aug 2026 04:00:14 GMT"
+      },
+      {
+        "title": "VPBank đồng hành cùng doanh nghiệp Đài Loan đón chu kỳ đầu tư mới tại Việt Nam",
+        "link": "https://vneconomy.vn/vpbank-dong-hanh-cung-doanh-nghiep-dai-loan-don-chu-ky-dau-tu-moi-tai-viet-nam.htm",
+        "published": "Mon, 24 Aug 2026 03:45:21 GMT"
+      },
       {
         "title": "Giá vàng giữ đà tăng trong lúc chờ loạt thông tin kinh tế Mỹ quan trọng",
         "link": "https://vneconomy.vn/gia-vang-giu-da-tang-trong-luc-cho-loat-thong-tin-kinh-te-my-quan-trong.htm",
@@ -49,21 +64,6 @@
         "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 34-2026",
         "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-34-2026.htm",
         "published": "Sun, 23 Aug 2026 02:49:00 GMT"
-      },
-      {
-        "title": "Vàng nhẫn tăng 3-4 triệu đồng/lượng, vàng miếng sát giá thế giới",
-        "link": "https://vneconomy.vn/vang-nhan-tang-3-4-trieu-dongluong-vang-mieng-sat-gia-the-gioi.htm",
-        "published": "Sun, 23 Aug 2026 02:08:04 GMT"
-      },
-      {
-        "title": "Nhà đầu tư lùi dự báo về thời điểm Mỹ và Anh tăng lãi suất",
-        "link": "https://vneconomy.vn/nha-dau-tu-lui-du-bao-ve-thoi-diem-my-va-anh-tang-lai-suat.htm",
-        "published": "Sat, 22 Aug 2026 07:33:55 GMT"
-      },
-      {
-        "title": "Ray Dalio cảnh báo về khủng hoảng nợ Mỹ, khuyên nhà đầu tư giữ vàng và bitcoin",
-        "link": "https://vneconomy.vn/ray-dalio-canh-bao-ve-khung-hoang-no-my-khuyen-nha-dau-tu-giu-vang-va-bitcoin.htm",
-        "published": "Sat, 22 Aug 2026 07:33:36 GMT"
       }
     ],
     "Vietstock": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Samsung Electronics shares skid as record shareholder returns disappoint",
-        "link": "https://www.investing.com/news/economy-news/samsung-electronics-shares-fall-after-shareholder-return-announcement-4872511",
-        "published": "2026-08-24 02:06:29"
+        "title": "China’s netizens rage against professor who said gig work was a type of ’welfare’",
+        "link": "https://www.investing.com/news/economy-news/chinas-netizens-rage-against-professor-who-said-gig-work-was-a-type-of-welfare-4872692",
+        "published": "2026-08-24 05:54:26"
       },
       {
         "title": "Dollar trading near multi-month lows, restrained by debt nerves",
         "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
-        "published": "2026-08-24 02:01:35"
+        "published": "2026-08-24 05:18:41"
+      },
+      {
+        "title": "Singapore core inflation at 2.0% year-on-year in July, lower than expected",
+        "link": "https://www.investing.com/news/economy-news/singapore-core-inflation-at-20-yearonyear-in-july-lower-than-expected-4872629",
+        "published": "2026-08-24 05:06:29"
+      },
+      {
+        "title": "Morning Bid: Mixing economic wars, trade wars and actual wars",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-mixing-economic-wars-trade-wars-and-actual-wars-4872615",
+        "published": "2026-08-24 04:36:27"
+      },
+      {
+        "title": "Samsung Electronics shares skid as record shareholder returns disappoint",
+        "link": "https://www.investing.com/news/economy-news/samsung-electronics-shares-fall-after-shareholder-return-announcement-4872511",
+        "published": "2026-08-24 04:06:40"
       },
       {
         "title": "Shares flat in Asia before Iran sanctions news, Nvidia results",
         "link": "https://www.investing.com/news/economy-news/shares-flat-in-asia-before-iran-sanctions-news-nvidia-results-4872527",
         "published": "2026-08-24 00:54:31"
-      },
-      {
-        "title": "Bessent flags ‘economic D-Day’ for Iran as Tehran warns of more oil pain",
-        "link": "https://www.investing.com/news/economy-news/bessent-flags-economic-dday-for-iran-as-tehran-warns-of-more-oil-pain-4872525",
-        "published": "2026-08-24 00:52:10"
-      },
-      {
-        "title": "Analysis-China’s property crisis grinds on after Evergrande sentencing",
-        "link": "https://www.investing.com/news/economy-news/analysischinas-property-crisis-grinds-on-after-evergrande-sentencing-4872486",
-        "published": "2026-08-23 23:12:55"
-      },
-      {
-        "title": "UK productivity showing sustained improvement, economists say",
-        "link": "https://www.investing.com/news/economy-news/uk-productivity-showing-sustained-improvement-economists-say-4872485",
-        "published": "2026-08-23 23:12:36"
       }
     ]
   }
