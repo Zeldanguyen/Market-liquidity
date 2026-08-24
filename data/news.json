@@ -1,40 +1,55 @@
 {
-  "fetched_at": "2026-08-24T08:31:29.875869",
+  "fetched_at": "2026-08-24T10:25:36.520256",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
+        "title": "Giá vàng tăng vọt lên cao nhất 3 tháng, đón hai tin quan trọng sắp được công bố",
+        "link": "https://cafef.vn/gia-vang-tang-vot-len-cao-nhat-3-thang-don-hai-tin-quan-trong-sap-duoc-cong-bo-188260824163753376.chn",
+        "published": "Mon, 24 Aug 26 16:38:00 +0700"
+      },
+      {
+        "title": "Chứng khoán Quốc gia muốn “gom” 12 triệu cổ phiếu SAM",
+        "link": "https://cafef.vn/chung-khoan-quoc-gia-muon-gom-12-trieu-co-phieu-sam-188260824163717542.chn",
+        "published": "Mon, 24 Aug 26 16:37:00 +0700"
+      },
+      {
+        "title": "PVI tăng vốn điều lệ lên hơn 2.500 tỷ đồng sau đợt trả cổ tức",
+        "link": "https://cafef.vn/pvi-tang-von-dieu-le-len-hon-2500-ty-dong-sau-dot-tra-co-tuc-188260824163636565.chn",
+        "published": "Mon, 24 Aug 26 16:37:00 +0700"
+      },
+      {
+        "title": "Một cổ phiếu chứng khoán bất ngờ \"nằm sàn\" giữa lúc VN-Index hưng phấn",
+        "link": "https://cafef.vn/mot-co-phieu-chung-khoan-bat-ngo-nam-san-giua-luc-vn-index-hung-phan-188260824160231026.chn",
+        "published": "Mon, 24 Aug 26 16:03:00 +0700"
+      },
+      {
+        "title": "Một bluechip được khối ngoại \"gom\" hơn trăm tỷ trong phiên VN-Index tăng 20 điểm",
+        "link": "https://cafef.vn/mot-bluechip-duoc-khoi-ngoai-gom-hon-tram-ty-trong-phien-vn-index-tang-20-diem-188260824153852566.chn",
+        "published": "Mon, 24 Aug 26 15:45:00 +0700"
+      },
+      {
         "title": "Toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi của VN-Index",
         "link": "https://cafef.vn/toan-bo-91-quy-co-phieu-thua-lo-sau-cu-roi-cua-vn-index-188260824151818441.chn",
         "published": "Mon, 24 Aug 26 15:19:00 +0700"
-      },
-      {
-        "title": "Ông Nguyễn Duy Hưng: Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động sau nâng hạng",
-        "link": "https://cafef.vn/ong-nguyen-duy-hung-viet-nam-co-the-hut-hon-4-ty-usd-von-thu-dong-sau-nang-hang-188260824151231082.chn",
-        "published": "Mon, 24 Aug 26 15:13:00 +0700"
-      },
-      {
-        "title": "Quỹ vàng lớn nhất Châu Âu “ráo riết” mua vàng",
-        "link": "https://cafef.vn/quy-vang-lon-nhat-chau-au-rao-riet-mua-vang-188260824145133908.chn",
-        "published": "Mon, 24 Aug 26 14:51:00 +0700"
-      },
-      {
-        "title": "Chứng khoán LPBank đổi tên",
-        "link": "https://cafef.vn/chung-khoan-lpbank-doi-ten-188260824132148251.chn",
-        "published": "Mon, 24 Aug 26 13:21:00 +0700"
-      },
-      {
-        "title": "CTCK chỉ ra nhóm doanh nghiệp tác động từ Luật Dầu khí (sửa đổi), có cả công ty của tỷ phú Phạm Nhật Vượng",
-        "link": "https://cafef.vn/ctck-chi-ra-nhom-doanh-nghiep-tac-dong-tu-luat-dau-khi-sua-doi-co-ca-cong-ty-cua-ty-phu-pham-nhat-vuong-188260824131351157.chn",
-        "published": "Mon, 24 Aug 26 13:13:00 +0700"
-      },
-      {
-        "title": "Thành viên của “ông lớn” Abbott tại Việt Nam sắp trả cổ tức cao bằng tiền mặt",
-        "link": "https://cafef.vn/thanh-vien-cua-ong-lon-abbott-tai-viet-nam-sap-tra-co-tuc-cao-bang-tien-mat-18826082411274597.chn",
-        "published": "Mon, 24 Aug 26 11:28:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Tổ chức cung ứng dịch vụ tài sản mã hóa phải báo cáo phòng, chống rửa tiền từ 1/12/2026",
+        "link": "https://vneconomy.vn/to-chuc-cung-ung-dich-vu-tai-san-ma-hoa-phai-bao-cao-phong-chong-rua-tien-tu-1122026.htm",
+        "published": "Mon, 24 Aug 2026 09:48:41 GMT"
+      },
+      {
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Gỡ rào cản, trao quyền để nhân tài tạo ra giá trị mới",
+        "link": "https://vneconomy.vn/tong-bi-thu-chu-tich-nuoc-to-lam-go-rao-can-trao-quyen-de-nhan-tai-tao-ra-gia-tri-moi.htm",
+        "published": "Mon, 24 Aug 2026 09:04:24 GMT"
+      },
+      {
+        "title": "Bảo hiểm Bảo Việt: Ít bão không đồng nghĩa ít rủi ro, doanh nghiệp cần nhìn vào mức độ tổn thất",
+        "link": "https://vneconomy.vn/bao-hiem-bao-viet-it-bao-khong-dong-nghia-it-rui-ro-doanh-nghiep-can-nhin-vao-muc-do-ton-that.htm",
+        "published": "Mon, 24 Aug 2026 09:00:00 GMT"
+      },
       {
         "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
         "link": "https://vneconomy.vn/vib-ap-dung-lai-suat-co-dinh-5-nam-cho-vay-mua-nha.htm",
@@ -49,21 +64,6 @@
         "title": "VPBank đồng hành cùng doanh nghiệp Đài Loan đón chu kỳ đầu tư mới tại Việt Nam",
         "link": "https://vneconomy.vn/vpbank-dong-hanh-cung-doanh-nghiep-dai-loan-don-chu-ky-dau-tu-moi-tai-viet-nam.htm",
         "published": "Mon, 24 Aug 2026 03:45:21 GMT"
-      },
-      {
-        "title": "Giá vàng giữ đà tăng trong lúc chờ loạt thông tin kinh tế Mỹ quan trọng",
-        "link": "https://vneconomy.vn/gia-vang-giu-da-tang-trong-luc-cho-loat-thong-tin-kinh-te-my-quan-trong.htm",
-        "published": "Mon, 24 Aug 2026 00:52:17 GMT"
-      },
-      {
-        "title": "Luật Hải quan: Dữ liệu đã chia sẻ, doanh nghiệp không phải nộp lại bản giấy",
-        "link": "https://vneconomy.vn/luat-hai-quan-du-lieu-da-chia-se-doanh-nghiep-khong-phai-nop-lai-ban-giay.htm",
-        "published": "Sun, 23 Aug 2026 07:58:04 GMT"
-      },
-      {
-        "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 34-2026",
-        "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-34-2026.htm",
-        "published": "Sun, 23 Aug 2026 02:49:00 GMT"
       }
     ],
     "Vietstock": [
@@ -75,11 +75,6 @@
       {
         "title": "Được nâng hạng thị trường rồi, Việt Nam cần nâng cấp điều gì tiếp theo?",
         "link": "http://vietstock.vn/2026/08/duoc-nang-hang-thi-truong-roi-viet-nam-can-nang-cap-dieu-gi-tiep-theo-830-1484270.htm",
-        "published": "Mon, 24 Aug 2026 13:02:00 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 24/08: Sắc xanh được duy trì",
-        "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2408-sac-xanh-duoc-duy-tri-1636-1484286.htm",
         "published": "Mon, 24 Aug 2026 13:02:00 +0700"
       },
       {
@@ -96,38 +91,43 @@
         "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
         "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
         "published": "Mon, 24 Aug 2026 09:57:07 +0700"
+      },
+      {
+        "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
+        "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
+        "published": "Mon, 24 Aug 2026 09:57:07 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Swiss industry fears tariff gap to European Union could hurt US exports",
-        "link": "https://www.investing.com/news/economy-news/swiss-industry-fears-tariff-gap-to-european-union-could-hurt-us-exports-4872813",
-        "published": "2026-08-24 08:06:09"
+        "title": "Treasury’s yield-lowering push faces an uphill battle: Barclays",
+        "link": "https://www.investing.com/news/economy-news/treasurys-yieldlowering-push-faces-an-uphill-battle-barclays-4872948",
+        "published": "2026-08-24 09:47:41"
       },
       {
-        "title": "AI trade In focus, Iran sanctions loom - What’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/ai-trade-in-focus-iran-sanctions-loom--whats-moving-markets-4872721",
-        "published": "2026-08-24 07:47:25"
+        "title": "Is the Euro area economy strong enough for another ECB hike?",
+        "link": "https://www.investing.com/news/economy-news/is-the-euro-area-economy-strong-enough-for-another-ecb-hike-4872943",
+        "published": "2026-08-24 09:44:08"
       },
       {
-        "title": "European shares slip as tech drags; Iran sanctions in focus",
+        "title": "Take Five: Six months of war",
+        "link": "https://www.investing.com/news/economy-news/take-five-six-months-of-war-4872926",
+        "published": "2026-08-24 09:36:32"
+      },
+      {
+        "title": "European shares steady on Iran sanctions uncertainty",
         "link": "https://www.investing.com/news/economy-news/european-shares-slip-as-tech-drags-iran-sanctions-in-focus-4872794",
-        "published": "2026-08-24 07:36:23"
+        "published": "2026-08-24 09:30:30"
       },
       {
-        "title": "Samsung Electronics shares skid as record shareholder returns disappoint",
-        "link": "https://www.investing.com/news/economy-news/samsung-electronics-shares-fall-after-shareholder-return-announcement-4872511",
-        "published": "2026-08-24 07:24:41"
+        "title": "Barclays sees UK growth holding firm despite inflation pressure",
+        "link": "https://www.investing.com/news/economy-news/barclays-sees-uk-growth-holding-firm-despite-inflation-pressure-4872886",
+        "published": "2026-08-24 09:11:28"
       },
       {
-        "title": "Dollar trading near multi-month lows, restrained by debt nerves",
+        "title": "Dollar pinned at multi-month lows as debt nerves unnerve investors",
         "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
-        "published": "2026-08-24 07:00:45"
-      },
-      {
-        "title": "Traders are bracing for an increasingly hawkish ECB",
-        "link": "https://www.investing.com/news/economy-news/traders-are-bracing-for-an-increasingly-hawkish-ecb-4872713",
-        "published": "2026-08-24 06:25:09"
+        "published": "2026-08-24 08:48:52"
       }
     ]
   }
