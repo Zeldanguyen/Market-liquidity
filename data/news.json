@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-08-24T16:09:19.816681",
+  "fetched_at": "2026-08-24T18:02:31.659944",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Top vốn hóa lớn nhất Trung Quốc: Alibaba, Tencent góp mặt, công ty bán dẫn 10 năm tuổi vươn lên số 1",
+        "link": "https://cafef.vn/top-von-hoa-lon-nhat-trung-quoc-alibaba-tencent-gop-mat-cong-ty-ban-dan-10-nam-tuoi-vuon-len-so-1-188260824225701617.chn",
+        "published": "Tue, 25 Aug 26 00:07:00 +0700"
+      },
+      {
+        "title": "Giá vàng tăng dựng đứng, chuyên gia đưa ra khuyến nghị bất ngờ",
+        "link": "https://cafef.vn/gia-vang-tang-dung-dung-chuyen-gia-dua-ra-khuyen-nghi-bat-ngo-188260824220841007.chn",
+        "published": "Tue, 25 Aug 26 00:05:00 +0700"
+      },
+      {
+        "title": "Ngành điện Việt Nam đứng trước thay đổi lớn, CTCK gọi tên doanh nghiệp được kỳ vọng",
+        "link": "https://cafef.vn/nganh-dien-viet-nam-dung-truoc-thay-doi-lon-ctck-goi-ten-doanh-nghiep-duoc-ky-vong-188260824220749795.chn",
+        "published": "Tue, 25 Aug 26 00:03:00 +0700"
+      },
+      {
+        "title": "27 quỹ cùng “đổ tiền” vào một cổ phiếu ngân hàng, mua ròng 4 tháng liên tiếp",
+        "link": "https://cafef.vn/27-quy-cung-do-tien-vao-mot-co-phieu-ngan-hang-mua-rong-4-thang-lien-tiep-188260824223902783.chn",
+        "published": "Tue, 25 Aug 26 00:01:00 +0700"
+      },
       {
         "title": "Một cổ phiếu quốc dân bất ngờ bị hơn 20 quỹ ồ ạt \"xả hàng\"",
         "link": "https://cafef.vn/mot-co-phieu-quoc-dan-bat-ngo-bi-hon-20-quy-o-at-xa-hang-188260824210648107.chn",
@@ -12,26 +32,6 @@
         "title": "Một doanh nghiệp trên sàn chứng khoán chuẩn bị \"lăn chốt\" cổ tức 25% bằng tiền mặt",
         "link": "https://cafef.vn/mot-doanh-nghiep-tren-san-chung-khoan-chuan-bi-lan-chot-co-tuc-25-bang-tien-mat-188260824210155606.chn",
         "published": "Mon, 24 Aug 26 21:01:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Dầu khí sắp bầu thay thế thành viên HĐQT",
-        "link": "https://cafef.vn/chung-khoan-dau-khi-sap-bau-thay-the-thanh-vien-hdqt-188260824204131926.chn",
-        "published": "Mon, 24 Aug 26 20:41:00 +0700"
-      },
-      {
-        "title": "Miza chính thức được chấp thuận đầu tư Khu công nghiệp Miza Nghi Sơn, quy mô gần 200 ha",
-        "link": "https://cafef.vn/miza-chinh-thuc-duoc-chap-thuan-dau-tu-khu-cong-nghiep-miza-nghi-son-quy-mo-gan-200-ha-188260824193143273.chn",
-        "published": "Mon, 24 Aug 26 19:31:00 +0700"
-      },
-      {
-        "title": "VN-Index áp sát 1.800 điểm",
-        "link": "https://cafef.vn/vn-index-ap-sat-1800-diem-188260824190641201.chn",
-        "published": "Mon, 24 Aug 26 19:06:00 +0700"
-      },
-      {
-        "title": "Một thế lực quay đầu bán ròng gần 200 tỷ đồng cổ phiếu trong phiên đầu tuần",
-        "link": "https://cafef.vn/mot-the-luc-quay-dau-ban-rong-gan-200-ty-dong-co-phieu-trong-phien-dau-tuan-188260824184823608.chn",
-        "published": "Mon, 24 Aug 26 18:48:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Dollar edges up, loonie drops after U.S. announces tariffs",
-        "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
-        "published": "2026-08-24 15:14:13"
+        "title": "Canada to invest C$11 billion in six new Coast Guard icebreakers",
+        "link": "https://www.investing.com/news/economy-news/canada-to-invest-c11-billion-in-six-new-coast-guard-icebreakers-4874013",
+        "published": "2026-08-24 17:44:38"
       },
       {
-        "title": "Brazil’s central bank studies measures on household debt rise",
-        "link": "https://www.investing.com/news/economy-news/brazils-central-bank-studies-measures-on-household-debt-rise-93CH-4873888",
-        "published": "2026-08-24 15:02:08"
+        "title": "US removes Syria from State Sponsors of Terrorism list",
+        "link": "https://www.investing.com/news/economy-news/us-removes-syria-from-state-sponsors-of-terrorism-list-93CH-4874008",
+        "published": "2026-08-24 17:33:48"
       },
       {
-        "title": "S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week",
+        "title": "Bessent announces campaign to cut Iran from global economy",
+        "link": "https://www.investing.com/news/economy-news/bessent-announces-campaign-to-cut-iran-from-global-economy-4874004",
+        "published": "2026-08-24 17:26:20"
+      },
+      {
+        "title": "Exclusive-Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
+        "link": "https://www.investing.com/news/economy-news/exclusivejapan-eyes-tax-breaks-for-noncore-business-sales-in-governance-reform-push-sources-say-4873958",
+        "published": "2026-08-24 17:19:09"
+      },
+      {
+        "title": "Vance says talks with Canada ongoing, US seeks fairness",
+        "link": "https://www.investing.com/news/economy-news/vance-says-talks-with-canada-ongoing-us-seeks-fairness-93CH-4873976",
+        "published": "2026-08-24 16:51:56"
+      },
+      {
+        "title": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom",
         "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
-        "published": "2026-08-24 14:12:29"
-      },
-      {
-        "title": "Hungary targets 7.5% budget deficit amid drought and energy crisis",
-        "link": "https://www.investing.com/news/economy-news/hungary-targets-75-budget-deficit-amid-drought-and-energy-crisis-93CH-4873632",
-        "published": "2026-08-24 13:18:05"
-      },
-      {
-        "title": "Truflation sees July core PCE at 0.2% MoM, says Fed won’t hike this year",
-        "link": "https://www.investing.com/news/economy-news/truflation-sees-july-core-pce-at-02-mom-says-fed-wont-hike-this-year-4873552",
-        "published": "2026-08-24 13:00:12"
-      },
-      {
-        "title": "China and Jordan call for maintaining US-Iran ceasefire",
-        "link": "https://www.investing.com/news/economy-news/china-and-jordan-call-for-maintaining-usiran-ceasefire-93CH-4873457",
-        "published": "2026-08-24 12:28:46"
+        "published": "2026-08-24 16:49:15"
       }
     ]
   }
