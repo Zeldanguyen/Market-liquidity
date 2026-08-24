@@ -1,40 +1,45 @@
 {
-  "fetched_at": "2026-08-24T11:50:56.660573",
+  "fetched_at": "2026-08-24T14:28:02.946725",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
+        "title": "Một cổ phiếu quốc dân bất ngờ bị hơn 20 quỹ ồ ạt \"xả hàng\"",
+        "link": "https://cafef.vn/mot-co-phieu-quoc-dan-bat-ngo-bi-hon-20-quy-o-at-xa-hang-188260824210648107.chn",
+        "published": "Mon, 24 Aug 26 21:06:00 +0700"
+      },
+      {
+        "title": "Một doanh nghiệp trên sàn chứng khoán chuẩn bị \"lăn chốt\" cổ tức 25% bằng tiền mặt",
+        "link": "https://cafef.vn/mot-doanh-nghiep-tren-san-chung-khoan-chuan-bi-lan-chot-co-tuc-25-bang-tien-mat-188260824210155606.chn",
+        "published": "Mon, 24 Aug 26 21:01:00 +0700"
+      },
+      {
+        "title": "Chứng khoán Dầu khí sắp bầu thay thế thành viên HĐQT",
+        "link": "https://cafef.vn/chung-khoan-dau-khi-sap-bau-thay-the-thanh-vien-hdqt-188260824204131926.chn",
+        "published": "Mon, 24 Aug 26 20:41:00 +0700"
+      },
+      {
+        "title": "Miza chính thức được chấp thuận đầu tư Khu công nghiệp Miza Nghi Sơn, quy mô gần 200 ha",
+        "link": "https://cafef.vn/miza-chinh-thuc-duoc-chap-thuan-dau-tu-khu-cong-nghiep-miza-nghi-son-quy-mo-gan-200-ha-188260824193143273.chn",
+        "published": "Mon, 24 Aug 26 19:31:00 +0700"
+      },
+      {
+        "title": "VN-Index áp sát 1.800 điểm",
+        "link": "https://cafef.vn/vn-index-ap-sat-1800-diem-188260824190641201.chn",
+        "published": "Mon, 24 Aug 26 19:06:00 +0700"
+      },
+      {
         "title": "Một thế lực quay đầu bán ròng gần 200 tỷ đồng cổ phiếu trong phiên đầu tuần",
         "link": "https://cafef.vn/mot-the-luc-quay-dau-ban-rong-gan-200-ty-dong-co-phieu-trong-phien-dau-tuan-188260824184823608.chn",
         "published": "Mon, 24 Aug 26 18:48:00 +0700"
-      },
-      {
-        "title": "Nữ Chủ tịch sinh năm 1999 của PC1 làm việc tại loạt dự án thủy điện Cao Bằng",
-        "link": "https://cafef.vn/nu-chu-tich-sinh-nam-1999-cua-pc1-thi-sat-loat-du-an-thuy-dien-tai-cao-bang-188260824174720875.chn",
-        "published": "Mon, 24 Aug 26 17:47:00 +0700"
-      },
-      {
-        "title": "Giá vàng tăng vọt lên cao nhất 3 tháng, đón hai tin quan trọng sắp được công bố",
-        "link": "https://cafef.vn/gia-vang-tang-vot-len-cao-nhat-3-thang-don-hai-tin-quan-trong-sap-duoc-cong-bo-188260824163753376.chn",
-        "published": "Mon, 24 Aug 26 16:38:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Quốc gia muốn “gom” 12 triệu cổ phiếu SAM",
-        "link": "https://cafef.vn/chung-khoan-quoc-gia-muon-gom-12-trieu-co-phieu-sam-188260824163717542.chn",
-        "published": "Mon, 24 Aug 26 16:37:00 +0700"
-      },
-      {
-        "title": "PVI tăng vốn điều lệ lên hơn 2.500 tỷ đồng sau đợt trả cổ tức",
-        "link": "https://cafef.vn/pvi-tang-von-dieu-le-len-hon-2500-ty-dong-sau-dot-tra-co-tuc-188260824163636565.chn",
-        "published": "Mon, 24 Aug 26 16:37:00 +0700"
-      },
-      {
-        "title": "Một cổ phiếu chứng khoán bất ngờ \"nằm sàn\" giữa lúc VN-Index hưng phấn",
-        "link": "https://cafef.vn/mot-co-phieu-chung-khoan-bat-ngo-nam-san-giua-luc-vn-index-hung-phan-188260824160231026.chn",
-        "published": "Mon, 24 Aug 26 16:03:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
+        "link": "https://vneconomy.vn/gia-vang-nhan-bat-tang-toi-85-trieu-dongluong-trong-4-phien.htm",
+        "published": "Mon, 24 Aug 2026 14:15:25 GMT"
+      },
       {
         "title": "Chính thức giảm 30% thuế cho doanh nghiệp, cá nhân doanh thu dưới ngưỡng 10 tỷ đồng trong hai năm",
         "link": "https://vneconomy.vn/chinh-thuc-giam-30-thue-cho-doanh-nghiep-ca-nhan-doanh-thu-duoi-nguong-10-ty-dong-trong-hai-nam.htm",
@@ -59,14 +64,24 @@
         "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
         "link": "https://vneconomy.vn/vib-ap-dung-lai-suat-co-dinh-5-nam-cho-vay-mua-nha.htm",
         "published": "Mon, 24 Aug 2026 04:10:57 GMT"
-      },
-      {
-        "title": "Samsung Electronics dự chi kỷ lục gần 80 tỷ USD cho cổ đông",
-        "link": "https://vneconomy.vn/samsung-electronics-du-chi-ky-luc-gan-80-ty-usd-cho-co-dong.htm",
-        "published": "Mon, 24 Aug 2026 04:00:14 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
+        "link": "http://vietstock.vn/2026/08/dong-tien-rut-khoi-nhom-bat-dong-san-chung-khoan-830-1484411.htm",
+        "published": "Mon, 24 Aug 2026 20:30:00 +0700"
+      },
+      {
+        "title": "Theo dấu dòng tiền cá mập 24/08: Khối ngoại mua ròng trở lại, tự doanh quay đầu bán ròng",
+        "link": "http://vietstock.vn/2026/08/theo-dau-dong-tien-ca-map-2408khoi-ngoai-mua-rong-tro-lai-tu-doanh-quay-dau-ban-rong-830-1484585.htm",
+        "published": "Mon, 24 Aug 2026 18:56:49 +0700"
+      },
+      {
+        "title": "Vietstock Daily 25/08/2026: Trước ngưỡng thử thách 1,800 điểm",
+        "link": "http://vietstock.vn/2026/08/vietstock-daily-25082026-truoc-nguong-thu-thach-1800-diem-1636-1484490.htm",
+        "published": "Mon, 24 Aug 2026 18:35:57 +0700"
+      },
       {
         "title": "Nhịp đập Thị trường 24/08: Áp lực chốt lời ngắn hạn xuất hiện, VN-Index diễn biến giằng co quanh mốc 1,788 điểm",
         "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2408-ap-luc-chot-loi-ngan-han-xuat-hien-vn-index-dien-bien-giang-co-quanh-moc-1788-diem-1636-1484286.htm",
@@ -81,53 +96,38 @@
         "title": "Được nâng hạng thị trường rồi, Việt Nam cần nâng cấp điều gì tiếp theo?",
         "link": "http://vietstock.vn/2026/08/duoc-nang-hang-thi-truong-roi-viet-nam-can-nang-cap-dieu-gi-tiep-theo-830-1484270.htm",
         "published": "Mon, 24 Aug 2026 13:02:00 +0700"
-      },
-      {
-        "title": "Thị trường chờ xác nhận xu hướng: Đâu là \"tuyệt chiêu\" để nhà đầu tư gom hàng, đón sóng lớn?",
-        "link": "http://vietstock.vn/2026/08/thi-truong-cho-xac-nhan-xu-huong-dau-la-tuyet-chieu-de-nha-dau-tu-gom-hang-don-song-lon-830-1484343.htm",
-        "published": "Mon, 24 Aug 2026 13:00:00 +0700"
-      },
-      {
-        "title": "Tuần 24-28/08/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-        "link": "http://vietstock.vn/2026/08/tuan-24-28082026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1483950.htm",
-        "published": "Mon, 24 Aug 2026 10:00:00 +0700"
-      },
-      {
-        "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
-        "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
-        "published": "Mon, 24 Aug 2026 09:57:07 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Moody’s affirms Philippines’ Baa2 rating with stable outlook",
-        "link": "https://www.investing.com/news/economy-news/moodys-affirms-philippines-baa2-rating-with-stable-outlook-93CH-4873271",
-        "published": "2026-08-24 11:20:34"
+        "title": "S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week",
+        "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
+        "published": "2026-08-24 14:12:29"
       },
       {
-        "title": "Moody’s upgrades Pakistan’s debt ratings to B3 from Caa1",
-        "link": "https://www.investing.com/news/economy-news/moodys-upgrades-pakistans-debt-ratings-to-b3-from-caa1-93CH-4873116",
-        "published": "2026-08-24 10:58:22"
+        "title": "Hungary targets 7.5% budget deficit amid drought and energy crisis",
+        "link": "https://www.investing.com/news/economy-news/hungary-targets-75-budget-deficit-amid-drought-and-energy-crisis-93CH-4873632",
+        "published": "2026-08-24 13:18:05"
       },
       {
-        "title": "China’s $119 billion policy financing tool begins project applications, faces roll-out lag",
-        "link": "https://www.investing.com/news/economy-news/chinas-119-billion-policy-financing-tool-begins-project-applications-faces-rolloutlag-4873099",
-        "published": "2026-08-24 10:55:03"
+        "title": "Truflation sees July core PCE at 0.2% MoM, says Fed won’t hike this year",
+        "link": "https://www.investing.com/news/economy-news/truflation-sees-july-core-pce-at-02-mom-says-fed-wont-hike-this-year-4873552",
+        "published": "2026-08-24 13:00:12"
+      },
+      {
+        "title": "China and Jordan call for maintaining US-Iran ceasefire",
+        "link": "https://www.investing.com/news/economy-news/china-and-jordan-call-for-maintaining-usiran-ceasefire-93CH-4873457",
+        "published": "2026-08-24 12:28:46"
       },
       {
         "title": "Bond market anxiety raises stakes for Warsh’s debut Jackson Hole speech",
         "link": "https://www.investing.com/news/economy-news/bond-market-anxiety-raises-stakes-for-warshs-debut-jackson-hole-speech-4872977",
-        "published": "2026-08-24 10:30:50"
+        "published": "2026-08-24 12:24:34"
       },
       {
-        "title": "China says Middle East at critical point, urges talks",
-        "link": "https://www.investing.com/news/economy-news/china-says-middle-east-at-critical-point-urges-talks-93CH-4873026",
-        "published": "2026-08-24 10:25:29"
-      },
-      {
-        "title": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results",
-        "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
-        "published": "2026-08-24 10:12:54"
+        "title": "UK energy debt hits £6 billion as price cap set to rise",
+        "link": "https://www.investing.com/news/economy-news/uk-energy-debt-hits-6-billion-as-price-cap-set-to-rise-93CH-4873441",
+        "published": "2026-08-24 12:14:52"
       }
     ]
   }
