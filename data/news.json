@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T18:02:31.659944",
+  "fetched_at": "2026-08-24T19:46:42.180398",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+        "link": "https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572",
+        "published": "2026-08-24 19:18:40"
+      },
+      {
+        "title": "Treasury launches task force to prepare finance sector for quantum computing risks",
+        "link": "https://www.investing.com/news/economy-news/treasury-launches-task-force-to-prepare-finance-sector-for-quantum-computing-risks-93CH-4874063",
+        "published": "2026-08-24 19:07:44"
+      },
+      {
+        "title": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom",
+        "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
+        "published": "2026-08-24 18:30:55"
+      },
+      {
         "title": "Canada to invest C$11 billion in six new Coast Guard icebreakers",
         "link": "https://www.investing.com/news/economy-news/canada-to-invest-c11-billion-in-six-new-coast-guard-icebreakers-4874013",
         "published": "2026-08-24 17:44:38"
@@ -113,21 +128,6 @@
         "title": "Bessent announces campaign to cut Iran from global economy",
         "link": "https://www.investing.com/news/economy-news/bessent-announces-campaign-to-cut-iran-from-global-economy-4874004",
         "published": "2026-08-24 17:26:20"
-      },
-      {
-        "title": "Exclusive-Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
-        "link": "https://www.investing.com/news/economy-news/exclusivejapan-eyes-tax-breaks-for-noncore-business-sales-in-governance-reform-push-sources-say-4873958",
-        "published": "2026-08-24 17:19:09"
-      },
-      {
-        "title": "Vance says talks with Canada ongoing, US seeks fairness",
-        "link": "https://www.investing.com/news/economy-news/vance-says-talks-with-canada-ongoing-us-seeks-fairness-93CH-4873976",
-        "published": "2026-08-24 16:51:56"
-      },
-      {
-        "title": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom",
-        "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
-        "published": "2026-08-24 16:49:15"
       }
     ]
   }
