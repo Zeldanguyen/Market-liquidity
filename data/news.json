@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-08-25T10:05:14.572326",
+  "fetched_at": "2026-08-25T11:51:51.442064",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ông Tô Hải mua xong 31 triệu cổ phiếu Vietcap, nâng tổng giá trị nắm giữ lên 4.600 tỷ đồng",
+        "link": "https://cafef.vn/ong-to-hai-mua-xong-31-trieu-co-phieu-vietcap-nang-tong-gia-tri-nam-giu-len-4600-ty-dong-188260825184032922.chn",
+        "published": "Tue, 25 Aug 26 18:40:00 +0700"
+      },
+      {
+        "title": "Chứng khoán ngày 25/8: VN-Index tăng điểm phiên thứ 4 liên tiếp",
+        "link": "https://cafef.vn/chung-khoan-ngay-25-8-vn-index-tang-diem-phien-thu-4-lien-tiep-188260825164041557.chn",
+        "published": "Tue, 25 Aug 26 17:39:00 +0700"
+      },
+      {
+        "title": "Vietcap tiếp tục trao tặng 8.000 cây, thành công khép lại Go Green Go Up mùa 2",
+        "link": "https://cafef.vn/vietcap-tiep-tuc-trao-tang-8000-cay-thanh-cong-khep-lai-go-green-go-up-mua-2-188260825160116668.chn",
+        "published": "Tue, 25 Aug 26 17:30:00 +0700"
+      },
       {
         "title": "Phiên 25/8: Một cổ phiếu Bluechips được khối ngoại \"gom\" gần 400 tỷ đồng",
         "link": "https://cafef.vn/phien-25-8-mot-co-phieu-bluechips-duoc-khoi-ngoai-gom-gan-400-ty-dong-188260825153236281.chn",
@@ -17,24 +32,14 @@
         "title": "Doanh nghiệp trăm năm tuổi trên sàn chứng khoán \"chơi lớn\" trả gần 700 tỷ tiền cổ tức",
         "link": "https://cafef.vn/doanh-nghiep-tram-nam-tuoi-tren-san-chung-khoan-choi-lon-tra-gan-700-ty-tien-co-tuc-188260825145222882.chn",
         "published": "Tue, 25 Aug 26 14:53:00 +0700"
-      },
-      {
-        "title": "Vidipha liên tục biến động cổ đông trong đợt chào bán cổ phiếu",
-        "link": "https://cafef.vn/vidipha-lien-tuc-bien-dong-co-dong-trong-dot-chao-ban-co-phieu-188260825142425798.chn",
-        "published": "Tue, 25 Aug 26 14:25:00 +0700"
-      },
-      {
-        "title": "Các đại gia 'lấn sân' ngân hàng",
-        "link": "https://cafef.vn/cac-dai-gia-lan-san-ngan-hang-188260825141658954.chn",
-        "published": "Tue, 25 Aug 26 14:16:00 +0700"
-      },
-      {
-        "title": "Công ty nuôi lợn có \"biến\"",
-        "link": "https://cafef.vn/cong-ty-nuoi-lon-co-bien-188260825135840769.chn",
-        "published": "Tue, 25 Aug 26 14:01:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giá mua, bán vàng nhẫn “4 số 9” tăng mạnh hơn vàng miếng SJC",
+        "link": "https://vneconomy.vn/gia-mua-ban-vang-nhan-4-so-9-tang-manh-hon-vang-mieng-sjc.htm",
+        "published": "Tue, 25 Aug 2026 10:13:17 GMT"
+      },
       {
         "title": "ACB tiếp cận giới tinh hoa bằng lời mời trải nghiệm, thay vì điều kiện tài sản",
         "link": "https://vneconomy.vn/acb-tiep-can-gioi-tinh-hoa-bang-loi-moi-trai-nghiem-thay-vi-dieu-kien-tai-san.htm",
@@ -59,14 +64,14 @@
         "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
         "link": "https://vneconomy.vn/gia-vang-nhan-bat-tang-toi-85-trieu-dongluong-trong-4-phien.htm",
         "published": "Mon, 24 Aug 2026 14:15:25 GMT"
-      },
-      {
-        "title": "Chính thức giảm 30% thuế cho doanh nghiệp, cá nhân doanh thu dưới ngưỡng 10 tỷ đồng trong hai năm",
-        "link": "https://vneconomy.vn/chinh-thuc-giam-30-thue-cho-doanh-nghiep-ca-nhan-doanh-thu-duoi-nguong-10-ty-dong-trong-hai-nam.htm",
-        "published": "Mon, 24 Aug 2026 11:02:17 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Nhịp đập Thị trường 25/08: Áp lực bán gia tăng, VN-Index về dưới mốc 1,800",
+        "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2508-ap-luc-ban-gia-tang-vn-index-ve-duoi-moc-1800-1636-1484699.htm",
+        "published": "Tue, 25 Aug 2026 17:07:00 +0700"
+      },
       {
         "title": "Vietcap tiếp tục trao tặng 8,000 cây, thành công khép lại Go Green Go Up mùa 2",
         "link": "http://vietstock.vn/2026/08/vietcap-tiep-tuc-trao-tang-8000-cay-thanh-cong-khep-lai-go-green-go-up-mua-2-830-1484784.htm",
@@ -91,43 +96,38 @@
         "title": "25/08: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/08/2508-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1484635.htm",
         "published": "Tue, 25 Aug 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
-        "link": "http://vietstock.vn/2026/08/dong-tien-rut-khoi-nhom-bat-dong-san-chung-khoan-830-1484411.htm",
-        "published": "Mon, 24 Aug 2026 20:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "US stock futures rise on tech rebound before Nvidia, inflation tests",
-        "link": "https://www.investing.com/news/economy-news/us-stock-futures-rise-on-tech-rebound-before-nvidia-inflation-tests-4874797",
-        "published": "2026-08-25 09:54:29"
+        "title": "Japan seeks record $230 billion to service debt",
+        "link": "https://www.investing.com/news/economy-news/japan-seeks-record-230-billion-to-service-debt-4874974",
+        "published": "2026-08-25 10:49:40"
       },
       {
-        "title": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks",
-        "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
-        "published": "2026-08-25 09:25:04"
+        "title": "Qatar backs mediation to resolve U.S.-Iran sanctions dispute",
+        "link": "https://www.investing.com/news/economy-news/qatar-backs-mediation-to-resolve-usiran-sanctions-dispute-93CH-4874959",
+        "published": "2026-08-25 10:41:25"
       },
       {
-        "title": "Iran, Pakistan make \"progress\" in talks on U.S.-Iran interim deal, minister says",
-        "link": "https://www.investing.com/news/economy-news/iran-pakistan-make-progress-in-talks-on-usiran-interim-deal-minister-says-4874656",
-        "published": "2026-08-25 08:33:13"
+        "title": "Kremlin calls Finnish president a war supporter over Ukraine remarks",
+        "link": "https://www.investing.com/news/economy-news/kremlin-calls-finnish-president-a-war-supporter-over-ukraine-remarks-93CH-4874949",
+        "published": "2026-08-25 10:40:29"
       },
       {
-        "title": "U.S. widens Iran sanctions; Bitcoin tops $80,000 - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/us-widens-iran-sanctions-bitcoin-tops-80000--whats-moving-markets-4874596",
-        "published": "2026-08-25 07:57:06"
+        "title": "Explainer-Why the bond market may be resetting expectations about the US",
+        "link": "https://www.investing.com/news/economy-news/explainerwhy-the-bond-market-may-be-resetting-expectations-about-the-us-4874838",
+        "published": "2026-08-25 10:37:32"
       },
       {
-        "title": "Analysis-Japan Inc seeks new hedges for a long era of yen weakness",
-        "link": "https://www.investing.com/news/economy-news/analysisjapan-inc-seeks-new-hedges-for-a-long-era-of-yen-weakness-4874553",
-        "published": "2026-08-25 07:42:26"
+        "title": "Volkswagen workers voice opposition to possible plant closures",
+        "link": "https://www.investing.com/news/economy-news/volkswagen-workers-voice-opposition-to-possible-plant-closures-93CH-4874889",
+        "published": "2026-08-25 10:26:14"
       },
       {
-        "title": "Australian bank investors brace for tough times as mortgage demand plummets",
-        "link": "https://www.investing.com/news/economy-news/australian-bank-investors-brace-for-tough-times-as-mortgage-demand-plummets-4874469",
-        "published": "2026-08-25 06:12:26"
+        "title": "Kremlin rejects potential NATO troop deployment in Ukraine",
+        "link": "https://www.investing.com/news/economy-news/kremlin-rejects-potential-nato-troop-deployment-in-ukraine-93CH-4874887",
+        "published": "2026-08-25 10:25:20"
       }
     ]
   }
