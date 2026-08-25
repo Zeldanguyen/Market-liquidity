@@ -1,40 +1,50 @@
 {
-  "fetched_at": "2026-08-25T05:19:43.454509",
+  "fetched_at": "2026-08-25T08:03:07.215211",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
+        "title": "Doanh nghiệp trăm năm tuổi trên sàn chứng khoán \"chơi lớn\" trả gần 700 tỷ tiền cổ tức",
+        "link": "https://cafef.vn/doanh-nghiep-tram-nam-tuoi-tren-san-chung-khoan-choi-lon-tra-gan-700-ty-tien-co-tuc-188260825145222882.chn",
+        "published": "Tue, 25 Aug 26 14:53:00 +0700"
+      },
+      {
+        "title": "Vidipha liên tục biến động cổ đông trong đợt chào bán cổ phiếu",
+        "link": "https://cafef.vn/vidipha-lien-tuc-bien-dong-co-dong-trong-dot-chao-ban-co-phieu-188260825142425798.chn",
+        "published": "Tue, 25 Aug 26 14:25:00 +0700"
+      },
+      {
+        "title": "Các đại gia 'lấn sân' ngân hàng",
+        "link": "https://cafef.vn/cac-dai-gia-lan-san-ngan-hang-188260825141658954.chn",
+        "published": "Tue, 25 Aug 26 14:16:00 +0700"
+      },
+      {
+        "title": "Công ty nuôi lợn có \"biến\"",
+        "link": "https://cafef.vn/cong-ty-nuoi-lon-co-bien-188260825135840769.chn",
+        "published": "Tue, 25 Aug 26 14:01:00 +0700"
+      },
+      {
+        "title": "Liên tục bị giải chấp, \"cá mập\" Nguyễn Văn Nghĩa đã bán gần 5 triệu cổ phiếu TCM",
+        "link": "https://cafef.vn/lien-tuc-bi-giai-chap-ca-map-nguyen-van-nghia-da-ban-gan-5-trieu-co-phieu-tcm-188260825124304761.chn",
+        "published": "Tue, 25 Aug 26 12:42:00 +0700"
+      },
+      {
         "title": "Tham vọng tỷ đô của “ông lớn” sản xuất mặt hàng thiết yếu hàng đầu Việt Nam",
         "link": "https://cafef.vn/tham-vong-ty-do-cua-ong-lon-san-xuat-mat-hang-thiet-yeu-hang-dau-viet-nam-188260825112225683.chn",
         "published": "Tue, 25 Aug 26 11:52:00 +0700"
-      },
-      {
-        "title": "Saigonres hoàn tất phát hành gần 14 triệu cổ phiếu trả cổ tức",
-        "link": "https://cafef.vn/saigonres-hoan-tat-phat-hanh-gan-14-trieu-co-phieu-tra-co-tuc-18826082511240225.chn",
-        "published": "Tue, 25 Aug 26 11:40:00 +0700"
-      },
-      {
-        "title": "BIC sắp chi hơn 240 tỷ đồng trả cổ tức năm 2025",
-        "link": "https://cafef.vn/bic-sap-chi-hon-240-ty-dong-tra-co-tuc-nam-2025-18826082511244261.chn",
-        "published": "Tue, 25 Aug 26 11:30:00 +0700"
-      },
-      {
-        "title": "Cổ đông ngoại “rời ghế” cổ đông lớn tại Kido",
-        "link": "https://cafef.vn/co-dong-ngoai-roi-ghe-co-dong-lon-tai-kido-188260825104414069.chn",
-        "published": "Tue, 25 Aug 26 11:30:00 +0700"
-      },
-      {
-        "title": "Trong khi Elon Musk, Jensen Huang \"mất tiền\", tài sản ông Phạm Nhật Vượng tăng hàng tỷ USD",
-        "link": "https://cafef.vn/trong-khi-elon-musk-jensen-huang-mat-tien-tai-san-ong-pham-nhat-vuong-tang-hang-ty-usd-188260825112820213.chn",
-        "published": "Tue, 25 Aug 26 11:28:00 +0700"
-      },
-      {
-        "title": "HoSE cập nhật danh sách 61 mã chứng khoán không được cấp margin",
-        "link": "https://cafef.vn/hose-cap-nhat-danh-sach-61-ma-chung-khoan-khong-duoc-cap-margin-188260825111652756.chn",
-        "published": "Tue, 25 Aug 26 11:23:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "ACB tiếp cận giới tinh hoa bằng lời mời trải nghiệm, thay vì điều kiện tài sản",
+        "link": "https://vneconomy.vn/acb-tiep-can-gioi-tinh-hoa-bang-loi-moi-trai-nghiem-thay-vi-dieu-kien-tai-san.htm",
+        "published": "Tue, 25 Aug 2026 07:58:46 GMT"
+      },
+      {
+        "title": "Ba yếu tố có thể khiến đồng USD giảm giá sâu hơn",
+        "link": "https://vneconomy.vn/ba-yeu-to-co-the-khien-dong-usd-giam-gia-sau-hon.htm",
+        "published": "Tue, 25 Aug 2026 07:02:46 GMT"
+      },
       {
         "title": "Thị trường tiềm năng hàng chục tỷ USD từ CCS – Carbon Capture & Storage",
         "link": "https://vneconomy.vn/thi-truong-tiem-nang-hang-chuc-ty-usd-tu-ccs-carbon-capture-storage.htm",
@@ -54,19 +64,19 @@
         "title": "Chính thức giảm 30% thuế cho doanh nghiệp, cá nhân doanh thu dưới ngưỡng 10 tỷ đồng trong hai năm",
         "link": "https://vneconomy.vn/chinh-thuc-giam-30-thue-cho-doanh-nghiep-ca-nhan-doanh-thu-duoi-nguong-10-ty-dong-trong-hai-nam.htm",
         "published": "Mon, 24 Aug 2026 11:02:17 GMT"
-      },
-      {
-        "title": "Tổ chức cung ứng dịch vụ tài sản mã hóa phải báo cáo phòng, chống rửa tiền từ 1/12/2026",
-        "link": "https://vneconomy.vn/to-chuc-cung-ung-dich-vu-tai-san-ma-hoa-phai-bao-cao-phong-chong-rua-tien-tu-1122026.htm",
-        "published": "Mon, 24 Aug 2026 09:48:41 GMT"
-      },
-      {
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Gỡ rào cản, trao quyền để nhân tài tạo ra giá trị mới",
-        "link": "https://vneconomy.vn/tong-bi-thu-chu-tich-nuoc-to-lam-go-rao-can-trao-quyen-de-nhan-tai-tao-ra-gia-tri-moi.htm",
-        "published": "Mon, 24 Aug 2026 09:04:24 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Phân tích kỹ thuật phiên chiều 25/08: Đà tăng tiếp tục được củng cố",
+        "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2508-da-tang-tiep-tuc-duoc-cung-co-585-1484776.htm",
+        "published": "Tue, 25 Aug 2026 13:11:55 +0700"
+      },
+      {
+        "title": "Nhịp đập Thị trường 25/08: Cổ phiếu trụ kéo chỉ số",
+        "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2508-co-phieu-tru-keo-chi-so-1636-1484699.htm",
+        "published": "Tue, 25 Aug 2026 13:05:00 +0700"
+      },
       {
         "title": "Ngày 25/08/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/08/ngay-25082026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1484468.htm",
@@ -86,48 +96,38 @@
         "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
         "link": "http://vietstock.vn/2026/08/dong-tien-rut-khoi-nhom-bat-dong-san-chung-khoan-830-1484411.htm",
         "published": "Mon, 24 Aug 2026 20:30:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 24/08: Khối ngoại mua ròng trở lại, tự doanh quay đầu bán ròng",
-        "link": "http://vietstock.vn/2026/08/theo-dau-dong-tien-ca-map-2408khoi-ngoai-mua-rong-tro-lai-tu-doanh-quay-dau-ban-rong-830-1484585.htm",
-        "published": "Mon, 24 Aug 2026 18:56:49 +0700"
-      },
-      {
-        "title": "Vietstock Daily 25/08/2026: Trước ngưỡng thử thách 1,800 điểm",
-        "link": "http://vietstock.vn/2026/08/vietstock-daily-25082026-truoc-nguong-thu-thach-1800-diem-1636-1484490.htm",
-        "published": "Mon, 24 Aug 2026 18:35:57 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "Analysis-Japan Inc seeks new hedges for a long era of yen weakness",
+        "link": "https://www.investing.com/news/economy-news/analysisjapan-inc-seeks-new-hedges-for-a-long-era-of-yen-weakness-4874553",
+        "published": "2026-08-25 07:42:26"
+      },
+      {
+        "title": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks",
+        "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
+        "published": "2026-08-25 06:12:43"
+      },
+      {
+        "title": "Australian bank investors brace for tough times as mortgage demand plummets",
+        "link": "https://www.investing.com/news/economy-news/australian-bank-investors-brace-for-tough-times-as-mortgage-demand-plummets-4874469",
+        "published": "2026-08-25 06:12:26"
+      },
+      {
+        "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
+        "link": "https://www.investing.com/news/economy-news/bitcoin-rises-above-80000-as-soft-dollar-debasement-fears-boost-momentum-4874482",
+        "published": "2026-08-25 05:36:50"
+      },
+      {
+        "title": "RBA says reserves still above demand amid shift to new liquidity system",
+        "link": "https://www.investing.com/news/economy-news/rba-says-reserves-still-above-demand-amid-shift-to-new-liquidity-system-4874476",
+        "published": "2026-08-25 05:19:12"
+      },
+      {
         "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
         "link": "https://www.investing.com/news/economy-news/morning-bid-waiting-on-nvidia-for-next-leg-of-ai-rally-4874462",
         "published": "2026-08-25 04:42:30"
-      },
-      {
-        "title": "Australian developer Bathla calls administrators, citing ’perfect storm’",
-        "link": "https://www.investing.com/news/economy-news/australian-developer-bathla-calls-administrators-citing-perfect-storm-4874451",
-        "published": "2026-08-25 03:54:07"
-      },
-      {
-        "title": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks",
-        "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
-        "published": "2026-08-25 01:42:49"
-      },
-      {
-        "title": "Australia central bank debated rate hike in August, with board divided",
-        "link": "https://www.investing.com/news/economy-news/australia-central-bank-debated-rate-hike-in-august-with-board-divided-4874386",
-        "published": "2026-08-25 01:36:34"
-      },
-      {
-        "title": "Asia shares fall on tech nerves; oil prices slip",
-        "link": "https://www.investing.com/news/economy-news/asia-shares-fall-on-tech-nerves-oil-prices-slip-4874381",
-        "published": "2026-08-25 01:30:27"
-      },
-      {
-        "title": "Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
-        "link": "https://www.investing.com/news/economy-news/exclusivejapan-eyes-tax-breaks-for-noncore-business-sales-in-governance-reform-push-sources-say-4873958",
-        "published": "2026-08-24 23:30:28"
       }
     ]
   }
