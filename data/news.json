@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-25T14:30:47.365157",
+  "fetched_at": "2026-08-25T16:21:31.716915",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng trong nước thấp hơn thế giới: Nguyên nhân của \"chuyện lạ\" là gì?",
+        "link": "https://cafef.vn/gia-vang-trong-nuoc-thap-hon-the-gioi-nguyen-nhan-cua-chuyen-la-la-gi-188260825223407825.chn",
+        "published": "Tue, 25 Aug 26 22:33:00 +0700"
+      },
       {
         "title": "VN-Index tăng dù phần lớn cổ phiếu giảm giá",
         "link": "https://cafef.vn/vn-index-tang-du-phan-lon-co-phieu-giam-gia-188260825212211173.chn",
@@ -27,11 +32,6 @@
         "title": "DatVietVAC trước điểm rơi lợi nhuận: Chuỗi IP, concert đồng loạt tăng tốc",
         "link": "https://cafef.vn/datvietvac-truoc-diem-roi-loi-nhuan-chuoi-ip-concert-dong-loat-tang-toc-188260825184416638.chn",
         "published": "Tue, 25 Aug 26 19:30:00 +0700"
-      },
-      {
-        "title": "Xử phạt công ty sản xuất lô thuốc nhỏ mắt Natri clorid 0,9% vi phạm chất lượng",
-        "link": "https://cafef.vn/xu-phat-cong-ty-san-xuat-lo-thuoc-nho-mat-natri-clorid-09-vi-pham-chat-luong-188260825185452032.chn",
-        "published": "Tue, 25 Aug 26 18:54:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Canada to announce retaliatory tariffs on US goods today",
-        "link": "https://www.investing.com/news/economy-news/canada-to-announce-retaliatory-tariffs-on-us-goods-today-4875422",
-        "published": "2026-08-25 13:04:11"
+        "title": "Trump administration says new Kennedy Center renaming does not violate court order",
+        "link": "https://www.investing.com/news/economy-news/trump-administration-says-new-kennedy-center-renaming-does-not-violate-court-order-4875719",
+        "published": "2026-08-25 15:54:33"
       },
       {
-        "title": "Canada’s LeBlanc says retaliatory tariffs on U.S. may be announced on Tuesday",
-        "link": "https://www.investing.com/news/economy-news/canadas-leblanc-says-retaliatory-tariffs-on-us-may-be-announced-on-tuesday-4875390",
-        "published": "2026-08-25 13:00:35"
+        "title": "Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures",
+        "link": "https://www.investing.com/news/economy-news/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-measures-4875679",
+        "published": "2026-08-25 15:36:37"
       },
       {
-        "title": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks",
+        "title": "US rates need to rise soon absent evidence of ongoing drop in inflation, Fed’s Collins says",
+        "link": "https://www.investing.com/news/economy-news/us-rates-need-to-rise-soon-absent-evidence-of-ongoing-drop-in-inflation-feds-collins-says-4875680",
+        "published": "2026-08-25 15:13:36"
+      },
+      {
+        "title": "Dollar little changed as Iran sanctions, Treasury buybacks gauged",
         "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
-        "published": "2026-08-25 12:42:24"
+        "published": "2026-08-25 15:00:42"
       },
       {
-        "title": "Hungary maintains euro adoption goal despite deficit rise",
-        "link": "https://www.investing.com/news/economy-news/hungary-maintains-euro-adoption-goal-despite-deficit-rise-93CH-4875285",
-        "published": "2026-08-25 12:28:28"
+        "title": "Mexico posts $8.93 billion current account surplus in Q2",
+        "link": "https://www.investing.com/news/economy-news/mexico-posts-893-billion-current-account-surplus-in-q2-93CH-4875648",
+        "published": "2026-08-25 14:47:33"
       },
       {
-        "title": "China vows to protect Iran ties after US sanctions threat",
-        "link": "https://www.investing.com/news/economy-news/china-vows-to-protect-iran-ties-after-us-sanctions-threat-93CH-4875284",
-        "published": "2026-08-25 12:24:59"
-      },
-      {
-        "title": "Hungary’s central bank cuts interest rate to 5.5%",
-        "link": "https://www.investing.com/news/economy-news/hungarys-central-bank-cuts-interest-rate-to-55-93CH-4875254",
-        "published": "2026-08-25 12:13:10"
+        "title": "Explainer-Jackson Hole’s big question: who pays the government’s bill?",
+        "link": "https://www.investing.com/news/economy-news/explainerjackson-holes-big-question-who-pays-the-governments-bill-4875618",
+        "published": "2026-08-25 14:24:57"
       }
     ]
   }
