@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T21:02:28.037706",
+  "fetched_at": "2026-08-25T21:59:28.882262",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Explainer-Jackson Hole’s big question: who pays the government’s bill?",
+        "link": "https://www.investing.com/news/economy-news/explainerjackson-holes-big-question-who-pays-the-governments-bill-4875618",
+        "published": "2026-08-25 21:54:29"
+      },
+      {
+        "title": "Trading Day: Oil, yields slide",
+        "link": "https://www.investing.com/news/economy-news/oil-yields-slide-4875984",
+        "published": "2026-08-25 21:30:35"
+      },
+      {
         "title": "Wall Street ends higher as tech rebounds before Nvidia results",
         "link": "https://www.investing.com/news/economy-news/us-stock-futures-rise-on-tech-rebound-before-nvidia-inflation-tests-4874797",
         "published": "2026-08-25 20:30:54"
@@ -118,16 +128,6 @@
         "title": "ECB set to raise rates in September amid Iran war concerns",
         "link": "https://www.investing.com/news/economy-news/ecb-set-to-raise-rates-in-september-amid-iran-war-concerns-93CH-4875865",
         "published": "2026-08-25 19:31:49"
-      },
-      {
-        "title": "ECB set for September rate hike with no appetite to signal more, sources say",
-        "link": "https://www.investing.com/news/economy-news/ecb-set-for-september-rate-hike-with-no-appetite-to-signal-more-sources-say-4875861",
-        "published": "2026-08-25 19:24:54"
-      },
-      {
-        "title": "Trump administration defends Kennedy Center renaming plan, warns of demolition risk",
-        "link": "https://www.investing.com/news/economy-news/trump-administration-says-new-kennedy-center-renaming-does-not-violate-court-order-4875719",
-        "published": "2026-08-25 19:24:30"
       }
     ]
   }
