@@ -1,40 +1,45 @@
 {
-  "fetched_at": "2026-08-24T23:50:04.374641",
+  "fetched_at": "2026-08-25T03:17:38.191761",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
-        "title": "Top vốn hóa lớn nhất Trung Quốc: Alibaba, Tencent góp mặt, công ty bán dẫn 10 năm tuổi vươn lên số 1",
-        "link": "https://cafef.vn/top-von-hoa-lon-nhat-trung-quoc-alibaba-tencent-gop-mat-cong-ty-ban-dan-10-nam-tuoi-vuon-len-so-1-188260824225701617.chn",
-        "published": "Tue, 25 Aug 26 00:07:00 +0700"
+        "title": "VPBank lọt nhóm 6 cổ phiếu Việt Nam vào FTSE All-World, rộng cửa đón dòng vốn ngoại",
+        "link": "https://cafef.vn/vpbank-lot-nhom-6-co-phieu-viet-nam-vao-ftse-all-world-rong-cua-don-dong-von-ngoai-188260825091158768.chn",
+        "published": "Tue, 25 Aug 26 10:00:00 +0700"
       },
       {
-        "title": "Giá vàng tăng dựng đứng, chuyên gia đưa ra khuyến nghị bất ngờ",
-        "link": "https://cafef.vn/gia-vang-tang-dung-dung-chuyen-gia-dua-ra-khuyen-nghi-bat-ngo-188260824220841007.chn",
-        "published": "Tue, 25 Aug 26 00:05:00 +0700"
+        "title": "Giá vàng tăng vọt, quỹ vàng lớn nhất thế giới không ngừng \"gom hàng\"",
+        "link": "https://cafef.vn/gia-vang-tang-vot-quy-vang-lon-nhat-the-gioi-khong-ngung-gom-hang-188260825095017846.chn",
+        "published": "Tue, 25 Aug 26 09:51:00 +0700"
       },
       {
-        "title": "Ngành điện Việt Nam đứng trước thay đổi lớn, CTCK gọi tên doanh nghiệp được kỳ vọng",
-        "link": "https://cafef.vn/nganh-dien-viet-nam-dung-truoc-thay-doi-lon-ctck-goi-ten-doanh-nghiep-duoc-ky-vong-188260824220749795.chn",
-        "published": "Tue, 25 Aug 26 00:03:00 +0700"
+        "title": "Chuyên gia lý giải mức chênh lệch hiếm thấy giữa giá vàng bạc trong nước và thế giới",
+        "link": "https://cafef.vn/chuyen-gia-ly-giai-muc-chenh-lech-hiem-thay-giua-gia-vang-bac-trong-nuoc-va-the-gioi-188260825094254258.chn",
+        "published": "Tue, 25 Aug 26 09:43:00 +0700"
       },
       {
-        "title": "27 quỹ cùng “đổ tiền” vào một cổ phiếu ngân hàng, mua ròng 4 tháng liên tiếp",
-        "link": "https://cafef.vn/27-quy-cung-do-tien-vao-mot-co-phieu-ngan-hang-mua-rong-4-thang-lien-tiep-188260824223902783.chn",
-        "published": "Tue, 25 Aug 26 00:01:00 +0700"
+        "title": "Becamex Real bị xử phạt do chậm công bố thông tin",
+        "link": "https://cafef.vn/becamex-real-bi-xu-phat-do-cham-cong-bo-thong-tin-188260825085839759.chn",
+        "published": "Tue, 25 Aug 26 08:58:00 +0700"
       },
       {
-        "title": "Một cổ phiếu quốc dân bất ngờ bị hơn 20 quỹ ồ ạt \"xả hàng\"",
-        "link": "https://cafef.vn/mot-co-phieu-quoc-dan-bat-ngo-bi-hon-20-quy-o-at-xa-hang-188260824210648107.chn",
-        "published": "Mon, 24 Aug 26 21:06:00 +0700"
+        "title": "SH Bond: Lời giải cho khoảng trống kỳ hạn trong danh mục thu nhập cố định",
+        "link": "https://cafef.vn/sh-bond-loi-giai-cho-khoang-trong-ky-han-trong-danh-muc-thu-nhap-co-dinh-188260824212924275.chn",
+        "published": "Tue, 25 Aug 26 08:00:00 +0700"
       },
       {
-        "title": "Một doanh nghiệp trên sàn chứng khoán chuẩn bị \"lăn chốt\" cổ tức 25% bằng tiền mặt",
-        "link": "https://cafef.vn/mot-doanh-nghiep-tren-san-chung-khoan-chuan-bi-lan-chot-co-tuc-25-bang-tien-mat-188260824210155606.chn",
-        "published": "Mon, 24 Aug 26 21:01:00 +0700"
+        "title": "Vào Top 50 nữ lãnh đạo nổi bật phố Wall:  Partner người Việt duy nhất tại quỹ phòng hộ tỷ đô có gì đặc biệt?",
+        "link": "https://cafef.vn/vao-top-50-nu-lanh-dao-noi-bat-pho-wall-partner-nguoi-viet-duy-nhat-tai-quy-phong-ho-ty-do-co-gi-dac-biet-188260824213140046.chn",
+        "published": "Tue, 25 Aug 26 07:00:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giá vàng tiến về mốc 4.700 USD/oz, SPDR Gold Trust không ngừng mua",
+        "link": "https://vneconomy.vn/gia-vang-tien-ve-moc-4700-usdoz-spdr-gold-trust-khong-ngung-mua.htm",
+        "published": "Tue, 25 Aug 2026 00:36:51 GMT"
+      },
       {
         "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
         "link": "https://vneconomy.vn/gia-vang-nhan-bat-tang-toi-85-trieu-dongluong-trong-4-phien.htm",
@@ -59,14 +64,14 @@
         "title": "Bảo hiểm Bảo Việt: Ít bão không đồng nghĩa ít rủi ro, doanh nghiệp cần nhìn vào mức độ tổn thất",
         "link": "https://vneconomy.vn/bao-hiem-bao-viet-it-bao-khong-dong-nghia-it-rui-ro-doanh-nghiep-can-nhin-vao-muc-do-ton-that.htm",
         "published": "Mon, 24 Aug 2026 09:00:00 GMT"
-      },
-      {
-        "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
-        "link": "https://vneconomy.vn/vib-ap-dung-lai-suat-co-dinh-5-nam-cho-vay-mua-nha.htm",
-        "published": "Mon, 24 Aug 2026 04:10:57 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 25/08",
+        "link": "http://vietstock.vn/2026/08/top-co-phieu-dang-chu-y-dau-phien-2508-830-1484488.htm",
+        "published": "Tue, 25 Aug 2026 08:00:00 +0700"
+      },
       {
         "title": "25/08: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/08/2508-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1484635.htm",
@@ -91,14 +96,24 @@
         "title": "Nhịp đập Thị trường 24/08: Áp lực chốt lời ngắn hạn xuất hiện, VN-Index diễn biến giằng co quanh mốc 1,788 điểm",
         "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2408-ap-luc-chot-loi-ngan-han-xuat-hien-vn-index-dien-bien-giang-co-quanh-moc-1788-diem-1636-1484286.htm",
         "published": "Mon, 24 Aug 2026 17:47:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 24/08: Áp lực bán ngắn hạn xuất hiện",
-        "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2408-ap-luc-ban-ngan-han-xuat-hien-585-1484336.htm",
-        "published": "Mon, 24 Aug 2026 13:06:11 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks",
+        "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
+        "published": "2026-08-25 01:42:49"
+      },
+      {
+        "title": "Australia central bank debated rate hike in August, with board divided",
+        "link": "https://www.investing.com/news/economy-news/australia-central-bank-debated-rate-hike-in-august-with-board-divided-4874386",
+        "published": "2026-08-25 01:36:34"
+      },
+      {
+        "title": "Asia shares fall on tech nerves; oil prices slip",
+        "link": "https://www.investing.com/news/economy-news/asia-shares-fall-on-tech-nerves-oil-prices-slip-4874381",
+        "published": "2026-08-25 01:30:27"
+      },
       {
         "title": "Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
         "link": "https://www.investing.com/news/economy-news/exclusivejapan-eyes-tax-breaks-for-noncore-business-sales-in-governance-reform-push-sources-say-4873958",
@@ -113,21 +128,6 @@
         "title": "Trading Day: Tech, tariffs & Treasuries",
         "link": "https://www.investing.com/news/economy-news/trading-day-tech-tariffs--treasuries-4874226",
         "published": "2026-08-24 21:19:47"
-      },
-      {
-        "title": "Bond market anxiety raises stakes for Warsh’s debut Jackson Hole speech",
-        "link": "https://www.investing.com/news/economy-news/bond-market-anxiety-raises-stakes-for-warshs-debut-jackson-hole-speech-4872977",
-        "published": "2026-08-24 21:13:56"
-      },
-      {
-        "title": "Judge dismisses lawsuit over Trump offshore drilling order",
-        "link": "https://www.investing.com/news/economy-news/judge-dismisses-lawsuit-over-trump-offshore-drilling-order-93CH-4874213",
-        "published": "2026-08-24 20:56:36"
-      },
-      {
-        "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
-        "link": "https://www.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4873000",
-        "published": "2026-08-24 20:12:55"
       }
     ]
   }
