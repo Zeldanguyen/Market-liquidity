@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-08-25T16:19:48.623218",
+  "fetched_at": "2026-08-25T17:55:22.894699",
   "series": {
     "fed_funds_rate": [
       {
@@ -196,34 +196,34 @@
     ],
     "m2_money_supply": [
       {
-        "realtime_start": "2026-07-28",
-        "realtime_end": "2026-07-28",
+        "realtime_start": "2026-08-25",
+        "realtime_end": "2026-08-25",
+        "date": "2026-07-01",
+        "value": "23218"
+      },
+      {
+        "realtime_start": "2026-08-25",
+        "realtime_end": "2026-08-25",
         "date": "2026-06-01",
-        "value": "23155.2000000000"
+        "value": "23115.2"
       },
       {
-        "realtime_start": "2026-07-28",
-        "realtime_end": "2026-07-28",
+        "realtime_start": "2026-08-25",
+        "realtime_end": "2026-08-25",
         "date": "2026-05-01",
-        "value": "23055.6000000000"
+        "value": "23013.9"
       },
       {
-        "realtime_start": "2026-07-28",
-        "realtime_end": "2026-07-28",
+        "realtime_start": "2026-08-25",
+        "realtime_end": "2026-08-25",
         "date": "2026-04-01",
-        "value": "22799.9000000000"
+        "value": "22756.7"
       },
       {
-        "realtime_start": "2026-07-28",
-        "realtime_end": "2026-07-28",
+        "realtime_start": "2026-08-25",
+        "realtime_end": "2026-08-25",
         "date": "2026-03-01",
-        "value": "22676.1000000000"
-      },
-      {
-        "realtime_start": "2026-07-28",
-        "realtime_end": "2026-07-28",
-        "date": "2026-02-01",
-        "value": "22620.3000000000"
+        "value": "22640.4"
       }
     ],
     "real_yield_10y": [

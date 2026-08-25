@@ -1,37 +1,37 @@
 {
-  "fetched_at": "2026-08-25T16:21:31.716915",
+  "fetched_at": "2026-08-25T17:57:02.871996",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
+        "title": "Tổng lượng vàng trong kho của các quỹ ETF toàn cầu lên cao nhất 6 tháng",
+        "link": "https://cafef.vn/tong-luong-vang-trong-kho-cua-cac-quy-etf-toan-cau-len-cao-nhat-6-thang-188260825223627161.chn",
+        "published": "Wed, 26 Aug 26 00:08:00 +0700"
+      },
+      {
+        "title": "Không phải VIC, đây mới là cổ phiếu chịu tác động thanh khoản lớn nhất khi FTSE giải ngân",
+        "link": "https://cafef.vn/khong-phai-vic-day-moi-la-co-phieu-chiu-tac-dong-thanh-khoan-lon-nhat-khi-ftse-giai-ngan-188260825235729677.chn",
+        "published": "Wed, 26 Aug 26 00:06:00 +0700"
+      },
+      {
+        "title": "95% nhà đầu tư thua lỗ và rời bỏ thị trường: Tổng Giám đốc CTCK lý giải nguyên nhân",
+        "link": "https://cafef.vn/95-nha-dau-tu-thua-lo-va-roi-bo-thi-truong-tong-giam-doc-ctck-ly-giai-nguyen-nhan-188260825223955785.chn",
+        "published": "Wed, 26 Aug 26 00:05:00 +0700"
+      },
+      {
+        "title": "Một công ty bất động sản KCN sắp trả cổ tức tiền mặt 12% ngay trong tháng 9",
+        "link": "https://cafef.vn/mot-cong-ty-bat-dong-san-kcn-sap-tra-co-tuc-tien-mat-12-ngay-trong-thang-9-188260825222933396.chn",
+        "published": "Wed, 26 Aug 26 00:02:00 +0700"
+      },
+      {
+        "title": "Dòng tiền lớn đang đổ mạnh vào vàng, chuyên gia cảnh báo rủi ro lớn nhất có thể chặn đà tăng",
+        "link": "https://cafef.vn/dong-tien-lon-dang-do-manh-vao-vang-chuyen-gia-canh-bao-rui-ro-lon-nhat-co-the-chan-da-tang-188260825223023982.chn",
+        "published": "Wed, 26 Aug 26 00:01:00 +0700"
+      },
+      {
         "title": "Giá vàng trong nước thấp hơn thế giới: Nguyên nhân của \"chuyện lạ\" là gì?",
         "link": "https://cafef.vn/gia-vang-trong-nuoc-thap-hon-the-gioi-nguyen-nhan-cua-chuyen-la-la-gi-188260825223407825.chn",
         "published": "Tue, 25 Aug 26 22:33:00 +0700"
-      },
-      {
-        "title": "VN-Index tăng dù phần lớn cổ phiếu giảm giá",
-        "link": "https://cafef.vn/vn-index-tang-du-phan-lon-co-phieu-giam-gia-188260825212211173.chn",
-        "published": "Tue, 25 Aug 26 21:21:00 +0700"
-      },
-      {
-        "title": "Dùng 11 tài khoản thao túng cổ phiếu suốt 8 tháng, một cá nhân bị phạt 1,5 tỷ đồng, cấm giao dịch chứng khoán 3 năm",
-        "link": "https://cafef.vn/dung-11-tai-khoan-thao-tung-co-phieu-suot-8-thang-mot-ca-nhan-bi-phat-15-ty-dong-cam-giao-dich-chung-khoan-3-nam-188260825205831788.chn",
-        "published": "Tue, 25 Aug 26 20:58:00 +0700"
-      },
-      {
-        "title": "Một công ty sắp bạo chi cổ tức tiền mặt gấp 6 lần kế hoạch ban đầu",
-        "link": "https://cafef.vn/mot-cong-ty-sap-bao-chi-co-tuc-tien-mat-gap-6-lan-ke-hoach-ban-dau-188260825165146838.chn",
-        "published": "Tue, 25 Aug 26 20:09:00 +0700"
-      },
-      {
-        "title": "Một cổ phiếu ngân hàng bị bán ròng hơn 200 tỷ trong phiên 25/8",
-        "link": "https://cafef.vn/mot-co-phieu-ngan-hang-bi-ban-rong-hon-200-ty-trong-phien-25-8-188260825193520963.chn",
-        "published": "Tue, 25 Aug 26 19:35:00 +0700"
-      },
-      {
-        "title": "DatVietVAC trước điểm rơi lợi nhuận: Chuỗi IP, concert đồng loạt tăng tốc",
-        "link": "https://cafef.vn/datvietvac-truoc-diem-roi-loi-nhuan-chuoi-ip-concert-dong-loat-tang-toc-188260825184416638.chn",
-        "published": "Tue, 25 Aug 26 19:30:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "New US home sales drop 10.5% in July on high mortgage rates",
+        "link": "https://www.investing.com/news/economy-news/new-us-home-sales-drop-105-in-july-on-high-mortgage-rates-93CH-4875780",
+        "published": "2026-08-25 17:20:03"
+      },
+      {
+        "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
+        "link": "https://www.investing.com/news/economy-news/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-measures-4875679",
+        "published": "2026-08-25 17:06:24"
+      },
+      {
         "title": "Trump administration says new Kennedy Center renaming does not violate court order",
         "link": "https://www.investing.com/news/economy-news/trump-administration-says-new-kennedy-center-renaming-does-not-violate-court-order-4875719",
         "published": "2026-08-25 15:54:33"
-      },
-      {
-        "title": "Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures",
-        "link": "https://www.investing.com/news/economy-news/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-measures-4875679",
-        "published": "2026-08-25 15:36:37"
       },
       {
         "title": "US rates need to rise soon absent evidence of ongoing drop in inflation, Fed’s Collins says",
@@ -123,11 +128,6 @@
         "title": "Mexico posts $8.93 billion current account surplus in Q2",
         "link": "https://www.investing.com/news/economy-news/mexico-posts-893-billion-current-account-surplus-in-q2-93CH-4875648",
         "published": "2026-08-25 14:47:33"
-      },
-      {
-        "title": "Explainer-Jackson Hole’s big question: who pays the government’s bill?",
-        "link": "https://www.investing.com/news/economy-news/explainerjackson-holes-big-question-who-pays-the-governments-bill-4875618",
-        "published": "2026-08-25 14:24:57"
       }
     ]
   }
