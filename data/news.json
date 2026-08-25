@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T17:57:02.871996",
+  "fetched_at": "2026-08-25T19:47:37.528897",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "New US home sales drop 10.5% in July on high mortgage rates",
-        "link": "https://www.investing.com/news/economy-news/new-us-home-sales-drop-105-in-july-on-high-mortgage-rates-93CH-4875780",
-        "published": "2026-08-25 17:20:03"
+        "title": "Treasury yields fall as oil drops, buyback debate continues",
+        "link": "https://www.investing.com/news/economy-news/treasury-yields-fall-as-oil-drops-buyback-debate-continues-93CH-4875867",
+        "published": "2026-08-25 19:35:42"
       },
       {
-        "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
-        "link": "https://www.investing.com/news/economy-news/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-measures-4875679",
-        "published": "2026-08-25 17:06:24"
+        "title": "ECB set to raise rates in September amid Iran war concerns",
+        "link": "https://www.investing.com/news/economy-news/ecb-set-to-raise-rates-in-september-amid-iran-war-concerns-93CH-4875865",
+        "published": "2026-08-25 19:31:49"
       },
       {
-        "title": "Trump administration says new Kennedy Center renaming does not violate court order",
+        "title": "ECB set for September rate hike with no appetite to signal more, sources say",
+        "link": "https://www.investing.com/news/economy-news/ecb-set-for-september-rate-hike-with-no-appetite-to-signal-more-sources-say-4875861",
+        "published": "2026-08-25 19:24:54"
+      },
+      {
+        "title": "Trump administration defends Kennedy Center renaming plan, warns of demolition risk",
         "link": "https://www.investing.com/news/economy-news/trump-administration-says-new-kennedy-center-renaming-does-not-violate-court-order-4875719",
-        "published": "2026-08-25 15:54:33"
+        "published": "2026-08-25 19:24:30"
       },
       {
-        "title": "US rates need to rise soon absent evidence of ongoing drop in inflation, Fed’s Collins says",
-        "link": "https://www.investing.com/news/economy-news/us-rates-need-to-rise-soon-absent-evidence-of-ongoing-drop-in-inflation-feds-collins-says-4875680",
-        "published": "2026-08-25 15:13:36"
-      },
-      {
-        "title": "Dollar little changed as Iran sanctions, Treasury buybacks gauged",
+        "title": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
         "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
-        "published": "2026-08-25 15:00:42"
+        "published": "2026-08-25 19:12:26"
       },
       {
-        "title": "Mexico posts $8.93 billion current account surplus in Q2",
-        "link": "https://www.investing.com/news/economy-news/mexico-posts-893-billion-current-account-surplus-in-q2-93CH-4875648",
-        "published": "2026-08-25 14:47:33"
+        "title": "Four Fed bank boards wanted rate hike, minutes show",
+        "link": "https://www.investing.com/news/economy-news/four-fed-bank-boards-wanted-rate-hike-minutes-show-4875819",
+        "published": "2026-08-25 18:30:55"
       }
     ]
   }
