@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T21:59:28.882262",
+  "fetched_at": "2026-08-25T23:03:02.650859",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "BOJ to speed up its tightening campaign, raise key rate to 1.25% in September: Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/boj-to-speed-up-its-tightening-campaign-raise-key-rate-to-125-in-september-reuters-poll-4876009",
+        "published": "2026-08-25 22:06:49"
+      },
+      {
         "title": "Explainer-Jackson Hole’s big question: who pays the government’s bill?",
         "link": "https://www.investing.com/news/economy-news/explainerjackson-holes-big-question-who-pays-the-governments-bill-4875618",
         "published": "2026-08-25 21:54:29"
@@ -123,11 +128,6 @@
         "title": "Treasury yields fall as oil drops, buyback debate continues",
         "link": "https://www.investing.com/news/economy-news/treasury-yields-fall-as-oil-drops-buyback-debate-continues-93CH-4875867",
         "published": "2026-08-25 19:35:42"
-      },
-      {
-        "title": "ECB set to raise rates in September amid Iran war concerns",
-        "link": "https://www.investing.com/news/economy-news/ecb-set-to-raise-rates-in-september-amid-iran-war-concerns-93CH-4875865",
-        "published": "2026-08-25 19:31:49"
       }
     ]
   }
