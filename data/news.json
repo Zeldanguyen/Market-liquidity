@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T19:47:37.528897",
+  "fetched_at": "2026-08-25T21:02:28.037706",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Wall Street ends higher as tech rebounds before Nvidia results",
+        "link": "https://www.investing.com/news/economy-news/us-stock-futures-rise-on-tech-rebound-before-nvidia-inflation-tests-4874797",
+        "published": "2026-08-25 20:30:54"
+      },
+      {
+        "title": "Explainer-Why the bond market may be resetting expectations about the US",
+        "link": "https://www.investing.com/news/economy-news/explainerwhy-the-bond-market-may-be-resetting-expectations-about-the-us-4874838",
+        "published": "2026-08-25 20:06:39"
+      },
+      {
         "title": "Treasury yields fall as oil drops, buyback debate continues",
         "link": "https://www.investing.com/news/economy-news/treasury-yields-fall-as-oil-drops-buyback-debate-continues-93CH-4875867",
         "published": "2026-08-25 19:35:42"
@@ -118,16 +128,6 @@
         "title": "Trump administration defends Kennedy Center renaming plan, warns of demolition risk",
         "link": "https://www.investing.com/news/economy-news/trump-administration-says-new-kennedy-center-renaming-does-not-violate-court-order-4875719",
         "published": "2026-08-25 19:24:30"
-      },
-      {
-        "title": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
-        "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
-        "published": "2026-08-25 19:12:26"
-      },
-      {
-        "title": "Four Fed bank boards wanted rate hike, minutes show",
-        "link": "https://www.investing.com/news/economy-news/four-fed-bank-boards-wanted-rate-hike-minutes-show-4875819",
-        "published": "2026-08-25 18:30:55"
       }
     ]
   }
