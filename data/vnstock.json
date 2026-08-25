@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T08:01:43.936772",
+  "fetched_at": "2026-08-25T10:03:38.599417",
   "status": "ok",
   "vnindex_history": [
     {
@@ -40,7 +40,7 @@
       "high": 1812.18,
       "low": 1785.22,
       "close": 1791.41,
-      "volume": 835458292
+      "volume": 839735691
     }
   ],
   "top_stocks": [

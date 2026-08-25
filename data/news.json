@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-25T08:03:07.215211",
+  "fetched_at": "2026-08-25T10:05:14.572326",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Phiên 25/8: Một cổ phiếu Bluechips được khối ngoại \"gom\" gần 400 tỷ đồng",
+        "link": "https://cafef.vn/phien-25-8-mot-co-phieu-bluechips-duoc-khoi-ngoai-gom-gan-400-ty-dong-188260825153236281.chn",
+        "published": "Tue, 25 Aug 26 16:02:00 +0700"
+      },
+      {
+        "title": "Cổ đông mua IPO Điện Máy Xanh gần hết lãi",
+        "link": "https://cafef.vn/co-dong-mua-ipo-dien-may-xanh-gan-het-lai-188260825151440744.chn",
+        "published": "Tue, 25 Aug 26 15:45:00 +0700"
+      },
       {
         "title": "Doanh nghiệp trăm năm tuổi trên sàn chứng khoán \"chơi lớn\" trả gần 700 tỷ tiền cổ tức",
         "link": "https://cafef.vn/doanh-nghiep-tram-nam-tuoi-tren-san-chung-khoan-choi-lon-tra-gan-700-ty-tien-co-tuc-188260825145222882.chn",
@@ -22,16 +32,6 @@
         "title": "Công ty nuôi lợn có \"biến\"",
         "link": "https://cafef.vn/cong-ty-nuoi-lon-co-bien-188260825135840769.chn",
         "published": "Tue, 25 Aug 26 14:01:00 +0700"
-      },
-      {
-        "title": "Liên tục bị giải chấp, \"cá mập\" Nguyễn Văn Nghĩa đã bán gần 5 triệu cổ phiếu TCM",
-        "link": "https://cafef.vn/lien-tuc-bi-giai-chap-ca-map-nguyen-van-nghia-da-ban-gan-5-trieu-co-phieu-tcm-188260825124304761.chn",
-        "published": "Tue, 25 Aug 26 12:42:00 +0700"
-      },
-      {
-        "title": "Tham vọng tỷ đô của “ông lớn” sản xuất mặt hàng thiết yếu hàng đầu Việt Nam",
-        "link": "https://cafef.vn/tham-vong-ty-do-cua-ong-lon-san-xuat-mat-hang-thiet-yeu-hang-dau-viet-nam-188260825112225683.chn",
-        "published": "Tue, 25 Aug 26 11:52:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,14 +68,14 @@
     ],
     "Vietstock": [
       {
+        "title": "Vietcap tiếp tục trao tặng 8,000 cây, thành công khép lại Go Green Go Up mùa 2",
+        "link": "http://vietstock.vn/2026/08/vietcap-tiep-tuc-trao-tang-8000-cay-thanh-cong-khep-lai-go-green-go-up-mua-2-830-1484784.htm",
+        "published": "Tue, 25 Aug 2026 16:00:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 25/08: Đà tăng tiếp tục được củng cố",
         "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2508-da-tang-tiep-tuc-duoc-cung-co-585-1484776.htm",
         "published": "Tue, 25 Aug 2026 13:11:55 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 25/08: Cổ phiếu trụ kéo chỉ số",
-        "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2508-co-phieu-tru-keo-chi-so-1636-1484699.htm",
-        "published": "Tue, 25 Aug 2026 13:05:00 +0700"
       },
       {
         "title": "Ngày 25/08/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US stock futures rise on tech rebound before Nvidia, inflation tests",
+        "link": "https://www.investing.com/news/economy-news/us-stock-futures-rise-on-tech-rebound-before-nvidia-inflation-tests-4874797",
+        "published": "2026-08-25 09:54:29"
+      },
+      {
+        "title": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks",
+        "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
+        "published": "2026-08-25 09:25:04"
+      },
+      {
+        "title": "Iran, Pakistan make \"progress\" in talks on U.S.-Iran interim deal, minister says",
+        "link": "https://www.investing.com/news/economy-news/iran-pakistan-make-progress-in-talks-on-usiran-interim-deal-minister-says-4874656",
+        "published": "2026-08-25 08:33:13"
+      },
+      {
+        "title": "U.S. widens Iran sanctions; Bitcoin tops $80,000 - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/us-widens-iran-sanctions-bitcoin-tops-80000--whats-moving-markets-4874596",
+        "published": "2026-08-25 07:57:06"
+      },
+      {
         "title": "Analysis-Japan Inc seeks new hedges for a long era of yen weakness",
         "link": "https://www.investing.com/news/economy-news/analysisjapan-inc-seeks-new-hedges-for-a-long-era-of-yen-weakness-4874553",
         "published": "2026-08-25 07:42:26"
       },
       {
-        "title": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks",
-        "link": "https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390",
-        "published": "2026-08-25 06:12:43"
-      },
-      {
         "title": "Australian bank investors brace for tough times as mortgage demand plummets",
         "link": "https://www.investing.com/news/economy-news/australian-bank-investors-brace-for-tough-times-as-mortgage-demand-plummets-4874469",
         "published": "2026-08-25 06:12:26"
-      },
-      {
-        "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
-        "link": "https://www.investing.com/news/economy-news/bitcoin-rises-above-80000-as-soft-dollar-debasement-fears-boost-momentum-4874482",
-        "published": "2026-08-25 05:36:50"
-      },
-      {
-        "title": "RBA says reserves still above demand amid shift to new liquidity system",
-        "link": "https://www.investing.com/news/economy-news/rba-says-reserves-still-above-demand-amid-shift-to-new-liquidity-system-4874476",
-        "published": "2026-08-25 05:19:12"
-      },
-      {
-        "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-waiting-on-nvidia-for-next-leg-of-ai-rally-4874462",
-        "published": "2026-08-25 04:42:30"
       }
     ]
   }
