@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-26T11:57:31.931690",
+  "fetched_at": "2026-08-26T14:28:28.633556",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VN-Index vượt mốc 1.800 điểm",
+        "link": "https://cafef.vn/vn-index-vuot-moc-1800-diem-188260826192245639.chn",
+        "published": "Wed, 26 Aug 26 19:22:00 +0700"
+      },
       {
         "title": "Cổ phiếu TCB, BCM “cháy hàng”, VN-Index tăng phiên thứ 5 liên tiếp",
         "link": "https://cafef.vn/co-phieu-tcb-bcm-chay-hang-vn-index-tang-phien-thu-5-lien-tiep-188260826171144393.chn",
@@ -27,11 +32,6 @@
         "title": "Cảng Đình Vũ sắp chi 120 tỷ đồng trả cổ tức cho cổ đông",
         "link": "https://cafef.vn/cang-dinh-vu-sap-chi-120-ty-dong-tra-co-tuc-cho-co-dong-188260826170148956.chn",
         "published": "Wed, 26 Aug 26 17:12:00 +0700"
-      },
-      {
-        "title": "Cao su Phước Hòa (PHR) sắp chi 190 tỷ đồng trả cổ tức, thưởng cổ phiếu tỷ lệ 80%",
-        "link": "https://cafef.vn/cao-su-phuoc-hoa-phr-sap-chi-190-ty-dong-tra-co-tuc-thuong-co-phieu-ty-le-80-188260826171035976.chn",
-        "published": "Wed, 26 Aug 26 17:11:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Theo dấu dòng tiền cá mập 26/08: Tự doanh, khối ngoại cùng gom TCB khi xuất hiện kỳ vọng về cổ đông chiến lược",
+        "link": "http://vietstock.vn/2026/08/theo-dau-dong-tien-ca-map-2608-tu-doanh-khoi-ngoai-cung-gom-tcb-khi-xuat-hien-ky-vong-ve-co-dong-chien-luoc-830-1485565.htm",
+        "published": "Wed, 26 Aug 2026 19:02:26 +0700"
+      },
+      {
         "title": "Vietstock Daily 27/08/2026: Đà tăng rộng mở?",
         "link": "http://vietstock.vn/2026/08/vietstock-daily-27082026-da-tang-rong-mo-1636-1485476.htm",
         "published": "Wed, 26 Aug 2026 18:17:00 +0700"
@@ -91,43 +96,38 @@
         "title": "Nhịp đập Thị trường 26/08: VN-Index bứt phá gần 30 điểm, nhóm bất động sản và ngân hàng tiếp tục dẫn sóng",
         "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2608-vn-index-but-pha-gan-30-diem-nhom-bat-dong-san-va-ngan-hang-tiep-tuc-dan-song-1636-1485195.htm",
         "published": "Wed, 26 Aug 2026 16:02:00 +0700"
-      },
-      {
-        "title": "Hàng ngàn tỷ đồng chính thức \"đổ\" về tài khoản, cỗ máy in tiền DMX bắt đầu sinh lợi cho nhà đầu tư",
-        "link": "http://vietstock.vn/2026/08/hang-ngan-ty-dong-chinh-thuc-do-ve-tai-khoan-co-may-in-tien-dmx-bat-dau-sinh-loi-cho-nha-dau-tu-830-1485261.htm",
-        "published": "Wed, 26 Aug 2026 16:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Wall St futures subdued as Nvidia results, inflation take center stage",
+        "title": "Fed seen a bit more likely to hike after inflation data",
+        "link": "https://www.investing.com/news/economy-news/fed-seen-a-bit-more-likely-to-hike-after-inflation-data-4877346",
+        "published": "2026-08-26 13:36:56"
+      },
+      {
+        "title": "Wall St slips at open after inflation data; Nvidia in focus",
+        "link": "https://www.investing.com/news/economy-news/wall-st-slips-at-open-after-inflation-data-nvidia-in-focus-4877344",
+        "published": "2026-08-26 13:36:38"
+      },
+      {
+        "title": "S&P 500, Nasdaq set for lower open after inflation data; Nvidia results awaited",
         "link": "https://www.investing.com/news/economy-news/us-stock-futures-subdued-in-runup-to-nvidia-results-inflation-print-4876659",
-        "published": "2026-08-26 11:36:52"
+        "published": "2026-08-26 13:24:50"
       },
       {
-        "title": "Exclusive-US produce supplier Taylor Farms frequently fails to disclose workplace injury tallies, records show",
-        "link": "https://www.investing.com/news/economy-news/exclusiveus-produce-supplier-taylor-farms-frequently-fails-to-disclose-workplace-injury-tallies-records-show-4876623",
-        "published": "2026-08-26 11:30:34"
+        "title": "Brazil’s inflation cools as prices post first monthly decline in a year",
+        "link": "https://www.investing.com/news/economy-news/brazils-inflation-cools-as-prices-post-first-monthly-decline-in-a-year-4877296",
+        "published": "2026-08-26 13:19:11"
       },
       {
-        "title": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
-        "link": "https://www.investing.com/news/economy-news/exclusivehack-of-water-sector-supplier-draws-fbi-scrutiny-as-iranlinked-cyber-concerns-grow-4876626",
-        "published": "2026-08-26 10:37:15"
+        "title": "Cryptocurrency chief facing extradition from UK to US on fraud charges",
+        "link": "https://www.investing.com/news/economy-news/cryptocurrency-chief-facing-extradition-from-uk-to-us-on-fraud-charges-4877216",
+        "published": "2026-08-26 13:18:53"
       },
       {
-        "title": "Saudi Aramco offers more oil outside Strait of Hormuz - report",
-        "link": "https://www.investing.com/news/economy-news/saudi-aramco-offers-more-oil-outside-strait-of-hormuz--report-4876681",
-        "published": "2026-08-26 10:27:46"
-      },
-      {
-        "title": "CIA head holds talks with Russian officials in Moscow",
-        "link": "https://www.investing.com/news/economy-news/cia-head-holds-talks-with-russian-officials-in-moscow-93CH-4876655",
-        "published": "2026-08-26 10:19:02"
-      },
-      {
-        "title": "Anxious investors hope for clarity on Warsh’s Fed plan at Jackson Hole",
-        "link": "https://www.investing.com/news/economy-news/anxious-investors-hope-for-clarity-on-warshs-fed-plan-at-jackson-hole-4876622",
-        "published": "2026-08-26 10:18:48"
+        "title": "Italy requests €8 billion from EU defence fund",
+        "link": "https://www.investing.com/news/economy-news/italy-requests-8-billion-from-eu-defence-fund-93CH-4877280",
+        "published": "2026-08-26 13:12:10"
       }
     ]
   }
