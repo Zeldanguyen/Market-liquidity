@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-08-26T05:55:40.552932",
+  "fetched_at": "2026-08-26T08:10:57.324387",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán VIX ôm 1.000 tỷ đồng cổ phiếu TCB",
+        "link": "https://cafef.vn/chung-khoan-vix-om-1000-ty-dong-co-phieu-tcb-188260826142955527.chn",
+        "published": "Wed, 26 Aug 26 14:29:00 +0700"
+      },
+      {
+        "title": "Nóng: Nhà thuốc An Khang hợp tác với VNVC",
+        "link": "https://cafef.vn/nong-nha-thuoc-an-khang-hop-tac-voi-vnvc-188260826140513839.chn",
+        "published": "Wed, 26 Aug 26 14:05:00 +0700"
+      },
+      {
+        "title": "Đúng 1 tuần nữa, ngày 3/9, hàng chục triệu cổ phiếu chứng khoán này bị đình chỉ giao dịch",
+        "link": "https://cafef.vn/dung-1-tuan-nua-hang-chuc-trieu-co-phieu-chung-khoan-nay-bi-dinh-chi-giao-dich-188260826134329745.chn",
+        "published": "Wed, 26 Aug 26 13:43:00 +0700"
+      },
+      {
+        "title": "Giá vàng sắp có đợt tăng mạnh nhất 25 năm?",
+        "link": "https://cafef.vn/gia-vang-sap-co-dot-tang-manh-nhat-25-nam-188260826134103771.chn",
+        "published": "Wed, 26 Aug 26 13:40:00 +0700"
+      },
       {
         "title": "Vietcombank phát cảnh báo khẩn về việc bị giả mạo",
         "link": "https://cafef.vn/vietcombank-phat-canh-bao-khan-ve-viec-bi-gia-mao-188260826111009435.chn",
@@ -12,29 +32,14 @@
         "title": "Green GSM có động thái mới tại quốc gia láng giềng Việt Nam",
         "link": "https://cafef.vn/green-gsm-co-dong-thai-moi-tai-quoc-gia-lang-gieng-viet-nam-188260826105018144.chn",
         "published": "Wed, 26 Aug 26 10:50:00 +0700"
-      },
-      {
-        "title": "FTSE Russell công bố tài liệu quan trọng về tỷ trọng của Việt Nam, lộ trình giải ngân, phân loại cổ phiếu…",
-        "link": "https://cafef.vn/ftse-russell-cong-bo-tai-lieu-quan-trong-ve-ty-trong-cua-viet-nam-lo-trinh-giai-ngan-phan-loai-co-phieu-188260826103513483.chn",
-        "published": "Wed, 26 Aug 26 10:35:00 +0700"
-      },
-      {
-        "title": "VIS Rating dự báo: sự phân hóa về hồ sơ tín nhiệm sẽ tiếp tục là tông màu chủ đạo của ngành ngân hàng nửa cuối năm 2026",
-        "link": "https://cafef.vn/vis-rating-du-bao-su-phan-hoa-ve-ho-so-tin-nhiem-se-tiep-tuc-la-tong-mau-chu-dao-cua-nganh-ngan-hang-nua-cuoi-nam-2026-188260826102553756.chn",
-        "published": "Wed, 26 Aug 26 10:25:00 +0700"
-      },
-      {
-        "title": "Diễn biến bất ngờ của giá vàng sáng nay",
-        "link": "https://cafef.vn/dien-bien-bat-ngo-cua-gia-vang-sang-nay-1882608260953157.chn",
-        "published": "Wed, 26 Aug 26 09:53:00 +0700"
-      },
-      {
-        "title": "Động thái “lạ” của quỹ vàng lớn nhất thế giới khi giá lên cao nhất hơn 3 tháng",
-        "link": "https://cafef.vn/dong-thai-la-cua-quy-vang-lon-nhat-the-gioi-khi-gia-len-cao-nhat-hon-3-thang-188260826093900232.chn",
-        "published": "Wed, 26 Aug 26 09:41:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Trung Quốc xây dựng hệ thống phòng hộ để ứng phó với rủi ro trừng phạt từ Mỹ",
+        "link": "https://vneconomy.vn/trung-quoc-xay-dung-he-thong-phong-ho-de-ung-pho-voi-rui-ro-trung-phat-tu-my.htm",
+        "published": "Wed, 26 Aug 2026 07:17:36 GMT"
+      },
       {
         "title": "Giá vàng tăng chậm lại trước thềm báo cáo lạm phát Mỹ, SPDR Gold Trust bán ròng",
         "link": "https://vneconomy.vn/gia-vang-tang-cham-lai-truoc-them-bao-cao-lam-phat-my-spdr-gold-trust-ban-rong.htm",
@@ -59,14 +64,14 @@
         "title": "ACB tiếp cận giới tinh hoa bằng lời mời trải nghiệm, thay vì điều kiện tài sản",
         "link": "https://vneconomy.vn/acb-tiep-can-gioi-tinh-hoa-bang-loi-moi-trai-nghiem-thay-vi-dieu-kien-tai-san.htm",
         "published": "Tue, 25 Aug 2026 07:58:46 GMT"
-      },
-      {
-        "title": "Ba yếu tố có thể khiến đồng USD giảm giá sâu hơn",
-        "link": "https://vneconomy.vn/ba-yeu-to-co-the-khien-dong-usd-giam-gia-sau-hon.htm",
-        "published": "Tue, 25 Aug 2026 07:02:46 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Nhịp đập Thị trường 26/08: Rung lắc quanh ngưỡng 1,795 điểm",
+        "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2608-rung-lac-quanh-nguong-1795-diem-1636-1485195.htm",
+        "published": "Wed, 26 Aug 2026 12:57:00 +0700"
+      },
       {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 26/08",
         "link": "http://vietstock.vn/2026/08/top-co-phieu-dang-chu-y-dau-phien-2608-830-1485104.htm",
@@ -91,14 +96,24 @@
         "title": "Vietstock Daily 26/08/2026: Rung lắc tại vùng kháng cự",
         "link": "http://vietstock.vn/2026/08/vietstock-daily-26082026-rung-lac-tai-vung-khang-cu-1636-1484918.htm",
         "published": "Tue, 25 Aug 2026 18:22:15 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 25/08: Áp lực bán gia tăng, VN-Index về dưới mốc 1,800",
-        "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2508-ap-luc-ban-gia-tang-vn-index-ve-duoi-moc-1800-1636-1484699.htm",
-        "published": "Tue, 25 Aug 2026 17:07:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Some Chinese workers see an ally in Brussels as EU trade tensions mount",
+        "link": "https://www.investing.com/news/economy-news/some-chinese-workers-see-an-ally-in-brussels-as-eu-trade-tensions-mount-4876411",
+        "published": "2026-08-26 07:25:00"
+      },
+      {
+        "title": "Dollar steady ahead of US inflation data; Aussie gains on rate bets",
+        "link": "https://www.investing.com/news/economy-news/dollar-moves-in-a-narrow-range-ahead-of-inflation-data-jackson-hole-4876177",
+        "published": "2026-08-26 07:00:40"
+      },
+      {
+        "title": "Australia inflation runs hot in July, markets reprice rate hike risk",
+        "link": "https://www.investing.com/news/economy-news/australia-inflation-tops-forecasts-in-july-adds-to-rate-risk-4876166",
+        "published": "2026-08-26 06:37:00"
+      },
       {
         "title": "Interest rates must rise further, ECB’s Schnabel tells Bloomberg",
         "link": "https://www.investing.com/news/economy-news/interest-rates-must-rise-further-ecbs-schnabel-tells-bloomberg-4876321",
@@ -113,21 +128,6 @@
         "title": "Morning Bid: Markets are waiting ’9 to 5’",
         "link": "https://www.investing.com/news/economy-news/morning-bid-markets-are-waiting-9-to-5-4876258",
         "published": "2026-08-26 04:54:46"
-      },
-      {
-        "title": "Australia inflation runs hot in July, adding to rate hike risk",
-        "link": "https://www.investing.com/news/economy-news/australia-inflation-tops-forecasts-in-july-adds-to-rate-risk-4876166",
-        "published": "2026-08-26 02:43:12"
-      },
-      {
-        "title": "BOJ chief Ueda to skip Jackson Hole, shifts market focus to G20",
-        "link": "https://www.investing.com/news/economy-news/boj-chief-ueda-to-skip-jackson-hole-shifts-market-focus-to-g20-4876207",
-        "published": "2026-08-26 02:42:55"
-      },
-      {
-        "title": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole",
-        "link": "https://www.investing.com/news/economy-news/dollar-moves-in-a-narrow-range-ahead-of-inflation-data-jackson-hole-4876177",
-        "published": "2026-08-26 02:00:33"
       }
     ]
   }
