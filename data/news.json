@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-26T03:42:13.069929",
+  "fetched_at": "2026-08-26T05:55:40.552932",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vietcombank phát cảnh báo khẩn về việc bị giả mạo",
+        "link": "https://cafef.vn/vietcombank-phat-canh-bao-khan-ve-viec-bi-gia-mao-188260826111009435.chn",
+        "published": "Wed, 26 Aug 26 11:09:00 +0700"
+      },
+      {
+        "title": "Green GSM có động thái mới tại quốc gia láng giềng Việt Nam",
+        "link": "https://cafef.vn/green-gsm-co-dong-thai-moi-tai-quoc-gia-lang-gieng-viet-nam-188260826105018144.chn",
+        "published": "Wed, 26 Aug 26 10:50:00 +0700"
+      },
       {
         "title": "FTSE Russell công bố tài liệu quan trọng về tỷ trọng của Việt Nam, lộ trình giải ngân, phân loại cổ phiếu…",
         "link": "https://cafef.vn/ftse-russell-cong-bo-tai-lieu-quan-trong-ve-ty-trong-cua-viet-nam-lo-trinh-giai-ngan-phan-loai-co-phieu-188260826103513483.chn",
@@ -22,16 +32,6 @@
         "title": "Động thái “lạ” của quỹ vàng lớn nhất thế giới khi giá lên cao nhất hơn 3 tháng",
         "link": "https://cafef.vn/dong-thai-la-cua-quy-vang-lon-nhat-the-gioi-khi-gia-len-cao-nhat-hon-3-thang-188260826093900232.chn",
         "published": "Wed, 26 Aug 26 09:41:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu hãng nội y Victoria’s Secret tăng hơn 300% trong một năm, chuyện gì đang xảy ra?",
-        "link": "https://cafef.vn/co-phieu-hang-noi-y-victorias-secret-tang-hon-300-trong-mot-nam-chuyen-gi-dang-xay-ra-188260826093809746.chn",
-        "published": "Wed, 26 Aug 26 09:41:00 +0700"
-      },
-      {
-        "title": "Đảo chiều bán ròng, khối ngoại liên tục gom hàng sau khi VPB vào hai chỉ số của FTSE",
-        "link": "https://cafef.vn/dao-chieu-ban-rong-khoi-ngoai-lien-tuc-gom-hang-sau-khi-vpb-vao-hai-chi-so-cua-ftse-188260825203421923.chn",
-        "published": "Wed, 26 Aug 26 08:00:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Interest rates must rise further, ECB’s Schnabel tells Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/interest-rates-must-rise-further-ecbs-schnabel-tells-bloomberg-4876321",
+        "published": "2026-08-26 05:48:41"
+      },
+      {
+        "title": "Indonesia’s Destry says she will back growth policies if confirmed as central bank chief",
+        "link": "https://www.investing.com/news/economy-news/indonesias-destry-says-she-will-back-growth-policies-if-confirmed-as-central-bank-chief-4876260",
+        "published": "2026-08-26 04:55:16"
+      },
+      {
+        "title": "Morning Bid: Markets are waiting ’9 to 5’",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-markets-are-waiting-9-to-5-4876258",
+        "published": "2026-08-26 04:54:46"
+      },
+      {
         "title": "Australia inflation runs hot in July, adding to rate hike risk",
         "link": "https://www.investing.com/news/economy-news/australia-inflation-tops-forecasts-in-july-adds-to-rate-risk-4876166",
         "published": "2026-08-26 02:43:12"
@@ -113,21 +128,6 @@
         "title": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole",
         "link": "https://www.investing.com/news/economy-news/dollar-moves-in-a-narrow-range-ahead-of-inflation-data-jackson-hole-4876177",
         "published": "2026-08-26 02:00:33"
-      },
-      {
-        "title": "Japan’s corporate services inflation accelerates in July",
-        "link": "https://www.investing.com/news/economy-news/japans-corporate-services-inflation-accelerates-in-july-4876077",
-        "published": "2026-08-26 00:06:30"
-      },
-      {
-        "title": "Wall Street ends higher as tech rebounds before Nvidia results",
-        "link": "https://www.investing.com/news/economy-news/us-stock-futures-rise-on-tech-rebound-before-nvidia-inflation-tests-4874797",
-        "published": "2026-08-25 23:18:47"
-      },
-      {
-        "title": "Bolivia’s Paz taps deputy to lead economy after minister’s ousting",
-        "link": "https://www.investing.com/news/economy-news/bolivias-paz-taps-deputy-to-lead-economy-after-ministers-ousting-4876051",
-        "published": "2026-08-25 23:18:14"
       }
     ]
   }
