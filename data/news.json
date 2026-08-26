@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-08-26T10:20:31.050416",
+  "fetched_at": "2026-08-26T11:57:31.931690",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu TCB, BCM “cháy hàng”, VN-Index tăng phiên thứ 5 liên tiếp",
+        "link": "https://cafef.vn/co-phieu-tcb-bcm-chay-hang-vn-index-tang-phien-thu-5-lien-tiep-188260826171144393.chn",
+        "published": "Wed, 26 Aug 26 18:10:00 +0700"
+      },
+      {
+        "title": "Quant Trading bước vào “cuộc chơi” mới khi dữ liệu, AI và công nghệ định hình lại cách tiếp cận thị trường",
+        "link": "https://cafef.vn/quant-trading-buoc-vao-cuoc-choi-moi-khi-du-lieu-ai-va-cong-nghe-dinh-hinh-lai-cach-tiep-can-thi-truong-188260826164415734.chn",
+        "published": "Wed, 26 Aug 26 17:30:00 +0700"
+      },
+      {
+        "title": "Chứng khoán ngày 26/8: VN-Index vượt 1.820 điểm",
+        "link": "https://cafef.vn/chung-khoan-ngay-26-8-vn-index-vuot-1820-diem-18826082617005007.chn",
+        "published": "Wed, 26 Aug 26 17:29:00 +0700"
+      },
       {
         "title": "Một doanh nghiệp chuẩn bị \"lăn chốt\" cổ tức 120% bằng tiền mặt, cao gấp 6 lần sau 6 năm",
         "link": "https://cafef.vn/mot-doanh-nghiep-chuan-bi-lan-chot-co-tuc-120-bang-tien-mat-cao-gap-6-lan-sau-6-nam-188260826171225037.chn",
@@ -17,24 +32,14 @@
         "title": "Cao su Phước Hòa (PHR) sắp chi 190 tỷ đồng trả cổ tức, thưởng cổ phiếu tỷ lệ 80%",
         "link": "https://cafef.vn/cao-su-phuoc-hoa-phr-sap-chi-190-ty-dong-tra-co-tuc-thuong-co-phieu-ty-le-80-188260826171035976.chn",
         "published": "Wed, 26 Aug 26 17:11:00 +0700"
-      },
-      {
-        "title": "Xử phạt nhà đầu tư thao túng cổ phiếu của Tập đoàn Giáo dục Trí Việt",
-        "link": "https://cafef.vn/xu-phat-nha-dau-tu-thao-tung-co-phieu-cua-tap-doan-giao-duc-tri-viet-188260826170235976.chn",
-        "published": "Wed, 26 Aug 26 17:03:00 +0700"
-      },
-      {
-        "title": "Một bluechip được khối ngoại \"rót\" hơn 200 tỷ đồng phiên VN-Index tăng 30 điểm",
-        "link": "https://cafef.vn/mot-bluechip-duoc-khoi-ngoai-rot-hon-200-ty-dong-phien-vn-index-tang-30-diem-188260826154004053.chn",
-        "published": "Wed, 26 Aug 26 15:45:00 +0700"
-      },
-      {
-        "title": "Lai lịch 2 tổ chức nước ngoài đang đàm phán mua 15% cổ phần Techcombank",
-        "link": "https://cafef.vn/lai-lich-2-to-chuc-nuoc-ngoai-dang-dam-phan-mua-15-co-phan-techcombank-188260826151906777.chn",
-        "published": "Wed, 26 Aug 26 15:18:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Đi qua 4 thành phố, hành trình đưa sắc cam GPBank vào nhịp sống đô thị",
+        "link": "https://vneconomy.vn/di-qua-4-thanh-pho-hanh-trinh-dua-sac-cam-gpbank-vao-nhip-song-do-thi.htm",
+        "published": "Wed, 26 Aug 2026 11:23:06 GMT"
+      },
       {
         "title": "Trung Quốc xây dựng hệ thống phòng hộ để ứng phó với rủi ro trừng phạt từ Mỹ",
         "link": "https://vneconomy.vn/trung-quoc-xay-dung-he-thong-phong-ho-de-ung-pho-voi-rui-ro-trung-phat-tu-my.htm",
@@ -59,14 +64,24 @@
         "title": "Giá mua, bán vàng nhẫn “4 số 9” tăng mạnh hơn vàng miếng SJC",
         "link": "https://vneconomy.vn/gia-mua-ban-vang-nhan-4-so-9-tang-manh-hon-vang-mieng-sjc.htm",
         "published": "Tue, 25 Aug 2026 10:13:17 GMT"
-      },
-      {
-        "title": "ACB tiếp cận giới tinh hoa bằng lời mời trải nghiệm, thay vì điều kiện tài sản",
-        "link": "https://vneconomy.vn/acb-tiep-can-gioi-tinh-hoa-bang-loi-moi-trai-nghiem-thay-vi-dieu-kien-tai-san.htm",
-        "published": "Tue, 25 Aug 2026 07:58:46 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Vietstock Daily 27/08/2026: Đà tăng rộng mở?",
+        "link": "http://vietstock.vn/2026/08/vietstock-daily-27082026-da-tang-rong-mo-1636-1485476.htm",
+        "published": "Wed, 26 Aug 2026 18:17:00 +0700"
+      },
+      {
+        "title": "RTB không đạt điều kiện đại chúng, còn 1 năm để giải quyết",
+        "link": "http://vietstock.vn/2026/08/rtb-khong-dat-dieu-kien-dai-chung-con-1-nam-de-giai-quyet-830-1485477.htm",
+        "published": "Wed, 26 Aug 2026 18:10:36 +0700"
+      },
+      {
+        "title": "Cổ phiếu SSB của SeABank vào rổ FTSE Global All Cap",
+        "link": "http://vietstock.vn/2026/08/co-phieu-ssb-cua-seabank-vao-ro-ftse-global-all-cap-757-1485417.htm",
+        "published": "Wed, 26 Aug 2026 17:23:50 +0700"
+      },
       {
         "title": "Gần 164 triệu cp MSB được sang tay sau 4 phiên",
         "link": "http://vietstock.vn/2026/08/gan-164-trieu-cp-msb-duoc-sang-tay-sau-4-phien-757-1485285.htm",
@@ -81,53 +96,38 @@
         "title": "Hàng ngàn tỷ đồng chính thức \"đổ\" về tài khoản, cỗ máy in tiền DMX bắt đầu sinh lợi cho nhà đầu tư",
         "link": "http://vietstock.vn/2026/08/hang-ngan-ty-dong-chinh-thuc-do-ve-tai-khoan-co-may-in-tien-dmx-bat-dau-sinh-loi-cho-nha-dau-tu-830-1485261.htm",
         "published": "Wed, 26 Aug 2026 16:02:00 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 26/08",
-        "link": "http://vietstock.vn/2026/08/top-co-phieu-dang-chu-y-dau-phien-2608-830-1485104.htm",
-        "published": "Wed, 26 Aug 2026 08:00:00 +0700"
-      },
-      {
-        "title": "26/08: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/08/2608-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1485102.htm",
-        "published": "Wed, 26 Aug 2026 06:02:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 25/08: Tự doanh và khối ngoại giao dịch trái chiều",
-        "link": "http://vietstock.vn/2026/08/theo-dau-dong-tien-ca-map-2508-tu-doanh-va-khoi-ngoai-giao-dich-trai-chieu-830-1485089.htm",
-        "published": "Tue, 25 Aug 2026 19:44:10 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Taiwan president pushes $6.6 billion military drone bill ahead of crucial vote",
-        "link": "https://www.investing.com/news/economy-news/taiwan-president-pushes-66-billion-military-drone-bill-ahead-of-crucial-vote-4876581",
-        "published": "2026-08-26 09:37:14"
+        "title": "Wall St futures subdued as Nvidia results, inflation take center stage",
+        "link": "https://www.investing.com/news/economy-news/us-stock-futures-subdued-in-runup-to-nvidia-results-inflation-print-4876659",
+        "published": "2026-08-26 11:36:52"
       },
       {
-        "title": "Dollar inches higher ahead of US inflation data; Aussie gains on rate bets",
-        "link": "https://www.investing.com/news/economy-news/dollar-moves-in-a-narrow-range-ahead-of-inflation-data-jackson-hole-4876177",
-        "published": "2026-08-26 09:36:34"
+        "title": "Exclusive-US produce supplier Taylor Farms frequently fails to disclose workplace injury tallies, records show",
+        "link": "https://www.investing.com/news/economy-news/exclusiveus-produce-supplier-taylor-farms-frequently-fails-to-disclose-workplace-injury-tallies-records-show-4876623",
+        "published": "2026-08-26 11:30:34"
       },
       {
-        "title": "Thailand central bank holds key rate at 1.00% amid weak growth",
-        "link": "https://www.investing.com/news/economy-news/thailand-central-bank-holds-key-rate-at-100-amid-weak-growth-93CH-4876561",
-        "published": "2026-08-26 09:20:43"
+        "title": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
+        "link": "https://www.investing.com/news/economy-news/exclusivehack-of-water-sector-supplier-draws-fbi-scrutiny-as-iranlinked-cyber-concerns-grow-4876626",
+        "published": "2026-08-26 10:37:15"
       },
       {
-        "title": "Brazil vote offers opposing politics, similar fiscal outcomes",
-        "link": "https://www.investing.com/news/economy-news/brazil-vote-offers-opposing-politics-similar-fiscal-outcomes-4876550",
-        "published": "2026-08-26 09:06:37"
+        "title": "Saudi Aramco offers more oil outside Strait of Hormuz - report",
+        "link": "https://www.investing.com/news/economy-news/saudi-aramco-offers-more-oil-outside-strait-of-hormuz--report-4876681",
+        "published": "2026-08-26 10:27:46"
       },
       {
-        "title": "Nvidia to report; PCE ahead - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/nvidia-to-report-pce-ahead--whats-moving-markets-4876447",
-        "published": "2026-08-26 08:02:20"
+        "title": "CIA head holds talks with Russian officials in Moscow",
+        "link": "https://www.investing.com/news/economy-news/cia-head-holds-talks-with-russian-officials-in-moscow-93CH-4876655",
+        "published": "2026-08-26 10:19:02"
       },
       {
-        "title": "Some Chinese workers see an ally in Brussels as EU trade tensions mount",
-        "link": "https://www.investing.com/news/economy-news/some-chinese-workers-see-an-ally-in-brussels-as-eu-trade-tensions-mount-4876411",
-        "published": "2026-08-26 07:25:00"
+        "title": "Anxious investors hope for clarity on Warsh’s Fed plan at Jackson Hole",
+        "link": "https://www.investing.com/news/economy-news/anxious-investors-hope-for-clarity-on-warshs-fed-plan-at-jackson-hole-4876622",
+        "published": "2026-08-26 10:18:48"
       }
     ]
   }
