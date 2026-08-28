@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T21:54:05.069374",
+  "fetched_at": "2026-08-28T22:05:49.286749",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
+        "link": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
+        "published": "2026-08-28 21:30:37"
+      },
+      {
         "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
         "link": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
         "published": "2026-08-28 20:24:32"
@@ -118,11 +123,6 @@
         "title": "Analysis-Investors heartened by Warsh inflation talk, still uncertain about Fed action",
         "link": "https://www.investing.com/news/economy-news/analysisinvestors-heartened-by-warsh-inflation-talk-still-uncertain-about-fed-action-4881760",
         "published": "2026-08-28 19:12:29"
-      },
-      {
-        "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
-        "link": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
-        "published": "2026-08-28 19:07:38"
       },
       {
         "title": "Brazil weighs lending curbs as household debt stress mounts",
