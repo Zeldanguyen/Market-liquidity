@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-29T08:35:57.997299",
+  "fetched_at": "2026-08-29T09:06:10.908192",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "8 tỷ phú giàu nhất Việt Nam hiện nay trên Forbes",
+        "link": "https://cafef.vn/8-ty-phu-giau-nhat-viet-nam-hien-nay-tren-forbes-188260829154327543.chn",
+        "published": "Sat, 29 Aug 26 15:43:00 +0700"
+      },
+      {
+        "title": "Lý do Điện Máy Xanh chấm dứt hoạt động ở Campuchia",
+        "link": "https://cafef.vn/ly-do-dien-may-xanh-cham-dut-hoat-dong-o-campuchia-188260829153840075.chn",
+        "published": "Sat, 29 Aug 26 15:38:00 +0700"
+      },
       {
         "title": "FPT Retail bị phạt 400 triệu đồng",
         "link": "https://cafef.vn/fpt-retail-bi-phat-400-trieu-dong-188260829121108126.chn",
@@ -22,16 +32,6 @@
         "title": "Giá vàng bật tăng 15% trong tháng 8, chuyên gia cảnh báo một vùng giá có thể kích hoạt áp lực chốt lời",
         "link": "https://cafef.vn/gia-vang-bat-tang-15-trong-thang-8-chuyen-gia-canh-bao-mot-vung-gia-co-the-kich-hoat-ap-luc-chot-loi-188260828230904135.chn",
         "published": "Sat, 29 Aug 26 00:05:00 +0700"
-      },
-      {
-        "title": "Chứng khoán ra sao trước kỳ nghỉ 5 ngày?",
-        "link": "https://cafef.vn/chung-khoan-ra-sao-truoc-ky-nghi-5-ngay-188260828203507456.chn",
-        "published": "Sat, 29 Aug 26 00:04:00 +0700"
-      },
-      {
-        "title": "“Khách sộp” ở TP HCM vừa chốt mua 3.000 xe điện VinFast của tỷ phú Phạm Nhật Vượng là ai?",
-        "link": "https://cafef.vn/khach-sop-o-tp-hcm-vua-chot-mua-3000-xe-dien-vinfast-cua-ty-phu-pham-nhat-vuong-la-ai-188260828225615132.chn",
-        "published": "Sat, 29 Aug 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
