@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T16:05:56.103069",
+  "fetched_at": "2026-08-29T16:35:56.892740",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Iceland votes in tight referendum on whether to start EU membership talks",
+        "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+        "published": "2026-08-29 15:48:27"
+      },
+      {
         "title": "What do households want from the UK Budget?",
         "link": "https://www.investing.com/news/economy-news/what-do-households-want-from-the-uk-budget-4881983",
         "published": "2026-08-29 15:10:02"
@@ -123,11 +128,6 @@
         "title": "UK Chancellor Healey eyes cautious budget as fiscal pressures mount",
         "link": "https://www.investing.com/news/economy-news/uk-chancellor-healey-eyes-cautious-budget-as-fiscal-pressures-mount-4881940",
         "published": "2026-08-29 05:24:26"
-      },
-      {
-        "title": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets",
-        "link": "https://www.investing.com/news/economy-news/stocks-fall-while-dollar-bond-yields-rise-as-warsh-prompts-rate-hike-bets-4881939",
-        "published": "2026-08-29 05:20:58"
       }
     ]
   }
