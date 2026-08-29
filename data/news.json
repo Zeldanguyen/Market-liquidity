@@ -1,39 +1,8 @@
 {
-  "fetched_at": "2026-08-29T06:35:57.831073",
+  "fetched_at": "2026-08-29T07:06:21.666355",
   "feeds": {
     "Reuters Business": [],
-    "CafeF": [
-      {
-        "title": "FPT Retail bị phạt 400 triệu đồng",
-        "link": "https://cafef.vn/fpt-retail-bi-phat-400-trieu-dong-188260829121108126.chn",
-        "published": "Sat, 29 Aug 26 12:10:00 +0700"
-      },
-      {
-        "title": "Khối ngoại bất ngờ trở lại giải ngân hơn 1.100 tỷ đồng mua cổ phiếu Việt Nam, tâm điểm một mã ngân hàng",
-        "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tro-lai-giai-ngan-hon-1100-ty-dong-mua-co-phieu-viet-nam-tam-diem-mot-ma-ngan-hang-188260828234348842.chn",
-        "published": "Sat, 29 Aug 26 08:25:00 +0700"
-      },
-      {
-        "title": "Ông Ngô Trọng Vinh xin từ nhiệm, công ty triệu tập họp bất thường",
-        "link": "https://cafef.vn/ong-ngo-trong-vinh-xin-tu-nhiem-cong-ty-trieu-tap-hop-bat-thuong-188260828230954212.chn",
-        "published": "Sat, 29 Aug 26 00:07:00 +0700"
-      },
-      {
-        "title": "Giá vàng bật tăng 15% trong tháng 8, chuyên gia cảnh báo một vùng giá có thể kích hoạt áp lực chốt lời",
-        "link": "https://cafef.vn/gia-vang-bat-tang-15-trong-thang-8-chuyen-gia-canh-bao-mot-vung-gia-co-the-kich-hoat-ap-luc-chot-loi-188260828230904135.chn",
-        "published": "Sat, 29 Aug 26 00:05:00 +0700"
-      },
-      {
-        "title": "Chứng khoán ra sao trước kỳ nghỉ 5 ngày?",
-        "link": "https://cafef.vn/chung-khoan-ra-sao-truoc-ky-nghi-5-ngay-188260828203507456.chn",
-        "published": "Sat, 29 Aug 26 00:04:00 +0700"
-      },
-      {
-        "title": "“Khách sộp” ở TP HCM vừa chốt mua 3.000 xe điện VinFast của tỷ phú Phạm Nhật Vượng là ai?",
-        "link": "https://cafef.vn/khach-sop-o-tp-hcm-vua-chot-mua-3000-xe-dien-vinfast-cua-ty-phu-pham-nhat-vuong-la-ai-188260828225615132.chn",
-        "published": "Sat, 29 Aug 26 00:03:00 +0700"
-      }
-    ],
+    "CafeF": [],
     "VnEconomy": [
       {
         "title": "Từ Jackson Hole, Chủ tịch Fed phát tín hiệu tăng lãi suất",
