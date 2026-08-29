@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T12:36:09.376540",
+  "fetched_at": "2026-08-29T13:06:10.919177",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
+        "link": "https://www.investing.com/news/economy-news/goldman-draws-3-lessons-from-economic-research-on-us-inflation-expectations-4881977",
+        "published": "2026-08-29 12:47:09"
+      },
+      {
         "title": "Russian strike kills 27 near Kyiv as Moscow militarizes schools",
         "link": "https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964",
         "published": "2026-08-29 09:54:19"
@@ -123,11 +128,6 @@
         "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
         "link": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
         "published": "2026-08-29 05:20:29"
-      },
-      {
-        "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
-        "link": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
-        "published": "2026-08-29 05:18:55"
       }
     ]
   }
