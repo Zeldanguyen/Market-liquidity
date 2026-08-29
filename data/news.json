@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T20:05:57.346313",
+  "fetched_at": "2026-08-29T20:35:54.376799",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "What’s in store for the week ahead",
+        "link": "https://www.investing.com/news/economy-news/whats-in-store-for-the-week-ahead-4881996",
+        "published": "2026-08-29 20:07:15"
+      },
+      {
         "title": "Iran foreign trade plunges 35% under US blockade as six-month war drags on",
         "link": "https://www.investing.com/news/economy-news/iranian-trade-plunges-35-as-us-steps-up-economic-pressure-4881926",
         "published": "2026-08-29 18:55:43"
@@ -123,11 +128,6 @@
         "title": "What do households want from the UK Budget?",
         "link": "https://www.investing.com/news/economy-news/what-do-households-want-from-the-uk-budget-4881983",
         "published": "2026-08-29 15:10:02"
-      },
-      {
-        "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
-        "link": "https://www.investing.com/news/economy-news/goldman-draws-3-lessons-from-economic-research-on-us-inflation-expectations-4881977",
-        "published": "2026-08-29 12:47:09"
       }
     ]
   }
