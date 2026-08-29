@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T02:35:43.444437",
+  "fetched_at": "2026-08-29T03:05:50.415846",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Iranian trade plunges 35% as U.S. steps up economic pressure",
+        "link": "https://www.investing.com/news/economy-news/iranian-trade-plunges-35-as-us-steps-up-economic-pressure-4881926",
+        "published": "2026-08-29 02:41:32"
+      },
+      {
         "title": "White House teleprompter operator settles prediction market trading probe",
         "link": "https://www.investing.com/news/economy-news/white-house-teleprompter-operator-settles-prediction-market-trading-probe-4881903",
         "published": "2026-08-29 00:49:48"
@@ -123,11 +128,6 @@
         "title": "Analysis-Warsh’s ’quieter Fed’ now includes a smidgen of guidance",
         "link": "https://www.investing.com/news/economy-news/analysiswarshs-quieter-fed-now-includes-a-smidgen-of-guidance-4881771",
         "published": "2026-08-28 19:37:11"
-      },
-      {
-        "title": "ECB’s Kocher says European economy gaining momentum - Bloomberg",
-        "link": "https://www.investing.com/news/economy-news/ecbs-kocher-says-european-economy-gaining-momentum--bloomberg-93CH-4881762",
-        "published": "2026-08-28 19:19:00"
       }
     ]
   }
