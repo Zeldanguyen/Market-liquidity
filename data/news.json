@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T23:35:54.007108",
+  "fetched_at": "2026-08-29T00:05:52.378398",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump says U.S. secures control of over 65 billion barrels of Venezuelan oil",
+        "link": "https://www.investing.com/news/economy-news/trump-says-us-secures-control-of-over-65-billion-barrels-of-venezuelan-oil-4881873",
+        "published": "2026-08-28 23:09:08"
+      },
+      {
         "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
         "link": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
         "published": "2026-08-28 21:30:37"
@@ -123,11 +128,6 @@
         "title": "Analysis-Investors heartened by Warsh inflation talk, still uncertain about Fed action",
         "link": "https://www.investing.com/news/economy-news/analysisinvestors-heartened-by-warsh-inflation-talk-still-uncertain-about-fed-action-4881760",
         "published": "2026-08-28 19:12:29"
-      },
-      {
-        "title": "Brazil weighs lending curbs as household debt stress mounts",
-        "link": "https://www.investing.com/news/economy-news/brazil-weighs-lending-curbs-as-household-debt-stress-mounts-4881753",
-        "published": "2026-08-28 18:48:29"
       }
     ]
   }
