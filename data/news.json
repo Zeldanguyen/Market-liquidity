@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-29T01:06:44.961321",
+  "fetched_at": "2026-08-29T01:35:44.250026",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Khối ngoại bất ngờ trở lại giải ngân hơn 1.100 tỷ đồng mua cổ phiếu Việt Nam, tâm điểm một mã ngân hàng",
+        "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tro-lai-giai-ngan-hon-1100-ty-dong-mua-co-phieu-viet-nam-tam-diem-mot-ma-ngan-hang-188260828234348842.chn",
+        "published": "Sat, 29 Aug 26 08:25:00 +0700"
+      },
       {
         "title": "Ông Ngô Trọng Vinh xin từ nhiệm, công ty triệu tập họp bất thường",
         "link": "https://cafef.vn/ong-ngo-trong-vinh-xin-tu-nhiem-cong-ty-trieu-tap-hop-bat-thuong-188260828230954212.chn",
@@ -27,14 +32,14 @@
         "title": "Chính thức chốt ngày 4,1 tỷ cổ phiếu Vinhomes phát hành trả cổ tức được giao dịch",
         "link": "https://cafef.vn/chinh-thuc-chot-ngay-41-ty-co-phieu-vinhomes-phat-hanh-tra-co-tuc-duoc-giao-dich-188260828225936108.chn",
         "published": "Sat, 29 Aug 26 00:01:00 +0700"
-      },
-      {
-        "title": "Một thế lực xả ròng hơn 700 tỷ đồng cổ phiếu Việt ngay trước kỳ nghỉ lễ, đâu là tâm điểm?",
-        "link": "https://cafef.vn/mot-the-luc-xa-rong-hon-700-ty-dong-co-phieu-viet-ngay-truoc-ky-nghi-le-dau-la-tam-diem-188260828181821828.chn",
-        "published": "Fri, 28 Aug 26 18:18:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giá vàng “bốc hơi” gần 150 USD/oz sau bài phát biểu của Chủ tịch Fed",
+        "link": "https://vneconomy.vn/gia-vang-boc-hoi-gan-150-usdoz-sau-bai-phat-bieu-cua-chu-tich-fed.htm",
+        "published": "Sat, 29 Aug 2026 01:21:44 GMT"
+      },
       {
         "title": "Techcombank: Chuyển đổi giao dịch thành nguồn lực cho hộ kinh doanh",
         "link": "https://vneconomy.vn/techcombank-chuyen-doi-giao-dich-thanh-nguon-luc-cho-ho-kinh-doanh.htm",
@@ -59,11 +64,6 @@
         "title": "Vừa tới Jackson Hole, ba quan chức Fed đã bày tỏ lo ngại về lạm phát",
         "link": "https://vneconomy.vn/vua-toi-jackson-hole-ba-quan-chuc-fed-da-bay-to-lo-ngai-ve-lam-phat.htm",
         "published": "Fri, 28 Aug 2026 02:27:55 GMT"
-      },
-      {
-        "title": "Bảo hiểm Bảo Việt đứng đầu danh sách 26 doanh nghiệp bảo hiểm uy tín trong lĩnh vực hàng hải",
-        "link": "https://vneconomy.vn/bao-hiem-bao-viet-dung-dau-danh-sach-26-doanh-nghiep-bao-hiem-uy-tin-trong-linh-vuc-hang-hai.htm",
-        "published": "Fri, 28 Aug 2026 01:00:00 GMT"
       }
     ],
     "Vietstock": [
