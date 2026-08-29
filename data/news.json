@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T19:06:01.220767",
+  "fetched_at": "2026-08-29T19:36:02.505714",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Iran foreign trade plunges 35% under US blockade as six-month war drags on",
+        "link": "https://www.investing.com/news/economy-news/iranian-trade-plunges-35-as-us-steps-up-economic-pressure-4881926",
+        "published": "2026-08-29 18:55:43"
+      },
+      {
         "title": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
         "link": "https://www.investing.com/news/economy-news/us-treasurys-bessent-warns-yen-volatility-risks-spillover-to-global-markets-4881990",
         "published": "2026-08-29 17:23:31"
@@ -123,11 +128,6 @@
         "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
         "link": "https://www.investing.com/news/economy-news/goldman-draws-3-lessons-from-economic-research-on-us-inflation-expectations-4881977",
         "published": "2026-08-29 12:47:09"
-      },
-      {
-        "title": "Russian strike kills 27 near Kyiv as Moscow militarizes schools",
-        "link": "https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964",
-        "published": "2026-08-29 09:54:19"
       }
     ]
   }
