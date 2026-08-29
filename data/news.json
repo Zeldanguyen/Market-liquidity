@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-08-29T17:06:14.521609",
+  "fetched_at": "2026-08-29T17:35:52.866506",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Xử phạt một công ty đa cấp",
+        "link": "https://cafef.vn/xu-phat-mot-cong-ty-da-cap-188260829212806868.chn",
+        "published": "Sun, 30 Aug 26 00:07:00 +0700"
+      },
+      {
+        "title": "Chủ tịch Ủy ban Chứng khoán Nhà nước làm việc với lãnh đạo S&P Dow Jones Indices",
+        "link": "https://cafef.vn/chu-tich-uy-ban-chung-khoan-nha-nuoc-lam-viec-voi-lanh-dao-sp-dow-jones-indices-188260829221157511.chn",
+        "published": "Sun, 30 Aug 26 00:05:00 +0700"
+      },
+      {
+        "title": "Sau dịp lễ Quốc khánh, khi nào thị trường chứng khoán giao dịch trở lại bình thường?",
+        "link": "https://cafef.vn/sau-dip-le-quoc-khanh-khi-nao-thi-truong-chung-khoan-giao-dich-tro-lai-binh-thuong-188260829154209089.chn",
+        "published": "Sun, 30 Aug 26 00:05:00 +0700"
+      },
       {
         "title": "Nhóm CII gom thêm 1 triệu cổ phiếu PC1",
         "link": "https://cafef.vn/nhom-cii-gom-them-1-trieu-co-phieu-pc1-188260829154048636.chn",
@@ -17,21 +32,6 @@
         "title": "Giọng điệu cứng rắn của Chủ tịch Fed khiến giá vàng lao dốc",
         "link": "https://cafef.vn/giong-dieu-cung-ran-cua-chu-tich-fed-khien-gia-vang-lao-doc-1882608291605264.chn",
         "published": "Sat, 29 Aug 26 16:17:00 +0700"
-      },
-      {
-        "title": "Hé lộ thu nhập tiền tỷ của các CEO công ty chứng khoán",
-        "link": "https://cafef.vn/he-lo-thu-nhap-tien-ty-cua-cac-ceo-cong-ty-chung-khoan-188260829160419067.chn",
-        "published": "Sat, 29 Aug 26 16:17:00 +0700"
-      },
-      {
-        "title": "8 tỷ phú giàu nhất Việt Nam hiện nay trên Forbes",
-        "link": "https://cafef.vn/8-ty-phu-giau-nhat-viet-nam-hien-nay-tren-forbes-188260829154327543.chn",
-        "published": "Sat, 29 Aug 26 15:43:00 +0700"
-      },
-      {
-        "title": "Lý do Điện Máy Xanh chấm dứt hoạt động ở Campuchia",
-        "link": "https://cafef.vn/ly-do-dien-may-xanh-cham-dut-hoat-dong-o-campuchia-188260829153840075.chn",
-        "published": "Sat, 29 Aug 26 15:38:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
+        "link": "https://www.investing.com/news/economy-news/us-treasurys-bessent-warns-yen-volatility-risks-spillover-to-global-markets-4881990",
+        "published": "2026-08-29 17:23:31"
+      },
+      {
         "title": "Bessent says disorderly yen moves can destabilize global markets",
         "link": "https://www.investing.com/news/economy-news/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-4881989",
         "published": "2026-08-29 16:48:27"
@@ -123,11 +128,6 @@
         "title": "Russian strike kills 27 near Kyiv as Moscow militarizes schools",
         "link": "https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964",
         "published": "2026-08-29 09:54:19"
-      },
-      {
-        "title": "China’s massive oil reserves give Beijing leverage during Iran war",
-        "link": "https://www.investing.com/news/economy-news/chinas-massive-oil-reserves-give-beijing-leverage-during-iran-war-4881952",
-        "published": "2026-08-29 07:23:59"
       }
     ]
   }
