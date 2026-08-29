@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T10:06:03.163912",
+  "fetched_at": "2026-08-29T10:35:53.274941",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Russian strike kills 27 near Kyiv as Moscow militarizes schools",
+        "link": "https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964",
+        "published": "2026-08-29 09:54:19"
+      },
+      {
         "title": "China’s massive oil reserves give Beijing leverage during Iran war",
         "link": "https://www.investing.com/news/economy-news/chinas-massive-oil-reserves-give-beijing-leverage-during-iran-war-4881952",
         "published": "2026-08-29 07:23:59"
@@ -123,11 +128,6 @@
         "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
         "link": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
         "published": "2026-08-29 05:18:55"
-      },
-      {
-        "title": "Reform UK plays down crypto ties as it courts business, diplomats",
-        "link": "https://www.investing.com/news/economy-news/reform-uk-plays-down-crypto-ties-as-it-courts-business-diplomats-4881938",
-        "published": "2026-08-29 04:45:47"
       }
     ]
   }
