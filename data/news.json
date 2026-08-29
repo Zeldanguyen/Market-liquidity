@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T13:35:48.040485",
+  "fetched_at": "2026-08-29T14:06:03.531538",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC “gánh” hơn 52 điểm",
+        "link": "http://vietstock.vn/2026/08/vn-index-tang-64-diem-tuan-qua-rieng-vic-ganh-hon-52-diem-830-1486908.htm",
+        "published": "Sat, 29 Aug 2026 20:30:00 +0700"
+      },
+      {
         "title": "Quản lý kỳ vọng nhà đầu tư: Yếu tố then chốt sự ổn định định giá trong năm 2026",
         "link": "http://vietstock.vn/2026/08/quan-ly-ky-vong-nha-dau-tu-yeu-to-then-chot-su-on-dinh-dinh-gia-trong-nam-2026-830-1468836.htm",
         "published": "Sat, 29 Aug 2026 14:02:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Đến tháng 8 vẫn chưa tổ chức đại hội thường niên, DRH Holdings bị HOSE nhắc nhở về việc đảm bảo quyền lợi cổ đông",
         "link": "http://vietstock.vn/2026/08/den-thang-8-van-chua-to-chuc-dai-hoi-thuong-nien-drh-holdings-bi-hose-nhac-nho-ve-viec-dam-bao-quyen-loi-co-dong-830-1486501.htm",
         "published": "Fri, 28 Aug 2026 16:58:11 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 28/08: Khối ngoại tiếp tục mua ròng nhóm bluechip, VN-Index rung lắc tại 1,832 điểm",
-        "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2808-khoi-ngoai-tiep-tuc-mua-rong-nhom-bluechip-vn-index-rung-lac-tai-1832-diem-1636-1486196.htm",
-        "published": "Fri, 28 Aug 2026 16:52:00 +0700"
       }
     ],
     "Investing.com Economy": [
