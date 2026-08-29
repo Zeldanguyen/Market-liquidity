@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T07:36:13.936460",
+  "fetched_at": "2026-08-29T08:05:56.438803",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China’s massive oil reserves give Beijing leverage during Iran war",
+        "link": "https://www.investing.com/news/economy-news/chinas-massive-oil-reserves-give-beijing-leverage-during-iran-war-4881952",
+        "published": "2026-08-29 07:23:59"
+      },
+      {
         "title": "UK Chancellor Healey eyes cautious budget as fiscal pressures mount",
         "link": "https://www.investing.com/news/economy-news/uk-chancellor-healey-eyes-cautious-budget-as-fiscal-pressures-mount-4881940",
         "published": "2026-08-29 05:24:26"
@@ -123,11 +128,6 @@
         "title": "Reform UK plays down crypto ties as it courts business, diplomats",
         "link": "https://www.investing.com/news/economy-news/reform-uk-plays-down-crypto-ties-as-it-courts-business-diplomats-4881938",
         "published": "2026-08-29 04:45:47"
-      },
-      {
-        "title": "Iranian trade plunges 35% as U.S. steps up economic pressure",
-        "link": "https://www.investing.com/news/economy-news/iranian-trade-plunges-35-as-us-steps-up-economic-pressure-4881926",
-        "published": "2026-08-29 02:41:32"
       }
     ]
   }
