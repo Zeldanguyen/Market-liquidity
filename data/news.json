@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T00:36:12.715948",
+  "fetched_at": "2026-08-29T01:06:44.961321",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Techcombank: Chuyển đổi giao dịch thành nguồn lực cho hộ kinh doanh",
+        "link": "https://vneconomy.vn/techcombank-chuyen-doi-giao-dich-thanh-nguon-luc-cho-ho-kinh-doanh.htm",
+        "published": "Sat, 29 Aug 2026 01:00:00 GMT"
+      },
+      {
         "title": "Bảo hiểm công trình: Chi phí bắt buộc hay khoản đầu tư bảo vệ dự án?",
         "link": "https://vneconomy.vn/bao-hiem-cong-trinh-chi-phi-bat-buoc-hay-khoan-dau-tu-bao-ve-du-an.htm",
         "published": "Fri, 28 Aug 2026 07:52:24 GMT"
@@ -59,11 +64,6 @@
         "title": "Bảo hiểm Bảo Việt đứng đầu danh sách 26 doanh nghiệp bảo hiểm uy tín trong lĩnh vực hàng hải",
         "link": "https://vneconomy.vn/bao-hiem-bao-viet-dung-dau-danh-sach-26-doanh-nghiep-bao-hiem-uy-tin-trong-linh-vuc-hang-hai.htm",
         "published": "Fri, 28 Aug 2026 01:00:00 GMT"
-      },
-      {
-        "title": "Giá vàng nhích lên trong lúc chờ bài phát biểu của Chủ tịch Fed",
-        "link": "https://vneconomy.vn/gia-vang-nhich-len-trong-luc-cho-bai-phat-bieu-cua-chu-tich-fed.htm",
-        "published": "Fri, 28 Aug 2026 00:24:30 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "White House teleprompter operator settles prediction market trading probe",
+        "link": "https://www.investing.com/news/economy-news/white-house-teleprompter-operator-settles-prediction-market-trading-probe-4881903",
+        "published": "2026-08-29 00:49:48"
+      },
+      {
         "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
         "link": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
         "published": "2026-08-29 00:18:25"
@@ -123,11 +128,6 @@
         "title": "ECB’s Kocher says European economy gaining momentum - Bloomberg",
         "link": "https://www.investing.com/news/economy-news/ecbs-kocher-says-european-economy-gaining-momentum--bloomberg-93CH-4881762",
         "published": "2026-08-28 19:19:00"
-      },
-      {
-        "title": "Analysis-Investors heartened by Warsh inflation talk, still uncertain about Fed action",
-        "link": "https://www.investing.com/news/economy-news/analysisinvestors-heartened-by-warsh-inflation-talk-still-uncertain-about-fed-action-4881760",
-        "published": "2026-08-28 19:12:29"
       }
     ]
   }
