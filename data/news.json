@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T15:06:07.909469",
+  "fetched_at": "2026-08-29T15:35:57.429592",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "What do households want from the UK Budget?",
+        "link": "https://www.investing.com/news/economy-news/what-do-households-want-from-the-uk-budget-4881983",
+        "published": "2026-08-29 15:10:02"
+      },
+      {
         "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
         "link": "https://www.investing.com/news/economy-news/goldman-draws-3-lessons-from-economic-research-on-us-inflation-expectations-4881977",
         "published": "2026-08-29 12:47:09"
@@ -123,11 +128,6 @@
         "title": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets",
         "link": "https://www.investing.com/news/economy-news/stocks-fall-while-dollar-bond-yields-rise-as-warsh-prompts-rate-hike-bets-4881939",
         "published": "2026-08-29 05:20:58"
-      },
-      {
-        "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
-        "link": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
-        "published": "2026-08-29 05:20:29"
       }
     ]
   }
