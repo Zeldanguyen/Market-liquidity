@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T20:35:54.376799",
+  "fetched_at": "2026-08-29T21:05:53.958749",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Warsh at Jackson Hole: 8 key takeaways",
+        "link": "https://www.investing.com/news/economy-news/warsh-at-jackson-hole-8-key-takeaways-4881998",
+        "published": "2026-08-29 20:34:12"
+      },
+      {
+        "title": "UAE investigates Egypt’s Banque Misr after U.S. moves to block dollar clearing",
+        "link": "https://www.investing.com/news/economy-news/uae-investigates-egypts-banque-misr-after-us-moves-to-block-dollar-clearing-4881997",
+        "published": "2026-08-29 20:27:39"
+      },
+      {
         "title": "What’s in store for the week ahead",
         "link": "https://www.investing.com/news/economy-news/whats-in-store-for-the-week-ahead-4881996",
         "published": "2026-08-29 20:07:15"
@@ -118,16 +128,6 @@
         "title": "Bessent says disorderly yen moves can destabilize global markets",
         "link": "https://www.investing.com/news/economy-news/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-4881989",
         "published": "2026-08-29 16:48:27"
-      },
-      {
-        "title": "Iceland votes in tight referendum on whether to start EU membership talks",
-        "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
-        "published": "2026-08-29 15:48:27"
-      },
-      {
-        "title": "What do households want from the UK Budget?",
-        "link": "https://www.investing.com/news/economy-news/what-do-households-want-from-the-uk-budget-4881983",
-        "published": "2026-08-29 15:10:02"
       }
     ]
   }
