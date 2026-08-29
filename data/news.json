@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T05:35:41.032061",
+  "fetched_at": "2026-08-29T06:06:14.239869",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UK Chancellor Healey eyes cautious budget as fiscal pressures mount",
+        "link": "https://www.investing.com/news/economy-news/uk-chancellor-healey-eyes-cautious-budget-as-fiscal-pressures-mount-4881940",
+        "published": "2026-08-29 05:24:26"
+      },
+      {
         "title": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets",
         "link": "https://www.investing.com/news/economy-news/stocks-fall-while-dollar-bond-yields-rise-as-warsh-prompts-rate-hike-bets-4881939",
         "published": "2026-08-29 05:20:58"
@@ -123,11 +128,6 @@
         "title": "Iranian trade plunges 35% as U.S. steps up economic pressure",
         "link": "https://www.investing.com/news/economy-news/iranian-trade-plunges-35-as-us-steps-up-economic-pressure-4881926",
         "published": "2026-08-29 02:41:32"
-      },
-      {
-        "title": "White House teleprompter operator settles prediction market trading probe",
-        "link": "https://www.investing.com/news/economy-news/white-house-teleprompter-operator-settles-prediction-market-trading-probe-4881903",
-        "published": "2026-08-29 00:49:48"
       }
     ]
   }
