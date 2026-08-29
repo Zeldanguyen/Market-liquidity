@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T04:36:12.973552",
+  "fetched_at": "2026-08-29T05:06:36.239605",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Reform UK plays down crypto ties as it courts business, diplomats",
+        "link": "https://www.investing.com/news/economy-news/reform-uk-plays-down-crypto-ties-as-it-courts-business-diplomats-4881938",
+        "published": "2026-08-29 04:45:47"
+      },
+      {
         "title": "Iranian trade plunges 35% as U.S. steps up economic pressure",
         "link": "https://www.investing.com/news/economy-news/iranian-trade-plunges-35-as-us-steps-up-economic-pressure-4881926",
         "published": "2026-08-29 02:41:32"
@@ -123,11 +128,6 @@
         "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
         "link": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
         "published": "2026-08-28 21:30:37"
-      },
-      {
-        "title": "Analysis-Warsh’s ’quieter Fed’ now includes a smidgen of guidance",
-        "link": "https://www.investing.com/news/economy-news/analysiswarshs-quieter-fed-now-includes-a-smidgen-of-guidance-4881771",
-        "published": "2026-08-28 19:37:11"
       }
     ]
   }
