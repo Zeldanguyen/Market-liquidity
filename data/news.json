@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T22:06:07.490466",
+  "fetched_at": "2026-08-29T22:35:58.512331",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Iceland counts votes in tight referendum on EU membership talks",
+        "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+        "published": "2026-08-29 22:00:29"
+      },
+      {
         "title": "Warsh at Jackson Hole: 8 key takeaways",
         "link": "https://www.investing.com/news/economy-news/warsh-at-jackson-hole-8-key-takeaways-4881998",
         "published": "2026-08-29 20:34:12"
@@ -123,11 +128,6 @@
         "title": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
         "link": "https://www.investing.com/news/economy-news/us-treasurys-bessent-warns-yen-volatility-risks-spillover-to-global-markets-4881990",
         "published": "2026-08-29 17:23:31"
-      },
-      {
-        "title": "Bessent says disorderly yen moves can destabilize global markets",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-4881989",
-        "published": "2026-08-29 16:48:27"
       }
     ]
   }
