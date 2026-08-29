@@ -1,8 +1,39 @@
 {
-  "fetched_at": "2026-08-29T07:06:21.666355",
+  "fetched_at": "2026-08-29T07:36:13.936460",
   "feeds": {
     "Reuters Business": [],
-    "CafeF": [],
+    "CafeF": [
+      {
+        "title": "FPT Retail bị phạt 400 triệu đồng",
+        "link": "https://cafef.vn/fpt-retail-bi-phat-400-trieu-dong-188260829121108126.chn",
+        "published": "Sat, 29 Aug 26 12:10:00 +0700"
+      },
+      {
+        "title": "Khối ngoại bất ngờ trở lại giải ngân hơn 1.100 tỷ đồng mua cổ phiếu Việt Nam, tâm điểm một mã ngân hàng",
+        "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tro-lai-giai-ngan-hon-1100-ty-dong-mua-co-phieu-viet-nam-tam-diem-mot-ma-ngan-hang-188260828234348842.chn",
+        "published": "Sat, 29 Aug 26 08:25:00 +0700"
+      },
+      {
+        "title": "Ông Ngô Trọng Vinh xin từ nhiệm, công ty triệu tập họp bất thường",
+        "link": "https://cafef.vn/ong-ngo-trong-vinh-xin-tu-nhiem-cong-ty-trieu-tap-hop-bat-thuong-188260828230954212.chn",
+        "published": "Sat, 29 Aug 26 00:07:00 +0700"
+      },
+      {
+        "title": "Giá vàng bật tăng 15% trong tháng 8, chuyên gia cảnh báo một vùng giá có thể kích hoạt áp lực chốt lời",
+        "link": "https://cafef.vn/gia-vang-bat-tang-15-trong-thang-8-chuyen-gia-canh-bao-mot-vung-gia-co-the-kich-hoat-ap-luc-chot-loi-188260828230904135.chn",
+        "published": "Sat, 29 Aug 26 00:05:00 +0700"
+      },
+      {
+        "title": "Chứng khoán ra sao trước kỳ nghỉ 5 ngày?",
+        "link": "https://cafef.vn/chung-khoan-ra-sao-truoc-ky-nghi-5-ngay-188260828203507456.chn",
+        "published": "Sat, 29 Aug 26 00:04:00 +0700"
+      },
+      {
+        "title": "“Khách sộp” ở TP HCM vừa chốt mua 3.000 xe điện VinFast của tỷ phú Phạm Nhật Vượng là ai?",
+        "link": "https://cafef.vn/khach-sop-o-tp-hcm-vua-chot-mua-3000-xe-dien-vinfast-cua-ty-phu-pham-nhat-vuong-la-ai-188260828225615132.chn",
+        "published": "Sat, 29 Aug 26 00:03:00 +0700"
+      }
+    ],
     "VnEconomy": [
       {
         "title": "Từ Jackson Hole, Chủ tịch Fed phát tín hiệu tăng lãi suất",
@@ -37,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Quản lý kỳ vọng nhà đầu tư: Yếu tố then chốt sự ổn định định giá trong năm 2026",
+        "link": "http://vietstock.vn/2026/08/quan-ly-ky-vong-nha-dau-tu-yeu-to-then-chot-su-on-dinh-dinh-gia-trong-nam-2026-830-1468836.htm",
+        "published": "Sat, 29 Aug 2026 14:02:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 28/08: Khối ngoại tiếp tục mua ròng, tự doanh xả hàng mạnh",
         "link": "http://vietstock.vn/2026/08/theo-dau-dong-tien-ca-map-2808-khoi-ngoai-tiep-tuc-mua-rong-tu-doanh-xa-hang-manh-830-1486758.htm",
         "published": "Fri, 28 Aug 2026 19:17:00 +0700"
@@ -60,11 +96,6 @@
         "title": "Nhịp đập Thị trường 28/08: Khối ngoại tiếp tục mua ròng nhóm bluechip, VN-Index rung lắc tại 1,832 điểm",
         "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2808-khoi-ngoai-tiep-tuc-mua-rong-nhom-bluechip-vn-index-rung-lac-tai-1832-diem-1636-1486196.htm",
         "published": "Fri, 28 Aug 2026 16:52:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 28/08: Tiếp tục giằng co",
-        "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2808-tiep-tuc-giang-co-585-1486288.htm",
-        "published": "Fri, 28 Aug 2026 13:01:07 +0700"
       }
     ],
     "Investing.com Economy": [
