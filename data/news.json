@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-29T09:06:10.908192",
+  "fetched_at": "2026-08-29T09:35:51.700605",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giọng điệu cứng rắn của Chủ tịch Fed khiến giá vàng lao dốc",
+        "link": "https://cafef.vn/giong-dieu-cung-ran-cua-chu-tich-fed-khien-gia-vang-lao-doc-1882608291605264.chn",
+        "published": "Sat, 29 Aug 26 16:17:00 +0700"
+      },
+      {
+        "title": "Hé lộ thu nhập tiền tỷ của các CEO công ty chứng khoán",
+        "link": "https://cafef.vn/he-lo-thu-nhap-tien-ty-cua-cac-ceo-cong-ty-chung-khoan-188260829160419067.chn",
+        "published": "Sat, 29 Aug 26 16:17:00 +0700"
+      },
       {
         "title": "8 tỷ phú giàu nhất Việt Nam hiện nay trên Forbes",
         "link": "https://cafef.vn/8-ty-phu-giau-nhat-viet-nam-hien-nay-tren-forbes-188260829154327543.chn",
@@ -22,16 +32,6 @@
         "title": "Khối ngoại bất ngờ trở lại giải ngân hơn 1.100 tỷ đồng mua cổ phiếu Việt Nam, tâm điểm một mã ngân hàng",
         "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tro-lai-giai-ngan-hon-1100-ty-dong-mua-co-phieu-viet-nam-tam-diem-mot-ma-ngan-hang-188260828234348842.chn",
         "published": "Sat, 29 Aug 26 08:25:00 +0700"
-      },
-      {
-        "title": "Ông Ngô Trọng Vinh xin từ nhiệm, công ty triệu tập họp bất thường",
-        "link": "https://cafef.vn/ong-ngo-trong-vinh-xin-tu-nhiem-cong-ty-trieu-tap-hop-bat-thuong-188260828230954212.chn",
-        "published": "Sat, 29 Aug 26 00:07:00 +0700"
-      },
-      {
-        "title": "Giá vàng bật tăng 15% trong tháng 8, chuyên gia cảnh báo một vùng giá có thể kích hoạt áp lực chốt lời",
-        "link": "https://cafef.vn/gia-vang-bat-tang-15-trong-thang-8-chuyen-gia-canh-bao-mot-vung-gia-co-the-kich-hoat-ap-luc-chot-loi-188260828230904135.chn",
-        "published": "Sat, 29 Aug 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
