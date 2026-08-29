@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T03:05:50.415846",
+  "fetched_at": "2026-08-29T03:35:46.472200",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Từ Jackson Hole, Chủ tịch Fed phát tín hiệu tăng lãi suất",
+        "link": "https://vneconomy.vn/tu-jackson-hole-chu-tich-fed-phat-tin-hieu-tang-lai-suat.htm",
+        "published": "Sat, 29 Aug 2026 03:14:56 GMT"
+      },
+      {
         "title": "Giá vàng “bốc hơi” gần 150 USD/oz sau bài phát biểu của Chủ tịch Fed",
         "link": "https://vneconomy.vn/gia-vang-boc-hoi-gan-150-usdoz-sau-bai-phat-bieu-cua-chu-tich-fed.htm",
         "published": "Sat, 29 Aug 2026 01:21:44 GMT"
@@ -59,11 +64,6 @@
         "title": "Giá mua, bán vàng nhẫn “4 số 9” giảm tới 3,1 triệu đồng/lượng trong ba phiên",
         "link": "https://vneconomy.vn/gia-mua-ban-vang-nhan-4-so-9-giam-toi-31-trieu-dongluong-trong-ba-phien.htm",
         "published": "Fri, 28 Aug 2026 03:10:38 GMT"
-      },
-      {
-        "title": "Vừa tới Jackson Hole, ba quan chức Fed đã bày tỏ lo ngại về lạm phát",
-        "link": "https://vneconomy.vn/vua-toi-jackson-hole-ba-quan-chuc-fed-da-bay-to-lo-ngai-ve-lam-phat.htm",
-        "published": "Fri, 28 Aug 2026 02:27:55 GMT"
       }
     ],
     "Vietstock": [
