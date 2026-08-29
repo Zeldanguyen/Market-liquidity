@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T14:06:03.531538",
+  "fetched_at": "2026-08-29T14:36:18.705817",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Giá cổ phiếu biến động vì tin đồn",
+        "link": "http://vietstock.vn/2026/08/gia-co-phieu-bien-dong-vi-tin-don-830-1486926.htm",
+        "published": "Sat, 29 Aug 2026 21:02:00 +0700"
+      },
+      {
         "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC “gánh” hơn 52 điểm",
         "link": "http://vietstock.vn/2026/08/vn-index-tang-64-diem-tuan-qua-rieng-vic-ganh-hon-52-diem-830-1486908.htm",
         "published": "Sat, 29 Aug 2026 20:30:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Chứng khoán Tuần 24-28/08/2026: Khối ngoại mua ròng trở lại",
         "link": "http://vietstock.vn/2026/08/chung-khoan-tuan-24-28082026-khoi-ngoai-mua-rong-tro-lai-1636-1486585.htm",
         "published": "Fri, 28 Aug 2026 18:17:00 +0700"
-      },
-      {
-        "title": "Đến tháng 8 vẫn chưa tổ chức đại hội thường niên, DRH Holdings bị HOSE nhắc nhở về việc đảm bảo quyền lợi cổ đông",
-        "link": "http://vietstock.vn/2026/08/den-thang-8-van-chua-to-chuc-dai-hoi-thuong-nien-drh-holdings-bi-hose-nhac-nho-ve-viec-dam-bao-quyen-loi-co-dong-830-1486501.htm",
-        "published": "Fri, 28 Aug 2026 16:58:11 +0700"
       }
     ],
     "Investing.com Economy": [
