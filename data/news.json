@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-29T05:06:36.239605",
+  "fetched_at": "2026-08-29T05:35:41.032061",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "FPT Retail bị phạt 400 triệu đồng",
+        "link": "https://cafef.vn/fpt-retail-bi-phat-400-trieu-dong-188260829121108126.chn",
+        "published": "Sat, 29 Aug 26 12:10:00 +0700"
+      },
       {
         "title": "Khối ngoại bất ngờ trở lại giải ngân hơn 1.100 tỷ đồng mua cổ phiếu Việt Nam, tâm điểm một mã ngân hàng",
         "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tro-lai-giai-ngan-hon-1100-ty-dong-mua-co-phieu-viet-nam-tam-diem-mot-ma-ngan-hang-188260828234348842.chn",
@@ -27,11 +32,6 @@
         "title": "“Khách sộp” ở TP HCM vừa chốt mua 3.000 xe điện VinFast của tỷ phú Phạm Nhật Vượng là ai?",
         "link": "https://cafef.vn/khach-sop-o-tp-hcm-vua-chot-mua-3000-xe-dien-vinfast-cua-ty-phu-pham-nhat-vuong-la-ai-188260828225615132.chn",
         "published": "Sat, 29 Aug 26 00:03:00 +0700"
-      },
-      {
-        "title": "Chính thức chốt ngày 4,1 tỷ cổ phiếu Vinhomes phát hành trả cổ tức được giao dịch",
-        "link": "https://cafef.vn/chinh-thuc-chot-ngay-41-ty-co-phieu-vinhomes-phat-hanh-tra-co-tuc-duoc-giao-dich-188260828225936108.chn",
-        "published": "Sat, 29 Aug 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets",
+        "link": "https://www.investing.com/news/economy-news/stocks-fall-while-dollar-bond-yields-rise-as-warsh-prompts-rate-hike-bets-4881939",
+        "published": "2026-08-29 05:20:58"
+      },
+      {
+        "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
+        "link": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
+        "published": "2026-08-29 05:20:29"
+      },
+      {
+        "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
+        "link": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
+        "published": "2026-08-29 05:18:55"
+      },
+      {
         "title": "Reform UK plays down crypto ties as it courts business, diplomats",
         "link": "https://www.investing.com/news/economy-news/reform-uk-plays-down-crypto-ties-as-it-courts-business-diplomats-4881938",
         "published": "2026-08-29 04:45:47"
@@ -113,21 +128,6 @@
         "title": "White House teleprompter operator settles prediction market trading probe",
         "link": "https://www.investing.com/news/economy-news/white-house-teleprompter-operator-settles-prediction-market-trading-probe-4881903",
         "published": "2026-08-29 00:49:48"
-      },
-      {
-        "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
-        "link": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
-        "published": "2026-08-29 00:18:25"
-      },
-      {
-        "title": "Trump says U.S. secures control of over 65 billion barrels of Venezuelan oil",
-        "link": "https://www.investing.com/news/economy-news/trump-says-us-secures-control-of-over-65-billion-barrels-of-venezuelan-oil-4881873",
-        "published": "2026-08-28 23:09:08"
-      },
-      {
-        "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
-        "link": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
-        "published": "2026-08-28 21:30:37"
       }
     ]
   }
