@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-30T09:35:53.882785",
+  "fetched_at": "2026-08-30T10:06:00.195222",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Loạt doanh nghiệp đình đám mất tư cách công ty đại chúng vì đâu?",
+        "link": "https://cafef.vn/loat-doanh-nghiep-dinh-dam-mat-tu-cach-cong-ty-dai-chung-vi-dau-188260830163902018.chn",
+        "published": "Sun, 30 Aug 26 16:46:00 +0700"
+      },
       {
         "title": "Tổng Giám đốc Hodeco mua thành công cổ phiếu HDC như đăng ký",
         "link": "https://cafef.vn/tong-giam-doc-hodeco-mua-thanh-cong-co-phieu-hdc-nhu-dang-ky-188260830131318799.chn",
@@ -27,14 +32,14 @@
         "title": "Cuộc đua tăng vốn công ty chứng khoán: Nhóm quy mô nhỏ bứt tốc",
         "link": "https://cafef.vn/cuoc-dua-tang-von-cong-ty-chung-khoan-nhom-quy-mo-nho-but-toc-188260830085545808.chn",
         "published": "Sun, 30 Aug 26 09:54:00 +0700"
-      },
-      {
-        "title": "Giá vàng hôm nay 30/8: Đi ngang ở ngưỡng thấp",
-        "link": "https://cafef.vn/gia-vang-hom-nay-30-8-di-ngang-o-nguong-thap-188260830085404035.chn",
-        "published": "Sun, 30 Aug 26 08:53:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 35+36-2026",
+        "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-3536-2026.htm",
+        "published": "Sun, 30 Aug 2026 03:16:33 GMT"
+      },
       {
         "title": "27 cổ phiếu FTSE và bài toán \"khả năng đầu tư\" của doanh nghiệp Việt Nam",
         "link": "https://vneconomy.vn/27-co-phieu-ftse-va-bai-toan-kha-nang-dau-tu-cua-doanh-nghiep-viet-nam.htm",
@@ -59,11 +64,6 @@
         "title": "Bảo hiểm công trình: Chi phí bắt buộc hay khoản đầu tư bảo vệ dự án?",
         "link": "https://vneconomy.vn/bao-hiem-cong-trinh-chi-phi-bat-buoc-hay-khoan-dau-tu-bao-ve-du-an.htm",
         "published": "Fri, 28 Aug 2026 07:52:24 GMT"
-      },
-      {
-        "title": "15.000 thẻ sau 20 ngày: Vì sao những khách hàng khác nhau lại cùng chọn VIB One Card?",
-        "link": "https://vneconomy.vn/15000-the-sau-20-ngay-vi-sao-nhung-khach-hang-khac-nhau-lai-cung-chon-vib-one-card.htm",
-        "published": "Fri, 28 Aug 2026 04:12:23 GMT"
       }
     ],
     "Vietstock": [
