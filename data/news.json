@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T08:06:11.725225",
+  "fetched_at": "2026-08-30T08:35:52.240768",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Khamenei urges unity among Gulf leaders as Tehran keeps Hormuz closed",
+        "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
+        "published": "2026-08-30 08:10:40"
+      },
+      {
         "title": "Icelanders reject EU-accession talks, broadcaster RUV reports",
         "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
         "published": "2026-08-30 07:54:25"
@@ -123,11 +128,6 @@
         "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
         "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882019",
         "published": "2026-08-30 05:12:26"
-      },
-      {
-        "title": "Khamenei urges unity among Gulf leaders as Tehran keeps Hormuz closed",
-        "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
-        "published": "2026-08-30 04:54:26"
       }
     ]
   }
