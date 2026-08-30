@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T07:05:43.818452",
+  "fetched_at": "2026-08-30T07:36:06.437969",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Burnham faces hurdles bringing UK asylum system under public control - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/burnham-faces-hurdles-bringing-uk-asylum-system-under-public-control--bloomberg-4882022",
+        "published": "2026-08-30 06:54:06"
+      },
+      {
         "title": "European central bankers fear more U.S. policy turbulence, Reuters reports",
         "link": "https://www.investing.com/news/economy-news/european-central-bankers-fear-more-us-policy-turbulence-reuters-reports-4882021",
         "published": "2026-08-30 06:01:26"
@@ -123,11 +128,6 @@
         "title": "Russia steps up ’gray zone’ attacks across Europe as NATO tensions rise",
         "link": "https://www.investing.com/news/economy-news/russia-steps-up-gray-zone-attacks-across-europe-as-nato-tensions-rise-4882015",
         "published": "2026-08-30 04:04:08"
-      },
-      {
-        "title": "Pentagon to take 35% stake in Venezuela oil venture, WSJ reports",
-        "link": "https://www.investing.com/news/economy-news/pentagon-to-take-35-stake-in-venezuela-oil-venture-wsj-reports-4882013",
-        "published": "2026-08-30 03:20:01"
       }
     ]
   }
