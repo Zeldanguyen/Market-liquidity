@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T05:05:57.263828",
+  "fetched_at": "2026-08-30T05:36:09.755071",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
+        "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882019",
+        "published": "2026-08-30 05:12:26"
+      },
+      {
+        "title": "Iran insists Strait of Hormuz remains closed as war enters seventh month",
+        "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
+        "published": "2026-08-30 04:54:26"
+      },
+      {
         "title": "Iceland starts counting EU talks referendum; ’no’ votes move ahead in close contest",
         "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
         "published": "2026-08-30 04:12:23"
@@ -118,16 +128,6 @@
         "title": "Trump Venezuela oil deal draws criticism from government allies, opposition",
         "link": "https://www.investing.com/news/economy-news/trump-venezuela-oil-deal-draws-criticism-from-government-allies-opposition-4882009",
         "published": "2026-08-30 02:02:11"
-      },
-      {
-        "title": "Warsh at Jackson Hole: 8 key takeaways",
-        "link": "https://www.investing.com/news/economy-news/warsh-at-jackson-hole-8-key-takeaways-4881998",
-        "published": "2026-08-29 20:34:12"
-      },
-      {
-        "title": "UAE investigates Egypt’s Banque Misr after U.S. moves to block dollar clearing",
-        "link": "https://www.investing.com/news/economy-news/uae-investigates-egypts-banque-misr-after-us-moves-to-block-dollar-clearing-4881997",
-        "published": "2026-08-29 20:27:39"
       }
     ]
   }
