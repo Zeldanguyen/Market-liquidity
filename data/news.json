@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T05:36:09.755071",
+  "fetched_at": "2026-08-30T06:06:22.192623",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "European central bankers fear more U.S. policy turbulence, Reuters reports",
+        "link": "https://www.investing.com/news/economy-news/european-central-bankers-fear-more-us-policy-turbulence-reuters-reports-4882021",
+        "published": "2026-08-30 06:01:26"
+      },
+      {
         "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
         "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882019",
         "published": "2026-08-30 05:12:26"
@@ -123,11 +128,6 @@
         "title": "Pentagon to take 35% stake in Venezuela oil venture, WSJ reports",
         "link": "https://www.investing.com/news/economy-news/pentagon-to-take-35-stake-in-venezuela-oil-venture-wsj-reports-4882013",
         "published": "2026-08-30 03:20:01"
-      },
-      {
-        "title": "Trump Venezuela oil deal draws criticism from government allies, opposition",
-        "link": "https://www.investing.com/news/economy-news/trump-venezuela-oil-deal-draws-criticism-from-government-allies-opposition-4882009",
-        "published": "2026-08-30 02:02:11"
       }
     ]
   }
