@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-30T17:06:05.731060",
+  "fetched_at": "2026-08-30T17:35:52.214574",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vàng lên xuống liên tục, người mua vàng nên làm gì?",
+        "link": "https://cafef.vn/vang-len-xuong-lien-tuc-nguoi-mua-vang-nen-lam-gi-188260830131117982.chn",
+        "published": "Mon, 31 Aug 26 00:10:00 +0700"
+      },
+      {
+        "title": "Lịch chốt quyền cổ tức tuần sau nghỉ lễ: Nhiều doanh nghiệp trả cổ tức tiền mặt kỷ lục, cao nhất 2.600 đồng/cp",
+        "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-sau-nghi-le-nhieu-doanh-nghiep-tra-co-tuc-tien-mat-ky-luc-cao-nhat-2600-dong-cp-188260830221903227.chn",
+        "published": "Mon, 31 Aug 26 00:05:00 +0700"
+      },
       {
         "title": "Một DN chuẩn bị \"lăn chốt\" cổ tức tiền mặt cao gần gấp đôi thị giá",
         "link": "https://cafef.vn/mot-dn-chuan-bi-lan-chot-co-tuc-tien-mat-cao-gan-gap-doi-thi-gia-188260830221814427.chn",
@@ -22,16 +32,6 @@
         "title": "Hai GS thắng giải 3 triệu USD của tỷ phú Phạm Nhật Vượng được lọt vào Top 100 của Time là ai?",
         "link": "https://cafef.vn/hai-gs-thang-giai-3-trieu-usd-cua-ty-phu-pham-nhat-vuong-duoc-lot-vao-top-100-cua-time-la-ai-188260830212507442.chn",
         "published": "Sun, 30 Aug 26 21:26:00 +0700"
-      },
-      {
-        "title": "Loạt doanh nghiệp đình đám mất tư cách công ty đại chúng vì đâu?",
-        "link": "https://cafef.vn/loat-doanh-nghiep-dinh-dam-mat-tu-cach-cong-ty-dai-chung-vi-dau-188260830163902018.chn",
-        "published": "Sun, 30 Aug 26 16:46:00 +0700"
-      },
-      {
-        "title": "Tổng Giám đốc Hodeco mua thành công cổ phiếu HDC như đăng ký",
-        "link": "https://cafef.vn/tong-giam-doc-hodeco-mua-thanh-cong-co-phieu-hdc-nhu-dang-ky-188260830131318799.chn",
-        "published": "Sun, 30 Aug 26 13:13:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -102,7 +102,7 @@
       {
         "title": "Iceland rejects EU-accession talks in close-fought referendum",
         "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
-        "published": "2026-08-30 14:54:49"
+        "published": "2026-08-30 17:19:32"
       },
       {
         "title": "How will U.S.-Iran conflict reshape the world?",
