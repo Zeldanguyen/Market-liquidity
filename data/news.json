@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T18:36:00.069416",
+  "fetched_at": "2026-08-30T19:05:50.573472",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Khamenei urges unity among Gulf leaders as Tehran keeps Hormuz closed",
+        "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
+        "published": "2026-08-30 18:41:23"
+      },
+      {
         "title": "Iceland rejects EU-accession talks in close-fought referendum",
         "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
         "published": "2026-08-30 17:19:32"
@@ -118,11 +123,6 @@
         "title": "SpaceX launches NASA’s $4.3 billion Roman space telescope",
         "link": "https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035",
         "published": "2026-08-30 12:00:17"
-      },
-      {
-        "title": "Khamenei urges unity among Gulf leaders as Tehran keeps Hormuz closed",
-        "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
-        "published": "2026-08-30 08:10:40"
       },
       {
         "title": "Ukrainian drone strike sparks fire at major Russian oil refinery",
