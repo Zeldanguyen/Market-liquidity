@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T07:36:06.437969",
+  "fetched_at": "2026-08-30T08:06:11.725225",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Icelanders reject EU-accession talks, broadcaster RUV reports",
+        "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+        "published": "2026-08-30 07:54:25"
+      },
+      {
+        "title": "Ukrainian drone strike sparks fire at major Russian oil refinery",
+        "link": "https://www.investing.com/news/economy-news/ukrainian-drone-strike-sparks-fire-at-major-russian-oil-refinery-4882024",
+        "published": "2026-08-30 07:49:27"
+      },
+      {
         "title": "Burnham faces hurdles bringing UK asylum system under public control - Bloomberg",
         "link": "https://www.investing.com/news/economy-news/burnham-faces-hurdles-bringing-uk-asylum-system-under-public-control--bloomberg-4882022",
         "published": "2026-08-30 06:54:06"
@@ -115,19 +125,9 @@
         "published": "2026-08-30 05:12:26"
       },
       {
-        "title": "Iran insists Strait of Hormuz remains closed as war enters seventh month",
+        "title": "Khamenei urges unity among Gulf leaders as Tehran keeps Hormuz closed",
         "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
         "published": "2026-08-30 04:54:26"
-      },
-      {
-        "title": "Iceland starts counting EU talks referendum; ’no’ votes move ahead in close contest",
-        "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
-        "published": "2026-08-30 04:12:23"
-      },
-      {
-        "title": "Russia steps up ’gray zone’ attacks across Europe as NATO tensions rise",
-        "link": "https://www.investing.com/news/economy-news/russia-steps-up-gray-zone-attacks-across-europe-as-nato-tensions-rise-4882015",
-        "published": "2026-08-30 04:04:08"
       }
     ]
   }
