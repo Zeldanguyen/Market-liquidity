@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-30T06:06:22.192623",
+  "fetched_at": "2026-08-30T06:36:05.674029",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tổng Giám đốc Hodeco mua thành công cổ phiếu HDC như đăng ký",
+        "link": "https://cafef.vn/tong-giam-doc-hodeco-mua-thanh-cong-co-phieu-hdc-nhu-dang-ky-188260830131318799.chn",
+        "published": "Sun, 30 Aug 26 13:13:00 +0700"
+      },
+      {
+        "title": "Trái phiếu bất động sản trả lãi tới 13%/năm",
+        "link": "https://cafef.vn/trai-phieu-bat-dong-san-tra-lai-toi-13-nam-188260830130846296.chn",
+        "published": "Sun, 30 Aug 26 13:08:00 +0700"
+      },
       {
         "title": "Nhà đầu tư vàng ‘lỗ kép’ trong 1 tuần qua",
         "link": "https://cafef.vn/nha-dau-tu-vang-lo-kep-trong-1-tuan-qua-188260830112337049.chn",
@@ -22,16 +32,6 @@
         "title": "Giá vàng hôm nay 30/8: Đi ngang ở ngưỡng thấp",
         "link": "https://cafef.vn/gia-vang-hom-nay-30-8-di-ngang-o-nguong-thap-188260830085404035.chn",
         "published": "Sun, 30 Aug 26 08:53:00 +0700"
-      },
-      {
-        "title": "Xử phạt một công ty đa cấp",
-        "link": "https://cafef.vn/xu-phat-mot-cong-ty-da-cap-188260829212806868.chn",
-        "published": "Sun, 30 Aug 26 00:07:00 +0700"
-      },
-      {
-        "title": "Chủ tịch Ủy ban Chứng khoán Nhà nước làm việc với lãnh đạo S&P Dow Jones Indices",
-        "link": "https://cafef.vn/chu-tich-uy-ban-chung-khoan-nha-nuoc-lam-viec-voi-lanh-dao-sp-dow-jones-indices-188260829221157511.chn",
-        "published": "Sun, 30 Aug 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
