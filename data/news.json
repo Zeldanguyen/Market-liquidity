@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-30T16:35:56.286312",
+  "fetched_at": "2026-08-30T17:06:05.731060",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một DN chuẩn bị \"lăn chốt\" cổ tức tiền mặt cao gần gấp đôi thị giá",
+        "link": "https://cafef.vn/mot-dn-chuan-bi-lan-chot-co-tuc-tien-mat-cao-gan-gap-doi-thi-gia-188260830221814427.chn",
+        "published": "Mon, 31 Aug 26 00:03:00 +0700"
+      },
+      {
+        "title": "Đừng hỏi vàng sẽ lên 8.000 hay 12.000 USD/ounce, xu hướng tăng chỉ kết thúc khi điều này xảy ra",
+        "link": "https://cafef.vn/dung-hoi-vang-se-len-8000-hay-12000-usd-ounce-xu-huong-tang-chi-ket-thuc-khi-dieu-nay-xay-ra-188260830231930692.chn",
+        "published": "Mon, 31 Aug 26 00:01:00 +0700"
+      },
       {
         "title": "Chứng khoán tuần tới được dự đoán hướng tới 1.900 điểm",
         "link": "https://cafef.vn/chung-khoan-tuan-toi-duoc-du-doan-huong-toi-1900-diem-188260830213104627.chn",
@@ -22,16 +32,6 @@
         "title": "Tổng Giám đốc Hodeco mua thành công cổ phiếu HDC như đăng ký",
         "link": "https://cafef.vn/tong-giam-doc-hodeco-mua-thanh-cong-co-phieu-hdc-nhu-dang-ky-188260830131318799.chn",
         "published": "Sun, 30 Aug 26 13:13:00 +0700"
-      },
-      {
-        "title": "Trái phiếu bất động sản trả lãi tới 13%/năm",
-        "link": "https://cafef.vn/trai-phieu-bat-dong-san-tra-lai-toi-13-nam-188260830130846296.chn",
-        "published": "Sun, 30 Aug 26 13:08:00 +0700"
-      },
-      {
-        "title": "Nhà đầu tư vàng ‘lỗ kép’ trong 1 tuần qua",
-        "link": "https://cafef.vn/nha-dau-tu-vang-lo-kep-trong-1-tuan-qua-188260830112337049.chn",
-        "published": "Sun, 30 Aug 26 11:23:00 +0700"
       }
     ],
     "VnEconomy": [
