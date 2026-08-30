@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-30T14:06:07.052957",
+  "fetched_at": "2026-08-30T14:35:57.020542",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Hai GS thắng giải 3 triệu USD của tỷ phú Phạm Nhật Vượng được lọt vào Top 100 của Time là ai?",
+        "link": "https://cafef.vn/hai-gs-thang-giai-3-trieu-usd-cua-ty-phu-pham-nhat-vuong-duoc-lot-vao-top-100-cua-time-la-ai-188260830212507442.chn",
+        "published": "Sun, 30 Aug 26 21:26:00 +0700"
+      },
       {
         "title": "Loạt doanh nghiệp đình đám mất tư cách công ty đại chúng vì đâu?",
         "link": "https://cafef.vn/loat-doanh-nghiep-dinh-dam-mat-tu-cach-cong-ty-dai-chung-vi-dau-188260830163902018.chn",
@@ -27,11 +32,6 @@
         "title": "Hàng loạt ‘ông lớn’ bất động sản tăng vốn điều lệ trong vài tháng qua",
         "link": "https://cafef.vn/hang-loat-ong-lon-bat-dong-san-tang-von-dieu-le-trong-vai-thang-qua-188260830085724784.chn",
         "published": "Sun, 30 Aug 26 10:57:00 +0700"
-      },
-      {
-        "title": "Cuộc đua tăng vốn công ty chứng khoán: Nhóm quy mô nhỏ bứt tốc",
-        "link": "https://cafef.vn/cuoc-dua-tang-von-cong-ty-chung-khoan-nhom-quy-mo-nho-but-toc-188260830085545808.chn",
-        "published": "Sun, 30 Aug 26 09:54:00 +0700"
       }
     ],
     "VnEconomy": [
