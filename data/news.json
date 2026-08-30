@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-30T14:35:57.020542",
+  "fetched_at": "2026-08-30T15:05:58.170220",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán tuần tới được dự đoán hướng tới 1.900 điểm",
+        "link": "https://cafef.vn/chung-khoan-tuan-toi-duoc-du-doan-huong-toi-1900-diem-188260830213104627.chn",
+        "published": "Sun, 30 Aug 26 22:04:00 +0700"
+      },
       {
         "title": "Hai GS thắng giải 3 triệu USD của tỷ phú Phạm Nhật Vượng được lọt vào Top 100 của Time là ai?",
         "link": "https://cafef.vn/hai-gs-thang-giai-3-trieu-usd-cua-ty-phu-pham-nhat-vuong-duoc-lot-vao-top-100-cua-time-la-ai-188260830212507442.chn",
@@ -27,11 +32,6 @@
         "title": "Nhà đầu tư vàng ‘lỗ kép’ trong 1 tuần qua",
         "link": "https://cafef.vn/nha-dau-tu-vang-lo-kep-trong-1-tuan-qua-188260830112337049.chn",
         "published": "Sun, 30 Aug 26 11:23:00 +0700"
-      },
-      {
-        "title": "Hàng loạt ‘ông lớn’ bất động sản tăng vốn điều lệ trong vài tháng qua",
-        "link": "https://cafef.vn/hang-loat-ong-lon-bat-dong-san-tang-von-dieu-le-trong-vai-thang-qua-188260830085724784.chn",
-        "published": "Sun, 30 Aug 26 10:57:00 +0700"
       }
     ],
     "VnEconomy": [
