@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T02:05:48.856574",
+  "fetched_at": "2026-08-30T02:36:05.903520",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "27 cổ phiếu FTSE và bài toán \"khả năng đầu tư\" của doanh nghiệp Việt Nam",
+        "link": "https://vneconomy.vn/27-co-phieu-ftse-va-bai-toan-kha-nang-dau-tu-cua-doanh-nghiep-viet-nam.htm",
+        "published": "Sun, 30 Aug 2026 02:08:35 GMT"
+      },
+      {
         "title": "Từ Jackson Hole, Chủ tịch Fed phát tín hiệu tăng lãi suất",
         "link": "https://vneconomy.vn/tu-jackson-hole-chu-tich-fed-phat-tin-hieu-tang-lai-suat.htm",
         "published": "Sat, 29 Aug 2026 03:14:56 GMT"
@@ -59,11 +64,6 @@
         "title": "15.000 thẻ sau 20 ngày: Vì sao những khách hàng khác nhau lại cùng chọn VIB One Card?",
         "link": "https://vneconomy.vn/15000-the-sau-20-ngay-vi-sao-nhung-khach-hang-khac-nhau-lai-cung-chon-vib-one-card.htm",
         "published": "Fri, 28 Aug 2026 04:12:23 GMT"
-      },
-      {
-        "title": "Giá mua, bán vàng nhẫn “4 số 9” giảm tới 3,1 triệu đồng/lượng trong ba phiên",
-        "link": "https://vneconomy.vn/gia-mua-ban-vang-nhan-4-so-9-giam-toi-31-trieu-dongluong-trong-ba-phien.htm",
-        "published": "Fri, 28 Aug 2026 03:10:38 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump Venezuela oil deal draws criticism from government allies, opposition",
+        "link": "https://www.investing.com/news/economy-news/trump-venezuela-oil-deal-draws-criticism-from-government-allies-opposition-4882009",
+        "published": "2026-08-30 02:02:11"
+      },
+      {
         "title": "Iceland starts counting EU talks referendum; ’yes’ votes have slim early lead",
         "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
         "published": "2026-08-30 00:54:30"
@@ -123,11 +128,6 @@
         "title": "Iran foreign trade plunges 35% under US blockade as six-month war drags on",
         "link": "https://www.investing.com/news/economy-news/iranian-trade-plunges-35-as-us-steps-up-economic-pressure-4881926",
         "published": "2026-08-29 18:55:43"
-      },
-      {
-        "title": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
-        "link": "https://www.investing.com/news/economy-news/us-treasurys-bessent-warns-yen-volatility-risks-spillover-to-global-markets-4881990",
-        "published": "2026-08-29 17:23:31"
       }
     ]
   }
