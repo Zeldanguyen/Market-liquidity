@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-08-30T21:34:32.739660",
+  "fetched_at": "2026-08-30T22:04:22.386498",
   "series": {
     "fed_funds_rate": [
       {
@@ -164,32 +164,32 @@
     ],
     "dxy": [
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-24",
+        "realtime_end": "2026-08-24",
         "date": "2026-08-21",
         "value": "118.0628000000"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-24",
+        "realtime_end": "2026-08-24",
         "date": "2026-08-20",
         "value": "118.2548000000"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-24",
+        "realtime_end": "2026-08-24",
         "date": "2026-08-19",
         "value": "118.3328000000"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-24",
+        "realtime_end": "2026-08-24",
         "date": "2026-08-18",
         "value": "118.9831000000"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-24",
+        "realtime_end": "2026-08-24",
         "date": "2026-08-17",
         "value": "118.8140000000"
       }
