@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T12:06:50.784704",
+  "fetched_at": "2026-08-30T12:36:08.721225",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "SpaceX launches NASA’s $4.3 billion Roman space telescope",
+        "link": "https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035",
+        "published": "2026-08-30 12:00:17"
+      },
+      {
         "title": "Iceland rejects EU-accession talks in close-fought referendum",
         "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
         "published": "2026-08-30 11:36:27"
-      },
-      {
-        "title": "SpaceX set to launch NASA’s $4.3 billion Roman space telescope",
-        "link": "https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035",
-        "published": "2026-08-30 09:57:47"
       },
       {
         "title": "Khamenei urges unity among Gulf leaders as Tehran keeps Hormuz closed",
