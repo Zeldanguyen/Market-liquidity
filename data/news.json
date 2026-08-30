@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-30T02:36:05.903520",
+  "fetched_at": "2026-08-30T03:06:20.535302",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cuộc đua tăng vốn công ty chứng khoán: Nhóm quy mô nhỏ bứt tốc",
+        "link": "https://cafef.vn/cuoc-dua-tang-von-cong-ty-chung-khoan-nhom-quy-mo-nho-but-toc-188260830085545808.chn",
+        "published": "Sun, 30 Aug 26 09:54:00 +0700"
+      },
       {
         "title": "Giá vàng hôm nay 30/8: Đi ngang ở ngưỡng thấp",
         "link": "https://cafef.vn/gia-vang-hom-nay-30-8-di-ngang-o-nguong-thap-188260830085404035.chn",
@@ -27,11 +32,6 @@
         "title": "Nhóm CII gom thêm 1 triệu cổ phiếu PC1",
         "link": "https://cafef.vn/nhom-cii-gom-them-1-trieu-co-phieu-pc1-188260829154048636.chn",
         "published": "Sun, 30 Aug 26 00:02:00 +0700"
-      },
-      {
-        "title": "Giá vàng quay đầu giảm sau 3 tuần tăng liên tiếp, quỹ vàng lớn nhất thế giới hành động ra sao?",
-        "link": "https://cafef.vn/gia-vang-quay-dau-giam-sau-3-tuan-tang-lien-tiep-quy-vang-lon-nhat-the-gioi-hanh-dong-ra-sao-188260829221242476.chn",
-        "published": "Sun, 30 Aug 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
