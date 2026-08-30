@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-30T01:36:09.739629",
+  "fetched_at": "2026-08-30T02:05:48.856574",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng hôm nay 30/8: Đi ngang ở ngưỡng thấp",
+        "link": "https://cafef.vn/gia-vang-hom-nay-30-8-di-ngang-o-nguong-thap-188260830085404035.chn",
+        "published": "Sun, 30 Aug 26 08:53:00 +0700"
+      },
       {
         "title": "Xử phạt một công ty đa cấp",
         "link": "https://cafef.vn/xu-phat-mot-cong-ty-da-cap-188260829212806868.chn",
@@ -27,11 +32,6 @@
         "title": "Giá vàng quay đầu giảm sau 3 tuần tăng liên tiếp, quỹ vàng lớn nhất thế giới hành động ra sao?",
         "link": "https://cafef.vn/gia-vang-quay-dau-giam-sau-3-tuan-tang-lien-tiep-quy-vang-lon-nhat-the-gioi-hanh-dong-ra-sao-188260829221242476.chn",
         "published": "Sun, 30 Aug 26 00:01:00 +0700"
-      },
-      {
-        "title": "Giọng điệu cứng rắn của Chủ tịch Fed khiến giá vàng lao dốc",
-        "link": "https://cafef.vn/giong-dieu-cung-ran-cua-chu-tich-fed-khien-gia-vang-lao-doc-1882608291605264.chn",
-        "published": "Sat, 29 Aug 26 16:17:00 +0700"
       }
     ],
     "VnEconomy": [
