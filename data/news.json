@@ -1,8 +1,39 @@
 {
-  "fetched_at": "2026-08-30T15:36:00.253069",
+  "fetched_at": "2026-08-30T16:05:59.875215",
   "feeds": {
     "Reuters Business": [],
-    "CafeF": [],
+    "CafeF": [
+      {
+        "title": "Chứng khoán tuần tới được dự đoán hướng tới 1.900 điểm",
+        "link": "https://cafef.vn/chung-khoan-tuan-toi-duoc-du-doan-huong-toi-1900-diem-188260830213104627.chn",
+        "published": "Sun, 30 Aug 26 22:04:00 +0700"
+      },
+      {
+        "title": "Hai GS thắng giải 3 triệu USD của tỷ phú Phạm Nhật Vượng được lọt vào Top 100 của Time là ai?",
+        "link": "https://cafef.vn/hai-gs-thang-giai-3-trieu-usd-cua-ty-phu-pham-nhat-vuong-duoc-lot-vao-top-100-cua-time-la-ai-188260830212507442.chn",
+        "published": "Sun, 30 Aug 26 21:26:00 +0700"
+      },
+      {
+        "title": "Loạt doanh nghiệp đình đám mất tư cách công ty đại chúng vì đâu?",
+        "link": "https://cafef.vn/loat-doanh-nghiep-dinh-dam-mat-tu-cach-cong-ty-dai-chung-vi-dau-188260830163902018.chn",
+        "published": "Sun, 30 Aug 26 16:46:00 +0700"
+      },
+      {
+        "title": "Tổng Giám đốc Hodeco mua thành công cổ phiếu HDC như đăng ký",
+        "link": "https://cafef.vn/tong-giam-doc-hodeco-mua-thanh-cong-co-phieu-hdc-nhu-dang-ky-188260830131318799.chn",
+        "published": "Sun, 30 Aug 26 13:13:00 +0700"
+      },
+      {
+        "title": "Trái phiếu bất động sản trả lãi tới 13%/năm",
+        "link": "https://cafef.vn/trai-phieu-bat-dong-san-tra-lai-toi-13-nam-188260830130846296.chn",
+        "published": "Sun, 30 Aug 26 13:08:00 +0700"
+      },
+      {
+        "title": "Nhà đầu tư vàng ‘lỗ kép’ trong 1 tuần qua",
+        "link": "https://cafef.vn/nha-dau-tu-vang-lo-kep-trong-1-tuan-qua-188260830112337049.chn",
+        "published": "Sun, 30 Aug 26 11:23:00 +0700"
+      }
+    ],
     "VnEconomy": [
       {
         "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 35+36-2026",
