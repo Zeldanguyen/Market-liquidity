@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T23:06:42.532506",
+  "fetched_at": "2026-08-30T23:36:02.930063",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
+        "link": "https://www.investing.com/news/economy-news/g20-countries-should-consider-more-trade-barriers-with-china-to-cut-imbalances-bessent-says-4882079",
+        "published": "2026-08-30 23:12:42"
+      },
+      {
         "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
         "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
-        "published": "2026-08-30 22:30:30"
+        "published": "2026-08-30 23:00:28"
       },
       {
         "title": "U.S. forces strike Iranian launchers on Larak Island",
@@ -123,11 +128,6 @@
         "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
         "link": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4882045",
         "published": "2026-08-30 13:00:30"
-      },
-      {
-        "title": "SpaceX launches NASA’s $4.3 billion Roman space telescope",
-        "link": "https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035",
-        "published": "2026-08-30 12:00:17"
       }
     ]
   }
