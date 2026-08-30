@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T09:06:20.613391",
+  "fetched_at": "2026-08-30T09:35:53.882785",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Icelanders reject EU-accession talks, broadcaster RUV reports",
+        "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+        "published": "2026-08-30 08:48:24"
+      },
+      {
         "title": "Khamenei urges unity among Gulf leaders as Tehran keeps Hormuz closed",
         "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
         "published": "2026-08-30 08:10:40"
-      },
-      {
-        "title": "Icelanders reject EU-accession talks, broadcaster RUV reports",
-        "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
-        "published": "2026-08-30 07:54:25"
       },
       {
         "title": "Ukrainian drone strike sparks fire at major Russian oil refinery",
