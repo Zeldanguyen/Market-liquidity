@@ -1,39 +1,32 @@
 {
-  "fetched_at": "2026-08-31T13:34:34.037577",
+  "fetched_at": "2026-08-31T14:05:10.468442",
   "equities": {
     "sp500_etf": {
       "error": "The read operation timed out"
     },
     "dow_etf": {
-      "c": 535.1,
-      "d": -0.12,
-      "dp": -0.0224,
-      "h": 537.73,
-      "l": 534.4,
-      "o": 536.54,
-      "pc": 535.22,
-      "t": 1787947200
+      "error": "The read operation timed out"
     },
     "nasdaq_etf": {
       "error": "The read operation timed out"
     },
     "gold_etf": {
-      "error": "HTTP 503: error code: 1200\n"
+      "error": "The read operation timed out"
     },
     "oil_etf": {
-      "error": "HTTP 503: error code: 1200\n"
+      "error": "The read operation timed out"
     },
     "dollar_etf": {
-      "error": "HTTP 503: error code: 1200\n"
+      "error": "The read operation timed out"
     },
     "vix_etf": {
-      "error": "HTTP 503: error code: 1200\n"
+      "error": "The read operation timed out"
     },
     "china_etf": {
-      "error": "HTTP 502: error code: 502\n"
+      "error": "The read operation timed out"
     },
     "japan_etf": {
-      "error": "HTTP 503: error code: 1200\n"
+      "error": "The read operation timed out"
     },
     "vietnam_etf": {
       "error": "The read operation timed out"
