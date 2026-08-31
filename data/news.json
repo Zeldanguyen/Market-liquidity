@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T20:37:28.452489",
+  "fetched_at": "2026-08-31T21:07:15.899531",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Supreme Court allows Trump White House ballroom construction to continue",
+        "link": "https://www.investing.com/news/economy-news/supreme-court-allows-trump-white-house-ballroom-construction-to-continue-93CH-4883282",
+        "published": "2026-08-31 20:48:49"
+      },
+      {
         "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
         "published": "2026-08-31 20:30:54"
@@ -123,11 +128,6 @@
         "title": "Dollar slips, with traders already eyeing Friday jobs data",
         "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
         "published": "2026-08-31 19:32:19"
-      },
-      {
-        "title": "Fed’s Warsh tells G20 world seeing global investment surge",
-        "link": "https://www.investing.com/news/economy-news/feds-warsh-tells-g20-world-seeing-global-investment-surge-93CH-4883178",
-        "published": "2026-08-31 19:19:33"
       }
     ]
   }
