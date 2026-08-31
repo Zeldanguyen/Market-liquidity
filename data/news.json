@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T14:36:21.540140",
+  "fetched_at": "2026-08-31T15:06:43.578379",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent says Iran sanctions aim to bring them to talks",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-iran-sanctions-aim-to-bring-them-to-talks-93CH-4883010",
+        "published": "2026-08-31 14:42:43"
+      },
+      {
         "title": "Wall St slips as higher oil prices, hawkish Fed bets weigh",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 14:19:31"
+        "published": "2026-08-31 14:24:28"
       },
       {
         "title": "Brazil may make spending on some social programs non-mandatory, finance minister says",
@@ -123,11 +128,6 @@
         "title": "German inflation accelerates in August, core stabilises",
         "link": "https://www.investing.com/news/economy-news/german-inflation-accelerates-in-august-4882705",
         "published": "2026-08-31 13:37:35"
-      },
-      {
-        "title": "Bessent at G20: growth key to solving debt crisis",
-        "link": "https://www.investing.com/news/economy-news/bessent-at-g20-growth-key-to-solving-debt-crisis-93CH-4882863",
-        "published": "2026-08-31 13:25:47"
       }
     ]
   }
