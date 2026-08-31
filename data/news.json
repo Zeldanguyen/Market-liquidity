@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T10:06:18.896629",
+  "fetched_at": "2026-08-31T10:36:22.508422",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Polymarket stands ready to fight misconduct as US midterms loom, intel chief says",
+        "link": "https://www.investing.com/news/economy-news/polymarket-stands-ready-to-fight-misconduct-as-us-midterms-loom-intel-chief-says-4882406",
+        "published": "2026-08-31 10:13:49"
+      },
+      {
+        "title": "The euro area is firming up. So is the case for more ECB hikes",
+        "link": "https://www.investing.com/news/economy-news/the-euro-area-is-firming-up-so-is-the-case-for-more-ecb-hikes-4882365",
+        "published": "2026-08-31 09:56:52"
+      },
+      {
         "title": "US stock index futures dip as Middle East strikes worsen inflation fears",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
         "published": "2026-08-31 09:31:48"
@@ -118,16 +128,6 @@
         "title": "Warsh’s hawkish reframing puts two more Fed hikes in view: Barclays",
         "link": "https://www.investing.com/news/economy-news/warshs-hawkish-reframing-puts-two-more-fed-hikes-in-view-4882269",
         "published": "2026-08-31 08:16:11"
-      },
-      {
-        "title": "Turkish economy grows 2.3% yr-on-yr in Q2, below forecast",
-        "link": "https://www.investing.com/news/economy-news/turkish-economy-grows-23-yronyr-in-q2-below-forecast-4882262",
-        "published": "2026-08-31 08:01:06"
-      },
-      {
-        "title": "Oil jumps, Fed hawkish, Jobs data - What’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/oil-jumps-fed-hawkish-jobs-data--whats-moving-markets-4882256",
-        "published": "2026-08-31 07:58:46"
       }
     ]
   }
