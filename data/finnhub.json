@@ -1,41 +1,125 @@
 {
-  "fetched_at": "2026-08-31T14:05:10.468442",
+  "fetched_at": "2026-08-31T14:34:41.917991",
   "equities": {
     "sp500_etf": {
-      "error": "The read operation timed out"
+      "c": 769.39,
+      "d": -1.71,
+      "dp": -0.2218,
+      "h": 775.3,
+      "l": 768.3076,
+      "o": 771.77,
+      "pc": 771.1,
+      "t": 1787947200
     },
     "dow_etf": {
-      "error": "The read operation timed out"
+      "c": 535.1,
+      "d": -0.12,
+      "dp": -0.0224,
+      "h": 537.73,
+      "l": 534.4,
+      "o": 535.415,
+      "pc": 535.22,
+      "t": 1787947200
     },
     "nasdaq_etf": {
-      "error": "The read operation timed out"
+      "c": 716.47,
+      "d": -4.64,
+      "dp": -0.6435,
+      "h": 724.125,
+      "l": 715.085,
+      "o": 719.75,
+      "pc": 721.11,
+      "t": 1787947200
     },
     "gold_etf": {
-      "error": "The read operation timed out"
+      "c": 408.93,
+      "d": -13.67,
+      "dp": -3.2347,
+      "h": 424.79,
+      "l": 407.62,
+      "o": 414.805,
+      "pc": 422.6,
+      "t": 1787947200
     },
     "oil_etf": {
-      "error": "The read operation timed out"
+      "c": 129.73,
+      "d": -0.28,
+      "dp": -0.2154,
+      "h": 130.495,
+      "l": 128,
+      "o": 130.495,
+      "pc": 130.01,
+      "t": 1787947200
     },
     "dollar_etf": {
-      "error": "The read operation timed out"
+      "c": 28.19,
+      "d": 0.17,
+      "dp": 0.6067,
+      "h": 28.2,
+      "l": 28.01,
+      "o": 28.09,
+      "pc": 28.02,
+      "t": 1787947200
     },
     "vix_etf": {
-      "error": "The read operation timed out"
+      "c": 18.37,
+      "d": 0.27,
+      "dp": 1.4917,
+      "h": 18.455,
+      "l": 18.225,
+      "o": 18.290000000000003,
+      "pc": 18.1,
+      "t": 1787947200
     },
     "china_etf": {
-      "error": "The read operation timed out"
+      "c": 35.52,
+      "d": 0.28,
+      "dp": 0.7946,
+      "h": 35.65,
+      "l": 35.37,
+      "o": 35.58,
+      "pc": 35.24,
+      "t": 1787947200
     },
     "japan_etf": {
-      "error": "The read operation timed out"
+      "c": 95.89,
+      "d": 0.05,
+      "dp": 0.0522,
+      "h": 97.16,
+      "l": 95.555,
+      "o": 96.54,
+      "pc": 95.84,
+      "t": 1787947200
     },
     "vietnam_etf": {
-      "error": "The read operation timed out"
+      "c": 18.19,
+      "d": -0.05,
+      "dp": -0.2741,
+      "h": 18.24,
+      "l": 18.1,
+      "o": 18.21,
+      "pc": 18.24,
+      "t": 1787947200
     },
     "copper_etf": {
-      "error": "The read operation timed out"
+      "c": 39.68,
+      "d": -0.3,
+      "dp": -0.7504,
+      "h": 40.235,
+      "l": 39.64,
+      "o": 39.995,
+      "pc": 39.98,
+      "t": 1787947200
     },
     "realestate_etf": {
-      "error": "The read operation timed out"
+      "c": 103.46,
+      "d": -0.33,
+      "dp": -0.3179,
+      "h": 104.37,
+      "l": 103.3,
+      "o": 103.7,
+      "pc": 103.79,
+      "t": 1787947200
     }
   },
   "status": "ok"

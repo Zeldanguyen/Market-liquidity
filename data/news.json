@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T14:09:59.860384",
+  "fetched_at": "2026-08-31T14:36:21.540140",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Wall St slips as higher oil prices, hawkish Fed bets weigh",
+        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
+        "published": "2026-08-31 14:19:31"
+      },
+      {
+        "title": "Brazil may make spending on some social programs non-mandatory, finance minister says",
+        "link": "https://www.investing.com/news/economy-news/brazil-may-make-spending-on-some-social-programs-nonmandatory-finance-minister-says-4882959",
+        "published": "2026-08-31 14:18:51"
+      },
+      {
+        "title": "Australia’s home prices extend declines in August as downturn deepens",
+        "link": "https://www.investing.com/news/economy-news/australias-home-prices-extend-declines-in-august-as-downturn-deepens-4882955",
+        "published": "2026-08-31 14:07:03"
+      },
+      {
         "title": "Dollar slips ahead of US jobs data",
         "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
         "published": "2026-08-31 13:55:35"
@@ -113,21 +128,6 @@
         "title": "Bessent at G20: growth key to solving debt crisis",
         "link": "https://www.investing.com/news/economy-news/bessent-at-g20-growth-key-to-solving-debt-crisis-93CH-4882863",
         "published": "2026-08-31 13:25:47"
-      },
-      {
-        "title": "BoE’s Bailey warns AI models could disrupt financial markets",
-        "link": "https://www.investing.com/news/economy-news/boes-bailey-warns-ai-models-could-disrupt-financial-markets-4882854",
-        "published": "2026-08-31 13:19:50"
-      },
-      {
-        "title": "Wall St set for lower open as Middle East clashes revive rate-hike speculation",
-        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 12:42:38"
-      },
-      {
-        "title": "German inflation rises to 2.9% in August, below forecasts",
-        "link": "https://www.investing.com/news/economy-news/german-inflation-rises-to-29-in-august-below-forecasts-93CH-4882719",
-        "published": "2026-08-31 12:22:56"
       }
     ]
   }
