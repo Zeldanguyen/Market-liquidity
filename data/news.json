@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T15:36:12.723879",
+  "fetched_at": "2026-08-31T16:06:28.584113",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "SEC plans shareholder proxy proposal rule changes",
+        "link": "https://www.investing.com/news/economy-news/sec-plans-shareholder-proxy-proposal-rule-changes-93CH-4883068",
+        "published": "2026-08-31 15:55:14"
+      },
+      {
+        "title": "Euro rates and inflation are out of sync — BofA sees opportunity",
+        "link": "https://www.investing.com/news/economy-news/euro-rates-and-inflation-are-out-of-sync--bofa-sees-opportunity-4883065",
+        "published": "2026-08-31 15:50:07"
+      },
+      {
+        "title": "Kalshi permanently bans George Santos over State of the Union bets",
+        "link": "https://www.investing.com/news/economy-news/kalshi-permanently-bans-george-santos-over-state-of-the-union-bets-4883060",
+        "published": "2026-08-31 15:48:41"
+      },
+      {
+        "title": "Wall St dips as rising oil prices, hawkish Fed bets pressure stocks",
+        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
+        "published": "2026-08-31 15:42:33"
+      },
+      {
         "title": "FDIC defeats $1.71 billion claim over Silicon Valley Bank collapse, US judge rules",
         "link": "https://www.investing.com/news/economy-news/fdic-defeats-171-billion-claim-over-silicon-valley-bank-collapse-us-judge-rules-4883040",
         "published": "2026-08-31 15:19:12"
@@ -108,26 +128,6 @@
         "title": "Bessent says he believes Japan will take action leading to stronger yen",
         "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
         "published": "2026-08-31 15:12:30"
-      },
-      {
-        "title": "Fed’s Warsh says global investment surge is driving growth",
-        "link": "https://www.investing.com/news/economy-news/feds-warsh-says-global-investment-surge-is-driving-growth-93CH-4883021",
-        "published": "2026-08-31 14:54:21"
-      },
-      {
-        "title": "Bessent says Japan and BOJ will act to strengthen yen",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-japan-and-boj-will-act-to-strengthen-yen-93CH-4883020",
-        "published": "2026-08-31 14:53:24"
-      },
-      {
-        "title": "Bessent says Iran sanctions aim to bring them to talks",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-iran-sanctions-aim-to-bring-them-to-talks-93CH-4883010",
-        "published": "2026-08-31 14:42:43"
-      },
-      {
-        "title": "Wall St slips as higher oil prices, hawkish Fed bets weigh",
-        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 14:24:28"
       }
     ]
   }
