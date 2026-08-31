@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T01:05:54.715851",
+  "fetched_at": "2026-08-31T01:35:49.322733",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
+        "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
+        "published": "2026-08-31 01:12:55"
+      },
+      {
+        "title": "Shares skid in Asia as oil, yields stay high",
+        "link": "https://www.investing.com/news/economy-news/shares-skid-in-asia-as-oil-yields-stay-high-4882086",
+        "published": "2026-08-31 00:42:27"
+      },
+      {
         "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
         "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
         "published": "2026-08-30 23:54:48"
-      },
-      {
-        "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
-        "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
-        "published": "2026-08-30 23:54:30"
       },
       {
         "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
@@ -115,7 +120,7 @@
         "published": "2026-08-30 23:12:42"
       },
       {
-        "title": "U.S. forces strike Iranian launchers on Larak Island",
+        "title": "U.S. strikes Iranian launchers on Larak Island; Tehran retaliates",
         "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
         "published": "2026-08-30 20:50:01"
       },
@@ -123,11 +128,6 @@
         "title": "Iceland rejects EU-accession talks in close-fought referendum",
         "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
         "published": "2026-08-30 17:19:32"
-      },
-      {
-        "title": "How will U.S.-Iran conflict reshape the world?",
-        "link": "https://www.investing.com/news/economy-news/how-will-usiran-conflict-reshape-the-world-4882050",
-        "published": "2026-08-30 13:41:58"
       }
     ]
   }
