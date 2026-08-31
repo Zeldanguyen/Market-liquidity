@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-31T07:36:10.395498",
+  "fetched_at": "2026-08-31T08:06:14.109174",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "HAGL đã bán gần 15 triệu cổ phần tại HGI với giá thấp hơn 25% giá IPO",
+        "link": "https://cafef.vn/hagl-da-ban-gan-15-trieu-co-phan-tai-hgi-voi-gia-thap-hon-25-gia-ipo-188260831140355284.chn",
+        "published": "Mon, 31 Aug 26 14:35:00 +0700"
+      },
       {
         "title": "Chứng khoán Kafi chốt ngày lên UPCoM, giá tham chiếu 15.000 đồng/cổ phiếu",
         "link": "https://cafef.vn/chung-khoan-kafi-chot-ngay-len-upcom-gia-tham-chieu-15000-dong-co-phieu-188260831140251723.chn",
@@ -27,11 +32,6 @@
         "title": "Vàng lên xuống liên tục, người mua vàng nên làm gì?",
         "link": "https://cafef.vn/vang-len-xuong-lien-tuc-nguoi-mua-vang-nen-lam-gi-188260830131117982.chn",
         "published": "Mon, 31 Aug 26 00:10:00 +0700"
-      },
-      {
-        "title": "Lịch chốt quyền cổ tức tuần sau nghỉ lễ: Nhiều doanh nghiệp trả cổ tức tiền mặt kỷ lục, cao nhất 2.600 đồng/cp",
-        "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-sau-nghi-le-nhieu-doanh-nghiep-tra-co-tuc-tien-mat-ky-luc-cao-nhat-2600-dong-cp-188260830221903227.chn",
-        "published": "Mon, 31 Aug 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Oil jumps, Fed hawkish, Jobs data - What’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/oil-jumps-fed-hawkish-jobs-data--whats-moving-markets-4882256",
+        "published": "2026-08-31 07:50:30"
+      },
+      {
+        "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action",
+        "link": "https://www.investing.com/news/economy-news/investors-heartened-by-warsh-inflation-talk-still-uncertain-about-fed-action-4882220",
+        "published": "2026-08-31 07:30:34"
+      },
+      {
+        "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
+        "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882146",
+        "published": "2026-08-31 07:24:49"
+      },
+      {
         "title": "Could energy costs become the next UK inflation headache?",
         "link": "https://www.investing.com/news/economy-news/could-energy-costs-become-the-next-uk-inflation-headache-4882189",
         "published": "2026-08-31 06:54:31"
@@ -113,21 +128,6 @@
         "title": "Take Five: Summer’s over, buckle up!",
         "link": "https://www.investing.com/news/economy-news/take-five-summers-over-buckle-up-4882165",
         "published": "2026-08-31 06:18:29"
-      },
-      {
-        "title": "AI-driven cyber risk is top concern for global financial stability, watchdog says",
-        "link": "https://www.investing.com/news/economy-news/aidriven-cyber-risk-is-top-concern-for-global-financial-stability-watchdog-says-4882158",
-        "published": "2026-08-31 06:06:25"
-      },
-      {
-        "title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen hovers near 160",
-        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
-        "published": "2026-08-31 06:01:36"
-      },
-      {
-        "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
-        "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882146",
-        "published": "2026-08-31 05:13:14"
       }
     ]
   }
