@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T12:07:18.848441",
+  "fetched_at": "2026-08-31T12:37:03.196073",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar inches lower as markets weigh Fed rate outlook; yen hovers near 160",
+        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
+        "published": "2026-08-31 11:54:47"
+      },
+      {
         "title": "EU naval forces board oil tanker suspected of Russia ties",
         "link": "https://www.investing.com/news/economy-news/eu-naval-forces-board-oil-tanker-suspected-of-russia-ties-93CH-4882575",
         "published": "2026-08-31 11:29:26"
@@ -123,11 +128,6 @@
         "title": "The Warsh pivot markets didn’t expect",
         "link": "https://www.investing.com/news/economy-news/the-warsh-pivot-markets-didnt-expect-4882504",
         "published": "2026-08-31 11:00:28"
-      },
-      {
-        "title": "China reins in rising yuan as weak domestic demand clouds outlook",
-        "link": "https://www.investing.com/news/economy-news/china-reins-in-rising-yuan-as-weak-domestic-demand-clouds-outlook-4882490",
-        "published": "2026-08-31 10:54:50"
       }
     ]
   }
