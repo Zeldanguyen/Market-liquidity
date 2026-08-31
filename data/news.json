@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-31T17:06:17.301764",
+  "fetched_at": "2026-08-31T17:36:05.557466",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Loạt thông tin quan trọng sắp công bố, chuyên gia dự báo thế nào về giá vàng tuần tới?",
+        "link": "https://cafef.vn/loat-thong-tin-quan-trong-sap-cong-bo-chuyen-gia-du-bao-the-nao-ve-gia-vang-tuan-toi-188260831220949221.chn",
+        "published": "Tue, 01 Sep 26 00:03:00 +0700"
+      },
       {
         "title": "Lịch chốt quyền trả cổ tức trong tuần sau nghỉ lễ 2/9, tỷ lệ cao nhất 16%",
         "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-sau-nghi-le-2-9-ty-le-cao-nhat-16-188260831160554783.chn",
@@ -27,11 +32,6 @@
         "title": "Chứng khoán Kafi chốt ngày lên UPCoM, giá tham chiếu 15.000 đồng/cổ phiếu",
         "link": "https://cafef.vn/chung-khoan-kafi-chot-ngay-len-upcom-gia-tham-chieu-15000-dong-co-phieu-188260831140251723.chn",
         "published": "Mon, 31 Aug 26 14:02:00 +0700"
-      },
-      {
-        "title": "Nên đầu tư thế nào trong những tháng cuối năm?",
-        "link": "https://cafef.vn/nen-dau-tu-the-nao-trong-nhung-thang-cuoi-nam-188260831135940786.chn",
-        "published": "Mon, 31 Aug 26 14:00:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,9 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Warsh’s ’quieter Fed’ now includes a smidgen of guidance",
+        "link": "https://www.investing.com/news/economy-news/warshs-quieter-fed-now-includes-a-smidgen-of-guidance-4883101",
+        "published": "2026-08-31 17:01:43"
+      },
+      {
+        "title": "Polymarket stands ready to fight misconduct as US midterms loom, intel chief says",
+        "link": "https://www.investing.com/news/economy-news/polymarket-stands-ready-to-fight-misconduct-as-us-midterms-loom-intel-chief-says-4882406",
+        "published": "2026-08-31 17:01:22"
+      },
+      {
+        "title": "FDIC defeats $1.71 billion claim over Silicon Valley Bank collapse, US judge rules",
+        "link": "https://www.investing.com/news/economy-news/fdic-defeats-171-billion-claim-over-silicon-valley-bank-collapse-us-judge-rules-4883040",
+        "published": "2026-08-31 17:00:40"
+      },
+      {
         "title": "G20 host US pushes growth agenda to allay debt market concerns",
         "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
-        "published": "2026-08-31 16:36:36"
+        "published": "2026-08-31 16:48:50"
       },
       {
         "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
@@ -113,21 +128,6 @@
         "title": "SEC plans shareholder proxy proposal rule changes",
         "link": "https://www.investing.com/news/economy-news/sec-plans-shareholder-proxy-proposal-rule-changes-93CH-4883068",
         "published": "2026-08-31 15:55:14"
-      },
-      {
-        "title": "Euro rates and inflation are out of sync — BofA sees opportunity",
-        "link": "https://www.investing.com/news/economy-news/euro-rates-and-inflation-are-out-of-sync--bofa-sees-opportunity-4883065",
-        "published": "2026-08-31 15:50:07"
-      },
-      {
-        "title": "Kalshi permanently bans George Santos over State of the Union bets",
-        "link": "https://www.investing.com/news/economy-news/kalshi-permanently-bans-george-santos-over-state-of-the-union-bets-4883060",
-        "published": "2026-08-31 15:48:41"
-      },
-      {
-        "title": "Wall St dips as rising oil prices, hawkish Fed bets pressure stocks",
-        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 15:42:33"
       }
     ]
   }
