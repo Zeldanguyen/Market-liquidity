@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T00:06:54.427260",
+  "fetched_at": "2026-08-31T00:35:59.910865",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
+        "published": "2026-08-30 23:54:48"
+      },
+      {
         "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
         "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
         "published": "2026-08-30 23:54:30"
@@ -108,11 +113,6 @@
         "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
         "link": "https://www.investing.com/news/economy-news/g20-countries-should-consider-more-trade-barriers-with-china-to-cut-imbalances-bessent-says-4882079",
         "published": "2026-08-30 23:12:42"
-      },
-      {
-        "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
-        "published": "2026-08-30 23:00:28"
       },
       {
         "title": "U.S. forces strike Iranian launchers on Larak Island",
