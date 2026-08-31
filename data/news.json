@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T10:36:22.508422",
+  "fetched_at": "2026-08-31T11:06:33.053675",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Lula and Bolsonaro in technical tie for Brazil runoff, poll shows",
+        "link": "https://www.investing.com/news/economy-news/lula-and-bolsonaro-in-technical-tie-for-brazil-runoff-poll-shows-93CH-4882468",
+        "published": "2026-08-31 10:44:57"
+      },
+      {
+        "title": "Qatar’s economy contracts 7% in first quarter amid energy decline",
+        "link": "https://www.investing.com/news/economy-news/qatars-economy-contracts-7-in-first-quarter-amid-energy-decline-93CH-4882467",
+        "published": "2026-08-31 10:43:20"
+      },
+      {
+        "title": "India’s GDP grows 7.8% in April-June",
+        "link": "https://www.investing.com/news/economy-news/indias-gdp-grows-78-in-apriljune-4882465",
+        "published": "2026-08-31 10:42:30"
+      },
+      {
+        "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
+        "published": "2026-08-31 10:31:14"
+      },
+      {
         "title": "Polymarket stands ready to fight misconduct as US midterms loom, intel chief says",
         "link": "https://www.investing.com/news/economy-news/polymarket-stands-ready-to-fight-misconduct-as-us-midterms-loom-intel-chief-says-4882406",
-        "published": "2026-08-31 10:13:49"
+        "published": "2026-08-31 10:20:15"
       },
       {
         "title": "The euro area is firming up. So is the case for more ECB hikes",
         "link": "https://www.investing.com/news/economy-news/the-euro-area-is-firming-up-so-is-the-case-for-more-ecb-hikes-4882365",
         "published": "2026-08-31 09:56:52"
-      },
-      {
-        "title": "US stock index futures dip as Middle East strikes worsen inflation fears",
-        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 09:31:48"
-      },
-      {
-        "title": "Dollar slips as markets weigh Fed rate outlook; yen hovers near 160",
-        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
-        "published": "2026-08-31 08:42:39"
-      },
-      {
-        "title": "New AI models pose growing risk to financial stability, FSB chief Bailey warns",
-        "link": "https://www.investing.com/news/economy-news/new-ai-models-pose-growing-risk-to-financial-stability-fsb-chief-bailey-warns-4882284",
-        "published": "2026-08-31 08:28:52"
-      },
-      {
-        "title": "Warsh’s hawkish reframing puts two more Fed hikes in view: Barclays",
-        "link": "https://www.investing.com/news/economy-news/warshs-hawkish-reframing-puts-two-more-fed-hikes-in-view-4882269",
-        "published": "2026-08-31 08:16:11"
       }
     ]
   }
