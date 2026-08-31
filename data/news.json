@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-31T03:06:02.617120",
+  "fetched_at": "2026-08-31T03:35:59.979735",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng sáng nay: Vàng miếng đi ngang, vàng nhẫn có nơi bán gần 150 triệu đồng/lượng",
+        "link": "https://cafef.vn/gia-vang-sang-nay-vang-mieng-di-ngang-vang-nhan-co-noi-ban-gan-150-trieu-dong-luong-188260831102744106.chn",
+        "published": "Mon, 31 Aug 26 10:27:00 +0700"
+      },
       {
         "title": "Vàng lên xuống liên tục, người mua vàng nên làm gì?",
         "link": "https://cafef.vn/vang-len-xuong-lien-tuc-nguoi-mua-vang-nen-lam-gi-188260830131117982.chn",
@@ -27,11 +32,6 @@
         "title": "Chứng khoán tuần tới được dự đoán hướng tới 1.900 điểm",
         "link": "https://cafef.vn/chung-khoan-tuan-toi-duoc-du-doan-huong-toi-1900-diem-188260830213104627.chn",
         "published": "Sun, 30 Aug 26 22:04:00 +0700"
-      },
-      {
-        "title": "Hai GS thắng giải 3 triệu USD của tỷ phú Phạm Nhật Vượng được lọt vào Top 100 của Time là ai?",
-        "link": "https://cafef.vn/hai-gs-thang-giai-3-trieu-usd-cua-ty-phu-pham-nhat-vuong-duoc-lot-vao-top-100-cua-time-la-ai-188260830212507442.chn",
-        "published": "Sun, 30 Aug 26 21:26:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
+        "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
+        "published": "2026-08-31 03:19:09"
+      },
+      {
         "title": "Chinese factory slump eases, but weak services signal uneven recovery",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-activity-improves-but-stays-in-contraction-in-august-4882108",
         "published": "2026-08-31 02:36:47"
@@ -113,11 +118,6 @@
         "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
         "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
         "published": "2026-08-31 01:24:48"
-      },
-      {
-        "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
-        "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
-        "published": "2026-08-31 01:12:55"
       },
       {
         "title": "Shares skid in Asia as oil, yields stay high",
