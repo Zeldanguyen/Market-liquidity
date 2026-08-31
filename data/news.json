@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T06:06:47.570747",
+  "fetched_at": "2026-08-31T06:35:52.826864",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Take Five: Summer’s over, buckle up!",
+        "link": "https://www.investing.com/news/economy-news/take-five-summers-over-buckle-up-4882165",
+        "published": "2026-08-31 06:18:29"
+      },
+      {
+        "title": "AI-driven cyber risk is top concern for global financial stability, watchdog says",
+        "link": "https://www.investing.com/news/economy-news/aidriven-cyber-risk-is-top-concern-for-global-financial-stability-watchdog-says-4882158",
+        "published": "2026-08-31 06:06:25"
+      },
+      {
+        "title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen hovers near 160",
+        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
+        "published": "2026-08-31 06:01:36"
+      },
+      {
         "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
         "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882146",
         "published": "2026-08-31 05:13:14"
@@ -113,21 +128,6 @@
         "title": "Bessent pushes back on fears over US debt market strains",
         "link": "https://www.investing.com/news/economy-news/bessent-pushes-back-on-fears-over-us-debt-market-strains-4882141",
         "published": "2026-08-31 04:43:15"
-      },
-      {
-        "title": "Morning Bid: Oil climbs as missiles fly in the Gulf",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-oil-climbs-as-missiles-fly-in-the-gulf-4882138",
-        "published": "2026-08-31 04:37:09"
-      },
-      {
-        "title": "Barclays sees two more Fed rate hikes this year after Warsh speech",
-        "link": "https://www.investing.com/news/economy-news/barclays-sees-two-more-fed-rate-hikes-this-year-after-warsh-speech-4882134",
-        "published": "2026-08-31 04:30:40"
-      },
-      {
-        "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
-        "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
-        "published": "2026-08-31 03:19:09"
       }
     ]
   }
