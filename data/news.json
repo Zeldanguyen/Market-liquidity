@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T19:07:45.067588",
+  "fetched_at": "2026-08-31T19:36:58.341007",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar slips, with traders already eyeing Friday jobs data",
+        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
+        "published": "2026-08-31 19:32:19"
+      },
+      {
+        "title": "Fed’s Warsh tells G20 world seeing global investment surge",
+        "link": "https://www.investing.com/news/economy-news/feds-warsh-tells-g20-world-seeing-global-investment-surge-93CH-4883178",
+        "published": "2026-08-31 19:19:33"
+      },
+      {
         "title": "Trump weighs \"mow the lawn\" strategy to counter Iran in Strait of Hormuz",
         "link": "https://www.investing.com/news/economy-news/trump-weighs-mow-the-lawn-strategy-to-counter-iran-in-strait-of-hormuz-4883144",
         "published": "2026-08-31 18:35:23"
@@ -118,16 +128,6 @@
         "title": "Polymarket stands ready to fight misconduct as US midterms loom, intel chief says",
         "link": "https://www.investing.com/news/economy-news/polymarket-stands-ready-to-fight-misconduct-as-us-midterms-loom-intel-chief-says-4882406",
         "published": "2026-08-31 17:01:22"
-      },
-      {
-        "title": "FDIC defeats $1.71 billion claim over Silicon Valley Bank collapse, US judge rules",
-        "link": "https://www.investing.com/news/economy-news/fdic-defeats-171-billion-claim-over-silicon-valley-bank-collapse-us-judge-rules-4883040",
-        "published": "2026-08-31 17:00:40"
-      },
-      {
-        "title": "G20 host US pushes growth agenda to allay debt market concerns",
-        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
-        "published": "2026-08-31 16:48:50"
       }
     ]
   }
