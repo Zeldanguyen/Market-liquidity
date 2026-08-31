@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T07:05:50.773716",
+  "fetched_at": "2026-08-31T07:36:10.395498",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Could energy costs become the next UK inflation headache?",
+        "link": "https://www.investing.com/news/economy-news/could-energy-costs-become-the-next-uk-inflation-headache-4882189",
+        "published": "2026-08-31 06:54:31"
+      },
+      {
+        "title": "September risks are stacking up hard and fast for world markets",
+        "link": "https://www.investing.com/news/economy-news/september-risks-are-stacking-up-hard-and-fast-for-world-markets-4882183",
+        "published": "2026-08-31 06:48:30"
+      },
+      {
         "title": "Take Five: Summer’s over, buckle up!",
         "link": "https://www.investing.com/news/economy-news/take-five-summers-over-buckle-up-4882165",
         "published": "2026-08-31 06:18:29"
@@ -118,16 +128,6 @@
         "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
         "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882146",
         "published": "2026-08-31 05:13:14"
-      },
-      {
-        "title": "Chinese factory slump eases, but weak services signal uneven recovery",
-        "link": "https://www.investing.com/news/economy-news/chinas-factory-activity-improves-but-stays-in-contraction-in-august-4882108",
-        "published": "2026-08-31 05:00:52"
-      },
-      {
-        "title": "Bessent pushes back on fears over US debt market strains",
-        "link": "https://www.investing.com/news/economy-news/bessent-pushes-back-on-fears-over-us-debt-market-strains-4882141",
-        "published": "2026-08-31 04:43:15"
       }
     ]
   }
