@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T22:35:58.021695",
+  "fetched_at": "2026-08-31T23:05:55.767976",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
+        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
+        "published": "2026-08-31 22:31:08"
+      },
+      {
         "title": "US irks G20 ministers by inviting Russia, barring some journalists",
         "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
-        "published": "2026-08-31 22:12:38"
+        "published": "2026-08-31 22:18:54"
       },
       {
         "title": "Trading Day: Bonds shaken, and stirred",
@@ -113,11 +118,6 @@
         "title": "Supreme Court allows Trump White House ballroom construction to continue",
         "link": "https://www.investing.com/news/economy-news/supreme-court-allows-trump-white-house-ballroom-construction-to-continue-93CH-4883282",
         "published": "2026-08-31 20:48:49"
-      },
-      {
-        "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
-        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 20:30:54"
       },
       {
         "title": "Trump on Warsh: He’ll do what he has to do",
