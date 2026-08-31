@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T18:36:23.285244",
+  "fetched_at": "2026-08-31T19:07:45.067588",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Wall St dips as rising oil prices, hawkish Fed bets pressure stocks",
+        "title": "Trump weighs \"mow the lawn\" strategy to counter Iran in Strait of Hormuz",
+        "link": "https://www.investing.com/news/economy-news/trump-weighs-mow-the-lawn-strategy-to-counter-iran-in-strait-of-hormuz-4883144",
+        "published": "2026-08-31 18:35:23"
+      },
+      {
+        "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 17:31:37"
+        "published": "2026-08-31 18:30:43"
       },
       {
         "title": "Warsh’s ’quieter Fed’ now includes a smidgen of guidance",
@@ -123,11 +128,6 @@
         "title": "G20 host US pushes growth agenda to allay debt market concerns",
         "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
         "published": "2026-08-31 16:48:50"
-      },
-      {
-        "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
-        "published": "2026-08-31 16:12:35"
       }
     ]
   }
