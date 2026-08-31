@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-31T06:35:52.826864",
+  "fetched_at": "2026-08-31T07:05:50.773716",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán Kafi chốt ngày lên UPCoM, giá tham chiếu 15.000 đồng/cổ phiếu",
+        "link": "https://cafef.vn/chung-khoan-kafi-chot-ngay-len-upcom-gia-tham-chieu-15000-dong-co-phieu-188260831140251723.chn",
+        "published": "Mon, 31 Aug 26 14:02:00 +0700"
+      },
+      {
+        "title": "Nên đầu tư thế nào trong những tháng cuối năm?",
+        "link": "https://cafef.vn/nen-dau-tu-the-nao-trong-nhung-thang-cuoi-nam-188260831135940786.chn",
+        "published": "Mon, 31 Aug 26 14:00:00 +0700"
+      },
       {
         "title": "Vingroup trả thù lao cho dàn lãnh đạo cấp cao thế nào trong nửa đầu năm 2026?",
         "link": "https://cafef.vn/vingroup-tra-thu-lao-cho-dan-lanh-dao-cap-cao-the-nao-trong-nua-dau-nam-2026-188260831114331374.chn",
@@ -22,16 +32,6 @@
         "title": "Lịch chốt quyền cổ tức tuần sau nghỉ lễ: Nhiều doanh nghiệp trả cổ tức tiền mặt kỷ lục, cao nhất 2.600 đồng/cp",
         "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-sau-nghi-le-nhieu-doanh-nghiep-tra-co-tuc-tien-mat-ky-luc-cao-nhat-2600-dong-cp-188260830221903227.chn",
         "published": "Mon, 31 Aug 26 00:05:00 +0700"
-      },
-      {
-        "title": "Một DN chuẩn bị \"lăn chốt\" cổ tức tiền mặt cao gần gấp đôi thị giá",
-        "link": "https://cafef.vn/mot-dn-chuan-bi-lan-chot-co-tuc-tien-mat-cao-gan-gap-doi-thi-gia-188260830221814427.chn",
-        "published": "Mon, 31 Aug 26 00:03:00 +0700"
-      },
-      {
-        "title": "Đừng hỏi vàng sẽ lên 8.000 hay 12.000 USD/ounce, xu hướng tăng chỉ kết thúc khi điều này xảy ra",
-        "link": "https://cafef.vn/dung-hoi-vang-se-len-8000-hay-12000-usd-ounce-xu-huong-tang-chi-ket-thuc-khi-dieu-nay-xay-ra-188260830231930692.chn",
-        "published": "Mon, 31 Aug 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
