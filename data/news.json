@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T18:06:27.409407",
+  "fetched_at": "2026-08-31T18:36:23.285244",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Wall St dips as rising oil prices, hawkish Fed bets pressure stocks",
+        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
+        "published": "2026-08-31 17:31:37"
+      },
+      {
         "title": "Warsh’s ’quieter Fed’ now includes a smidgen of guidance",
         "link": "https://www.investing.com/news/economy-news/warshs-quieter-fed-now-includes-a-smidgen-of-guidance-4883101",
         "published": "2026-08-31 17:01:43"
@@ -123,11 +128,6 @@
         "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
         "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
         "published": "2026-08-31 16:12:35"
-      },
-      {
-        "title": "SEC plans shareholder proxy proposal rule changes",
-        "link": "https://www.investing.com/news/economy-news/sec-plans-shareholder-proxy-proposal-rule-changes-93CH-4883068",
-        "published": "2026-08-31 15:55:14"
       }
     ]
   }
