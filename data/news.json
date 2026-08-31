@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T22:06:01.297604",
+  "fetched_at": "2026-08-31T22:35:58.021695",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US irks G20 ministers by inviting Russia, barring some journalists",
+        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
+        "published": "2026-08-31 22:12:38"
+      },
+      {
         "title": "Trading Day: Bonds shaken, and stirred",
         "link": "https://www.investing.com/news/economy-news/trading-day-bonds-shaken-and-stirred-4883297",
         "published": "2026-08-31 21:07:48"
@@ -123,11 +128,6 @@
         "title": "SEC chairman moves to give US states power over shareholder resolutions",
         "link": "https://www.investing.com/news/economy-news/sec-chairman-moves-to-give-us-states-power-over-shareholder-resolutions-4883187",
         "published": "2026-08-31 19:37:20"
-      },
-      {
-        "title": "Europeans bristle at Russia’s return to G20",
-        "link": "https://www.investing.com/news/economy-news/europeans-bristle-at-russias-return-to-g20-4883185",
-        "published": "2026-08-31 19:37:01"
       }
     ]
   }
