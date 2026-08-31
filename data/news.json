@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T16:06:28.584113",
+  "fetched_at": "2026-08-31T16:36:01.087717",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Đông Tây Land sắp giao dịch 80 triệu cp trên UPCoM, kiểm toán lưu ý loạt khoản công nợ",
+        "link": "http://vietstock.vn/2026/08/dong-tay-land-sap-giao-dich-80-trieu-cp-tren-upcom-kiem-toan-luu-y-loat-khoan-cong-no-830-1487023.htm",
+        "published": "Mon, 31 Aug 2026 22:42:57 +0700"
+      },
+      {
         "title": "Giá cổ phiếu biến động vì tin đồn",
         "link": "http://vietstock.vn/2026/08/gia-co-phieu-bien-dong-vi-tin-don-830-1486926.htm",
         "published": "Sat, 29 Aug 2026 21:02:00 +0700"
@@ -91,14 +96,14 @@
         "title": "Kafi lên UPCoM từ 09/09, vốn hóa hơn 11 ngàn tỷ",
         "link": "http://vietstock.vn/2026/08/kafi-len-upcom-tu-0909-von-hoa-hon-11-ngan-ty-830-1486801.htm",
         "published": "Fri, 28 Aug 2026 19:06:46 +0700"
-      },
-      {
-        "title": "Chứng khoán Tuần 24-28/08/2026: Khối ngoại mua ròng trở lại",
-        "link": "http://vietstock.vn/2026/08/chung-khoan-tuan-24-28082026-khoi-ngoai-mua-rong-tro-lai-1636-1486585.htm",
-        "published": "Fri, 28 Aug 2026 18:17:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
+        "published": "2026-08-31 16:12:35"
+      },
       {
         "title": "SEC plans shareholder proxy proposal rule changes",
         "link": "https://www.investing.com/news/economy-news/sec-plans-shareholder-proxy-proposal-rule-changes-93CH-4883068",
@@ -123,11 +128,6 @@
         "title": "FDIC defeats $1.71 billion claim over Silicon Valley Bank collapse, US judge rules",
         "link": "https://www.investing.com/news/economy-news/fdic-defeats-171-billion-claim-over-silicon-valley-bank-collapse-us-judge-rules-4883040",
         "published": "2026-08-31 15:19:12"
-      },
-      {
-        "title": "Bessent says he believes Japan will take action leading to stronger yen",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
-        "published": "2026-08-31 15:12:30"
       }
     ]
   }
