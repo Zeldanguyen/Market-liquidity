@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T23:36:02.930063",
+  "fetched_at": "2026-08-31T00:06:54.427260",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
+        "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
+        "published": "2026-08-30 23:54:30"
+      },
+      {
         "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
         "link": "https://www.investing.com/news/economy-news/g20-countries-should-consider-more-trade-barriers-with-china-to-cut-imbalances-bessent-says-4882079",
         "published": "2026-08-30 23:12:42"
@@ -123,11 +128,6 @@
         "title": "How will U.S.-Iran conflict reshape the world?",
         "link": "https://www.investing.com/news/economy-news/how-will-usiran-conflict-reshape-the-world-4882050",
         "published": "2026-08-30 13:41:58"
-      },
-      {
-        "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
-        "link": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4882045",
-        "published": "2026-08-30 13:00:30"
       }
     ]
   }
