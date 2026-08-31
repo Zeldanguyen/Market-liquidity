@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T04:06:10.470008",
+  "fetched_at": "2026-08-31T04:35:56.512102",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Chinese factory slump eases, but weak services signal uneven recovery",
+        "link": "https://www.investing.com/news/economy-news/chinas-factory-activity-improves-but-stays-in-contraction-in-august-4882108",
+        "published": "2026-08-31 04:12:25"
+      },
+      {
         "title": "U.S., Iran trade strikes for first time since July; Trump threatens Kharg attacks",
         "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
         "published": "2026-08-31 03:55:33"
@@ -108,11 +113,6 @@
         "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
         "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
         "published": "2026-08-31 03:19:09"
-      },
-      {
-        "title": "Chinese factory slump eases, but weak services signal uneven recovery",
-        "link": "https://www.investing.com/news/economy-news/chinas-factory-activity-improves-but-stays-in-contraction-in-august-4882108",
-        "published": "2026-08-31 02:36:47"
       },
       {
         "title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160",
