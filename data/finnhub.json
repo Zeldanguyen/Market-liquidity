@@ -1,38 +1,17 @@
 {
-  "fetched_at": "2026-08-31T08:34:22.144277",
+  "fetched_at": "2026-08-31T09:04:37.277580",
   "equities": {
     "sp500_etf": {
-      "c": 769.35,
-      "d": -1.75,
-      "dp": -0.2269,
-      "h": 775.3,
-      "l": 768.3076,
-      "o": 771.76,
-      "pc": 771.1,
-      "t": 1787947200
+      "error": "HTTP 503: error code: 1200\n"
     },
     "dow_etf": {
-      "c": 535.06,
-      "d": -0.16,
-      "dp": -0.0299,
-      "h": 537.73,
-      "l": 534.4,
-      "o": 536.53,
-      "pc": 535.22,
-      "t": 1787947200
+      "error": "HTTP 503: error code: 1200\n"
     },
     "nasdaq_etf": {
       "error": "HTTP 503: error code: 1200\n"
     },
     "gold_etf": {
-      "c": 408.89,
-      "d": -13.71,
-      "dp": -3.2442,
-      "h": 424.79,
-      "l": 407.62,
-      "o": 422.24,
-      "pc": 422.6,
-      "t": 1787947200
+      "error": "HTTP 503: error code: 1200\n"
     },
     "oil_etf": {
       "error": "HTTP 503: error code: 1200\n"
@@ -41,27 +20,20 @@
       "error": "HTTP 503: error code: 1200\n"
     },
     "vix_etf": {
-      "c": 18.36,
-      "d": 0.26,
-      "dp": 1.4365,
-      "h": 18.455,
-      "l": 18.225,
-      "o": 18.28,
-      "pc": 18.1,
-      "t": 1787947200
+      "error": "The read operation timed out"
     },
     "china_etf": {
-      "c": 35.51,
-      "d": 0.27,
-      "dp": 0.7662,
-      "h": 35.65,
-      "l": 35.37,
-      "o": 35.52,
-      "pc": 35.24,
-      "t": 1787947200
+      "error": "The read operation timed out"
     },
     "japan_etf": {
-      "error": "HTTP 503: error code: 1200\n"
+      "c": 95.87,
+      "d": 0.03,
+      "dp": 0.0313,
+      "h": 97.16,
+      "l": 95.555,
+      "o": 96.63,
+      "pc": 95.84,
+      "t": 1787947200
     },
     "vietnam_etf": {
       "error": "HTTP 503: error code: 1200\n"

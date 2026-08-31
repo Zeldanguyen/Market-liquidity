@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T08:36:33.147160",
+  "fetched_at": "2026-08-31T09:06:52.265689",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar slips as markets weigh Fed rate outlook; yen hovers near 160",
+        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
+        "published": "2026-08-31 08:42:39"
+      },
+      {
+        "title": "New AI models pose growing risk to financial stability, FSB chief Bailey warns",
+        "link": "https://www.investing.com/news/economy-news/new-ai-models-pose-growing-risk-to-financial-stability-fsb-chief-bailey-warns-4882284",
+        "published": "2026-08-31 08:28:52"
+      },
+      {
         "title": "Warsh’s hawkish reframing puts two more Fed hikes in view: Barclays",
         "link": "https://www.investing.com/news/economy-news/warshs-hawkish-reframing-puts-two-more-fed-hikes-in-view-4882269",
         "published": "2026-08-31 08:16:11"
@@ -118,16 +128,6 @@
         "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action",
         "link": "https://www.investing.com/news/economy-news/investors-heartened-by-warsh-inflation-talk-still-uncertain-about-fed-action-4882220",
         "published": "2026-08-31 07:30:34"
-      },
-      {
-        "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
-        "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882146",
-        "published": "2026-08-31 07:24:49"
-      },
-      {
-        "title": "Could energy costs become the next UK inflation headache?",
-        "link": "https://www.investing.com/news/economy-news/could-energy-costs-become-the-next-uk-inflation-headache-4882189",
-        "published": "2026-08-31 06:54:31"
       }
     ]
   }
