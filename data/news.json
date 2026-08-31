@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T15:06:43.578379",
+  "fetched_at": "2026-08-31T15:36:12.723879",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "FDIC defeats $1.71 billion claim over Silicon Valley Bank collapse, US judge rules",
+        "link": "https://www.investing.com/news/economy-news/fdic-defeats-171-billion-claim-over-silicon-valley-bank-collapse-us-judge-rules-4883040",
+        "published": "2026-08-31 15:19:12"
+      },
+      {
+        "title": "Bessent says he believes Japan will take action leading to stronger yen",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
+        "published": "2026-08-31 15:12:30"
+      },
+      {
+        "title": "Fed’s Warsh says global investment surge is driving growth",
+        "link": "https://www.investing.com/news/economy-news/feds-warsh-says-global-investment-surge-is-driving-growth-93CH-4883021",
+        "published": "2026-08-31 14:54:21"
+      },
+      {
+        "title": "Bessent says Japan and BOJ will act to strengthen yen",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-japan-and-boj-will-act-to-strengthen-yen-93CH-4883020",
+        "published": "2026-08-31 14:53:24"
+      },
+      {
         "title": "Bessent says Iran sanctions aim to bring them to talks",
         "link": "https://www.investing.com/news/economy-news/bessent-says-iran-sanctions-aim-to-bring-them-to-talks-93CH-4883010",
         "published": "2026-08-31 14:42:43"
@@ -108,26 +128,6 @@
         "title": "Wall St slips as higher oil prices, hawkish Fed bets weigh",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
         "published": "2026-08-31 14:24:28"
-      },
-      {
-        "title": "Brazil may make spending on some social programs non-mandatory, finance minister says",
-        "link": "https://www.investing.com/news/economy-news/brazil-may-make-spending-on-some-social-programs-nonmandatory-finance-minister-says-4882959",
-        "published": "2026-08-31 14:18:51"
-      },
-      {
-        "title": "Australia’s home prices extend declines in August as downturn deepens",
-        "link": "https://www.investing.com/news/economy-news/australias-home-prices-extend-declines-in-august-as-downturn-deepens-4882955",
-        "published": "2026-08-31 14:07:03"
-      },
-      {
-        "title": "Dollar slips ahead of US jobs data",
-        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
-        "published": "2026-08-31 13:55:35"
-      },
-      {
-        "title": "German inflation accelerates in August, core stabilises",
-        "link": "https://www.investing.com/news/economy-news/german-inflation-accelerates-in-august-4882705",
-        "published": "2026-08-31 13:37:35"
       }
     ]
   }
