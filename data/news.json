@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T23:05:55.767976",
+  "fetched_at": "2026-08-31T23:35:53.777028",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
+        "published": "2026-08-31 23:18:29"
+      },
+      {
         "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 22:31:08"
+        "published": "2026-08-31 23:02:31"
       },
       {
         "title": "US irks G20 ministers by inviting Russia, barring some journalists",
@@ -123,11 +128,6 @@
         "title": "Trump on Warsh: He’ll do what he has to do",
         "link": "https://www.investing.com/news/economy-news/trump-on-warsh-hell-do-what-he-has-to-do-4883217",
         "published": "2026-08-31 20:18:39"
-      },
-      {
-        "title": "SEC chairman moves to give US states power over shareholder resolutions",
-        "link": "https://www.investing.com/news/economy-news/sec-chairman-moves-to-give-us-states-power-over-shareholder-resolutions-4883187",
-        "published": "2026-08-31 19:37:20"
       }
     ]
   }
