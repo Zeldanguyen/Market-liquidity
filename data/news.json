@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T09:36:05.527354",
+  "fetched_at": "2026-08-31T10:06:18.896629",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US stock index futures dip as Middle East strikes worsen inflation fears",
+        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
+        "published": "2026-08-31 09:31:48"
+      },
+      {
         "title": "Dollar slips as markets weigh Fed rate outlook; yen hovers near 160",
         "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
         "published": "2026-08-31 08:42:39"
@@ -123,11 +128,6 @@
         "title": "Oil jumps, Fed hawkish, Jobs data - What’s moving markets",
         "link": "https://www.investing.com/news/economy-news/oil-jumps-fed-hawkish-jobs-data--whats-moving-markets-4882256",
         "published": "2026-08-31 07:58:46"
-      },
-      {
-        "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action",
-        "link": "https://www.investing.com/news/economy-news/investors-heartened-by-warsh-inflation-talk-still-uncertain-about-fed-action-4882220",
-        "published": "2026-08-31 07:30:34"
       }
     ]
   }
