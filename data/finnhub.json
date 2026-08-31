@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T09:04:37.277580",
+  "fetched_at": "2026-08-31T09:34:40.630816",
   "equities": {
     "sp500_etf": {
       "error": "HTTP 503: error code: 1200\n"
@@ -20,20 +20,13 @@
       "error": "HTTP 503: error code: 1200\n"
     },
     "vix_etf": {
-      "error": "The read operation timed out"
+      "error": "HTTP 503: error code: 1200\n"
     },
     "china_etf": {
-      "error": "The read operation timed out"
+      "error": "HTTP 503: error code: 1200\n"
     },
     "japan_etf": {
-      "c": 95.87,
-      "d": 0.03,
-      "dp": 0.0313,
-      "h": 97.16,
-      "l": 95.555,
-      "o": 96.63,
-      "pc": 95.84,
-      "t": 1787947200
+      "error": "HTTP 503: error code: 1200\n"
     },
     "vietnam_etf": {
       "error": "HTTP 503: error code: 1200\n"
