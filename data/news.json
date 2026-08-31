@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-08-31T16:36:01.087717",
+  "fetched_at": "2026-08-31T17:06:17.301764",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lịch chốt quyền trả cổ tức trong tuần sau nghỉ lễ 2/9, tỷ lệ cao nhất 16%",
+        "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-sau-nghi-le-2-9-ty-le-cao-nhat-16-188260831160554783.chn",
+        "published": "Tue, 01 Sep 26 00:02:00 +0700"
+      },
+      {
+        "title": "Quỹ vàng lớn nhất nhất thế giới mua mạnh nhất trong vòng 18 tháng",
+        "link": "https://cafef.vn/quy-vang-lon-nhat-nhat-the-gioi-mua-manh-nhat-trong-vong-18-thang-188260831230250079.chn",
+        "published": "Tue, 01 Sep 26 00:01:00 +0700"
+      },
+      {
+        "title": "CTCK chỉ tên 10 cổ phiếu triển vọng trong tháng 9",
+        "link": "https://cafef.vn/ctck-chi-ten-10-co-phieu-trien-vong-trong-thang-9-188260831221210273.chn",
+        "published": "Tue, 01 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "HAGL đã bán gần 15 triệu cổ phần tại HGI với giá thấp hơn 25% giá IPO",
         "link": "https://cafef.vn/hagl-da-ban-gan-15-trieu-co-phan-tai-hgi-voi-gia-thap-hon-25-gia-ipo-188260831140355284.chn",
@@ -17,21 +32,6 @@
         "title": "Nên đầu tư thế nào trong những tháng cuối năm?",
         "link": "https://cafef.vn/nen-dau-tu-the-nao-trong-nhung-thang-cuoi-nam-188260831135940786.chn",
         "published": "Mon, 31 Aug 26 14:00:00 +0700"
-      },
-      {
-        "title": "Vingroup trả thù lao cho dàn lãnh đạo cấp cao thế nào trong nửa đầu năm 2026?",
-        "link": "https://cafef.vn/vingroup-tra-thu-lao-cho-dan-lanh-dao-cap-cao-the-nao-trong-nua-dau-nam-2026-188260831114331374.chn",
-        "published": "Mon, 31 Aug 26 11:43:00 +0700"
-      },
-      {
-        "title": "Giá vàng sáng nay: Vàng miếng đi ngang, vàng nhẫn có nơi bán gần 150 triệu đồng/lượng",
-        "link": "https://cafef.vn/gia-vang-sang-nay-vang-mieng-di-ngang-vang-nhan-co-noi-ban-gan-150-trieu-dong-luong-188260831102744106.chn",
-        "published": "Mon, 31 Aug 26 10:27:00 +0700"
-      },
-      {
-        "title": "Vàng lên xuống liên tục, người mua vàng nên làm gì?",
-        "link": "https://cafef.vn/vang-len-xuong-lien-tuc-nguoi-mua-vang-nen-lam-gi-188260830131117982.chn",
-        "published": "Mon, 31 Aug 26 00:10:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "G20 host US pushes growth agenda to allay debt market concerns",
+        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
+        "published": "2026-08-31 16:36:36"
+      },
+      {
         "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
         "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
         "published": "2026-08-31 16:12:35"
@@ -123,11 +128,6 @@
         "title": "Wall St dips as rising oil prices, hawkish Fed bets pressure stocks",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
         "published": "2026-08-31 15:42:33"
-      },
-      {
-        "title": "FDIC defeats $1.71 billion claim over Silicon Valley Bank collapse, US judge rules",
-        "link": "https://www.investing.com/news/economy-news/fdic-defeats-171-billion-claim-over-silicon-valley-bank-collapse-us-judge-rules-4883040",
-        "published": "2026-08-31 15:19:12"
       }
     ]
   }
