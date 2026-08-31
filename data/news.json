@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T05:05:59.939236",
+  "fetched_at": "2026-08-31T05:36:22.085017",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Europe’s central bankers fear more turbulence in testy U.S. relations",
+        "link": "https://www.investing.com/news/economy-news/europes-central-bankers-fear-more-turbulence-in-testy-us-relations-4882146",
+        "published": "2026-08-31 05:13:14"
+      },
+      {
         "title": "Chinese factory slump eases, but weak services signal uneven recovery",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-activity-improves-but-stays-in-contraction-in-august-4882108",
         "published": "2026-08-31 05:00:52"
@@ -118,11 +123,6 @@
         "title": "Barclays sees two more Fed rate hikes this year after Warsh speech",
         "link": "https://www.investing.com/news/economy-news/barclays-sees-two-more-fed-rate-hikes-this-year-after-warsh-speech-4882134",
         "published": "2026-08-31 04:30:40"
-      },
-      {
-        "title": "U.S., Iran trade strikes for first time since July; Trump threatens Kharg attacks",
-        "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
-        "published": "2026-08-31 03:55:33"
       },
       {
         "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
