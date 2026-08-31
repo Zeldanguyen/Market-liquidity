@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T00:35:59.910865",
+  "fetched_at": "2026-08-31T01:05:54.715851",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Kỳ vọng lãi suất Fed có thể gây biến động giá vàng trong tuần này",
+        "link": "https://vneconomy.vn/ky-vong-lai-suat-fed-co-the-gay-bien-dong-gia-vang-trong-tuan-nay.htm",
+        "published": "Mon, 31 Aug 2026 00:53:42 GMT"
+      },
+      {
         "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 35+36-2026",
         "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-3536-2026.htm",
         "published": "Sun, 30 Aug 2026 03:16:33 GMT"
@@ -59,11 +64,6 @@
         "title": "Techcombank: Chuyển đổi giao dịch thành nguồn lực cho hộ kinh doanh",
         "link": "https://vneconomy.vn/techcombank-chuyen-doi-giao-dich-thanh-nguon-luc-cho-ho-kinh-doanh.htm",
         "published": "Sat, 29 Aug 2026 01:00:00 GMT"
-      },
-      {
-        "title": "Bảo hiểm công trình: Chi phí bắt buộc hay khoản đầu tư bảo vệ dự án?",
-        "link": "https://vneconomy.vn/bao-hiem-cong-trinh-chi-phi-bat-buoc-hay-khoan-dau-tu-bao-ve-du-an.htm",
-        "published": "Fri, 28 Aug 2026 07:52:24 GMT"
       }
     ],
     "Vietstock": [
