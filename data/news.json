@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-31T04:35:56.512102",
+  "fetched_at": "2026-08-31T05:05:59.939236",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tổng Giám đốc Vingroup thu nhập bao nhiêu khi Chủ tịch Phạm Nhật Vượng nhận thù lao 0 đồng?",
+        "link": "https://cafef.vn/tong-giam-doc-vingroup-thu-nhap-bao-nhieu-khi-chu-tich-pham-nhat-vuong-nhan-thu-lao-0-dong-188260831114331374.chn",
+        "published": "Mon, 31 Aug 26 11:43:00 +0700"
+      },
       {
         "title": "Giá vàng sáng nay: Vàng miếng đi ngang, vàng nhẫn có nơi bán gần 150 triệu đồng/lượng",
         "link": "https://cafef.vn/gia-vang-sang-nay-vang-mieng-di-ngang-vang-nhan-co-noi-ban-gan-150-trieu-dong-luong-188260831102744106.chn",
@@ -27,11 +32,6 @@
         "title": "Đừng hỏi vàng sẽ lên 8.000 hay 12.000 USD/ounce, xu hướng tăng chỉ kết thúc khi điều này xảy ra",
         "link": "https://cafef.vn/dung-hoi-vang-se-len-8000-hay-12000-usd-ounce-xu-huong-tang-chi-ket-thuc-khi-dieu-nay-xay-ra-188260830231930692.chn",
         "published": "Mon, 31 Aug 26 00:01:00 +0700"
-      },
-      {
-        "title": "Chứng khoán tuần tới được dự đoán hướng tới 1.900 điểm",
-        "link": "https://cafef.vn/chung-khoan-tuan-toi-duoc-du-doan-huong-toi-1900-diem-188260830213104627.chn",
-        "published": "Sun, 30 Aug 26 22:04:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -102,7 +102,22 @@
       {
         "title": "Chinese factory slump eases, but weak services signal uneven recovery",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-activity-improves-but-stays-in-contraction-in-august-4882108",
-        "published": "2026-08-31 04:12:25"
+        "published": "2026-08-31 05:00:52"
+      },
+      {
+        "title": "Bessent pushes back on fears over US debt market strains",
+        "link": "https://www.investing.com/news/economy-news/bessent-pushes-back-on-fears-over-us-debt-market-strains-4882141",
+        "published": "2026-08-31 04:43:15"
+      },
+      {
+        "title": "Morning Bid: Oil climbs as missiles fly in the Gulf",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-oil-climbs-as-missiles-fly-in-the-gulf-4882138",
+        "published": "2026-08-31 04:37:09"
+      },
+      {
+        "title": "Barclays sees two more Fed rate hikes this year after Warsh speech",
+        "link": "https://www.investing.com/news/economy-news/barclays-sees-two-more-fed-rate-hikes-this-year-after-warsh-speech-4882134",
+        "published": "2026-08-31 04:30:40"
       },
       {
         "title": "U.S., Iran trade strikes for first time since July; Trump threatens Kharg attacks",
@@ -113,21 +128,6 @@
         "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
         "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
         "published": "2026-08-31 03:19:09"
-      },
-      {
-        "title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160",
-        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
-        "published": "2026-08-31 01:37:01"
-      },
-      {
-        "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
-        "published": "2026-08-31 01:24:48"
-      },
-      {
-        "title": "Shares skid in Asia as oil, yields stay high",
-        "link": "https://www.investing.com/news/economy-news/shares-skid-in-asia-as-oil-yields-stay-high-4882086",
-        "published": "2026-08-31 00:42:27"
       }
     ]
   }
