@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T19:36:58.341007",
+  "fetched_at": "2026-08-31T20:07:02.937570",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "SEC chairman moves to give US states power over shareholder resolutions",
+        "link": "https://www.investing.com/news/economy-news/sec-chairman-moves-to-give-us-states-power-over-shareholder-resolutions-4883187",
+        "published": "2026-08-31 19:37:20"
+      },
+      {
+        "title": "Europeans bristle at Russia’s return to G20",
+        "link": "https://www.investing.com/news/economy-news/europeans-bristle-at-russias-return-to-g20-4883185",
+        "published": "2026-08-31 19:37:01"
+      },
+      {
         "title": "Dollar slips, with traders already eyeing Friday jobs data",
         "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
         "published": "2026-08-31 19:32:19"
@@ -118,16 +128,6 @@
         "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
         "published": "2026-08-31 18:30:43"
-      },
-      {
-        "title": "Warsh’s ’quieter Fed’ now includes a smidgen of guidance",
-        "link": "https://www.investing.com/news/economy-news/warshs-quieter-fed-now-includes-a-smidgen-of-guidance-4883101",
-        "published": "2026-08-31 17:01:43"
-      },
-      {
-        "title": "Polymarket stands ready to fight misconduct as US midterms loom, intel chief says",
-        "link": "https://www.investing.com/news/economy-news/polymarket-stands-ready-to-fight-misconduct-as-us-midterms-loom-intel-chief-says-4882406",
-        "published": "2026-08-31 17:01:22"
       }
     ]
   }
