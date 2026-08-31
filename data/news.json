@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T01:35:49.322733",
+  "fetched_at": "2026-08-31T02:06:18.041512",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Tiền lãi nợ công của các nước G7 có thể tăng thêm hàng chục tỷ USD vì lợi suất trái phiếu leo thang",
+        "link": "https://vneconomy.vn/tien-lai-no-cong-cua-cac-nuoc-g7-co-the-tang-them-hang-chuc-ty-usd-vi-loi-suat-trai-phieu-leo-thang.htm",
+        "published": "Mon, 31 Aug 2026 01:54:13 GMT"
+      },
+      {
         "title": "Kỳ vọng lãi suất Fed có thể gây biến động giá vàng trong tuần này",
         "link": "https://vneconomy.vn/ky-vong-lai-suat-fed-co-the-gay-bien-dong-gia-vang-trong-tuan-nay.htm",
         "published": "Mon, 31 Aug 2026 00:53:42 GMT"
@@ -59,11 +64,6 @@
         "title": "Giá vàng “bốc hơi” gần 150 USD/oz sau bài phát biểu của Chủ tịch Fed",
         "link": "https://vneconomy.vn/gia-vang-boc-hoi-gan-150-usdoz-sau-bai-phat-bieu-cua-chu-tich-fed.htm",
         "published": "Sat, 29 Aug 2026 01:21:44 GMT"
-      },
-      {
-        "title": "Techcombank: Chuyển đổi giao dịch thành nguồn lực cho hộ kinh doanh",
-        "link": "https://vneconomy.vn/techcombank-chuyen-doi-giao-dich-thanh-nguon-luc-cho-ho-kinh-doanh.htm",
-        "published": "Sat, 29 Aug 2026 01:00:00 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160",
+        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
+        "published": "2026-08-31 01:37:01"
+      },
+      {
+        "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
+        "published": "2026-08-31 01:24:48"
+      },
+      {
         "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
         "link": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
         "published": "2026-08-31 01:12:55"
@@ -110,11 +120,6 @@
         "published": "2026-08-31 00:42:27"
       },
       {
-        "title": "Bessent says yen moves ’pretty contained’ and not disorderly",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
-        "published": "2026-08-30 23:54:48"
-      },
-      {
         "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
         "link": "https://www.investing.com/news/economy-news/g20-countries-should-consider-more-trade-barriers-with-china-to-cut-imbalances-bessent-says-4882079",
         "published": "2026-08-30 23:12:42"
@@ -123,11 +128,6 @@
         "title": "U.S. strikes Iranian launchers on Larak Island; Tehran retaliates",
         "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
         "published": "2026-08-30 20:50:01"
-      },
-      {
-        "title": "Iceland rejects EU-accession talks in close-fought referendum",
-        "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
-        "published": "2026-08-30 17:19:32"
       }
     ]
   }
