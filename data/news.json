@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T11:36:06.424896",
+  "fetched_at": "2026-08-31T12:07:18.848441",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "EU naval forces board oil tanker suspected of Russia ties",
+        "link": "https://www.investing.com/news/economy-news/eu-naval-forces-board-oil-tanker-suspected-of-russia-ties-93CH-4882575",
+        "published": "2026-08-31 11:29:26"
+      },
+      {
+        "title": "Japan’s crude oil imports climb 17% in July on US supplies",
+        "link": "https://www.investing.com/news/economy-news/japans-crude-oil-imports-climb-17-in-july-on-us-supplies-93CH-4882571",
+        "published": "2026-08-31 11:26:04"
+      },
+      {
         "title": "Portugal’s economy grows 0.8% in second quarter",
         "link": "https://www.investing.com/news/economy-news/portugals-economy-grows-08-in-second-quarter-93CH-4882566",
         "published": "2026-08-31 11:24:20"
@@ -118,16 +128,6 @@
         "title": "China reins in rising yuan as weak domestic demand clouds outlook",
         "link": "https://www.investing.com/news/economy-news/china-reins-in-rising-yuan-as-weak-domestic-demand-clouds-outlook-4882490",
         "published": "2026-08-31 10:54:50"
-      },
-      {
-        "title": "Czech government plans 2027 budget deficit of $18.71 billion",
-        "link": "https://www.investing.com/news/economy-news/czech-government-plans-2027-budget-deficit-of-1871-billion-93CH-4882472",
-        "published": "2026-08-31 10:48:30"
-      },
-      {
-        "title": "Greece’s jobless rate drops to 7.9% in July from June",
-        "link": "https://www.investing.com/news/economy-news/greeces-jobless-rate-drops-to-79-in-july-from-june-93CH-4882471",
-        "published": "2026-08-31 10:48:11"
       }
     ]
   }
