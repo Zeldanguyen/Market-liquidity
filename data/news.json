@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T02:06:18.041512",
+  "fetched_at": "2026-08-31T02:35:57.143366",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China’s factory activity improves but stays in contraction in August",
+        "link": "https://www.investing.com/news/economy-news/chinas-factory-activity-improves-but-stays-in-contraction-in-august-4882108",
+        "published": "2026-08-31 02:12:41"
+      },
+      {
         "title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160",
         "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
         "published": "2026-08-31 01:37:01"
@@ -123,11 +128,6 @@
         "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
         "link": "https://www.investing.com/news/economy-news/g20-countries-should-consider-more-trade-barriers-with-china-to-cut-imbalances-bessent-says-4882079",
         "published": "2026-08-30 23:12:42"
-      },
-      {
-        "title": "U.S. strikes Iranian launchers on Larak Island; Tehran retaliates",
-        "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
-        "published": "2026-08-30 20:50:01"
       }
     ]
   }
