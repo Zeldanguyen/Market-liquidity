@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T04:40:33.747096",
+  "fetched_at": "2026-09-01T05:09:02.361075",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan 10-yr bond yields cross 3% for first time in 30 years",
+        "link": "https://www.investing.com/news/economy-news/japan-10yr-bond-yields-cross-3-for-first-time-in-30-years-4883487",
+        "published": "2026-09-01 04:55:44"
+      },
+      {
+        "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
+        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
+        "published": "2026-09-01 04:54:35"
+      },
+      {
+        "title": "Morning Bid: The dog days are over",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-the-dog-days-are-over-4883483",
+        "published": "2026-09-01 04:36:49"
+      },
+      {
+        "title": "US irks G20 ministers by bringing back Russia, barring journalists",
+        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
+        "published": "2026-09-01 04:19:09"
+      },
+      {
         "title": "Analysis-Japan faces day of policy reckoning as Bessent calls time on big stimulus",
         "link": "https://www.investing.com/news/economy-news/analysisjapan-faces-day-of-policy-reckoning-as-bessent-calls-time-on-big-stimulus-4883474",
         "published": "2026-09-01 04:06:30"
       },
       {
-        "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
-        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
-        "published": "2026-09-01 03:36:47"
-      },
-      {
         "title": "Global AI boom fuels Asia factory expansion in August",
         "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
         "published": "2026-09-01 02:54:53"
-      },
-      {
-        "title": "China’s August factory activity picks up as demand improves, PMI shows",
-        "link": "https://www.investing.com/news/economy-news/chinas-august-factory-activity-picks-up-as-demand-improves-pmi-shows-4883441",
-        "published": "2026-09-01 02:19:08"
-      },
-      {
-        "title": "Bond selloff pressures stocks as oil crosses $91 a barrel",
-        "link": "https://www.investing.com/news/economy-news/bond-selloff-pressures-stocks-as-oil-crosses-91-a-barrel-4883440",
-        "published": "2026-09-01 01:48:54"
-      },
-      {
-        "title": "Yen hangs near 160 amid BOJ rate-hike bets, dollar wobbles",
-        "link": "https://www.investing.com/news/economy-news/yen-hangs-near-160-amid-boj-ratehike-bets-dollar-wobbles-4883432",
-        "published": "2026-09-01 01:31:52"
       }
     ]
   }
