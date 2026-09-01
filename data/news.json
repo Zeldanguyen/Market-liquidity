@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T14:09:56.213484",
+  "fetched_at": "2026-09-01T14:41:48.480645",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent warns Strait of Hormuz will be “worthless” within 2 years",
+        "link": "https://www.investing.com/news/economy-news/bessent-warns-strait-of-hormuz-will-be-worthless-within-2-years-4884257",
+        "published": "2026-09-01 14:12:28"
+      },
+      {
+        "title": "Senegal bonds hit record lows ahead of IMF statement",
+        "link": "https://www.investing.com/news/economy-news/senegal-bonds-hit-record-lows-ahead-of-imf-statement-93CH-4884254",
+        "published": "2026-09-01 14:08:44"
+      },
+      {
+        "title": "US manufacturing activity slows in August; input prices still elevated",
+        "link": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
+        "published": "2026-09-01 14:08:15"
+      },
+      {
+        "title": "Putin envoy warns of Russian economy going ’berserk’ on war footing",
+        "link": "https://www.investing.com/news/economy-news/putin-envoy-warns-of-russian-economy-going-berserk-on-war-footing-4884247",
+        "published": "2026-09-01 14:07:03"
+      },
+      {
         "title": "Brazil’s economic growth slows in Q2 but beats forecasts",
         "link": "https://www.investing.com/news/economy-news/brazils-economic-growth-slows-in-q2-but-beats-forecasts-4884124",
         "published": "2026-09-01 13:54:26"
@@ -108,26 +128,6 @@
         "title": "Is a U.S. debt crisis really imminent? Yardeni weighs in",
         "link": "https://www.investing.com/news/economy-news/is-a-us-debt-crisis-really-imminent-yardeni-weighs-in-4884194",
         "published": "2026-09-01 13:40:23"
-      },
-      {
-        "title": "Fed’s Barr backs rate hike if inflation fails to cool, September odds hit 66%",
-        "link": "https://www.investing.com/news/economy-news/feds-barr-backs-rate-hike-if-inflation-fails-to-cool-september-odds-hit-66-4884156",
-        "published": "2026-09-01 13:35:39"
-      },
-      {
-        "title": "Fed’s Barr open to rate hike if inflation does not moderate",
-        "link": "https://www.investing.com/news/economy-news/feds-barr-open-to-rate-hike-if-inflation-does-not-moderate-4884130",
-        "published": "2026-09-01 13:19:16"
-      },
-      {
-        "title": "Mozambique reverses central bank appointment after one day",
-        "link": "https://www.investing.com/news/economy-news/mozambique-reverses-central-bank-appointment-after-one-day-93CH-4884101",
-        "published": "2026-09-01 13:02:47"
-      },
-      {
-        "title": "Will U.S. data allow the Fed to remain patient?",
-        "link": "https://www.investing.com/news/economy-news/will-us-data-allow-the-fed-to-remain-patient-4884084",
-        "published": "2026-09-01 13:00:17"
       }
     ]
   }
