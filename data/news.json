@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T13:10:00.130729",
+  "fetched_at": "2026-09-01T13:40:23.589770",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed’s Barr open to rate hike if inflation does not moderate",
+        "link": "https://www.investing.com/news/economy-news/feds-barr-open-to-rate-hike-if-inflation-does-not-moderate-4884130",
+        "published": "2026-09-01 13:19:16"
+      },
+      {
+        "title": "Brazil’s economic growth slows in Q2 but beats forecasts",
+        "link": "https://www.investing.com/news/economy-news/brazils-economic-growth-slows-in-q2-but-beats-forecasts-4884124",
+        "published": "2026-09-01 13:06:28"
+      },
+      {
+        "title": "Mozambique reverses central bank appointment after one day",
+        "link": "https://www.investing.com/news/economy-news/mozambique-reverses-central-bank-appointment-after-one-day-93CH-4884101",
+        "published": "2026-09-01 13:02:47"
+      },
+      {
+        "title": "Will U.S. data allow the Fed to remain patient?",
+        "link": "https://www.investing.com/news/economy-news/will-us-data-allow-the-fed-to-remain-patient-4884084",
+        "published": "2026-09-01 13:00:17"
+      },
+      {
         "title": "Brazil’s economy grows 0.5% in second quarter, beats forecasts",
         "link": "https://www.investing.com/news/economy-news/brazils-economy-grows-05-in-second-quarter-beats-forecasts-93CH-4883993",
         "published": "2026-09-01 12:13:36"
@@ -108,26 +128,6 @@
         "title": "Analysis-Private sector steps up as India’s growth engine broadens",
         "link": "https://www.investing.com/news/economy-news/analysisprivate-sector-steps-up-as-indias-growth-engine-broadens-4883842",
         "published": "2026-09-01 12:06:44"
-      },
-      {
-        "title": "EU to suspend meat imports from Brazil starting Thursday",
-        "link": "https://www.investing.com/news/economy-news/eu-to-suspend-meat-imports-from-brazil-starting-thursday-93CH-4883975",
-        "published": "2026-09-01 12:06:42"
-      },
-      {
-        "title": "Why the UK’s strong growth story could fade this autumn?",
-        "link": "https://www.investing.com/news/economy-news/why-the-uks-strong-growth-story-could-fade-this-autumn-4883883",
-        "published": "2026-09-01 11:44:36"
-      },
-      {
-        "title": "Global bond rout deepens as Japan yield hits key milestone",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-01 11:19:33"
-      },
-      {
-        "title": "Two Saudi tankers struck in Strait of Hormuz Monday",
-        "link": "https://www.investing.com/news/economy-news/two-saudi-tankers-struck-in-strait-of-hormuz-monday-4883749",
-        "published": "2026-09-01 11:10:11"
       }
     ]
   }
