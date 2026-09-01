@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T00:14:04.487544",
+  "fetched_at": "2026-09-01T00:46:25.408423",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan Q2 corporate capex up 1.6% yr/yr, finance ministry says",
+        "link": "https://www.investing.com/news/economy-news/japan-q2-corporate-capex-up-16-yryr-finance-ministry-says-4883392",
+        "published": "2026-09-01 00:06:23"
+      },
+      {
         "title": "US irks G20 ministers by bringing back Russia, barring journalists",
         "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
         "published": "2026-09-01 00:00:58"
@@ -123,11 +128,6 @@
         "title": "Supreme Court allows Trump White House ballroom construction to continue",
         "link": "https://www.investing.com/news/economy-news/supreme-court-allows-trump-white-house-ballroom-construction-to-continue-93CH-4883282",
         "published": "2026-08-31 20:48:49"
-      },
-      {
-        "title": "Trump on Warsh: He’ll do what he has to do",
-        "link": "https://www.investing.com/news/economy-news/trump-on-warsh-hell-do-what-he-has-to-do-4883217",
-        "published": "2026-08-31 20:18:39"
       }
     ]
   }
