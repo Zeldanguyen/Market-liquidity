@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-01T02:39:52.212055",
+  "fetched_at": "2026-09-01T03:09:37.161813",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng thế giới đang chịu sức ép gì?",
+        "link": "https://cafef.vn/gia-vang-the-gioi-dang-chiu-suc-ep-gi-188260901093240514.chn",
+        "published": "Tue, 01 Sep 26 09:59:00 +0700"
+      },
       {
         "title": "Loạt tân binh 'đổ bộ' sàn HoSE trong quý III/2026",
         "link": "https://cafef.vn/loat-tan-binh-do-bo-san-hose-trong-quy-iii-2026-188260901093411435.chn",
@@ -26,11 +31,6 @@
       {
         "title": "Quỹ vàng lớn nhất nhất thế giới mua mạnh nhất trong vòng 18 tháng",
         "link": "https://cafef.vn/quy-vang-lon-nhat-nhat-the-gioi-mua-manh-nhat-trong-vong-18-thang-188260831230250079.chn",
-        "published": "Tue, 01 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "CTCK chỉ tên 10 cổ phiếu triển vọng trong tháng 9",
-        "link": "https://cafef.vn/ctck-chi-ten-10-co-phieu-trien-vong-trong-thang-9-188260831221210273.chn",
         "published": "Tue, 01 Sep 26 00:01:00 +0700"
       }
     ],
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Global AI boom fuels Asia factory expansion in August",
+        "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
+        "published": "2026-09-01 02:54:53"
+      },
+      {
         "title": "China’s August factory activity picks up as demand improves, PMI shows",
         "link": "https://www.investing.com/news/economy-news/chinas-august-factory-activity-picks-up-as-demand-improves-pmi-shows-4883441",
         "published": "2026-09-01 02:19:08"
@@ -123,11 +128,6 @@
         "title": "US irks G20 ministers by bringing back Russia, barring journalists",
         "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
         "published": "2026-09-01 00:36:56"
-      },
-      {
-        "title": "Japan Q2 corporate capex up 1.6% yr/yr, finance ministry says",
-        "link": "https://www.investing.com/news/economy-news/japan-q2-corporate-capex-up-16-yryr-finance-ministry-says-4883392",
-        "published": "2026-09-01 00:06:23"
       }
     ]
   }
