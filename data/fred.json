@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-09-01T05:07:27.069206",
+  "fetched_at": "2026-09-01T05:38:09.671191",
   "series": {
     "fed_funds_rate": [
       {
@@ -36,32 +36,32 @@
     ],
     "cpi": [
       {
-        "realtime_start": "2026-08-12",
-        "realtime_end": "2026-08-12",
+        "realtime_start": "2026-08-31",
+        "realtime_end": "2026-08-31",
         "date": "2026-07-01",
         "value": "332.813"
       },
       {
-        "realtime_start": "2026-08-12",
-        "realtime_end": "2026-08-12",
+        "realtime_start": "2026-08-31",
+        "realtime_end": "2026-08-31",
         "date": "2026-06-01",
         "value": "332.568"
       },
       {
-        "realtime_start": "2026-08-12",
-        "realtime_end": "2026-08-12",
+        "realtime_start": "2026-08-31",
+        "realtime_end": "2026-08-31",
         "date": "2026-05-01",
         "value": "333.979"
       },
       {
-        "realtime_start": "2026-08-12",
-        "realtime_end": "2026-08-12",
+        "realtime_start": "2026-08-31",
+        "realtime_end": "2026-08-31",
         "date": "2026-04-01",
         "value": "332.407"
       },
       {
-        "realtime_start": "2026-08-12",
-        "realtime_end": "2026-08-12",
+        "realtime_start": "2026-08-31",
+        "realtime_end": "2026-08-31",
         "date": "2026-03-01",
         "value": "330.293"
       }
@@ -196,32 +196,32 @@
     ],
     "m2_money_supply": [
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-07-01",
         "value": "23218"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-06-01",
         "value": "23115.2"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-05-01",
         "value": "23013.9"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-04-01",
         "value": "22756.7"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-03-01",
         "value": "22640.4"
       }

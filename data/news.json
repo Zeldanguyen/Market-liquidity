@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T05:09:02.361075",
+  "fetched_at": "2026-09-01T05:39:46.993918",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Global AI boom fuels Asia factory expansion in August",
+        "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
+        "published": "2026-09-01 05:24:46"
+      },
+      {
         "title": "Japan 10-yr bond yields cross 3% for first time in 30 years",
         "link": "https://www.investing.com/news/economy-news/japan-10yr-bond-yields-cross-3-for-first-time-in-30-years-4883487",
         "published": "2026-09-01 04:55:44"
@@ -123,11 +128,6 @@
         "title": "Analysis-Japan faces day of policy reckoning as Bessent calls time on big stimulus",
         "link": "https://www.investing.com/news/economy-news/analysisjapan-faces-day-of-policy-reckoning-as-bessent-calls-time-on-big-stimulus-4883474",
         "published": "2026-09-01 04:06:30"
-      },
-      {
-        "title": "Global AI boom fuels Asia factory expansion in August",
-        "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
-        "published": "2026-09-01 02:54:53"
       }
     ]
   }
