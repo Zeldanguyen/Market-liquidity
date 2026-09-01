@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-01T03:09:37.161813",
+  "fetched_at": "2026-09-01T03:40:53.890325",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một số chính sách kinh tế mới có hiệu lực trong tháng 9/2026",
+        "link": "https://cafef.vn/mot-so-chinh-sach-kinh-te-moi-co-hieu-luc-trong-thang-9-2026-18826090110304301.chn",
+        "published": "Tue, 01 Sep 26 10:30:00 +0700"
+      },
       {
         "title": "Giá vàng thế giới đang chịu sức ép gì?",
         "link": "https://cafef.vn/gia-vang-the-gioi-dang-chiu-suc-ep-gi-188260901093240514.chn",
@@ -27,11 +32,6 @@
         "title": "Lịch chốt quyền trả cổ tức trong tuần sau nghỉ lễ 2/9, tỷ lệ cao nhất 16%",
         "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-sau-nghi-le-2-9-ty-le-cao-nhat-16-188260831160554783.chn",
         "published": "Tue, 01 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Quỹ vàng lớn nhất nhất thế giới mua mạnh nhất trong vòng 18 tháng",
-        "link": "https://cafef.vn/quy-vang-lon-nhat-nhat-the-gioi-mua-manh-nhat-trong-vong-18-thang-188260831230250079.chn",
-        "published": "Tue, 01 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
+        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
+        "published": "2026-09-01 03:24:47"
+      },
+      {
         "title": "Global AI boom fuels Asia factory expansion in August",
         "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
         "published": "2026-09-01 02:54:53"
@@ -108,11 +113,6 @@
         "title": "China’s August factory activity picks up as demand improves, PMI shows",
         "link": "https://www.investing.com/news/economy-news/chinas-august-factory-activity-picks-up-as-demand-improves-pmi-shows-4883441",
         "published": "2026-09-01 02:19:08"
-      },
-      {
-        "title": "South Korea proposes $599 billion 2027 budget, to boost chips and defence spending",
-        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
-        "published": "2026-09-01 02:18:47"
       },
       {
         "title": "Bond selloff pressures stocks as oil crosses $91 a barrel",
