@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-01T09:09:50.578644",
+  "fetched_at": "2026-09-01T09:41:31.687993",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Có hơn 1 tỷ đồng nên trả nợ mua nhà, gửi tiết kiệm hay mua vàng?",
+        "link": "https://cafef.vn/co-hon-1-ty-dong-nen-tra-no-mua-nha-gui-tiet-kiem-hay-mua-vang-188260901152042774.chn",
+        "published": "Tue, 01 Sep 26 16:23:00 +0700"
+      },
       {
         "title": "Tỷ phú Phạm Nhật Vượng tiếp tục nhận thù lao 0 đồng",
         "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tiep-tuc-nhan-thu-lao-0-dong-188260901152155463.chn",
@@ -27,11 +32,6 @@
         "title": "Chứng khoán Dầu khí sắp phát hành trái phiếu riêng lẻ",
         "link": "https://cafef.vn/chung-khoan-dau-khi-sap-phat-hanh-trai-phieu-rieng-le-188260901103449972.chn",
         "published": "Tue, 01 Sep 26 10:52:00 +0700"
-      },
-      {
-        "title": "Một số chính sách kinh tế mới có hiệu lực trong tháng 9/2026",
-        "link": "https://cafef.vn/mot-so-chinh-sach-kinh-te-moi-co-hieu-luc-trong-thang-9-2026-18826090110304301.chn",
-        "published": "Tue, 01 Sep 26 10:30:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan’s benchmark bond yield rises to 3% for first time in 30 years",
+        "link": "https://www.investing.com/news/economy-news/japans-benchmark-bond-yield-rises-to-3-for-first-time-in-30-years-4883532",
+        "published": "2026-09-01 09:26:05"
+      },
+      {
+        "title": "ECB says energy-led inflation spike justifies June rate hike",
+        "link": "https://www.investing.com/news/economy-news/ecb-says-energyled-inflation-spike-justifies-june-rate-hike-4883648",
+        "published": "2026-09-01 09:07:05"
+      },
+      {
+        "title": "Euro zone inflation rises above 3%, cementing ECB rate hike bets",
+        "link": "https://www.investing.com/news/economy-news/euro-zone-inflation-rises-above-3-cementing-ecb-rate-hike-bets-4883644",
+        "published": "2026-09-01 09:06:28"
+      },
+      {
         "title": "European stocks kick off September on gloomy note as bond yields rise",
         "link": "https://www.investing.com/news/economy-news/european-stocks-muted-as-bond-selloff-continues-reckitt-jumps-4883575",
         "published": "2026-09-01 08:36:45"
@@ -113,21 +128,6 @@
         "title": "Euro zone factory growth at more than four-year high in August, PMI shows",
         "link": "https://www.investing.com/news/economy-news/euro-zone-factory-growth-at-more-than-fouryear-high-in-august-pmi-shows-4883588",
         "published": "2026-09-01 08:06:57"
-      },
-      {
-        "title": "US irks G20 ministers by bringing back Russia, barring journalists",
-        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
-        "published": "2026-09-01 07:49:33"
-      },
-      {
-        "title": "Fed hike bets, oil rally and Japan yields - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/fed-hike-bets-oil-rally-and-japan-yields--whats-moving-markets-4883573",
-        "published": "2026-09-01 07:45:16"
-      },
-      {
-        "title": "Global bond rout deepens as Japan yield hits key threshold",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-01 07:43:33"
       }
     ]
   }
