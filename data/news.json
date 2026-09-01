@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T01:39:00.721052",
+  "fetched_at": "2026-09-01T02:08:37.877330",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China’s August factory activity picks up as demand improves, PMI shows",
+        "link": "https://www.investing.com/news/economy-news/chinas-august-factory-activity-picks-up-as-demand-improves-pmi-shows-4883441",
+        "published": "2026-09-01 01:54:38"
+      },
+      {
+        "title": "Bond selloff pressures stocks as oil crosses $91 a barrel",
+        "link": "https://www.investing.com/news/economy-news/bond-selloff-pressures-stocks-as-oil-crosses-91-a-barrel-4883440",
+        "published": "2026-09-01 01:48:54"
+      },
+      {
         "title": "Yen hangs near 160 amid BOJ rate-hike bets, dollar wobbles",
         "link": "https://www.investing.com/news/economy-news/yen-hangs-near-160-amid-boj-ratehike-bets-dollar-wobbles-4883432",
         "published": "2026-09-01 01:31:52"
@@ -118,16 +128,6 @@
         "title": "Japan Q2 corporate capex up 1.6% yr/yr, finance ministry says",
         "link": "https://www.investing.com/news/economy-news/japan-q2-corporate-capex-up-16-yryr-finance-ministry-says-4883392",
         "published": "2026-09-01 00:06:23"
-      },
-      {
-        "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
-        "published": "2026-08-31 23:18:29"
-      },
-      {
-        "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
-        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
-        "published": "2026-08-31 23:02:31"
       }
     ]
   }
