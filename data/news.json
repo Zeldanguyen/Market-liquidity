@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T12:12:11.565440",
+  "fetched_at": "2026-09-01T12:43:51.246294",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil’s economy grows 0.5% in second quarter, beats forecasts",
+        "link": "https://www.investing.com/news/economy-news/brazils-economy-grows-05-in-second-quarter-beats-forecasts-93CH-4883993",
+        "published": "2026-09-01 12:13:36"
+      },
+      {
+        "title": "Analysis-Private sector steps up as India’s growth engine broadens",
+        "link": "https://www.investing.com/news/economy-news/analysisprivate-sector-steps-up-as-indias-growth-engine-broadens-4883842",
+        "published": "2026-09-01 12:06:44"
+      },
+      {
         "title": "EU to suspend meat imports from Brazil starting Thursday",
         "link": "https://www.investing.com/news/economy-news/eu-to-suspend-meat-imports-from-brazil-starting-thursday-93CH-4883975",
         "published": "2026-09-01 12:06:42"
@@ -110,11 +120,6 @@
         "published": "2026-09-01 11:44:36"
       },
       {
-        "title": "Analysis-Private sector steps up as India’s growth engine broadens",
-        "link": "https://www.investing.com/news/economy-news/analysisprivate-sector-steps-up-as-indias-growth-engine-broadens-4883842",
-        "published": "2026-09-01 11:30:46"
-      },
-      {
         "title": "Global bond rout deepens as Japan yield hits key milestone",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-01 11:19:33"
@@ -123,11 +128,6 @@
         "title": "Two Saudi tankers struck in Strait of Hormuz Monday",
         "link": "https://www.investing.com/news/economy-news/two-saudi-tankers-struck-in-strait-of-hormuz-monday-4883749",
         "published": "2026-09-01 11:10:11"
-      },
-      {
-        "title": "New foreign investment in Mexico stalls as companies fret over USMCA uncertainty",
-        "link": "https://www.investing.com/news/economy-news/new-foreign-investment-in-mexico-stalls-as-companies-fret-over-usmca-uncertainty-4883833",
-        "published": "2026-09-01 11:06:38"
       }
     ]
   }
