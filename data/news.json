@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-01T03:40:53.890325",
+  "fetched_at": "2026-09-01T04:08:53.653012",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán Dầu khí sắp phát hành trái phiếu riêng lẻ",
+        "link": "https://cafef.vn/chung-khoan-dau-khi-sap-phat-hanh-trai-phieu-rieng-le-188260901103449972.chn",
+        "published": "Tue, 01 Sep 26 10:52:00 +0700"
+      },
       {
         "title": "Một số chính sách kinh tế mới có hiệu lực trong tháng 9/2026",
         "link": "https://cafef.vn/mot-so-chinh-sach-kinh-te-moi-co-hieu-luc-trong-thang-9-2026-18826090110304301.chn",
@@ -27,11 +32,6 @@
         "title": "Loạt thông tin quan trọng sắp công bố, chuyên gia dự báo thế nào về giá vàng tuần tới?",
         "link": "https://cafef.vn/loat-thong-tin-quan-trong-sap-cong-bo-chuyen-gia-du-bao-the-nao-ve-gia-vang-tuan-toi-188260831220949221.chn",
         "published": "Tue, 01 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Lịch chốt quyền trả cổ tức trong tuần sau nghỉ lễ 2/9, tỷ lệ cao nhất 16%",
-        "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-sau-nghi-le-2-9-ty-le-cao-nhat-16-188260831160554783.chn",
-        "published": "Tue, 01 Sep 26 00:02:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -102,7 +102,7 @@
       {
         "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
         "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
-        "published": "2026-09-01 03:24:47"
+        "published": "2026-09-01 03:36:47"
       },
       {
         "title": "Global AI boom fuels Asia factory expansion in August",
