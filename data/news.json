@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T20:39:11.492072",
+  "fetched_at": "2026-09-01T21:09:16.751343",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Putin says Russia open to concrete talks on Ukraine conflict",
+        "link": "https://www.investing.com/news/economy-news/putin-says-russia-open-to-concrete-talks-on-ukraine-conflict-93CH-4884580",
+        "published": "2026-09-01 20:22:53"
+      },
+      {
+        "title": "OpenAI says upcoming model is so capable it requires stronger guardrails",
+        "link": "https://www.investing.com/news/economy-news/openai-says-upcoming-model-is-so-capable-it-requires-stronger-guardrails-4884560",
+        "published": "2026-09-01 20:13:26"
+      },
+      {
         "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-01 19:30:43"
@@ -118,16 +128,6 @@
         "title": "Canada’s Carney says U.S. must get serious for trade talks",
         "link": "https://www.investing.com/news/economy-news/canadas-carney-says-us-must-get-serious-for-trade-talks-93CH-4884501",
         "published": "2026-09-01 19:16:31"
-      },
-      {
-        "title": "Bank of Israel may cut rates further if inflation stays stable",
-        "link": "https://www.investing.com/news/economy-news/bank-of-israel-may-cut-rates-further-if-inflation-stays-stable-93CH-4884499",
-        "published": "2026-09-01 19:14:55"
-      },
-      {
-        "title": "Finland plans 2027 budget to support recovery and cut deficit",
-        "link": "https://www.investing.com/news/economy-news/finland-plans-2027-budget-to-support-recovery-and-cut-deficit-93CH-4884493",
-        "published": "2026-09-01 18:59:54"
       }
     ]
   }
