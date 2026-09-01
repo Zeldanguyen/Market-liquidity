@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T17:09:19.505003",
+  "fetched_at": "2026-09-01T17:37:57.766848",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
+        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
+        "published": "2026-09-01 17:18:47"
+      },
+      {
         "title": "U.S. retaliates against IRGC in Iran after Strait of Hormuz attacks",
         "link": "https://www.investing.com/news/economy-news/us-retaliates-against-irgc-in-iran-after-strait-of-hormuz-attacks-4884409",
         "published": "2026-09-01 16:52:26"
@@ -123,11 +128,6 @@
         "title": "Bank of Israel may cut rates further if inflation stays stable",
         "link": "https://www.investing.com/news/economy-news/bank-of-israel-may-cut-rates-further-if-inflation-stays-stable-93CH-4884369",
         "published": "2026-09-01 16:04:02"
-      },
-      {
-        "title": "Explainer-What’s behind the selloff in world bond markets?",
-        "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
-        "published": "2026-09-01 16:00:47"
       }
     ]
   }
