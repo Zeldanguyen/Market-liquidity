@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T11:39:49.224564",
+  "fetched_at": "2026-09-01T12:12:11.565440",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Global bond rout deepens as Japan yield hits key milestone",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-01 11:19:33"
+        "title": "EU to suspend meat imports from Brazil starting Thursday",
+        "link": "https://www.investing.com/news/economy-news/eu-to-suspend-meat-imports-from-brazil-starting-thursday-93CH-4883975",
+        "published": "2026-09-01 12:06:42"
+      },
+      {
+        "title": "Why the UK’s strong growth story could fade this autumn?",
+        "link": "https://www.investing.com/news/economy-news/why-the-uks-strong-growth-story-could-fade-this-autumn-4883883",
+        "published": "2026-09-01 11:44:36"
       },
       {
         "title": "Analysis-Private sector steps up as India’s growth engine broadens",
         "link": "https://www.investing.com/news/economy-news/analysisprivate-sector-steps-up-as-indias-growth-engine-broadens-4883842",
-        "published": "2026-09-01 11:12:28"
+        "published": "2026-09-01 11:30:46"
+      },
+      {
+        "title": "Global bond rout deepens as Japan yield hits key milestone",
+        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
+        "published": "2026-09-01 11:19:33"
       },
       {
         "title": "Two Saudi tankers struck in Strait of Hormuz Monday",
@@ -118,16 +128,6 @@
         "title": "New foreign investment in Mexico stalls as companies fret over USMCA uncertainty",
         "link": "https://www.investing.com/news/economy-news/new-foreign-investment-in-mexico-stalls-as-companies-fret-over-usmca-uncertainty-4883833",
         "published": "2026-09-01 11:06:38"
-      },
-      {
-        "title": "Factory activity bounced in August as AI fuelled Asian expansion",
-        "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
-        "published": "2026-09-01 10:00:52"
-      },
-      {
-        "title": "Japan’s benchmark bond yield rises to 3% for first time in 30 years",
-        "link": "https://www.investing.com/news/economy-news/japans-benchmark-bond-yield-rises-to-3-for-first-time-in-30-years-4883532",
-        "published": "2026-09-01 09:26:05"
       }
     ]
   }
