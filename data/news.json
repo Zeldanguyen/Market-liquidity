@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T19:08:50.575481",
+  "fetched_at": "2026-09-01T19:36:17.833709",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
+        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
+        "published": "2026-09-01 19:30:43"
+      },
+      {
+        "title": "IMF and Senegal reach $2.2 billion loan agreement",
+        "link": "https://www.investing.com/news/economy-news/imf-and-senegal-reach-22-billion-loan-agreement-93CH-4884508",
+        "published": "2026-09-01 19:23:26"
+      },
+      {
+        "title": "Trump administration urges G20 to protect against Chinese imports",
+        "link": "https://www.investing.com/news/economy-news/trump-administration-urges-g20-to-protect-against-chinese-imports-93CH-4884506",
+        "published": "2026-09-01 19:21:37"
+      },
+      {
+        "title": "Canada’s Carney says U.S. must get serious for trade talks",
+        "link": "https://www.investing.com/news/economy-news/canadas-carney-says-us-must-get-serious-for-trade-talks-93CH-4884501",
+        "published": "2026-09-01 19:16:31"
+      },
+      {
+        "title": "Bank of Israel may cut rates further if inflation stays stable",
+        "link": "https://www.investing.com/news/economy-news/bank-of-israel-may-cut-rates-further-if-inflation-stays-stable-93CH-4884499",
+        "published": "2026-09-01 19:14:55"
+      },
+      {
         "title": "Finland plans 2027 budget to support recovery and cut deficit",
         "link": "https://www.investing.com/news/economy-news/finland-plans-2027-budget-to-support-recovery-and-cut-deficit-93CH-4884493",
         "published": "2026-09-01 18:59:54"
-      },
-      {
-        "title": "US House passes funding bill to avert government shutdown before midterm elections",
-        "link": "https://www.investing.com/news/economy-news/us-house-has-enough-votes-to-pass-stopgap-funds-to-prevent-shutdowns-on-oct-1-4884475",
-        "published": "2026-09-01 18:30:29"
-      },
-      {
-        "title": "Explainer-What’s behind the selloff in world bond markets?",
-        "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
-        "published": "2026-09-01 17:55:45"
-      },
-      {
-        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-01 17:54:54"
-      },
-      {
-        "title": "Japan’s benchmark bond yield rises to 3% for first time in 30 years",
-        "link": "https://www.investing.com/news/economy-news/japans-benchmark-bond-yield-rises-to-3-for-first-time-in-30-years-4883532",
-        "published": "2026-09-01 17:54:38"
-      },
-      {
-        "title": "Bessent urges BOJ chief to conduct ’sound’ policy to avoid yen volatility",
-        "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
-        "published": "2026-09-01 17:36:30"
       }
     ]
   }
