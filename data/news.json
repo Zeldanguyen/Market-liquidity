@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T13:40:23.589770",
+  "fetched_at": "2026-09-01T14:09:56.213484",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil’s economic growth slows in Q2 but beats forecasts",
+        "link": "https://www.investing.com/news/economy-news/brazils-economic-growth-slows-in-q2-but-beats-forecasts-4884124",
+        "published": "2026-09-01 13:54:26"
+      },
+      {
+        "title": "Is a U.S. debt crisis really imminent? Yardeni weighs in",
+        "link": "https://www.investing.com/news/economy-news/is-a-us-debt-crisis-really-imminent-yardeni-weighs-in-4884194",
+        "published": "2026-09-01 13:40:23"
+      },
+      {
+        "title": "Fed’s Barr backs rate hike if inflation fails to cool, September odds hit 66%",
+        "link": "https://www.investing.com/news/economy-news/feds-barr-backs-rate-hike-if-inflation-fails-to-cool-september-odds-hit-66-4884156",
+        "published": "2026-09-01 13:35:39"
+      },
+      {
         "title": "Fed’s Barr open to rate hike if inflation does not moderate",
         "link": "https://www.investing.com/news/economy-news/feds-barr-open-to-rate-hike-if-inflation-does-not-moderate-4884130",
         "published": "2026-09-01 13:19:16"
-      },
-      {
-        "title": "Brazil’s economic growth slows in Q2 but beats forecasts",
-        "link": "https://www.investing.com/news/economy-news/brazils-economic-growth-slows-in-q2-but-beats-forecasts-4884124",
-        "published": "2026-09-01 13:06:28"
       },
       {
         "title": "Mozambique reverses central bank appointment after one day",
@@ -118,16 +128,6 @@
         "title": "Will U.S. data allow the Fed to remain patient?",
         "link": "https://www.investing.com/news/economy-news/will-us-data-allow-the-fed-to-remain-patient-4884084",
         "published": "2026-09-01 13:00:17"
-      },
-      {
-        "title": "Brazil’s economy grows 0.5% in second quarter, beats forecasts",
-        "link": "https://www.investing.com/news/economy-news/brazils-economy-grows-05-in-second-quarter-beats-forecasts-93CH-4883993",
-        "published": "2026-09-01 12:13:36"
-      },
-      {
-        "title": "Analysis-Private sector steps up as India’s growth engine broadens",
-        "link": "https://www.investing.com/news/economy-news/analysisprivate-sector-steps-up-as-indias-growth-engine-broadens-4883842",
-        "published": "2026-09-01 12:06:44"
       }
     ]
   }
