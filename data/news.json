@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T18:11:10.426510",
+  "fetched_at": "2026-09-01T18:41:40.159533",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US House has enough votes to pass stopgap funds to prevent shutdowns on Oct. 1",
+        "link": "https://www.investing.com/news/economy-news/us-house-has-enough-votes-to-pass-stopgap-funds-to-prevent-shutdowns-on-oct-1-4884475",
+        "published": "2026-09-01 18:18:31"
+      },
+      {
+        "title": "Explainer-What’s behind the selloff in world bond markets?",
+        "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
+        "published": "2026-09-01 17:55:45"
+      },
+      {
+        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
+        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
+        "published": "2026-09-01 17:54:54"
+      },
+      {
+        "title": "Japan’s benchmark bond yield rises to 3% for first time in 30 years",
+        "link": "https://www.investing.com/news/economy-news/japans-benchmark-bond-yield-rises-to-3-for-first-time-in-30-years-4883532",
+        "published": "2026-09-01 17:54:38"
+      },
+      {
         "title": "Bessent urges BOJ chief to conduct ’sound’ policy to avoid yen volatility",
         "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
         "published": "2026-09-01 17:36:30"
@@ -108,26 +128,6 @@
         "title": "IAEA says status of Iran nuclear programs unknown",
         "link": "https://www.investing.com/news/economy-news/iaea-says-status-of-iran-nuclear-programs-unknown-4884445",
         "published": "2026-09-01 17:35:04"
-      },
-      {
-        "title": "Explainer-What’s behind the selloff in world bond markets?",
-        "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
-        "published": "2026-09-01 17:31:09"
-      },
-      {
-        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-01 17:18:47"
-      },
-      {
-        "title": "U.S. retaliates against IRGC in Iran after Strait of Hormuz attacks",
-        "link": "https://www.investing.com/news/economy-news/us-retaliates-against-irgc-in-iran-after-strait-of-hormuz-attacks-4884409",
-        "published": "2026-09-01 16:52:26"
-      },
-      {
-        "title": "Europe’s STOXX 600 hits one-month low as inflation, rising yields pressure markets",
-        "link": "https://www.investing.com/news/economy-news/european-stocks-muted-as-bond-selloff-continues-reckitt-jumps-4883575",
-        "published": "2026-09-01 16:42:35"
       }
     ]
   }
