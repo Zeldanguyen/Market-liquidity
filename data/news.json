@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T16:04:22.812407",
+  "fetched_at": "2026-09-01T16:49:41.938108",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Europe’s STOXX 600 hits one-month low as inflation, rising yields pressure markets",
+        "link": "https://www.investing.com/news/economy-news/european-stocks-muted-as-bond-selloff-continues-reckitt-jumps-4883575",
+        "published": "2026-09-01 16:36:34"
+      },
+      {
+        "title": "Bessent meets BOJ’s Ueda, calls for sound policy to avoid currency volatility, Treasury says",
+        "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
+        "published": "2026-09-01 16:24:45"
+      },
+      {
+        "title": "US pushes G20 to cut trade imbalances, focus on China",
+        "link": "https://www.investing.com/news/economy-news/us-pushes-g20-to-cut-trade-imbalances-focus-on-china-4884376",
+        "published": "2026-09-01 16:07:02"
+      },
+      {
+        "title": "Bank of Israel may cut rates further if inflation stays stable",
+        "link": "https://www.investing.com/news/economy-news/bank-of-israel-may-cut-rates-further-if-inflation-stays-stable-93CH-4884369",
+        "published": "2026-09-01 16:04:02"
+      },
+      {
+        "title": "Explainer-What’s behind the selloff in world bond markets?",
+        "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
+        "published": "2026-09-01 16:00:47"
+      },
+      {
         "title": "Government borrowing costs rise again in fresh headache for global policymakers",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-01 15:54:47"
-      },
-      {
-        "title": "Bank of England’s Mann sees signs of stronger economic growth",
-        "link": "https://www.investing.com/news/economy-news/bank-of-englands-mann-sees-signs-of-stronger-economic-growth-4884346",
-        "published": "2026-09-01 15:31:42"
-      },
-      {
-        "title": "Germany calls for reduced geopolitical uncertainty at G20 meeting",
-        "link": "https://www.investing.com/news/economy-news/germany-calls-for-reduced-geopolitical-uncertainty-at-g20-meeting-93CH-4884340",
-        "published": "2026-09-01 15:20:43"
-      },
-      {
-        "title": "US construction spending falls to lowest level since October 2023",
-        "link": "https://www.investing.com/news/economy-news/us-construction-spending-falls-to-lowest-level-since-october-2023-93CH-4884339",
-        "published": "2026-09-01 15:20:18"
-      },
-      {
-        "title": "Explainer-US Treasury yields are rising — Why does it matter?",
-        "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4884327",
-        "published": "2026-09-01 15:07:30"
-      },
-      {
-        "title": "Brazil’s Q2 GDP tops forecasts but slowdown looms",
-        "link": "https://www.investing.com/news/economy-news/brazils-economic-growth-slows-in-q2-but-beats-forecasts-4884124",
-        "published": "2026-09-01 15:07:14"
       }
     ]
   }
