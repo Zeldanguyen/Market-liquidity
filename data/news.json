@@ -1,39 +1,8 @@
 {
-  "fetched_at": "2026-09-01T21:09:16.751343",
+  "fetched_at": "2026-09-01T21:38:48.330393",
   "feeds": {
     "Reuters Business": [],
-    "CafeF": [
-      {
-        "title": "Dự báo sốc về giá vàng",
-        "link": "https://cafef.vn/du-bao-soc-ve-gia-vang-188260901220637603.chn",
-        "published": "Wed, 02 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Khối ngoại bán ròng hơn 90.000 tỷ từ đầu năm nhưng một tín hiệu tích cực đã xuất hiện",
-        "link": "https://cafef.vn/khoi-ngoai-ban-rong-hon-90000-ty-tu-dau-nam-nhung-mot-tin-hieu-tich-cuc-da-xuat-hien-188260901220700323.chn",
-        "published": "Wed, 02 Sep 26 00:04:00 +0700"
-      },
-      {
-        "title": "Giá thuê giàn khoan chịu áp lực ngắn hạn, \"ông lớn\" dầu khí vẫn được dự báo tăng trưởng mạnh",
-        "link": "https://cafef.vn/gia-thue-gian-khoan-chiu-ap-luc-ngan-han-ong-lon-dau-khi-van-duoc-du-bao-tang-truong-manh-188260901220505686.chn",
-        "published": "Wed, 02 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Petrosetco (PET) rót gần 473 tỷ đồng vào chứng khoán, mạnh tay với VIX, GEL, VPB và MSN",
-        "link": "https://cafef.vn/petrosetco-pet-rot-gan-473-ty-dong-vao-chung-khoan-manh-tay-voi-vix-gel-vpb-va-msn-188260901191955926.chn",
-        "published": "Wed, 02 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Ông Petri Deryng lý giải nguyên nhân cổ phiếu Việt Nam chưa tăng như kỳ vọng",
-        "link": "https://cafef.vn/ong-petri-deryng-ly-giai-nguyen-nhan-co-phieu-viet-nam-chua-tang-nhu-ky-vong-188260901220348935.chn",
-        "published": "Wed, 02 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Vàng tăng hơn 10 triệu đồng/lượng trong tháng 8: Tháng 9 liệu còn ‘nóng’?",
-        "link": "https://cafef.vn/vang-tang-hon-10-trieu-dong-luong-trong-thang-8-thang-9-lieu-con-nong-18826090116162466.chn",
-        "published": "Tue, 01 Sep 26 16:44:00 +0700"
-      }
-    ],
+    "CafeF": [],
     "VnEconomy": [
       {
         "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
@@ -100,6 +69,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trading Day: Over and rout",
+        "link": "https://www.investing.com/news/economy-news/over-and-rout-4884652",
+        "published": "2026-09-01 21:13:35"
+      },
+      {
+        "title": "Exclusive-Trump birthright curbs may prompt US passport checks on parents",
+        "link": "https://www.investing.com/news/economy-news/exclusivetrump-birthright-curbs-may-prompt-us-passport-checks-on-parents-4884658",
+        "published": "2026-09-01 21:12:37"
+      },
+      {
+        "title": "SEC eyes wider retail access to private markets and performance fees",
+        "link": "https://www.investing.com/news/economy-news/sec-eyes-wider-retail-access-to-private-markets-and-performance-fees-93CH-4884626",
+        "published": "2026-09-01 20:53:47"
+      },
+      {
         "title": "Putin says Russia open to concrete talks on Ukraine conflict",
         "link": "https://www.investing.com/news/economy-news/putin-says-russia-open-to-concrete-talks-on-ukraine-conflict-93CH-4884580",
         "published": "2026-09-01 20:22:53"
@@ -113,21 +97,6 @@
         "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-01 19:30:43"
-      },
-      {
-        "title": "IMF and Senegal reach $2.2 billion loan agreement",
-        "link": "https://www.investing.com/news/economy-news/imf-and-senegal-reach-22-billion-loan-agreement-93CH-4884508",
-        "published": "2026-09-01 19:23:26"
-      },
-      {
-        "title": "Trump administration urges G20 to protect against Chinese imports",
-        "link": "https://www.investing.com/news/economy-news/trump-administration-urges-g20-to-protect-against-chinese-imports-93CH-4884506",
-        "published": "2026-09-01 19:21:37"
-      },
-      {
-        "title": "Canada’s Carney says U.S. must get serious for trade talks",
-        "link": "https://www.investing.com/news/economy-news/canadas-carney-says-us-must-get-serious-for-trade-talks-93CH-4884501",
-        "published": "2026-09-01 19:16:31"
       }
     ]
   }
