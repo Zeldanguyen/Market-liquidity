@@ -1,37 +1,37 @@
 {
-  "fetched_at": "2026-09-01T16:49:41.938108",
+  "fetched_at": "2026-09-01T17:09:19.505003",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
+        "title": "Dự báo sốc về giá vàng",
+        "link": "https://cafef.vn/du-bao-soc-ve-gia-vang-188260901220637603.chn",
+        "published": "Wed, 02 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Khối ngoại bán ròng hơn 90.000 tỷ từ đầu năm nhưng một tín hiệu tích cực đã xuất hiện",
+        "link": "https://cafef.vn/khoi-ngoai-ban-rong-hon-90000-ty-tu-dau-nam-nhung-mot-tin-hieu-tich-cuc-da-xuat-hien-188260901220700323.chn",
+        "published": "Wed, 02 Sep 26 00:04:00 +0700"
+      },
+      {
+        "title": "Giá thuê giàn khoan chịu áp lực ngắn hạn, \"ông lớn\" dầu khí vẫn được dự báo tăng trưởng mạnh",
+        "link": "https://cafef.vn/gia-thue-gian-khoan-chiu-ap-luc-ngan-han-ong-lon-dau-khi-van-duoc-du-bao-tang-truong-manh-188260901220505686.chn",
+        "published": "Wed, 02 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Petrosetco (PET) rót gần 473 tỷ đồng vào chứng khoán, mạnh tay với VIX, GEL, VPB và MSN",
+        "link": "https://cafef.vn/petrosetco-pet-rot-gan-473-ty-dong-vao-chung-khoan-manh-tay-voi-vix-gel-vpb-va-msn-188260901191955926.chn",
+        "published": "Wed, 02 Sep 26 00:02:00 +0700"
+      },
+      {
+        "title": "Ông Petri Deryng lý giải nguyên nhân cổ phiếu Việt Nam chưa tăng như kỳ vọng",
+        "link": "https://cafef.vn/ong-petri-deryng-ly-giai-nguyen-nhan-co-phieu-viet-nam-chua-tang-nhu-ky-vong-188260901220348935.chn",
+        "published": "Wed, 02 Sep 26 00:01:00 +0700"
+      },
+      {
         "title": "Vàng tăng hơn 10 triệu đồng/lượng trong tháng 8: Tháng 9 liệu còn ‘nóng’?",
         "link": "https://cafef.vn/vang-tang-hon-10-trieu-dong-luong-trong-thang-8-thang-9-lieu-con-nong-18826090116162466.chn",
         "published": "Tue, 01 Sep 26 16:44:00 +0700"
-      },
-      {
-        "title": "Thù lao lãnh đạo cấp cao Đạm Phú Mỹ (DPM) tăng gần 57%, có trường hợp tăng hơn 14,6 lần",
-        "link": "https://cafef.vn/thu-lao-lanh-dao-cap-cao-dam-phu-my-dpm-tang-gan-57-co-truong-hop-tang-hon-146-lan-188260901161427988.chn",
-        "published": "Tue, 01 Sep 26 16:44:00 +0700"
-      },
-      {
-        "title": "Có hơn 1 tỷ đồng nên trả nợ mua nhà, gửi tiết kiệm hay mua vàng?",
-        "link": "https://cafef.vn/co-hon-1-ty-dong-nen-tra-no-mua-nha-gui-tiet-kiem-hay-mua-vang-188260901152042774.chn",
-        "published": "Tue, 01 Sep 26 16:23:00 +0700"
-      },
-      {
-        "title": "Tỷ phú Phạm Nhật Vượng tiếp tục nhận thù lao 0 đồng",
-        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tiep-tuc-nhan-thu-lao-0-dong-188260901152155463.chn",
-        "published": "Tue, 01 Sep 26 15:21:00 +0700"
-      },
-      {
-        "title": "Tân Chủ tịch HĐQT nâng sở hữu lên 75% vốn VikkiBankS",
-        "link": "https://cafef.vn/tan-chu-tich-hdqt-nang-so-huu-len-75-von-vikkibanks-18826090113253646.chn",
-        "published": "Tue, 01 Sep 26 13:59:00 +0700"
-      },
-      {
-        "title": "TCBS thay đổi Người được ủy quyền công bố thông tin từ ngày 1/9",
-        "link": "https://cafef.vn/tcbs-thay-doi-nguoi-duoc-uy-quyen-cong-bo-thong-tin-tu-ngay-1-9-188260901132416828.chn",
-        "published": "Tue, 01 Sep 26 13:24:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "U.S. retaliates against IRGC in Iran after Strait of Hormuz attacks",
+        "link": "https://www.investing.com/news/economy-news/us-retaliates-against-irgc-in-iran-after-strait-of-hormuz-attacks-4884409",
+        "published": "2026-09-01 16:52:26"
+      },
+      {
         "title": "Europe’s STOXX 600 hits one-month low as inflation, rising yields pressure markets",
         "link": "https://www.investing.com/news/economy-news/european-stocks-muted-as-bond-selloff-continues-reckitt-jumps-4883575",
-        "published": "2026-09-01 16:36:34"
+        "published": "2026-09-01 16:42:35"
       },
       {
         "title": "Bessent meets BOJ’s Ueda, calls for sound policy to avoid currency volatility, Treasury says",
@@ -123,11 +128,6 @@
         "title": "Explainer-What’s behind the selloff in world bond markets?",
         "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
         "published": "2026-09-01 16:00:47"
-      },
-      {
-        "title": "Government borrowing costs rise again in fresh headache for global policymakers",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-01 15:54:47"
       }
     ]
   }
