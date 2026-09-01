@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T17:37:57.766848",
+  "fetched_at": "2026-09-01T18:11:10.426510",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent urges BOJ chief to conduct ’sound’ policy to avoid yen volatility",
+        "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
+        "published": "2026-09-01 17:36:30"
+      },
+      {
+        "title": "IAEA says status of Iran nuclear programs unknown",
+        "link": "https://www.investing.com/news/economy-news/iaea-says-status-of-iran-nuclear-programs-unknown-4884445",
+        "published": "2026-09-01 17:35:04"
+      },
+      {
+        "title": "Explainer-What’s behind the selloff in world bond markets?",
+        "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
+        "published": "2026-09-01 17:31:09"
+      },
+      {
         "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-01 17:18:47"
@@ -113,21 +128,6 @@
         "title": "Europe’s STOXX 600 hits one-month low as inflation, rising yields pressure markets",
         "link": "https://www.investing.com/news/economy-news/european-stocks-muted-as-bond-selloff-continues-reckitt-jumps-4883575",
         "published": "2026-09-01 16:42:35"
-      },
-      {
-        "title": "Bessent meets BOJ’s Ueda, calls for sound policy to avoid currency volatility, Treasury says",
-        "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
-        "published": "2026-09-01 16:24:45"
-      },
-      {
-        "title": "US pushes G20 to cut trade imbalances, focus on China",
-        "link": "https://www.investing.com/news/economy-news/us-pushes-g20-to-cut-trade-imbalances-focus-on-china-4884376",
-        "published": "2026-09-01 16:07:02"
-      },
-      {
-        "title": "Bank of Israel may cut rates further if inflation stays stable",
-        "link": "https://www.investing.com/news/economy-news/bank-of-israel-may-cut-rates-further-if-inflation-stays-stable-93CH-4884369",
-        "published": "2026-09-01 16:04:02"
       }
     ]
   }
