@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-01T06:44:22.217016",
+  "fetched_at": "2026-09-01T07:09:45.494019",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tân Chủ tịch HĐQT nâng sở hữu lên 75% vốn VikkiBankS",
+        "link": "https://cafef.vn/tan-chu-tich-hdqt-nang-so-huu-len-75-von-vikkibanks-18826090113253646.chn",
+        "published": "Tue, 01 Sep 26 13:59:00 +0700"
+      },
       {
         "title": "TCBS thay đổi Người được ủy quyền công bố thông tin từ ngày 1/9",
         "link": "https://cafef.vn/tcbs-thay-doi-nguoi-duoc-uy-quyen-cong-bo-thong-tin-tu-ngay-1-9-188260901132416828.chn",
@@ -27,11 +32,6 @@
         "title": "Giá vàng thế giới đang chịu sức ép gì?",
         "link": "https://cafef.vn/gia-vang-the-gioi-dang-chiu-suc-ep-gi-188260901093240514.chn",
         "published": "Tue, 01 Sep 26 09:59:00 +0700"
-      },
-      {
-        "title": "Loạt tân binh 'đổ bộ' sàn HoSE trong quý III/2026",
-        "link": "https://cafef.vn/loat-tan-binh-do-bo-san-hose-trong-quy-iii-2026-188260901093411435.chn",
-        "published": "Tue, 01 Sep 26 09:34:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
+        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
+        "published": "2026-09-01 06:48:49"
+      },
+      {
+        "title": "Japan’s benchmark bond yield rises to 3% for first time in 30 years",
+        "link": "https://www.investing.com/news/economy-news/japans-benchmark-bond-yield-rises-to-3-for-first-time-in-30-years-4883532",
+        "published": "2026-09-01 06:36:45"
+      },
+      {
         "title": "China’s August factory activity picks up as demand improves, PMI shows",
         "link": "https://www.investing.com/news/economy-news/chinas-august-factory-activity-picks-up-as-demand-improves-pmi-shows-4883441",
         "published": "2026-09-01 06:06:36"
@@ -118,16 +128,6 @@
         "title": "Japan 10-yr bond yields cross 3% for first time in 30 years",
         "link": "https://www.investing.com/news/economy-news/japan-10yr-bond-yields-cross-3-for-first-time-in-30-years-4883487",
         "published": "2026-09-01 04:55:44"
-      },
-      {
-        "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
-        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
-        "published": "2026-09-01 04:54:35"
-      },
-      {
-        "title": "Morning Bid: The dog days are over",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-the-dog-days-are-over-4883483",
-        "published": "2026-09-01 04:36:49"
       }
     ]
   }
