@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T07:09:45.494019",
+  "fetched_at": "2026-09-01T07:41:14.121932",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
-        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
-        "published": "2026-09-01 06:48:49"
+        "title": "US irks G20 ministers by bringing back Russia, barring journalists",
+        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
+        "published": "2026-09-01 07:31:20"
+      },
+      {
+        "title": "Global bond rout deepens as Japan yield hits key threshold",
+        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
+        "published": "2026-09-01 07:30:55"
       },
       {
         "title": "Japan’s benchmark bond yield rises to 3% for first time in 30 years",
         "link": "https://www.investing.com/news/economy-news/japans-benchmark-bond-yield-rises-to-3-for-first-time-in-30-years-4883532",
-        "published": "2026-09-01 06:36:45"
+        "published": "2026-09-01 07:06:30"
+      },
+      {
+        "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
+        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
+        "published": "2026-09-01 06:48:49"
       },
       {
         "title": "China’s August factory activity picks up as demand improves, PMI shows",
@@ -118,16 +128,6 @@
         "title": "Global AI boom fuels Asia factory expansion in August",
         "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
         "published": "2026-09-01 05:43:04"
-      },
-      {
-        "title": "Japan, US agree to continue coordination on yen, Katayama says",
-        "link": "https://www.investing.com/news/economy-news/japan-us-agree-to-continue-coordination-on-yen-katayama-says-4883497",
-        "published": "2026-09-01 05:30:54"
-      },
-      {
-        "title": "Japan 10-yr bond yields cross 3% for first time in 30 years",
-        "link": "https://www.investing.com/news/economy-news/japan-10yr-bond-yields-cross-3-for-first-time-in-30-years-4883487",
-        "published": "2026-09-01 04:55:44"
       }
     ]
   }
