@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T22:38:11.695609",
+  "fetched_at": "2026-09-01T23:08:29.164641",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Kinh tế Việt Nam sau 81 năm độc lập:\nNhững bước chuyển lịch sử và khát vọng trong kỷ nguyên mới",
+        "link": "https://vneconomy.vn/kinh-te-viet-nam-sau-81-nam-doc-lap-nhung-buoc-chuyen-lich-su-va-khat-vong-trong-ky-nguyen-moi.htm",
+        "published": "Tue, 01 Sep 2026 23:00:00 GMT"
+      },
+      {
         "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
         "link": "https://vneconomy.vn/moi-lo-lai-suat-tang-day-gia-vang-xuong-day-2-tuan.htm",
         "published": "Tue, 01 Sep 2026 01:21:08 GMT"
@@ -59,11 +64,6 @@
         "title": "Kỳ vọng lãi suất Fed có thể gây biến động giá vàng trong tuần này",
         "link": "https://vneconomy.vn/ky-vong-lai-suat-fed-co-the-gay-bien-dong-gia-vang-trong-tuan-nay.htm",
         "published": "Mon, 31 Aug 2026 00:53:42 GMT"
-      },
-      {
-        "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 35+36-2026",
-        "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-3536-2026.htm",
-        "published": "Sun, 30 Aug 2026 03:16:33 GMT"
       }
     ],
     "Vietstock": [
