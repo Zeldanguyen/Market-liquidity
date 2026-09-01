@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-01T09:41:31.687993",
+  "fetched_at": "2026-09-01T10:09:40.060637",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vàng tăng hơn 10 triệu đồng/lượng trong tháng 8: Tháng 9 liệu còn ‘nóng’?",
+        "link": "https://cafef.vn/vang-tang-hon-10-trieu-dong-luong-trong-thang-8-thang-9-lieu-con-nong-18826090116162466.chn",
+        "published": "Tue, 01 Sep 26 16:44:00 +0700"
+      },
+      {
+        "title": "Thù lao lãnh đạo cấp cao Đạm Phú Mỹ (DPM) tăng gần 57%, có trường hợp tăng hơn 14,6 lần",
+        "link": "https://cafef.vn/thu-lao-lanh-dao-cap-cao-dam-phu-my-dpm-tang-gan-57-co-truong-hop-tang-hon-146-lan-188260901161427988.chn",
+        "published": "Tue, 01 Sep 26 16:44:00 +0700"
+      },
       {
         "title": "Có hơn 1 tỷ đồng nên trả nợ mua nhà, gửi tiết kiệm hay mua vàng?",
         "link": "https://cafef.vn/co-hon-1-ty-dong-nen-tra-no-mua-nha-gui-tiet-kiem-hay-mua-vang-188260901152042774.chn",
@@ -22,16 +32,6 @@
         "title": "TCBS thay đổi Người được ủy quyền công bố thông tin từ ngày 1/9",
         "link": "https://cafef.vn/tcbs-thay-doi-nguoi-duoc-uy-quyen-cong-bo-thong-tin-tu-ngay-1-9-188260901132416828.chn",
         "published": "Tue, 01 Sep 26 13:24:00 +0700"
-      },
-      {
-        "title": "15 năm dưới thời CEO Tim Cook: Cổ phiếu Apple tăng 2.300%, vốn hóa vượt 4.600 tỷ USD",
-        "link": "https://cafef.vn/15-nam-duoi-thoi-ceo-tim-cook-co-phieu-apple-tang-2300-von-hoa-vuot-4600-ty-usd-188260901130024115.chn",
-        "published": "Tue, 01 Sep 26 13:00:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Dầu khí sắp phát hành trái phiếu riêng lẻ",
-        "link": "https://cafef.vn/chung-khoan-dau-khi-sap-phat-hanh-trai-phieu-rieng-le-188260901103449972.chn",
-        "published": "Tue, 01 Sep 26 10:52:00 +0700"
       }
     ],
     "VnEconomy": [
