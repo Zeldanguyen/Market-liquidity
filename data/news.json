@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-01T05:39:46.993918",
+  "fetched_at": "2026-09-01T06:12:00.270237",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "15 năm dưới thời CEO Tim Cook: Cổ phiếu Apple tăng 2.300%, vốn hóa vượt 4.600 tỷ USD",
+        "link": "https://cafef.vn/15-nam-duoi-thoi-ceo-tim-cook-co-phieu-apple-tang-2300-von-hoa-vuot-4600-ty-usd-188260901130024115.chn",
+        "published": "Tue, 01 Sep 26 13:00:00 +0700"
+      },
       {
         "title": "Chứng khoán Dầu khí sắp phát hành trái phiếu riêng lẻ",
         "link": "https://cafef.vn/chung-khoan-dau-khi-sap-phat-hanh-trai-phieu-rieng-le-188260901103449972.chn",
@@ -27,11 +32,6 @@
         "title": "Quỹ vàng khổng lồ có động thái \"lạ\"",
         "link": "https://cafef.vn/quy-vang-khong-lo-co-dong-thai-la-188260901090603634.chn",
         "published": "Tue, 01 Sep 26 09:14:00 +0700"
-      },
-      {
-        "title": "Loạt thông tin quan trọng sắp công bố, chuyên gia dự báo thế nào về giá vàng tuần tới?",
-        "link": "https://cafef.vn/loat-thong-tin-quan-trong-sap-cong-bo-chuyen-gia-du-bao-the-nao-ve-gia-vang-tuan-toi-188260831220949221.chn",
-        "published": "Tue, 01 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,9 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China’s August factory activity picks up as demand improves, PMI shows",
+        "link": "https://www.investing.com/news/economy-news/chinas-august-factory-activity-picks-up-as-demand-improves-pmi-shows-4883441",
+        "published": "2026-09-01 06:06:36"
+      },
+      {
         "title": "Global AI boom fuels Asia factory expansion in August",
         "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
-        "published": "2026-09-01 05:24:46"
+        "published": "2026-09-01 05:43:04"
+      },
+      {
+        "title": "Japan, US agree to continue coordination on yen, Katayama says",
+        "link": "https://www.investing.com/news/economy-news/japan-us-agree-to-continue-coordination-on-yen-katayama-says-4883497",
+        "published": "2026-09-01 05:30:54"
       },
       {
         "title": "Japan 10-yr bond yields cross 3% for first time in 30 years",
@@ -118,16 +128,6 @@
         "title": "Morning Bid: The dog days are over",
         "link": "https://www.investing.com/news/economy-news/morning-bid-the-dog-days-are-over-4883483",
         "published": "2026-09-01 04:36:49"
-      },
-      {
-        "title": "US irks G20 ministers by bringing back Russia, barring journalists",
-        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
-        "published": "2026-09-01 04:19:09"
-      },
-      {
-        "title": "Analysis-Japan faces day of policy reckoning as Bessent calls time on big stimulus",
-        "link": "https://www.investing.com/news/economy-news/analysisjapan-faces-day-of-policy-reckoning-as-bessent-calls-time-on-big-stimulus-4883474",
-        "published": "2026-09-01 04:06:30"
       }
     ]
   }
