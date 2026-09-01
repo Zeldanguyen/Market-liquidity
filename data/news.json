@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T01:09:22.711394",
+  "fetched_at": "2026-09-01T01:39:00.721052",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
+        "link": "https://vneconomy.vn/moi-lo-lai-suat-tang-day-gia-vang-xuong-day-2-tuan.htm",
+        "published": "Tue, 01 Sep 2026 01:21:08 GMT"
+      },
+      {
+        "title": "Từ tăng trưởng đến thịnh vượng, hạnh phúc",
+        "link": "https://vneconomy.vn/tu-tang-truong-den-thinh-vuong-hanh-phuc.htm",
+        "published": "Mon, 31 Aug 2026 11:04:29 GMT"
+      },
+      {
         "title": "Bộ trưởng Bessent phát tín hiệu không can thiệp thêm, dù đồng yên trượt giá xuống ngưỡng nhạy cảm",
         "link": "https://vneconomy.vn/bo-truong-bessent-phat-tin-hieu-khong-can-thiep-them-du-dong-yen-truot-gia-xuong-nguong-nhay-cam.htm",
         "published": "Mon, 31 Aug 2026 03:48:30 GMT"
@@ -54,16 +64,6 @@
         "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 35+36-2026",
         "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-3536-2026.htm",
         "published": "Sun, 30 Aug 2026 03:16:33 GMT"
-      },
-      {
-        "title": "27 cổ phiếu FTSE và bài toán \"khả năng đầu tư\" của doanh nghiệp Việt Nam",
-        "link": "https://vneconomy.vn/27-co-phieu-ftse-va-bai-toan-kha-nang-dau-tu-cua-doanh-nghiep-viet-nam.htm",
-        "published": "Sun, 30 Aug 2026 02:08:35 GMT"
-      },
-      {
-        "title": "Từ Jackson Hole, Chủ tịch Fed phát tín hiệu tăng lãi suất",
-        "link": "https://vneconomy.vn/tu-jackson-hole-chu-tich-fed-phat-tin-hieu-tang-lai-suat.htm",
-        "published": "Sat, 29 Aug 2026 03:14:56 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen hangs near 160 amid BOJ rate-hike bets, dollar wobbles",
+        "link": "https://www.investing.com/news/economy-news/yen-hangs-near-160-amid-boj-ratehike-bets-dollar-wobbles-4883432",
+        "published": "2026-09-01 01:31:52"
+      },
+      {
+        "title": "South Korea’s President Lee says interest rate rise is unavoidable",
+        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
+        "published": "2026-09-01 01:31:18"
+      },
+      {
         "title": "US irks G20 ministers by bringing back Russia, barring journalists",
         "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
         "published": "2026-09-01 00:36:56"
@@ -118,16 +128,6 @@
         "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
         "published": "2026-08-31 23:02:31"
-      },
-      {
-        "title": "Trading Day: Bonds shaken, and stirred",
-        "link": "https://www.investing.com/news/economy-news/trading-day-bonds-shaken-and-stirred-4883297",
-        "published": "2026-08-31 21:07:48"
-      },
-      {
-        "title": "Supreme Court allows Trump White House ballroom construction to continue",
-        "link": "https://www.investing.com/news/economy-news/supreme-court-allows-trump-white-house-ballroom-construction-to-continue-93CH-4883282",
-        "published": "2026-08-31 20:48:49"
       }
     ]
   }
