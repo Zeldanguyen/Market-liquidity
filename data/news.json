@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T10:41:37.553670",
+  "fetched_at": "2026-09-01T11:09:18.623663",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Two Saudi tankers struck in Strait of Hormuz Monday",
+        "link": "https://www.investing.com/news/economy-news/two-saudi-tankers-struck-in-strait-of-hormuz-monday-4883749",
+        "published": "2026-09-01 10:35:41"
+      },
+      {
         "title": "Factory activity bounced in August as AI fuelled Asian expansion",
         "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
         "published": "2026-09-01 10:00:52"
@@ -123,11 +128,6 @@
         "title": "European stocks kick off September on gloomy note as bond yields rise",
         "link": "https://www.investing.com/news/economy-news/european-stocks-muted-as-bond-selloff-continues-reckitt-jumps-4883575",
         "published": "2026-09-01 08:36:45"
-      },
-      {
-        "title": "Euro zone factory growth at more than four-year high in August, PMI shows",
-        "link": "https://www.investing.com/news/economy-news/euro-zone-factory-growth-at-more-than-fouryear-high-in-august-pmi-shows-4883588",
-        "published": "2026-09-01 08:06:57"
       }
     ]
   }
