@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-01T08:10:35.011863",
+  "fetched_at": "2026-09-01T08:41:29.843723",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tỷ phú Phạm Nhật Vượng tiếp tục nhận thù lao 0 đồng",
+        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tiep-tuc-nhan-thu-lao-0-dong-188260901152155463.chn",
+        "published": "Tue, 01 Sep 26 15:21:00 +0700"
+      },
       {
         "title": "Tân Chủ tịch HĐQT nâng sở hữu lên 75% vốn VikkiBankS",
         "link": "https://cafef.vn/tan-chu-tich-hdqt-nang-so-huu-len-75-von-vikkibanks-18826090113253646.chn",
@@ -27,11 +32,6 @@
         "title": "Một số chính sách kinh tế mới có hiệu lực trong tháng 9/2026",
         "link": "https://cafef.vn/mot-so-chinh-sach-kinh-te-moi-co-hieu-luc-trong-thang-9-2026-18826090110304301.chn",
         "published": "Tue, 01 Sep 26 10:30:00 +0700"
-      },
-      {
-        "title": "Giá vàng thế giới đang chịu sức ép gì?",
-        "link": "https://cafef.vn/gia-vang-the-gioi-dang-chiu-suc-ep-gi-188260901093240514.chn",
-        "published": "Tue, 01 Sep 26 09:59:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,9 +100,19 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "European stocks muted as bond selloff continues; Reckitt jumps",
+        "title": "European stocks kick off September on gloomy note as bond yields rise",
         "link": "https://www.investing.com/news/economy-news/european-stocks-muted-as-bond-selloff-continues-reckitt-jumps-4883575",
-        "published": "2026-09-01 07:54:49"
+        "published": "2026-09-01 08:36:45"
+      },
+      {
+        "title": "Global AI boom fuels Asia factory expansion in August",
+        "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
+        "published": "2026-09-01 08:12:46"
+      },
+      {
+        "title": "Euro zone factory growth at more than four-year high in August, PMI shows",
+        "link": "https://www.investing.com/news/economy-news/euro-zone-factory-growth-at-more-than-fouryear-high-in-august-pmi-shows-4883588",
+        "published": "2026-09-01 08:06:57"
       },
       {
         "title": "US irks G20 ministers by bringing back Russia, barring journalists",
@@ -118,16 +128,6 @@
         "title": "Global bond rout deepens as Japan yield hits key threshold",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-01 07:43:33"
-      },
-      {
-        "title": "China’s August factory activity picks up as demand improves, PMI shows",
-        "link": "https://www.investing.com/news/economy-news/chinas-august-factory-activity-picks-up-as-demand-improves-pmi-shows-4883441",
-        "published": "2026-09-01 07:42:37"
-      },
-      {
-        "title": "Japan’s benchmark bond yield rises to 3% for first time in 30 years",
-        "link": "https://www.investing.com/news/economy-news/japans-benchmark-bond-yield-rises-to-3-for-first-time-in-30-years-4883532",
-        "published": "2026-09-01 07:06:30"
       }
     ]
   }
