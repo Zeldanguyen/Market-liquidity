@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-01T02:08:37.877330",
+  "fetched_at": "2026-09-01T02:39:52.212055",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Loạt tân binh 'đổ bộ' sàn HoSE trong quý III/2026",
+        "link": "https://cafef.vn/loat-tan-binh-do-bo-san-hose-trong-quy-iii-2026-188260901093411435.chn",
+        "published": "Tue, 01 Sep 26 09:34:00 +0700"
+      },
+      {
+        "title": "Quỹ vàng khổng lồ có động thái \"lạ\"",
+        "link": "https://cafef.vn/quy-vang-khong-lo-co-dong-thai-la-188260901090603634.chn",
+        "published": "Tue, 01 Sep 26 09:14:00 +0700"
+      },
       {
         "title": "Loạt thông tin quan trọng sắp công bố, chuyên gia dự báo thế nào về giá vàng tuần tới?",
         "link": "https://cafef.vn/loat-thong-tin-quan-trong-sap-cong-bo-chuyen-gia-du-bao-the-nao-ve-gia-vang-tuan-toi-188260831220949221.chn",
@@ -22,16 +32,6 @@
         "title": "CTCK chỉ tên 10 cổ phiếu triển vọng trong tháng 9",
         "link": "https://cafef.vn/ctck-chi-ten-10-co-phieu-trien-vong-trong-thang-9-188260831221210273.chn",
         "published": "Tue, 01 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "HAGL đã bán gần 15 triệu cổ phần tại HGI với giá thấp hơn 25% giá IPO",
-        "link": "https://cafef.vn/hagl-da-ban-gan-15-trieu-co-phan-tai-hgi-voi-gia-thap-hon-25-gia-ipo-188260831140355284.chn",
-        "published": "Mon, 31 Aug 26 14:35:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Kafi chốt ngày lên UPCoM, giá tham chiếu 15.000 đồng/cổ phiếu",
-        "link": "https://cafef.vn/chung-khoan-kafi-chot-ngay-len-upcom-gia-tham-chieu-15000-dong-co-phieu-188260831140251723.chn",
-        "published": "Mon, 31 Aug 26 14:02:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -102,7 +102,12 @@
       {
         "title": "China’s August factory activity picks up as demand improves, PMI shows",
         "link": "https://www.investing.com/news/economy-news/chinas-august-factory-activity-picks-up-as-demand-improves-pmi-shows-4883441",
-        "published": "2026-09-01 01:54:38"
+        "published": "2026-09-01 02:19:08"
+      },
+      {
+        "title": "South Korea proposes $599 billion 2027 budget, to boost chips and defence spending",
+        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
+        "published": "2026-09-01 02:18:47"
       },
       {
         "title": "Bond selloff pressures stocks as oil crosses $91 a barrel",
@@ -113,11 +118,6 @@
         "title": "Yen hangs near 160 amid BOJ rate-hike bets, dollar wobbles",
         "link": "https://www.investing.com/news/economy-news/yen-hangs-near-160-amid-boj-ratehike-bets-dollar-wobbles-4883432",
         "published": "2026-09-01 01:31:52"
-      },
-      {
-        "title": "South Korea’s President Lee says interest rate rise is unavoidable",
-        "link": "https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431",
-        "published": "2026-09-01 01:31:18"
       },
       {
         "title": "US irks G20 ministers by bringing back Russia, barring journalists",
