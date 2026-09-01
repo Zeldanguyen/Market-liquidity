@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T23:35:53.777028",
+  "fetched_at": "2026-09-01T00:14:04.487544",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US irks G20 ministers by bringing back Russia, barring journalists",
+        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
+        "published": "2026-09-01 00:00:58"
+      },
+      {
         "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
         "link": "https://www.investing.com/news/economy-news/bessent-says-he-believes-japan-will-take-action-leading-to-stronger-yen-4883043",
         "published": "2026-08-31 23:18:29"
@@ -108,11 +113,6 @@
         "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears-4882344",
         "published": "2026-08-31 23:02:31"
-      },
-      {
-        "title": "US irks G20 ministers by inviting Russia, barring some journalists",
-        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
-        "published": "2026-08-31 22:18:54"
       },
       {
         "title": "Trading Day: Bonds shaken, and stirred",
