@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-01T06:12:00.270237",
+  "fetched_at": "2026-09-01T06:44:22.217016",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "TCBS thay đổi Người được ủy quyền công bố thông tin từ ngày 1/9",
+        "link": "https://cafef.vn/tcbs-thay-doi-nguoi-duoc-uy-quyen-cong-bo-thong-tin-tu-ngay-1-9-188260901132416828.chn",
+        "published": "Tue, 01 Sep 26 13:24:00 +0700"
+      },
       {
         "title": "15 năm dưới thời CEO Tim Cook: Cổ phiếu Apple tăng 2.300%, vốn hóa vượt 4.600 tỷ USD",
         "link": "https://cafef.vn/15-nam-duoi-thoi-ceo-tim-cook-co-phieu-apple-tang-2300-von-hoa-vuot-4600-ty-usd-188260901130024115.chn",
@@ -27,11 +32,6 @@
         "title": "Loạt tân binh 'đổ bộ' sàn HoSE trong quý III/2026",
         "link": "https://cafef.vn/loat-tan-binh-do-bo-san-hose-trong-quy-iii-2026-188260901093411435.chn",
         "published": "Tue, 01 Sep 26 09:34:00 +0700"
-      },
-      {
-        "title": "Quỹ vàng khổng lồ có động thái \"lạ\"",
-        "link": "https://cafef.vn/quy-vang-khong-lo-co-dong-thai-la-188260901090603634.chn",
-        "published": "Tue, 01 Sep 26 09:14:00 +0700"
       }
     ],
     "VnEconomy": [
