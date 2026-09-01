@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T00:46:25.408423",
+  "fetched_at": "2026-09-01T01:09:22.711394",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US irks G20 ministers by bringing back Russia, barring journalists",
+        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
+        "published": "2026-09-01 00:36:56"
+      },
+      {
         "title": "Japan Q2 corporate capex up 1.6% yr/yr, finance ministry says",
         "link": "https://www.investing.com/news/economy-news/japan-q2-corporate-capex-up-16-yryr-finance-ministry-says-4883392",
         "published": "2026-09-01 00:06:23"
-      },
-      {
-        "title": "US irks G20 ministers by bringing back Russia, barring journalists",
-        "link": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
-        "published": "2026-09-01 00:00:58"
       },
       {
         "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
