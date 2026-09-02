@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T07:39:50.886206",
+  "fetched_at": "2026-09-02T08:10:25.573590",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Morning Bid: Who will police the bond vigilantes?",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-who-will-police-the-bond-vigilantes-4885310",
+        "published": "2026-09-02 07:48:52"
+      },
+      {
+        "title": "Analysis-No shortage of culprits in panic over long US Treasury yields",
+        "link": "https://www.investing.com/news/economy-news/analysisno-shortage-of-culprits-in-panic-over-long-us-treasury-yields-4885315",
+        "published": "2026-09-02 07:48:36"
+      },
+      {
+        "title": "Exclusive-South Korean FX authorities bought $20 billion in repatriated SK Hynix funds, source says",
+        "link": "https://www.investing.com/news/economy-news/exclusivesouth-korea-fx-stabilization-fund-bought-about-20-billion-from-sk-hynix-adr-windfall-says-source-4885406",
+        "published": "2026-09-02 07:43:10"
+      },
+      {
         "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
         "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 07:30:51"
+        "published": "2026-09-02 07:42:33"
+      },
+      {
+        "title": "Dollar hits 7-week high, Middle East conflict and rate paths in focus",
+        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
+        "published": "2026-09-02 07:36:25"
       },
       {
         "title": "European shares pinned at one-month low as flaring Mideast tensions lift bond yields",
         "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
         "published": "2026-09-02 07:30:33"
-      },
-      {
-        "title": "Iran, Fed data and 5% yields: - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/iran-fed-data-and-5-yields--whats-moving-markets-4885414",
-        "published": "2026-09-02 07:29:14"
-      },
-      {
-        "title": "Exclusive-South Korea FX stabilization fund bought about $20 billion from SK Hynix ADR windfall, says source",
-        "link": "https://www.investing.com/news/economy-news/exclusivesouth-korea-fx-stabilization-fund-bought-about-20-billion-from-sk-hynix-adr-windfall-says-source-4885406",
-        "published": "2026-09-02 07:24:28"
-      },
-      {
-        "title": "Explainer-What’s behind the selloff in world bond markets?",
-        "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
-        "published": "2026-09-02 07:00:38"
-      },
-      {
-        "title": "Dollar steadies near two-week high as Middle East hostilities lift oil",
-        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
-        "published": "2026-09-02 05:18:31"
       }
     ]
   }
