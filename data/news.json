@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T12:43:29.121224",
+  "fetched_at": "2026-09-02T13:09:21.013091",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed’s Williams says bond yields rise amid strong economy, not inflation",
+        "link": "https://www.investing.com/news/economy-news/feds-williams-says-bond-yields-rise-amid-strong-economy-not-inflation-4886156",
+        "published": "2026-09-02 12:51:13"
+      },
+      {
         "title": "China never deliberately pursues trade surplus, central bank governor says",
         "link": "https://www.investing.com/news/economy-news/china-never-deliberately-pursues-trade-surplus-central-bank-governor-says-4886018",
         "published": "2026-09-02 12:06:32"
@@ -123,11 +128,6 @@
         "title": "Dollar rises to 2-week high, Middle East conflict and rate paths in focus",
         "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
         "published": "2026-09-02 11:31:36"
-      },
-      {
-        "title": "Stocks slide, bond rout deepens as US and Iran trade attacks",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 11:24:35"
       }
     ]
   }
