@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T06:44:41.770776",
+  "fetched_at": "2026-09-02T07:09:36.569281",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Explainer-What’s behind the selloff in world bond markets?",
+        "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
+        "published": "2026-09-02 06:36:24"
+      },
+      {
         "title": "Dollar steadies near two-week high as Middle East hostilities lift oil",
         "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
         "published": "2026-09-02 05:18:31"
@@ -123,11 +128,6 @@
         "title": "Morning Bid: Who will police the bond vigilantes?",
         "link": "https://www.investing.com/news/economy-news/morning-bid-who-will-police-the-bond-vigilantes-4885310",
         "published": "2026-09-02 04:43:18"
-      },
-      {
-        "title": "Exclusive-Banks rush to swap higher-risk credit assets for BoE cash",
-        "link": "https://www.investing.com/news/economy-news/exclusivebanks-rush-to-swap-higherrisk-credit-assets-for-boe-cash-4885305",
-        "published": "2026-09-02 04:18:30"
       }
     ]
   }
