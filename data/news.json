@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-02T02:15:32.321768",
+  "fetched_at": "2026-09-02T02:46:49.489847",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng SJC tiếp tục đi ngang, vàng nhẫn tại nhiều thương hiệu đồng loạt hạ nhiệt",
+        "link": "https://cafef.vn/gia-vang-sjc-tiep-tuc-di-ngang-vang-nhan-tai-nhieu-thuong-hieu-dong-loat-ha-nhiet-188260902093802353.chn",
+        "published": "Wed, 02 Sep 26 09:37:00 +0700"
+      },
+      {
+        "title": "FLC nâng vốn lên gần 13.000 tỷ đồng",
+        "link": "https://cafef.vn/flc-nang-von-len-gan-13000-ty-dong-188260902083113399.chn",
+        "published": "Wed, 02 Sep 26 09:30:00 +0700"
+      },
       {
         "title": "Dự báo sốc về giá vàng",
         "link": "https://cafef.vn/du-bao-soc-ve-gia-vang-188260901220637603.chn",
@@ -22,19 +32,14 @@
         "title": "Petrosetco (PET) rót gần 473 tỷ đồng vào chứng khoán, mạnh tay với VIX, GEL, VPB và MSN",
         "link": "https://cafef.vn/petrosetco-pet-rot-gan-473-ty-dong-vao-chung-khoan-manh-tay-voi-vix-gel-vpb-va-msn-188260901191955926.chn",
         "published": "Wed, 02 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Ông Petri Deryng lý giải nguyên nhân cổ phiếu Việt Nam chưa tăng như kỳ vọng",
-        "link": "https://cafef.vn/ong-petri-deryng-ly-giai-nguyen-nhan-co-phieu-viet-nam-chua-tang-nhu-ky-vong-188260901220348935.chn",
-        "published": "Wed, 02 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Vàng tăng hơn 10 triệu đồng/lượng trong tháng 8: Tháng 9 liệu còn ‘nóng’?",
-        "link": "https://cafef.vn/vang-tang-hon-10-trieu-dong-luong-trong-thang-8-thang-9-lieu-con-nong-18826090116162466.chn",
-        "published": "Tue, 01 Sep 26 16:44:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Chuyển từ bồi thường thiệt hại sang tái thiết cuộc sống cho người bị thu hồi đất",
+        "link": "https://vneconomy.vn/chuyen-tu-boi-thuong-thiet-hai-sang-tai-thiet-cuoc-song-cho-nguoi-bi-thu-hoi-dat.htm",
+        "published": "Wed, 02 Sep 2026 02:42:24 GMT"
+      },
       {
         "title": "Giá vàng sụt gần 120 USD/oz vì đồng USD và lợi suất trái phiếu tăng mạnh",
         "link": "https://vneconomy.vn/gia-vang-sut-gan-120-usdoz-vi-dong-usd-va-loi-suat-trai-phieu-tang-manh.htm",
@@ -59,11 +64,6 @@
         "title": "Bộ trưởng Bessent phát tín hiệu không can thiệp thêm, dù đồng yên trượt giá xuống ngưỡng nhạy cảm",
         "link": "https://vneconomy.vn/bo-truong-bessent-phat-tin-hieu-khong-can-thiep-them-du-dong-yen-truot-gia-xuong-nguong-nhay-cam.htm",
         "published": "Mon, 31 Aug 2026 03:48:30 GMT"
-      },
-      {
-        "title": "Tiền lãi nợ công của các nước G7 có thể tăng thêm hàng chục tỷ USD vì lợi suất trái phiếu leo thang",
-        "link": "https://vneconomy.vn/tien-lai-no-cong-cua-cac-nuoc-g7-co-the-tang-them-hang-chuc-ty-usd-vi-loi-suat-trai-phieu-leo-thang.htm",
-        "published": "Mon, 31 Aug 2026 01:54:13 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
+        "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
+        "published": "2026-09-02 02:12:52"
+      },
+      {
         "title": "BOJ must conduct rate hikes nimbly, hawkish board member says",
         "link": "https://www.investing.com/news/economy-news/boj-must-conduct-rate-hikes-nimbly-hawkish-board-member-says-4885257",
         "published": "2026-09-02 02:00:55"
@@ -108,11 +113,6 @@
         "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-02 01:30:26"
-      },
-      {
-        "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
-        "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
-        "published": "2026-09-02 01:19:08"
       },
       {
         "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
