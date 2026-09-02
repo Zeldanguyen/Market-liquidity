@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-02T17:08:39.386471",
+  "fetched_at": "2026-09-02T17:38:09.315460",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, một \"thế lực\" âm thầm gom loạt cổ phiếu",
+        "link": "https://cafef.vn/dong-tien-chuc-cho-do-vao-thi-truong-sau-nghi-le-mot-the-luc-am-tham-gom-loat-co-phieu-188260902232615915.chn",
+        "published": "Thu, 03 Sep 26 00:16:00 +0700"
+      },
       {
         "title": "Giá vàng lao dốc đầu tháng 9, chuyên gia phát cảnh báo quan trọng",
         "link": "https://cafef.vn/gia-vang-lao-doc-dau-thang-9-chuyen-gia-phat-canh-bao-quan-trong-188260902225452251.chn",
@@ -27,11 +32,6 @@
         "title": "Khi nào thị trường tài sản mã hóa vận hành, loại tài sản nào được giao dịch?",
         "link": "https://cafef.vn/khi-nao-thi-truong-tai-san-ma-hoa-van-hanh-loai-tai-san-nao-duoc-giao-dich-188260902170000627.chn",
         "published": "Wed, 02 Sep 26 17:59:00 +0700"
-      },
-      {
-        "title": "Chuyên gia: Thị trường chứng khoán cuối năm sẽ phân hóa mạnh",
-        "link": "https://cafef.vn/chuyen-gia-thi-truong-chung-khoan-cuoi-nam-se-phan-hoa-manh-188260902152821037.chn",
-        "published": "Wed, 02 Sep 26 15:28:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US private credit firms mark down more loans",
+        "link": "https://www.investing.com/news/economy-news/us-private-credit-firms-mark-down-more-loans-4886397",
+        "published": "2026-09-02 17:19:32"
+      },
+      {
+        "title": "Fed watchdog calls for stronger controls on information sharing",
+        "link": "https://www.investing.com/news/economy-news/fed-watchdog-calls-for-stronger-controls-on-information-sharing-93CH-4886573",
+        "published": "2026-09-02 17:09:22"
+      },
+      {
+        "title": "India statistics chief defends GDP revisions amid criticism",
+        "link": "https://www.investing.com/news/economy-news/india-statistics-chief-defends-gdp-revisions-amid-criticism-93CH-4886568",
+        "published": "2026-09-02 17:05:15"
+      },
+      {
         "title": "European shares hit by rising bond yields, energy-driven inflation concerns",
         "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
         "published": "2026-09-02 16:42:52"
@@ -113,21 +128,6 @@
         "title": "Anthropic back on ’right side’ with Trump administration, US Commerce secretary says",
         "link": "https://www.investing.com/news/economy-news/anthropic-back-on-right-side-with-trump-administration-us-commerce-secretary-says-4886543",
         "published": "2026-09-02 16:30:43"
-      },
-      {
-        "title": "Germany and France commit €300 million to South Africa services",
-        "link": "https://www.investing.com/news/economy-news/germany-and-france-commit-300-million-to-south-africa-services-93CH-4886542",
-        "published": "2026-09-02 16:30:30"
-      },
-      {
-        "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
-        "link": "https://www.investing.com/news/economy-news/anthropic-launches-ai-agent-blueprints-for-retailers-ahead-of-holiday-shopping-season-4886525",
-        "published": "2026-09-02 16:06:29"
-      },
-      {
-        "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
-        "link": "https://www.investing.com/news/economy-news/analysisrising-treasury-yields-could-rattle-us-stocks-as-earnings-season-ends-4885687",
-        "published": "2026-09-02 16:01:27"
       }
     ]
   }
