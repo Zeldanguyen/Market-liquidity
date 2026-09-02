@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T18:11:21.328521",
+  "fetched_at": "2026-09-02T18:41:08.829395",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Economic activity edged up and prices rose moderately in recent weeks, Fed survey shows",
+        "link": "https://www.investing.com/news/economy-news/economic-activity-edged-up-and-prices-rose-moderately-in-recent-weeks-fed-survey-shows-4886620",
+        "published": "2026-09-02 18:24:22"
+      },
+      {
+        "title": "Explainer-Why is Senegal reworking its debt and what makes it different?",
+        "link": "https://www.investing.com/news/economy-news/explainerwhy-is-senegal-reworking-its-debt-and-what-makes-it-different-4886621",
+        "published": "2026-09-02 18:18:57"
+      },
+      {
         "title": "US private credit firms mark down more loans",
         "link": "https://www.investing.com/news/economy-news/us-private-credit-firms-mark-down-more-loans-4886397",
         "published": "2026-09-02 17:48:41"
@@ -118,16 +128,6 @@
         "title": "European shares hit by rising bond yields, energy-driven inflation concerns",
         "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
         "published": "2026-09-02 16:42:52"
-      },
-      {
-        "title": "Stocks rise after recent declines; Japanese yen jumps against US dollar",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 16:31:15"
-      },
-      {
-        "title": "Anthropic back on ’right side’ with Trump administration, US Commerce secretary says",
-        "link": "https://www.investing.com/news/economy-news/anthropic-back-on-right-side-with-trump-administration-us-commerce-secretary-says-4886543",
-        "published": "2026-09-02 16:30:43"
       }
     ]
   }
