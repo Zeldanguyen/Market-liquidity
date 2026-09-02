@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T03:09:03.522693",
+  "fetched_at": "2026-09-02T03:39:54.012347",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar holds firm at nearly two-week high as Middle East hostilities lift oil",
+        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
+        "published": "2026-09-02 03:18:53"
+      },
+      {
         "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
         "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 02:43:21"
+        "published": "2026-09-02 03:13:00"
+      },
+      {
+        "title": "Bond selloff deepens as inflation, oil prices jolt markets",
+        "link": "https://www.investing.com/news/economy-news/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets-4885291",
+        "published": "2026-09-02 03:12:42"
       },
       {
         "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
@@ -118,16 +128,6 @@
         "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-02 01:30:26"
-      },
-      {
-        "title": "Dollar holds firm as Middle East hostilities lift oil",
-        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
-        "published": "2026-09-02 01:07:33"
-      },
-      {
-        "title": "BOJ will debate this month economy and price risks, Ueda says",
-        "link": "https://www.investing.com/news/economy-news/boj-will-debate-this-month-economy-and-price-risks-ueda-says-4885219",
-        "published": "2026-09-02 00:30:32"
       }
     ]
   }
