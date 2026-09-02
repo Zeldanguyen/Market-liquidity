@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T01:42:39.908480",
+  "fetched_at": "2026-09-02T02:15:32.321768",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng sụt gần 120 USD/oz vì đồng USD và lợi suất trái phiếu tăng mạnh",
+        "link": "https://vneconomy.vn/gia-vang-sut-gan-120-usdoz-vi-dong-usd-va-loi-suat-trai-phieu-tang-manh.htm",
+        "published": "Wed, 02 Sep 2026 01:49:18 GMT"
+      },
+      {
         "title": "Kinh tế Việt Nam sau 81 năm độc lập:\nNhững bước chuyển lịch sử và khát vọng trong kỷ nguyên mới",
         "link": "https://vneconomy.vn/kinh-te-viet-nam-sau-81-nam-doc-lap-nhung-buoc-chuyen-lich-su-va-khat-vong-trong-ky-nguyen-moi.htm",
         "published": "Tue, 01 Sep 2026 23:00:00 GMT"
@@ -59,11 +64,6 @@
         "title": "Tiền lãi nợ công của các nước G7 có thể tăng thêm hàng chục tỷ USD vì lợi suất trái phiếu leo thang",
         "link": "https://vneconomy.vn/tien-lai-no-cong-cua-cac-nuoc-g7-co-the-tang-them-hang-chuc-ty-usd-vi-loi-suat-trai-phieu-leo-thang.htm",
         "published": "Mon, 31 Aug 2026 01:54:13 GMT"
-      },
-      {
-        "title": "Kỳ vọng lãi suất Fed có thể gây biến động giá vàng trong tuần này",
-        "link": "https://vneconomy.vn/ky-vong-lai-suat-fed-co-the-gay-bien-dong-gia-vang-trong-tuan-nay.htm",
-        "published": "Mon, 31 Aug 2026 00:53:42 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "BOJ must conduct rate hikes nimbly, hawkish board member says",
+        "link": "https://www.investing.com/news/economy-news/boj-must-conduct-rate-hikes-nimbly-hawkish-board-member-says-4885257",
+        "published": "2026-09-02 02:00:55"
+      },
+      {
+        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
+        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
+        "published": "2026-09-02 01:30:26"
+      },
+      {
         "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
         "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
         "published": "2026-09-02 01:19:08"
@@ -115,19 +125,9 @@
         "published": "2026-09-02 01:07:33"
       },
       {
-        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-02 01:00:32"
-      },
-      {
         "title": "BOJ will debate this month economy and price risks, Ueda says",
         "link": "https://www.investing.com/news/economy-news/boj-will-debate-this-month-economy-and-price-risks-ueda-says-4885219",
         "published": "2026-09-02 00:30:32"
-      },
-      {
-        "title": "Panama Canal sees $5.56 billion revenue in FY2027 budget proposal",
-        "link": "https://www.investing.com/news/economy-news/panama-canal-sees-556-billion-revenue-in-fy2027-budget-proposal-4885215",
-        "published": "2026-09-02 00:18:53"
       }
     ]
   }
