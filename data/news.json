@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-02T08:10:25.573590",
+  "fetched_at": "2026-09-02T08:40:53.599773",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chuyên gia: Thị trường chứng khoán cuối năm sẽ phân hóa mạnh",
+        "link": "https://cafef.vn/chuyen-gia-thi-truong-chung-khoan-cuoi-nam-se-phan-hoa-manh-188260902152821037.chn",
+        "published": "Wed, 02 Sep 26 15:28:00 +0700"
+      },
+      {
+        "title": "Sau nghỉ lễ 2/9, chứng khoán có bứt phá với 'cú hích' nâng hạng?",
+        "link": "https://cafef.vn/sau-nghi-le-2-9-chung-khoan-co-but-pha-voi-cu-hich-nang-hang-188260902152420517.chn",
+        "published": "Wed, 02 Sep 26 15:24:00 +0700"
+      },
       {
         "title": "Thông tin lương thưởng của chủ tịch, CEO Vingroup",
         "link": "https://cafef.vn/thong-tin-luong-thuong-cua-chu-tich-ceo-vingroup-188260902102212334.chn",
@@ -22,16 +32,6 @@
         "title": "Dự báo sốc về giá vàng",
         "link": "https://cafef.vn/du-bao-soc-ve-gia-vang-188260901220637603.chn",
         "published": "Wed, 02 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Khối ngoại bán ròng hơn 90.000 tỷ từ đầu năm nhưng một tín hiệu tích cực đã xuất hiện",
-        "link": "https://cafef.vn/khoi-ngoai-ban-rong-hon-90000-ty-tu-dau-nam-nhung-mot-tin-hieu-tich-cuc-da-xuat-hien-188260901220700323.chn",
-        "published": "Wed, 02 Sep 26 00:04:00 +0700"
-      },
-      {
-        "title": "Giá thuê giàn khoan chịu áp lực ngắn hạn, \"ông lớn\" dầu khí vẫn được dự báo tăng trưởng mạnh",
-        "link": "https://cafef.vn/gia-thue-gian-khoan-chiu-ap-luc-ngan-han-ong-lon-dau-khi-van-duoc-du-bao-tang-truong-manh-188260901220505686.chn",
-        "published": "Wed, 02 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Exclusive-South Korean FX authorities bought $20 billion in repatriated SK Hynix funds, source says",
+        "link": "https://www.investing.com/news/economy-news/exclusivesouth-korea-fx-stabilization-fund-bought-about-20-billion-from-sk-hynix-adr-windfall-says-source-4885406",
+        "published": "2026-09-02 08:25:12"
+      },
+      {
+        "title": "Dollar hits two-week high, Middle East conflict and rate paths in focus",
+        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
+        "published": "2026-09-02 08:24:54"
+      },
+      {
+        "title": "Analysis-How Japan’s bond rout is turning the tide of global capital",
+        "link": "https://www.investing.com/news/economy-news/analysishow-japans-bond-rout-is-turning-the-tide-of-global-capital-4885458",
+        "published": "2026-09-02 08:06:30"
+      },
+      {
         "title": "Morning Bid: Who will police the bond vigilantes?",
         "link": "https://www.investing.com/news/economy-news/morning-bid-who-will-police-the-bond-vigilantes-4885310",
         "published": "2026-09-02 07:48:52"
@@ -110,24 +125,9 @@
         "published": "2026-09-02 07:48:36"
       },
       {
-        "title": "Exclusive-South Korean FX authorities bought $20 billion in repatriated SK Hynix funds, source says",
-        "link": "https://www.investing.com/news/economy-news/exclusivesouth-korea-fx-stabilization-fund-bought-about-20-billion-from-sk-hynix-adr-windfall-says-source-4885406",
-        "published": "2026-09-02 07:43:10"
-      },
-      {
         "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
         "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
         "published": "2026-09-02 07:42:33"
-      },
-      {
-        "title": "Dollar hits 7-week high, Middle East conflict and rate paths in focus",
-        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
-        "published": "2026-09-02 07:36:25"
-      },
-      {
-        "title": "European shares pinned at one-month low as flaring Mideast tensions lift bond yields",
-        "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
-        "published": "2026-09-02 07:30:33"
       }
     ]
   }
