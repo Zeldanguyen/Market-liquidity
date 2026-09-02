@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T07:09:36.569281",
+  "fetched_at": "2026-09-02T07:39:50.886206",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 07:30:51"
+      },
+      {
+        "title": "European shares pinned at one-month low as flaring Mideast tensions lift bond yields",
+        "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
+        "published": "2026-09-02 07:30:33"
+      },
+      {
+        "title": "Iran, Fed data and 5% yields: - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/iran-fed-data-and-5-yields--whats-moving-markets-4885414",
+        "published": "2026-09-02 07:29:14"
+      },
+      {
+        "title": "Exclusive-South Korea FX stabilization fund bought about $20 billion from SK Hynix ADR windfall, says source",
+        "link": "https://www.investing.com/news/economy-news/exclusivesouth-korea-fx-stabilization-fund-bought-about-20-billion-from-sk-hynix-adr-windfall-says-source-4885406",
+        "published": "2026-09-02 07:24:28"
+      },
+      {
         "title": "Explainer-What’s behind the selloff in world bond markets?",
         "link": "https://www.investing.com/news/economy-news/explainerwhats-behind-the-selloff-in-world-bond-markets-4884281",
-        "published": "2026-09-02 06:36:24"
+        "published": "2026-09-02 07:00:38"
       },
       {
         "title": "Dollar steadies near two-week high as Middle East hostilities lift oil",
         "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
         "published": "2026-09-02 05:18:31"
-      },
-      {
-        "title": "Analysis-No shortage of culprits in panic over long US Treasury yields",
-        "link": "https://www.investing.com/news/economy-news/analysisno-shortage-of-culprits-in-panic-over-long-us-treasury-yields-4885315",
-        "published": "2026-09-02 05:14:04"
-      },
-      {
-        "title": "The history of financing America, in six crisis episodes",
-        "link": "https://www.investing.com/news/economy-news/the-history-of-financing-america-in-six-crisis-episodes-4885316",
-        "published": "2026-09-02 05:13:36"
-      },
-      {
-        "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 05:12:38"
-      },
-      {
-        "title": "Morning Bid: Who will police the bond vigilantes?",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-who-will-police-the-bond-vigilantes-4885310",
-        "published": "2026-09-02 04:43:18"
       }
     ]
   }
