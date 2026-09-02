@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T04:40:50.648413",
+  "fetched_at": "2026-09-02T05:08:50.287723",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Morning Bid: Who will police the bond vigilantes?",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-who-will-police-the-bond-vigilantes-4885310",
+        "published": "2026-09-02 04:43:18"
+      },
+      {
         "title": "Exclusive-Banks rush to swap higher-risk credit assets for BoE cash",
         "link": "https://www.investing.com/news/economy-news/exclusivebanks-rush-to-swap-higherrisk-credit-assets-for-boe-cash-4885305",
         "published": "2026-09-02 04:18:30"
@@ -123,11 +128,6 @@
         "title": "Bond selloff deepens as inflation, oil prices jolt markets",
         "link": "https://www.investing.com/news/economy-news/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets-4885291",
         "published": "2026-09-02 03:12:42"
-      },
-      {
-        "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
-        "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
-        "published": "2026-09-02 02:12:52"
       }
     ]
   }
