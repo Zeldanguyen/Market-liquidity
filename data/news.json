@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T15:43:22.603644",
+  "fetched_at": "2026-09-02T16:10:01.679738",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Canada to extend gas tax break on Iran war energy costs - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/canada-to-extend-gas-tax-break-on-iran-war-energy-costs--bloomberg-93CH-4886505",
+        "published": "2026-09-02 15:39:00"
+      },
+      {
+        "title": "Stocks slide, bond rout deepens as US and Iran trade attacks",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 15:38:20"
+      },
+      {
+        "title": "Yen gains sharply against US dollar",
+        "link": "https://www.investing.com/news/economy-news/yen-gains-sharply-against-us-dollar-4886411",
+        "published": "2026-09-02 15:37:40"
+      },
+      {
         "title": "Exclusive-Banks rush to swap higher-risk credit assets for Bank of England cash",
         "link": "https://www.investing.com/news/economy-news/exclusivebanks-rush-to-swap-higherrisk-credit-assets-for-boe-cash-4885305",
         "published": "2026-09-02 15:25:15"
@@ -113,21 +128,6 @@
         "title": "Mexico presses US on auto, steel tariffs in meeting with Lutnick",
         "link": "https://www.investing.com/news/economy-news/mexico-presses-us-on-auto-steel-tariffs-in-meeting-with-lutnick-4886472",
         "published": "2026-09-02 15:19:32"
-      },
-      {
-        "title": "Yen gains sharply against US dollar",
-        "link": "https://www.investing.com/news/economy-news/yen-gains-sharply-against-us-dollar-4886411",
-        "published": "2026-09-02 15:06:50"
-      },
-      {
-        "title": "Rubio urges partners to stop ’business as usual’ with Nicaraguan government",
-        "link": "https://www.investing.com/news/economy-news/rubio-urges-partners-to-stop-business-as-usual-with-nicaraguan-government-4886477",
-        "published": "2026-09-02 15:01:26"
-      },
-      {
-        "title": "U.S. policy shift on Venezuelan oil raises stakes for production and debt: BofA",
-        "link": "https://www.investing.com/news/economy-news/us-policy-shift-on-venezuelan-oil-raises-stakes-for-production-and-debt-bofa-4886408",
-        "published": "2026-09-02 14:17:31"
       }
     ]
   }
