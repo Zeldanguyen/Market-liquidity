@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T09:09:27.896581",
+  "fetched_at": "2026-09-02T09:40:15.976873",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bond rout, Mideast worries drag European shares to one-month low",
+        "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
+        "published": "2026-09-02 09:12:46"
+      },
+      {
+        "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
+        "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
+        "published": "2026-09-02 09:12:30"
+      },
+      {
+        "title": "US tech firms may crowd out others in euro bond market and raise credit risk",
+        "link": "https://www.investing.com/news/economy-news/us-tech-firms-may-crowd-out-others-in-euro-bond-market-and-raise-credit-risk-4885564",
+        "published": "2026-09-02 09:06:54"
+      },
+      {
+        "title": "Stocks fall, bond rout deepens as US and Iran trade attacks",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 09:06:37"
+      },
+      {
+        "title": "US stock index futures subdued as oil, Treasury yields rise on Iran tensions",
+        "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-subdued-as-oil-treasury-yields-rise-on-iran-tensions-4885553",
+        "published": "2026-09-02 09:00:59"
+      },
+      {
         "title": "Exclusive-South Korean FX authorities bought $20 billion in repatriated SK Hynix funds, source says",
         "link": "https://www.investing.com/news/economy-news/exclusivesouth-korea-fx-stabilization-fund-bought-about-20-billion-from-sk-hynix-adr-windfall-says-source-4885406",
         "published": "2026-09-02 08:25:12"
-      },
-      {
-        "title": "Dollar hits two-week high, Middle East conflict and rate paths in focus",
-        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
-        "published": "2026-09-02 08:24:54"
-      },
-      {
-        "title": "Analysis-How Japan’s bond rout is turning the tide of global capital",
-        "link": "https://www.investing.com/news/economy-news/analysishow-japans-bond-rout-is-turning-the-tide-of-global-capital-4885458",
-        "published": "2026-09-02 08:06:30"
-      },
-      {
-        "title": "Morning Bid: Who will police the bond vigilantes?",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-who-will-police-the-bond-vigilantes-4885310",
-        "published": "2026-09-02 07:48:52"
-      },
-      {
-        "title": "Analysis-No shortage of culprits in panic over long US Treasury yields",
-        "link": "https://www.investing.com/news/economy-news/analysisno-shortage-of-culprits-in-panic-over-long-us-treasury-yields-4885315",
-        "published": "2026-09-02 07:48:36"
-      },
-      {
-        "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 07:42:33"
       }
     ]
   }
