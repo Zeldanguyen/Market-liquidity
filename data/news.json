@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T05:40:49.400650",
+  "fetched_at": "2026-09-02T06:16:54.791476",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Thị trường trái phiếu chính phủ toàn cầu lại bán tháo",
+        "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-lai-ban-thao.htm",
+        "published": "Wed, 02 Sep 2026 05:50:05 GMT"
+      },
+      {
         "title": "Chuyển từ bồi thường thiệt hại sang tái thiết cuộc sống cho người bị thu hồi đất",
         "link": "https://vneconomy.vn/chuyen-tu-boi-thuong-thiet-hai-sang-tai-thiet-cuoc-song-cho-nguoi-bi-thu-hoi-dat.htm",
         "published": "Wed, 02 Sep 2026 02:42:24 GMT"
@@ -59,11 +64,6 @@
         "title": "Từ tăng trưởng đến thịnh vượng, hạnh phúc",
         "link": "https://vneconomy.vn/tu-tang-truong-den-thinh-vuong-hanh-phuc.htm",
         "published": "Mon, 31 Aug 2026 11:04:29 GMT"
-      },
-      {
-        "title": "Bộ trưởng Bessent phát tín hiệu không can thiệp thêm, dù đồng yên trượt giá xuống ngưỡng nhạy cảm",
-        "link": "https://vneconomy.vn/bo-truong-bessent-phat-tin-hieu-khong-can-thiep-them-du-dong-yen-truot-gia-xuong-nguong-nhay-cam.htm",
-        "published": "Mon, 31 Aug 2026 03:48:30 GMT"
       }
     ],
     "Vietstock": [
