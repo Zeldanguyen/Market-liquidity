@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:09:14.136746",
+  "fetched_at": "2026-09-02T11:40:02.479913",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Vietstock Weekly 03-04/09/2026: Giữ đà phục hồi",
+        "link": "http://vietstock.vn/2026/09/vietstock-weekly-03-04092026-giu-da-phuc-hoi-1636-1486892.htm",
+        "published": "Wed, 02 Sep 2026 18:00:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 03-04/09/2026",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-03-04092026-585-1486893.htm",
         "published": "Wed, 02 Sep 2026 10:35:59 +0700"
@@ -91,14 +96,14 @@
         "title": "Quản lý kỳ vọng nhà đầu tư: Yếu tố then chốt sự ổn định định giá trong năm 2026",
         "link": "http://vietstock.vn/2026/08/quan-ly-ky-vong-nha-dau-tu-yeu-to-then-chot-su-on-dinh-dinh-gia-trong-nam-2026-830-1468836.htm",
         "published": "Sat, 29 Aug 2026 14:02:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 28/08: Khối ngoại tiếp tục mua ròng, tự doanh xả hàng mạnh",
-        "link": "http://vietstock.vn/2026/08/theo-dau-dong-tien-ca-map-2808-khoi-ngoai-tiep-tuc-mua-rong-tu-doanh-xa-hang-manh-830-1486758.htm",
-        "published": "Fri, 28 Aug 2026 19:17:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
+        "link": "https://www.investing.com/news/economy-news/analysisrising-treasury-yields-could-rattle-us-stocks-as-earnings-season-ends-4885687",
+        "published": "2026-09-02 10:55:00"
+      },
       {
         "title": "Warsh’s Jackson Hole encore may put Trump’s inflation record under a microscope",
         "link": "https://www.investing.com/news/economy-news/warshs-jackson-hole-encore-may-put-trumps-inflation-record-under-a-microscope-4885679",
@@ -118,11 +123,6 @@
         "title": "Is the ECB’s hawkish shift just beginning to bite? UBS weighs in",
         "link": "https://www.investing.com/news/economy-news/is-the-ecbs-hawkish-shift-just-beginning-to-bite-ubs-weighs-in-4885712",
         "published": "2026-09-02 10:24:12"
-      },
-      {
-        "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
-        "link": "https://www.investing.com/news/economy-news/analysisrising-treasury-yields-could-rattle-us-stocks-as-earnings-season-ends-4885687",
-        "published": "2026-09-02 10:18:41"
       },
       {
         "title": "Bank of Canada set to hold rates as strong growth collides with trade risks",
