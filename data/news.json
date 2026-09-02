@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T22:10:03.808417",
+  "fetched_at": "2026-09-02T22:39:58.943713",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Stocks climb and US yields ease; yen jumps against dollar",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 22:07:54"
+      },
+      {
         "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
         "link": "https://www.investing.com/news/economy-news/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise-4885685",
         "published": "2026-09-02 21:31:12"
@@ -123,11 +128,6 @@
         "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
         "link": "https://www.investing.com/news/economy-news/economic-activity-edged-up-and-prices-rose-moderately-in-recent-weeks-fed-survey-shows-4886620",
         "published": "2026-09-02 19:54:27"
-      },
-      {
-        "title": "Yen gains sharply, dollar eases from two-week high",
-        "link": "https://www.investing.com/news/economy-news/yen-gains-sharply-against-us-dollar-4886411",
-        "published": "2026-09-02 19:30:38"
       }
     ]
   }
