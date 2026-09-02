@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T14:41:32.959870",
+  "fetched_at": "2026-09-02T15:14:28.986804",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Mexico presses US on auto, steel tariffs in meeting with Lutnick",
+        "link": "https://www.investing.com/news/economy-news/mexico-presses-us-on-auto-steel-tariffs-in-meeting-with-lutnick-4886472",
+        "published": "2026-09-02 14:55:28"
+      },
+      {
         "title": "Yen gains sharply against US dollar",
         "link": "https://www.investing.com/news/economy-news/yen-gains-sharply-against-us-dollar-4886411",
-        "published": "2026-09-02 14:18:59"
+        "published": "2026-09-02 14:55:06"
       },
       {
         "title": "U.S. policy shift on Venezuelan oil raises stakes for production and debt: BofA",
@@ -123,11 +128,6 @@
         "title": "Bank of Canada holds rate as tariffs, oil prices cloud outlook",
         "link": "https://www.investing.com/news/economy-news/bank-of-canada-holds-rate-as-tariffs-oil-prices-cloud-outlook-4886338",
         "published": "2026-09-02 13:56:08"
-      },
-      {
-        "title": "Dollar to hold gains, but stuck on sparse Fed rate guidance - Reuters poll",
-        "link": "https://www.investing.com/news/economy-news/dollar-to-hold-gains-but-stuck-on-sparse-fed-rate-guidance--reuters-poll-4886272",
-        "published": "2026-09-02 13:30:44"
       }
     ]
   }
