@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T03:39:54.012347",
+  "fetched_at": "2026-09-02T04:09:27.669190",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 03-04/09/2026",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-03-04092026-585-1486893.htm",
+        "published": "Wed, 02 Sep 2026 10:35:59 +0700"
+      },
+      {
         "title": "Đông Tây Land sắp giao dịch 80 triệu cp trên UPCoM, kiểm toán lưu ý loạt khoản công nợ",
         "link": "http://vietstock.vn/2026/08/dong-tay-land-sap-giao-dich-80-trieu-cp-tren-upcom-kiem-toan-luu-y-loat-khoan-cong-no-830-1487023.htm",
         "published": "Mon, 31 Aug 2026 22:42:57 +0700"
@@ -91,11 +96,6 @@
         "title": "Theo dấu dòng tiền cá mập 28/08: Khối ngoại tiếp tục mua ròng, tự doanh xả hàng mạnh",
         "link": "http://vietstock.vn/2026/08/theo-dau-dong-tien-ca-map-2808-khoi-ngoai-tiep-tuc-mua-rong-tu-doanh-xa-hang-manh-830-1486758.htm",
         "published": "Fri, 28 Aug 2026 19:17:00 +0700"
-      },
-      {
-        "title": "Kafi lên UPCoM từ 09/09, vốn hóa hơn 11 ngàn tỷ",
-        "link": "http://vietstock.vn/2026/08/kafi-len-upcom-tu-0909-von-hoa-hon-11-ngan-ty-830-1486801.htm",
-        "published": "Fri, 28 Aug 2026 19:06:46 +0700"
       }
     ],
     "Investing.com Economy": [
