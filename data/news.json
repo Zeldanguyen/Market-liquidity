@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:40:02.479913",
+  "fetched_at": "2026-09-02T12:12:08.158065",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil central bank prepares measures for household credit risks",
+        "link": "https://www.investing.com/news/economy-news/brazil-central-bank-prepares-measures-for-household-credit-risks-93CH-4885964",
+        "published": "2026-09-02 11:41:34"
+      },
+      {
+        "title": "Germany approves tax cuts for families, partly funded by top earners",
+        "link": "https://www.investing.com/news/economy-news/german-cabinet-approves-10-billion-incometax-reform-4885631",
+        "published": "2026-09-02 11:37:08"
+      },
+      {
+        "title": "Dollar rises to 2-week high, Middle East conflict and rate paths in focus",
+        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
+        "published": "2026-09-02 11:31:36"
+      },
+      {
+        "title": "Stocks slide, bond rout deepens as US and Iran trade attacks",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 11:24:35"
+      },
+      {
         "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
         "link": "https://www.investing.com/news/economy-news/analysisrising-treasury-yields-could-rattle-us-stocks-as-earnings-season-ends-4885687",
         "published": "2026-09-02 10:55:00"
@@ -108,26 +128,6 @@
         "title": "Warsh’s Jackson Hole encore may put Trump’s inflation record under a microscope",
         "link": "https://www.investing.com/news/economy-news/warshs-jackson-hole-encore-may-put-trumps-inflation-record-under-a-microscope-4885679",
         "published": "2026-09-02 10:37:12"
-      },
-      {
-        "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
-        "link": "https://www.investing.com/news/economy-news/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise-4885685",
-        "published": "2026-09-02 10:36:54"
-      },
-      {
-        "title": "Stocks fall, bond rout deepens as US and Iran trade attacks",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 10:36:38"
-      },
-      {
-        "title": "Is the ECB’s hawkish shift just beginning to bite? UBS weighs in",
-        "link": "https://www.investing.com/news/economy-news/is-the-ecbs-hawkish-shift-just-beginning-to-bite-ubs-weighs-in-4885712",
-        "published": "2026-09-02 10:24:12"
-      },
-      {
-        "title": "Bank of Canada set to hold rates as strong growth collides with trade risks",
-        "link": "https://www.investing.com/news/economy-news/bank-of-canada-set-to-hold-rates-as-strong-growth-collides-with-trade-risks-4885699",
-        "published": "2026-09-02 10:13:51"
       }
     ]
   }
