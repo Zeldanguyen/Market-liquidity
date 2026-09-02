@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T12:12:08.158065",
+  "fetched_at": "2026-09-02T12:43:29.121224",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China never deliberately pursues trade surplus, central bank governor says",
+        "link": "https://www.investing.com/news/economy-news/china-never-deliberately-pursues-trade-surplus-central-bank-governor-says-4886018",
+        "published": "2026-09-02 12:06:32"
+      },
+      {
+        "title": "U.S. Treasury eyes airlines, maritime and digital assets for Iran sanctions",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-eyes-airlines-maritime-and-digital-assets-for-iran-sanctions-93CH-4885993",
+        "published": "2026-09-02 11:58:18"
+      },
+      {
         "title": "Brazil central bank prepares measures for household credit risks",
         "link": "https://www.investing.com/news/economy-news/brazil-central-bank-prepares-measures-for-household-credit-risks-93CH-4885964",
         "published": "2026-09-02 11:41:34"
@@ -118,16 +128,6 @@
         "title": "Stocks slide, bond rout deepens as US and Iran trade attacks",
         "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
         "published": "2026-09-02 11:24:35"
-      },
-      {
-        "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
-        "link": "https://www.investing.com/news/economy-news/analysisrising-treasury-yields-could-rattle-us-stocks-as-earnings-season-ends-4885687",
-        "published": "2026-09-02 10:55:00"
-      },
-      {
-        "title": "Warsh’s Jackson Hole encore may put Trump’s inflation record under a microscope",
-        "link": "https://www.investing.com/news/economy-news/warshs-jackson-hole-encore-may-put-trumps-inflation-record-under-a-microscope-4885679",
-        "published": "2026-09-02 10:37:12"
       }
     ]
   }
