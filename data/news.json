@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T15:14:28.986804",
+  "fetched_at": "2026-09-02T15:43:22.603644",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Exclusive-Banks rush to swap higher-risk credit assets for Bank of England cash",
+        "link": "https://www.investing.com/news/economy-news/exclusivebanks-rush-to-swap-higherrisk-credit-assets-for-boe-cash-4885305",
+        "published": "2026-09-02 15:25:15"
+      },
+      {
+        "title": "India’s GDP revisions reflect new data and methodology, statistics secretary says",
+        "link": "https://www.investing.com/news/economy-news/indias-gdp-revisions-reflect-new-data-and-methodology-statistics-secretary-says-4886490",
+        "published": "2026-09-02 15:24:34"
+      },
+      {
         "title": "Mexico presses US on auto, steel tariffs in meeting with Lutnick",
         "link": "https://www.investing.com/news/economy-news/mexico-presses-us-on-auto-steel-tariffs-in-meeting-with-lutnick-4886472",
-        "published": "2026-09-02 14:55:28"
+        "published": "2026-09-02 15:19:32"
       },
       {
         "title": "Yen gains sharply against US dollar",
         "link": "https://www.investing.com/news/economy-news/yen-gains-sharply-against-us-dollar-4886411",
-        "published": "2026-09-02 14:55:06"
+        "published": "2026-09-02 15:06:50"
+      },
+      {
+        "title": "Rubio urges partners to stop ’business as usual’ with Nicaraguan government",
+        "link": "https://www.investing.com/news/economy-news/rubio-urges-partners-to-stop-business-as-usual-with-nicaraguan-government-4886477",
+        "published": "2026-09-02 15:01:26"
       },
       {
         "title": "U.S. policy shift on Venezuelan oil raises stakes for production and debt: BofA",
         "link": "https://www.investing.com/news/economy-news/us-policy-shift-on-venezuelan-oil-raises-stakes-for-production-and-debt-bofa-4886408",
         "published": "2026-09-02 14:17:31"
-      },
-      {
-        "title": "US private credit firms mark down more loans",
-        "link": "https://www.investing.com/news/economy-news/us-private-credit-firms-mark-down-more-loans-4886397",
-        "published": "2026-09-02 14:13:26"
-      },
-      {
-        "title": "Fed’s Williams ties rising bond yields to strong economy, CNBC reports",
-        "link": "https://www.investing.com/news/economy-news/feds-williams-ties-rising-bond-yields-to-strong-economy-cnbcreports-4886353",
-        "published": "2026-09-02 14:12:34"
-      },
-      {
-        "title": "Bank of Canada holds rate as tariffs, oil prices cloud outlook",
-        "link": "https://www.investing.com/news/economy-news/bank-of-canada-holds-rate-as-tariffs-oil-prices-cloud-outlook-4886338",
-        "published": "2026-09-02 13:56:08"
       }
     ]
   }
