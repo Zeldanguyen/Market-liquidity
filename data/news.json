@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-02T10:40:10.759623",
+  "fetched_at": "2026-09-02T11:09:14.136746",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Khi nào thị trường tài sản mã hóa vận hành, loại tài sản nào được giao dịch?",
+        "link": "https://cafef.vn/khi-nao-thi-truong-tai-san-ma-hoa-van-hanh-loai-tai-san-nao-duoc-giao-dich-188260902170000627.chn",
+        "published": "Wed, 02 Sep 26 17:59:00 +0700"
+      },
       {
         "title": "Chuyên gia: Thị trường chứng khoán cuối năm sẽ phân hóa mạnh",
         "link": "https://cafef.vn/chuyen-gia-thi-truong-chung-khoan-cuoi-nam-se-phan-hoa-manh-188260902152821037.chn",
@@ -27,11 +32,6 @@
         "title": "FLC nâng vốn lên gần 13.000 tỷ đồng",
         "link": "https://cafef.vn/flc-nang-von-len-gan-13000-ty-dong-188260902083113399.chn",
         "published": "Wed, 02 Sep 26 09:30:00 +0700"
-      },
-      {
-        "title": "Dự báo sốc về giá vàng",
-        "link": "https://cafef.vn/du-bao-soc-ve-gia-vang-188260901220637603.chn",
-        "published": "Wed, 02 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Bank of Canada set to hold rates as strong growth collides with trade risks",
-        "link": "https://www.investing.com/news/economy-news/bank-of-canada-set-to-hold-rates-as-strong-growth-collides-with-trade-risks-4885699",
-        "published": "2026-09-02 10:13:51"
+        "title": "Warsh’s Jackson Hole encore may put Trump’s inflation record under a microscope",
+        "link": "https://www.investing.com/news/economy-news/warshs-jackson-hole-encore-may-put-trumps-inflation-record-under-a-microscope-4885679",
+        "published": "2026-09-02 10:37:12"
       },
       {
         "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
         "link": "https://www.investing.com/news/economy-news/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise-4885685",
-        "published": "2026-09-02 10:12:39"
+        "published": "2026-09-02 10:36:54"
+      },
+      {
+        "title": "Stocks fall, bond rout deepens as US and Iran trade attacks",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 10:36:38"
+      },
+      {
+        "title": "Is the ECB’s hawkish shift just beginning to bite? UBS weighs in",
+        "link": "https://www.investing.com/news/economy-news/is-the-ecbs-hawkish-shift-just-beginning-to-bite-ubs-weighs-in-4885712",
+        "published": "2026-09-02 10:24:12"
       },
       {
         "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
         "link": "https://www.investing.com/news/economy-news/analysisrising-treasury-yields-could-rattle-us-stocks-as-earnings-season-ends-4885687",
-        "published": "2026-09-02 10:08:11"
+        "published": "2026-09-02 10:18:41"
       },
       {
-        "title": "Warsh’s Jackson Hole encore may put Trump’s inflation record under a microscope",
-        "link": "https://www.investing.com/news/economy-news/warshs-jackson-hole-encore-may-put-trumps-inflation-record-under-a-microscope-4885679",
-        "published": "2026-09-02 10:06:35"
-      },
-      {
-        "title": "Can the ECB hike rates without triggering more market turmoil?",
-        "link": "https://www.investing.com/news/economy-news/can-the-ecb-hike-rates-without-triggering-more-market-turmoil-4885652",
-        "published": "2026-09-02 09:56:39"
-      },
-      {
-        "title": "German cabinet approves €10 billion income-tax reform",
-        "link": "https://www.investing.com/news/economy-news/german-cabinet-approves-10-billion-incometax-reform-4885631",
-        "published": "2026-09-02 09:36:26"
+        "title": "Bank of Canada set to hold rates as strong growth collides with trade risks",
+        "link": "https://www.investing.com/news/economy-news/bank-of-canada-set-to-hold-rates-as-strong-growth-collides-with-trade-risks-4885699",
+        "published": "2026-09-02 10:13:51"
       }
     ]
   }
