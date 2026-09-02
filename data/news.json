@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T02:46:49.489847",
+  "fetched_at": "2026-09-02T03:09:03.522693",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 02:43:21"
+      },
+      {
         "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
         "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
         "published": "2026-09-02 02:12:52"
@@ -113,11 +118,6 @@
         "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
         "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
         "published": "2026-09-02 01:30:26"
-      },
-      {
-        "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 01:18:47"
       },
       {
         "title": "Dollar holds firm as Middle East hostilities lift oil",
