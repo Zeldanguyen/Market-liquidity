@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T13:41:00.906080",
+  "fetched_at": "2026-09-02T14:09:31.044489",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bank of Canada holds rate as tariffs, oil prices cloud outlook",
+        "link": "https://www.investing.com/news/economy-news/bank-of-canada-holds-rate-as-tariffs-oil-prices-cloud-outlook-4886338",
+        "published": "2026-09-02 13:56:08"
+      },
+      {
+        "title": "Dollar to hold gains, but stuck on sparse Fed rate guidance - Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/dollar-to-hold-gains-but-stuck-on-sparse-fed-rate-guidance--reuters-poll-4886272",
+        "published": "2026-09-02 13:30:44"
+      },
+      {
+        "title": "Lula’s lead over Bolsonaro narrows to 1 point in latest poll",
+        "link": "https://www.investing.com/news/economy-news/lulas-lead-over-bolsonaro-narrows-to-1-point-in-latest-poll-93CH-4886266",
+        "published": "2026-09-02 13:29:55"
+      },
+      {
         "title": "Fed’s Williams says bond yields rise amid strong economy, not inflation",
         "link": "https://www.investing.com/news/economy-news/feds-williams-says-bond-yields-rise-amid-strong-economy-not-inflation-4886156",
         "published": "2026-09-02 12:51:13"
@@ -113,21 +128,6 @@
         "title": "U.S. Treasury eyes airlines, maritime and digital assets for Iran sanctions",
         "link": "https://www.investing.com/news/economy-news/us-treasury-eyes-airlines-maritime-and-digital-assets-for-iran-sanctions-93CH-4885993",
         "published": "2026-09-02 11:58:18"
-      },
-      {
-        "title": "Brazil central bank prepares measures for household credit risks",
-        "link": "https://www.investing.com/news/economy-news/brazil-central-bank-prepares-measures-for-household-credit-risks-93CH-4885964",
-        "published": "2026-09-02 11:41:34"
-      },
-      {
-        "title": "Germany approves tax cuts for families, partly funded by top earners",
-        "link": "https://www.investing.com/news/economy-news/german-cabinet-approves-10-billion-incometax-reform-4885631",
-        "published": "2026-09-02 11:37:08"
-      },
-      {
-        "title": "Dollar rises to 2-week high, Middle East conflict and rate paths in focus",
-        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
-        "published": "2026-09-02 11:31:36"
       }
     ]
   }
