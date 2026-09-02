@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T19:36:42.887565",
+  "fetched_at": "2026-09-02T20:09:33.189322",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -102,7 +102,12 @@
       {
         "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
         "link": "https://www.investing.com/news/economy-news/economic-activity-edged-up-and-prices-rose-moderately-in-recent-weeks-fed-survey-shows-4886620",
-        "published": "2026-09-02 18:48:30"
+        "published": "2026-09-02 19:54:27"
+      },
+      {
+        "title": "Yen gains sharply, dollar eases from two-week high",
+        "link": "https://www.investing.com/news/economy-news/yen-gains-sharply-against-us-dollar-4886411",
+        "published": "2026-09-02 19:30:38"
       },
       {
         "title": "Explainer-Why is Senegal reworking its debt and what makes it different?",
@@ -123,11 +128,6 @@
         "title": "India statistics chief defends GDP revisions amid criticism",
         "link": "https://www.investing.com/news/economy-news/india-statistics-chief-defends-gdp-revisions-amid-criticism-93CH-4886568",
         "published": "2026-09-02 17:05:15"
-      },
-      {
-        "title": "European shares hit by rising bond yields, energy-driven inflation concerns",
-        "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
-        "published": "2026-09-02 16:42:52"
       }
     ]
   }
