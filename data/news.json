@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T01:08:40.823441",
+  "fetched_at": "2026-09-02T01:42:39.908480",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,19 +100,24 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-02 01:00:32"
-      },
-      {
         "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
         "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
-        "published": "2026-09-02 00:49:10"
+        "published": "2026-09-02 01:19:08"
       },
       {
         "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
         "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 00:48:48"
+        "published": "2026-09-02 01:18:47"
+      },
+      {
+        "title": "Dollar holds firm as Middle East hostilities lift oil",
+        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
+        "published": "2026-09-02 01:07:33"
+      },
+      {
+        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
+        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
+        "published": "2026-09-02 01:00:32"
       },
       {
         "title": "BOJ will debate this month economy and price risks, Ueda says",
@@ -123,11 +128,6 @@
         "title": "Panama Canal sees $5.56 billion revenue in FY2027 budget proposal",
         "link": "https://www.investing.com/news/economy-news/panama-canal-sees-556-billion-revenue-in-fy2027-budget-proposal-4885215",
         "published": "2026-09-02 00:18:53"
-      },
-      {
-        "title": "Brazil’s Congress approves tax exemptions to attract data center investments",
-        "link": "https://www.investing.com/news/economy-news/brazils-congress-approves-tax-exemptions-to-attract-data-center-investments-4884731",
-        "published": "2026-09-01 23:30:49"
       }
     ]
   }
