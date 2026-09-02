@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-02T16:40:53.491072",
+  "fetched_at": "2026-09-02T17:08:39.386471",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng lao dốc đầu tháng 9, chuyên gia phát cảnh báo quan trọng",
+        "link": "https://cafef.vn/gia-vang-lao-doc-dau-thang-9-chuyen-gia-phat-canh-bao-quan-trong-188260902225452251.chn",
+        "published": "Thu, 03 Sep 26 00:02:00 +0700"
+      },
+      {
+        "title": "Sau nghỉ lễ, chuyên gia chỉ tên 2 nhóm cổ phiếu định giá rẻ, triển vọng tăng trưởng lợi nhuận tích cực",
+        "link": "https://cafef.vn/sau-nghi-le-chuyen-gia-chi-ten-2-nhom-co-phieu-dinh-gia-re-trien-vong-tang-truong-loi-nhuan-tich-cuc-188260902225313204.chn",
+        "published": "Thu, 03 Sep 26 00:02:00 +0700"
+      },
+      {
+        "title": "Một doanh nghiệp KCN sắp đưa 2 dự án mới vào khai thác, lợi nhuận ròng cả năm có thể đạt 2.000 tỷ đồng",
+        "link": "https://cafef.vn/mot-doanh-nghiep-kcn-sap-dua-2-du-an-moi-vao-khai-thac-loi-nhuan-rong-ca-nam-co-the-dat-2000-ty-dong-188260902222641382.chn",
+        "published": "Thu, 03 Sep 26 00:02:00 +0700"
+      },
       {
         "title": "Chuyên gia đưa ra lời khuyên cho nhà đầu tư chứng khoán sau nghỉ lễ",
         "link": "https://cafef.vn/chuyen-gia-dua-ra-loi-khuyen-cho-nha-dau-tu-chung-khoan-sau-nghi-le-188260902202110327.chn",
@@ -17,21 +32,6 @@
         "title": "Chuyên gia: Thị trường chứng khoán cuối năm sẽ phân hóa mạnh",
         "link": "https://cafef.vn/chuyen-gia-thi-truong-chung-khoan-cuoi-nam-se-phan-hoa-manh-188260902152821037.chn",
         "published": "Wed, 02 Sep 26 15:28:00 +0700"
-      },
-      {
-        "title": "Sau nghỉ lễ 2/9, chứng khoán có bứt phá với 'cú hích' nâng hạng?",
-        "link": "https://cafef.vn/sau-nghi-le-2-9-chung-khoan-co-but-pha-voi-cu-hich-nang-hang-188260902152420517.chn",
-        "published": "Wed, 02 Sep 26 15:24:00 +0700"
-      },
-      {
-        "title": "Thông tin lương thưởng của chủ tịch, CEO Vingroup",
-        "link": "https://cafef.vn/thong-tin-luong-thuong-cua-chu-tich-ceo-vingroup-188260902102212334.chn",
-        "published": "Wed, 02 Sep 26 11:21:00 +0700"
-      },
-      {
-        "title": "Giá vàng SJC tiếp tục đi ngang, vàng nhẫn tại nhiều thương hiệu đồng loạt hạ nhiệt",
-        "link": "https://cafef.vn/gia-vang-sjc-tiep-tuc-di-ngang-vang-nhan-tai-nhieu-thuong-hieu-dong-loat-ha-nhiet-188260902093802353.chn",
-        "published": "Wed, 02 Sep 26 09:37:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "European shares hit by rising bond yields, energy-driven inflation concerns",
+        "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
+        "published": "2026-09-02 16:42:52"
+      },
+      {
         "title": "Stocks rise after recent declines; Japanese yen jumps against US dollar",
         "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
         "published": "2026-09-02 16:31:15"
@@ -123,11 +128,6 @@
         "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
         "link": "https://www.investing.com/news/economy-news/analysisrising-treasury-yields-could-rattle-us-stocks-as-earnings-season-ends-4885687",
         "published": "2026-09-02 16:01:27"
-      },
-      {
-        "title": "Yen gains sharply, dollar eases from two-week high",
-        "link": "https://www.investing.com/news/economy-news/yen-gains-sharply-against-us-dollar-4886411",
-        "published": "2026-09-02 16:00:42"
       }
     ]
   }
