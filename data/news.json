@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T20:09:33.189322",
+  "fetched_at": "2026-09-02T20:40:18.846771",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "OpenAI is building ’automated shutdown’ capabilities for AI tools, letter to lawmakers says",
+        "link": "https://www.investing.com/news/economy-news/openai-is-building-automated-shutdown-capabilities-for-ai-tools-letter-to-lawmakers-says-4886688",
+        "published": "2026-09-02 20:06:47"
+      },
+      {
         "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
         "link": "https://www.investing.com/news/economy-news/economic-activity-edged-up-and-prices-rose-moderately-in-recent-weeks-fed-survey-shows-4886620",
         "published": "2026-09-02 19:54:27"
@@ -123,11 +128,6 @@
         "title": "Fed watchdog calls for stronger controls on information sharing",
         "link": "https://www.investing.com/news/economy-news/fed-watchdog-calls-for-stronger-controls-on-information-sharing-93CH-4886573",
         "published": "2026-09-02 17:09:22"
-      },
-      {
-        "title": "India statistics chief defends GDP revisions amid criticism",
-        "link": "https://www.investing.com/news/economy-news/india-statistics-chief-defends-gdp-revisions-amid-criticism-93CH-4886568",
-        "published": "2026-09-02 17:05:15"
       }
     ]
   }
