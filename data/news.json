@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T05:08:50.287723",
+  "fetched_at": "2026-09-02T05:40:49.400650",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar steadies near two-week high as Middle East hostilities lift oil",
+        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
+        "published": "2026-09-02 05:18:31"
+      },
+      {
+        "title": "Analysis-No shortage of culprits in panic over long US Treasury yields",
+        "link": "https://www.investing.com/news/economy-news/analysisno-shortage-of-culprits-in-panic-over-long-us-treasury-yields-4885315",
+        "published": "2026-09-02 05:14:04"
+      },
+      {
+        "title": "The history of financing America, in six crisis episodes",
+        "link": "https://www.investing.com/news/economy-news/the-history-of-financing-america-in-six-crisis-episodes-4885316",
+        "published": "2026-09-02 05:13:36"
+      },
+      {
+        "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 05:12:38"
+      },
+      {
         "title": "Morning Bid: Who will police the bond vigilantes?",
         "link": "https://www.investing.com/news/economy-news/morning-bid-who-will-police-the-bond-vigilantes-4885310",
         "published": "2026-09-02 04:43:18"
@@ -108,26 +128,6 @@
         "title": "Exclusive-Banks rush to swap higher-risk credit assets for BoE cash",
         "link": "https://www.investing.com/news/economy-news/exclusivebanks-rush-to-swap-higherrisk-credit-assets-for-boe-cash-4885305",
         "published": "2026-09-02 04:18:30"
-      },
-      {
-        "title": "U.S., Iran trade more strikes as Hormuz tensions simmer",
-        "link": "https://www.investing.com/news/economy-news/us-iran-trade-more-strikes-as-hormuz-tensions-simmer-4885300",
-        "published": "2026-09-02 04:06:48"
-      },
-      {
-        "title": "Dollar holds firm at nearly two-week high as Middle East hostilities lift oil",
-        "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
-        "published": "2026-09-02 03:18:53"
-      },
-      {
-        "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 03:13:00"
-      },
-      {
-        "title": "Bond selloff deepens as inflation, oil prices jolt markets",
-        "link": "https://www.investing.com/news/economy-news/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets-4885291",
-        "published": "2026-09-02 03:12:42"
       }
     ]
   }
