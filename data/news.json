@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T16:10:01.679738",
+  "fetched_at": "2026-09-02T16:40:53.491072",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Canada to extend gas tax break on Iran war energy costs - Bloomberg",
-        "link": "https://www.investing.com/news/economy-news/canada-to-extend-gas-tax-break-on-iran-war-energy-costs--bloomberg-93CH-4886505",
-        "published": "2026-09-02 15:39:00"
-      },
-      {
-        "title": "Stocks slide, bond rout deepens as US and Iran trade attacks",
+        "title": "Stocks rise after recent declines; Japanese yen jumps against US dollar",
         "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 15:38:20"
+        "published": "2026-09-02 16:31:15"
       },
       {
-        "title": "Yen gains sharply against US dollar",
+        "title": "Anthropic back on ’right side’ with Trump administration, US Commerce secretary says",
+        "link": "https://www.investing.com/news/economy-news/anthropic-back-on-right-side-with-trump-administration-us-commerce-secretary-says-4886543",
+        "published": "2026-09-02 16:30:43"
+      },
+      {
+        "title": "Germany and France commit €300 million to South Africa services",
+        "link": "https://www.investing.com/news/economy-news/germany-and-france-commit-300-million-to-south-africa-services-93CH-4886542",
+        "published": "2026-09-02 16:30:30"
+      },
+      {
+        "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
+        "link": "https://www.investing.com/news/economy-news/anthropic-launches-ai-agent-blueprints-for-retailers-ahead-of-holiday-shopping-season-4886525",
+        "published": "2026-09-02 16:06:29"
+      },
+      {
+        "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
+        "link": "https://www.investing.com/news/economy-news/analysisrising-treasury-yields-could-rattle-us-stocks-as-earnings-season-ends-4885687",
+        "published": "2026-09-02 16:01:27"
+      },
+      {
+        "title": "Yen gains sharply, dollar eases from two-week high",
         "link": "https://www.investing.com/news/economy-news/yen-gains-sharply-against-us-dollar-4886411",
-        "published": "2026-09-02 15:37:40"
-      },
-      {
-        "title": "Exclusive-Banks rush to swap higher-risk credit assets for Bank of England cash",
-        "link": "https://www.investing.com/news/economy-news/exclusivebanks-rush-to-swap-higherrisk-credit-assets-for-boe-cash-4885305",
-        "published": "2026-09-02 15:25:15"
-      },
-      {
-        "title": "India’s GDP revisions reflect new data and methodology, statistics secretary says",
-        "link": "https://www.investing.com/news/economy-news/indias-gdp-revisions-reflect-new-data-and-methodology-statistics-secretary-says-4886490",
-        "published": "2026-09-02 15:24:34"
-      },
-      {
-        "title": "Mexico presses US on auto, steel tariffs in meeting with Lutnick",
-        "link": "https://www.investing.com/news/economy-news/mexico-presses-us-on-auto-steel-tariffs-in-meeting-with-lutnick-4886472",
-        "published": "2026-09-02 15:19:32"
+        "published": "2026-09-02 16:00:42"
       }
     ]
   }
