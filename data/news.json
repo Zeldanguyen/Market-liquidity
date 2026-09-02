@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T00:43:46.742405",
+  "fetched_at": "2026-09-02T01:08:40.823441",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
+        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
+        "published": "2026-09-02 01:00:32"
+      },
+      {
         "title": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps",
         "link": "https://www.investing.com/news/economy-news/bessent-meets-bojs-ueda-calls-for-sound-policy-to-avoid-currency-volatility-treasury-says-4884388",
-        "published": "2026-09-01 23:48:33"
+        "published": "2026-09-02 00:49:10"
+      },
+      {
+        "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 00:48:48"
+      },
+      {
+        "title": "BOJ will debate this month economy and price risks, Ueda says",
+        "link": "https://www.investing.com/news/economy-news/boj-will-debate-this-month-economy-and-price-risks-ueda-says-4885219",
+        "published": "2026-09-02 00:30:32"
+      },
+      {
+        "title": "Panama Canal sees $5.56 billion revenue in FY2027 budget proposal",
+        "link": "https://www.investing.com/news/economy-news/panama-canal-sees-556-billion-revenue-in-fy2027-budget-proposal-4885215",
+        "published": "2026-09-02 00:18:53"
       },
       {
         "title": "Brazil’s Congress approves tax exemptions to attract data center investments",
         "link": "https://www.investing.com/news/economy-news/brazils-congress-approves-tax-exemptions-to-attract-data-center-investments-4884731",
         "published": "2026-09-01 23:30:49"
-      },
-      {
-        "title": "Government borrowing costs rise anew, adding to pressure on global policymakers",
-        "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-        "published": "2026-09-01 23:07:10"
-      },
-      {
-        "title": "Trading Day: Over and rout",
-        "link": "https://www.investing.com/news/economy-news/over-and-rout-4884652",
-        "published": "2026-09-01 21:13:35"
-      },
-      {
-        "title": "Exclusive-Trump birthright curbs may prompt US passport checks on parents",
-        "link": "https://www.investing.com/news/economy-news/exclusivetrump-birthright-curbs-may-prompt-us-passport-checks-on-parents-4884658",
-        "published": "2026-09-01 21:12:37"
-      },
-      {
-        "title": "SEC eyes wider retail access to private markets and performance fees",
-        "link": "https://www.investing.com/news/economy-news/sec-eyes-wider-retail-access-to-private-markets-and-performance-fees-93CH-4884626",
-        "published": "2026-09-01 20:53:47"
       }
     ]
   }
