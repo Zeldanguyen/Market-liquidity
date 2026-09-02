@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T20:40:18.846771",
+  "fetched_at": "2026-09-02T21:08:44.801001",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "NBA fines Clippers $30M, strips five draft picks over Leonard",
+        "link": "https://www.investing.com/news/economy-news/nba-fines-clippers-30m-strips-five-draft-picks-over-leonard-93CH-4886752",
+        "published": "2026-09-02 20:33:01"
+      },
+      {
         "title": "OpenAI is building ’automated shutdown’ capabilities for AI tools, letter to lawmakers says",
         "link": "https://www.investing.com/news/economy-news/openai-is-building-automated-shutdown-capabilities-for-ai-tools-letter-to-lawmakers-says-4886688",
         "published": "2026-09-02 20:06:47"
@@ -123,11 +128,6 @@
         "title": "US private credit firms mark down more loans",
         "link": "https://www.investing.com/news/economy-news/us-private-credit-firms-mark-down-more-loans-4886397",
         "published": "2026-09-02 17:48:41"
-      },
-      {
-        "title": "Fed watchdog calls for stronger controls on information sharing",
-        "link": "https://www.investing.com/news/economy-news/fed-watchdog-calls-for-stronger-controls-on-information-sharing-93CH-4886573",
-        "published": "2026-09-02 17:09:22"
       }
     ]
   }
