@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T09:40:15.976873",
+  "fetched_at": "2026-09-02T10:10:45.445942",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "German cabinet approves €10 billion income-tax reform",
+        "link": "https://www.investing.com/news/economy-news/german-cabinet-approves-10-billion-incometax-reform-4885631",
+        "published": "2026-09-02 09:36:26"
+      },
+      {
+        "title": "Stocks fall, bond rout deepens as US and Iran trade attacks",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
+        "published": "2026-09-02 09:18:31"
+      },
+      {
         "title": "Bond rout, Mideast worries drag European shares to one-month low",
         "link": "https://www.investing.com/news/economy-news/european-shares-pinned-at-onemonth-low-as-flaring-mideast-tensions-lift-bond-yields-4885415",
         "published": "2026-09-02 09:12:46"
@@ -115,19 +125,9 @@
         "published": "2026-09-02 09:06:54"
       },
       {
-        "title": "Stocks fall, bond rout deepens as US and Iran trade attacks",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
-        "published": "2026-09-02 09:06:37"
-      },
-      {
         "title": "US stock index futures subdued as oil, Treasury yields rise on Iran tensions",
         "link": "https://www.investing.com/news/economy-news/us-stock-index-futures-subdued-as-oil-treasury-yields-rise-on-iran-tensions-4885553",
         "published": "2026-09-02 09:00:59"
-      },
-      {
-        "title": "Exclusive-South Korean FX authorities bought $20 billion in repatriated SK Hynix funds, source says",
-        "link": "https://www.investing.com/news/economy-news/exclusivesouth-korea-fx-stabilization-fund-bought-about-20-billion-from-sk-hynix-adr-windfall-says-source-4885406",
-        "published": "2026-09-02 08:25:12"
       }
     ]
   }
