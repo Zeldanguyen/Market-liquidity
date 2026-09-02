@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-02T13:09:21.013091",
+  "fetched_at": "2026-09-02T13:41:00.906080",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chuyên gia đưa ra lời khuyên cho nhà đầu tư chứng khoán sau nghỉ lễ",
+        "link": "https://cafef.vn/chuyen-gia-dua-ra-loi-khuyen-cho-nha-dau-tu-chung-khoan-sau-nghi-le-188260902202110327.chn",
+        "published": "Wed, 02 Sep 26 20:21:00 +0700"
+      },
       {
         "title": "Khi nào thị trường tài sản mã hóa vận hành, loại tài sản nào được giao dịch?",
         "link": "https://cafef.vn/khi-nao-thi-truong-tai-san-ma-hoa-van-hanh-loai-tai-san-nao-duoc-giao-dich-188260902170000627.chn",
@@ -27,11 +32,6 @@
         "title": "Giá vàng SJC tiếp tục đi ngang, vàng nhẫn tại nhiều thương hiệu đồng loạt hạ nhiệt",
         "link": "https://cafef.vn/gia-vang-sjc-tiep-tuc-di-ngang-vang-nhan-tai-nhieu-thuong-hieu-dong-loat-ha-nhiet-188260902093802353.chn",
         "published": "Wed, 02 Sep 26 09:37:00 +0700"
-      },
-      {
-        "title": "FLC nâng vốn lên gần 13.000 tỷ đồng",
-        "link": "https://cafef.vn/flc-nang-von-len-gan-13000-ty-dong-188260902083113399.chn",
-        "published": "Wed, 02 Sep 26 09:30:00 +0700"
       }
     ],
     "VnEconomy": [
