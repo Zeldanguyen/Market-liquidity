@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T16:10:49.605152",
+  "fetched_at": "2026-09-03T16:41:00.370715",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
-        "link": "https://www.investing.com/news/economy-news/us-to-seek-back-payment-from-europe-for-ukraine-aid-trump-says-4888267",
-        "published": "2026-09-03 15:24:36"
-      },
-      {
-        "title": "Canada 10-year yield slips as global bond markets recover",
-        "link": "https://www.investing.com/news/economy-news/canada-10year-yield-slips-as-global-bond-markets-recover-4888262",
-        "published": "2026-09-03 15:20:09"
-      },
-      {
-        "title": "IEA chief says Nigeria could double energy investment in five years",
-        "link": "https://www.investing.com/news/economy-news/iea-chief-says-nigeria-could-double-energy-investment-in-five-years-93CH-4888256",
-        "published": "2026-09-03 15:12:56"
-      },
-      {
-        "title": "Bank of England’s Pill says higher rates would help head off inflation pressure",
-        "link": "https://www.investing.com/news/economy-news/bank-of-englands-pill-says-higher-rates-would-help-head-off-inflation-pressure-4888253",
-        "published": "2026-09-03 15:12:40"
-      },
-      {
-        "title": "Anthropic still flagged as risk to defense industrial base, US official says",
-        "link": "https://www.investing.com/news/economy-news/anthropic-still-flagged-as-risk-to-defense-industrial-base-us-official-says-4888052",
-        "published": "2026-09-03 14:54:50"
+        "title": "European stocks recover from one-month lows as bond yields retreat",
+        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-bond-yields-ease-4887085",
+        "published": "2026-09-03 16:30:44"
       },
       {
         "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
         "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
-        "published": "2026-09-03 14:36:34"
+        "published": "2026-09-03 16:25:42"
+      },
+      {
+        "title": "US fixed 30-year mortgage rate rises to highest since July 2025",
+        "link": "https://www.investing.com/news/economy-news/us-fixed-30year-mortgage-rate-rises-to-highest-since-july-2025-4888325",
+        "published": "2026-09-03 16:24:45"
+      },
+      {
+        "title": "Canada to invest C$4.7 billion in domestic rail car production",
+        "link": "https://www.investing.com/news/economy-news/canada-to-invest-c47-billion-in-domestic-rail-car-production-93CH-4888324",
+        "published": "2026-09-03 16:21:09"
+      },
+      {
+        "title": "US mortgage rates climb to 6.71%, highest since July 2025",
+        "link": "https://www.investing.com/news/economy-news/us-mortgage-rates-climb-to-671-highest-since-july-2025-93CH-4888306",
+        "published": "2026-09-03 16:03:06"
+      },
+      {
+        "title": "Wall St climbs after Fed’s Waller says he could support rate hold",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
+        "published": "2026-09-03 16:01:33"
       }
     ]
   }
