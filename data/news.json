@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T17:40:21.276904",
+  "fetched_at": "2026-09-03T18:11:04.387757",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bank of England economist says rate rise could avoid bigger hikes",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-economist-says-rate-rise-could-avoid-bigger-hikes-93CH-4888381",
+        "published": "2026-09-03 18:03:22"
+      },
+      {
+        "title": "Fed’s Waller says safety premium for Treasuries is gone, pushing neutral rate higher",
+        "link": "https://www.investing.com/news/economy-news/feds-waller-says-safety-premium-for-treasuries-is-gone-pushing-neutral-rate-higher-4888374",
+        "published": "2026-09-03 17:48:53"
+      },
+      {
         "title": "Revolut wins conditional US banking license",
         "link": "https://www.investing.com/news/economy-news/revolut-wins-conditional-us-banking-license-4888334",
-        "published": "2026-09-03 17:25:39"
+        "published": "2026-09-03 17:42:27"
+      },
+      {
+        "title": "Bond yields ease, stocks rally following Fed governor Waller comments",
+        "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
+        "published": "2026-09-03 17:24:37"
       },
       {
         "title": "US fixed 30-year mortgage rate rises to highest since July 2025",
@@ -113,21 +128,6 @@
         "title": "European stocks recover from one-month lows as bond yields retreat",
         "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-bond-yields-ease-4887085",
         "published": "2026-09-03 16:30:44"
-      },
-      {
-        "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
-        "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
-        "published": "2026-09-03 16:25:42"
-      },
-      {
-        "title": "Canada to invest C$4.7 billion in domestic rail car production",
-        "link": "https://www.investing.com/news/economy-news/canada-to-invest-c47-billion-in-domestic-rail-car-production-93CH-4888324",
-        "published": "2026-09-03 16:21:09"
-      },
-      {
-        "title": "US mortgage rates climb to 6.71%, highest since July 2025",
-        "link": "https://www.investing.com/news/economy-news/us-mortgage-rates-climb-to-671-highest-since-july-2025-93CH-4888306",
-        "published": "2026-09-03 16:03:06"
       }
     ]
   }
