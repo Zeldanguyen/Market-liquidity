@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-03T08:10:43.130469",
+  "fetched_at": "2026-09-03T08:42:20.401095",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "TTC tái cấu trúc sở hữu tại AgriS, định hướng dài hạn không thay đổi",
+        "link": "https://cafef.vn/ttc-tai-cau-truc-so-huu-tai-agris-dinh-huong-dai-han-khong-thay-doi-188260903144902945.chn",
+        "published": "Thu, 03 Sep 26 15:30:00 +0700"
+      },
+      {
+        "title": "Từ kế thừa đến kiến tạo: Bà Đặng Huỳnh Ức My mở ra giai đoạn tăng trưởng mới cho AgriS",
+        "link": "https://cafef.vn/tu-ke-thua-den-kien-tao-ba-dang-huynh-uc-my-mo-ra-giai-doan-tang-truong-moi-cho-agris-188260903144820665.chn",
+        "published": "Thu, 03 Sep 26 15:30:00 +0700"
+      },
+      {
+        "title": "Siba Group chốt ngày phát hành cổ phiếu ESOP",
+        "link": "https://cafef.vn/siba-group-chot-ngay-phat-hanh-co-phieu-esop-188260903143800234.chn",
+        "published": "Thu, 03 Sep 26 15:12:00 +0700"
+      },
       {
         "title": "Nhóm CII tiếp tục tăng sở hữu tại công ty của nữ Chủ tịch sinh năm 1999",
         "link": "https://cafef.vn/nhom-cii-tiep-tuc-tang-so-huu-tai-cong-ty-cua-nu-chu-tich-sinh-nam-1999-188260903150141496.chn",
@@ -17,24 +32,14 @@
         "title": "ACBS mua lại trước hạn lô trái phiếu 200 tỷ đồng",
         "link": "https://cafef.vn/acbs-mua-lai-truoc-han-lo-trai-phieu-200-ty-dong-188260903143829367.chn",
         "published": "Thu, 03 Sep 26 15:01:00 +0700"
-      },
-      {
-        "title": "Tập đoàn sở hữu đơn hàng 5.000 UAV sang Hàn Quốc bất ngờ tách đôi, tham vọng \"Mỹ tiến\" vào 2027",
-        "link": "https://cafef.vn/tap-doan-so-huu-don-hang-5000-uav-sang-han-quoc-bat-ngo-tach-doi-tham-vong-my-tien-vao-2027-188260903142212521.chn",
-        "published": "Thu, 03 Sep 26 14:22:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu định giá thấp, đón sóng lợi nhuận",
-        "link": "https://cafef.vn/co-phieu-dinh-gia-thap-don-song-loi-nhuan-188260903103014469.chn",
-        "published": "Thu, 03 Sep 26 11:29:00 +0700"
-      },
-      {
-        "title": "Vì sao Hà Lan chuyển 86 tấn vàng sang Anh?",
-        "link": "https://cafef.vn/vi-sao-ha-lan-chuyen-86-tan-vang-sang-anh-188260903102406004.chn",
-        "published": "Thu, 03 Sep 26 11:11:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giảm chi phí đất: Làm sao để người mua nhà thực sự được hưởng lợi?",
+        "link": "https://vneconomy.vn/giam-chi-phi-dat-lam-sao-de-nguoi-mua-nha-thuc-su-duoc-huong-loi.htm",
+        "published": "Thu, 03 Sep 2026 08:19:36 GMT"
+      },
       {
         "title": "Chiến tranh kéo dài ở Vùng Vịnh đang “làm khó” Fed",
         "link": "https://vneconomy.vn/chien-tranh-keo-dai-o-vung-vinh-dang-lam-kho-fed.htm",
@@ -59,11 +64,6 @@
         "title": "Giá vàng hồi mạnh, SPDR Gold Trust mua ròng 10 tấn trong một phiên",
         "link": "https://vneconomy.vn/gia-vang-hoi-manh-spdr-gold-trust-mua-rong-10-tan-trong-mot-phien.htm",
         "published": "Wed, 02 Sep 2026 23:54:20 GMT"
-      },
-      {
-        "title": "Thị trường trái phiếu chính phủ toàn cầu lại bán tháo",
-        "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-lai-ban-thao.htm",
-        "published": "Wed, 02 Sep 2026 05:50:05 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "European stocks rise as global bond selloff eases",
+        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-bond-yields-ease-4887085",
+        "published": "2026-09-03 08:37:16"
+      },
+      {
+        "title": "Explainer-Why India’s strong GDP growth is raising eyebrows",
+        "link": "https://www.investing.com/news/economy-news/explainerwhy-indias-strong-gdp-growth-is-raising-eyebrows-4887155",
+        "published": "2026-09-03 08:24:30"
+      },
+      {
+        "title": "Swiss economy grows at fastest rate in nearly five years",
+        "link": "https://www.investing.com/news/economy-news/swiss-economy-grows-at-fastest-rate-in-nearly-five-years-4887118",
+        "published": "2026-09-03 08:00:40"
+      },
+      {
+        "title": "Dollar to hold gains, but stuck on sparse Fed rate guidance - Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/dollar-to-hold-gains-but-stuck-on-sparse-fed-rate-guidance--reuters-poll-4886272",
+        "published": "2026-09-03 07:55:19"
+      },
+      {
         "title": "Oil pulls back, Broadcom disappoints - what’s moving markets",
         "link": "https://www.investing.com/news/economy-news/oil-pulls-back-broadcom-disappoints--whats-moving-markets-4887030",
         "published": "2026-09-03 07:50:30"
@@ -108,26 +128,6 @@
         "title": "Yen rallies sharply as markets raise bets on Bank of Japan rate hikes",
         "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
         "published": "2026-09-03 07:42:53"
-      },
-      {
-        "title": "Shares, bonds rally as markets await Fed signals; yen jumps",
-        "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
-        "published": "2026-09-03 07:42:33"
-      },
-      {
-        "title": "Kenya private sector activity slows in August, PMI shows",
-        "link": "https://www.investing.com/news/economy-news/kenya-private-sector-activity-slows-in-august-pmi-shows-4887099",
-        "published": "2026-09-03 07:36:32"
-      },
-      {
-        "title": "European shares edge higher as bond yields ease",
-        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-bond-yields-ease-4887085",
-        "published": "2026-09-03 07:25:07"
-      },
-      {
-        "title": "U.S. preparing new, ‘targeted’ tariffs on semiconductors- Lutnick",
-        "link": "https://www.investing.com/news/economy-news/us-preparing-new-targeted-tariffs-on-semiconductors-lutnick-4887056",
-        "published": "2026-09-03 07:08:41"
       }
     ]
   }
