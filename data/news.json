@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-03T07:10:20.364121",
+  "fetched_at": "2026-09-03T07:40:07.505877",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tập đoàn sở hữu đơn hàng 5.000 UAV sang Hàn Quốc bất ngờ tách đôi, tham vọng \"Mỹ tiến\" vào 2027",
+        "link": "https://cafef.vn/tap-doan-so-huu-don-hang-5000-uav-sang-han-quoc-bat-ngo-tach-doi-tham-vong-my-tien-vao-2027-188260903142212521.chn",
+        "published": "Thu, 03 Sep 26 14:22:00 +0700"
+      },
       {
         "title": "Cổ phiếu định giá thấp, đón sóng lợi nhuận",
         "link": "https://cafef.vn/co-phieu-dinh-gia-thap-don-song-loi-nhuan-188260903103014469.chn",
@@ -27,11 +32,6 @@
         "title": "Giá vàng bạc hôm nay 3/9: SJC, Phú Quý, Bảo Tín Mạnh Hải, DOJI đồng loạt giảm",
         "link": "https://cafef.vn/gia-vang-bac-hom-nay-3-9-sjc-phu-quy-bao-tin-manh-hai-doji-dong-loat-giam-188260903095119743.chn",
         "published": "Thu, 03 Sep 26 10:25:00 +0700"
-      },
-      {
-        "title": "Ông Nguyễn Chơn Hùng bị bắt, doanh nghiệp công bố tài liệu quan trọng",
-        "link": "https://cafef.vn/ong-nguyen-chon-hung-bi-bat-doanh-nghiep-cong-bo-tai-lieu-quan-trong-188260903102251718.chn",
-        "published": "Thu, 03 Sep 26 10:24:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "European shares edge higher as bond yields ease",
+        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-bond-yields-ease-4887085",
+        "published": "2026-09-03 07:25:07"
+      },
+      {
+        "title": "U.S. preparing new, ‘targeted’ tariffs on semiconductors- Lutnick",
+        "link": "https://www.investing.com/news/economy-news/us-preparing-new-targeted-tariffs-on-semiconductors-lutnick-4887056",
+        "published": "2026-09-03 07:08:41"
+      },
+      {
         "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
         "link": "https://www.investing.com/news/economy-news/economic-activity-edged-up-and-prices-rose-moderately-in-recent-weeks-fed-survey-shows-4886620",
         "published": "2026-09-03 06:18:24"
@@ -118,16 +128,6 @@
         "title": "India’s services growth picks up in August but stays near four-year low, PMI shows",
         "link": "https://www.investing.com/news/economy-news/indias-services-growth-picks-up-in-august-but-stays-near-fouryear-low-pmi-shows-4886979",
         "published": "2026-09-03 05:12:50"
-      },
-      {
-        "title": "Morning Bid: Bonds breathe sigh of relief",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-bonds-breathe-sigh-of-relief-4886972",
-        "published": "2026-09-03 04:36:24"
-      },
-      {
-        "title": "Trump signs bill to avert government shutdown before midterm elections",
-        "link": "https://www.investing.com/news/economy-news/trump-signs-bill-to-avert-government-shutdown-before-midterm-elections-4886940",
-        "published": "2026-09-03 02:30:41"
       }
     ]
   }
