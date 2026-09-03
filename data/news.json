@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T06:43:31.871600",
+  "fetched_at": "2026-09-03T07:10:20.364121",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Chiến tranh kéo dài ở Vùng Vịnh đang “làm khó” Fed",
+        "link": "https://vneconomy.vn/chien-tranh-keo-dai-o-vung-vinh-dang-lam-kho-fed.htm",
+        "published": "Thu, 03 Sep 2026 06:57:11 GMT"
+      },
+      {
         "title": "Giá vàng giảm 1,3 triệu đồng sau kỳ nghỉ lễ Quốc khánh 2/9",
         "link": "https://vneconomy.vn/gia-vang-giam-13-trieu-dong-sau-ky-nghi-le-quoc-khanh-29.htm",
         "published": "Thu, 03 Sep 2026 06:35:07 GMT"
@@ -59,11 +64,6 @@
         "title": "Thị trường trái phiếu chính phủ toàn cầu lại bán tháo",
         "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-lai-ban-thao.htm",
         "published": "Wed, 02 Sep 2026 05:50:05 GMT"
-      },
-      {
-        "title": "Chuyển từ bồi thường thiệt hại sang tái thiết cuộc sống cho người bị thu hồi đất",
-        "link": "https://vneconomy.vn/chuyen-tu-boi-thuong-thiet-hai-sang-tai-thiet-cuoc-song-cho-nguoi-bi-thu-hoi-dat.htm",
-        "published": "Wed, 02 Sep 2026 02:42:24 GMT"
       }
     ],
     "Vietstock": [
