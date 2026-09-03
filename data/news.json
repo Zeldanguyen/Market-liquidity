@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-03T01:40:46.769372",
+  "fetched_at": "2026-09-03T02:13:11.731127",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Quỹ vàng lớn nhất thế giới mạnh tay \"bắt đáy\" gần 10 tấn vàng",
+        "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-manh-tay-bat-day-gan-10-tan-vang-18826090308454057.chn",
+        "published": "Thu, 03 Sep 26 08:50:00 +0700"
+      },
       {
         "title": "Bất động sản Greenwich chậm thanh toán gần 1.700 tỷ đồng gốc, lãi trái phiếu",
         "link": "https://cafef.vn/bat-dong-san-greenwich-cham-thanh-toan-gan-1700-ty-dong-goc-lai-trai-phieu-18826090308234871.chn",
@@ -27,11 +32,6 @@
         "title": "Một doanh nghiệp KCN sắp đưa 2 dự án mới vào khai thác, lợi nhuận ròng cả năm có thể đạt 2.000 tỷ đồng",
         "link": "https://cafef.vn/mot-doanh-nghiep-kcn-sap-dua-2-du-an-moi-vao-khai-thac-loi-nhuan-rong-ca-nam-co-the-dat-2000-ty-dong-188260902222641382.chn",
         "published": "Thu, 03 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Chuyên gia đưa ra lời khuyên cho nhà đầu tư chứng khoán sau nghỉ lễ",
-        "link": "https://cafef.vn/chuyen-gia-dua-ra-loi-khuyen-cho-nha-dau-tu-chung-khoan-sau-nghi-le-188260902202110327.chn",
-        "published": "Wed, 02 Sep 26 20:21:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China services activity quickens on stronger domestic demand, private PMI shows",
+        "link": "https://www.investing.com/news/economy-news/china-services-activity-quickens-on-stronger-domestic-demand-private-pmi-shows-4886924",
+        "published": "2026-09-03 02:00:28"
+      },
+      {
         "title": "Yen in the spotlight after sudden jump",
         "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
         "published": "2026-09-03 01:07:03"
@@ -123,11 +128,6 @@
         "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
         "link": "https://www.investing.com/news/economy-news/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise-4885685",
         "published": "2026-09-02 21:31:12"
-      },
-      {
-        "title": "Yen jumps, oil pumps",
-        "link": "https://www.investing.com/news/economy-news/yen-jumps-oil-pumps-4886787",
-        "published": "2026-09-02 21:07:24"
       }
     ]
   }
