@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T22:10:04.725253",
+  "fetched_at": "2026-09-03T22:37:13.318967",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bond yields fall, stocks rally as Fed’s Waller comments curb rate hike bets",
+        "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
+        "published": "2026-09-03 22:06:30"
+      },
+      {
+        "title": "SEC proposes to rescind investment adviser political donation rule",
+        "link": "https://www.investing.com/news/economy-news/sec-proposes-to-rescind-investment-adviser-political-donation-rule-93CH-4888646",
+        "published": "2026-09-03 22:00:16"
+      },
+      {
+        "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
+        "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
+        "published": "2026-09-03 21:37:28"
+      },
+      {
+        "title": "Brazil’s Congress upholds zero-tax policy on imports under $50",
+        "link": "https://www.investing.com/news/economy-news/brazils-congress-upholds-zerotax-policy-on-imports-under-50-4888615",
+        "published": "2026-09-03 21:30:43"
+      },
+      {
+        "title": "Trading Day: Waller cools Fed hike hoopla",
+        "link": "https://www.investing.com/news/economy-news/trading-day-waller-cools-fed-hike-hoopla-4888590",
+        "published": "2026-09-03 21:07:04"
+      },
+      {
         "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
         "published": "2026-09-03 20:24:46"
-      },
-      {
-        "title": "Revolut wins conditional US banking license",
-        "link": "https://www.investing.com/news/economy-news/revolut-wins-conditional-us-banking-license-4888334",
-        "published": "2026-09-03 19:49:30"
-      },
-      {
-        "title": "Canada July trade surplus shrinks, US exports drop",
-        "link": "https://www.investing.com/news/economy-news/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-4887868",
-        "published": "2026-09-03 19:49:08"
-      },
-      {
-        "title": "Yen jumps on BOJ hike bets, dollar slips on Waller comments",
-        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
-        "published": "2026-09-03 19:30:42"
-      },
-      {
-        "title": "Bank of Canada unveils new $20 bill with King Charles portrait",
-        "link": "https://www.investing.com/news/economy-news/bank-of-canada-unveils-new-20-bill-with-king-charles-portrait-93CH-4888428",
-        "published": "2026-09-03 19:00:24"
-      },
-      {
-        "title": "JD Vance says White House wants Fed to cut interest rates",
-        "link": "https://www.investing.com/news/economy-news/jd-vance-says-white-house-wants-fed-to-cut-interest-rates-93CH-4888405",
-        "published": "2026-09-03 18:36:55"
       }
     ]
   }
