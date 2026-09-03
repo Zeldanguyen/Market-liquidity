@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-03T11:39:06.107631",
+  "fetched_at": "2026-09-03T12:12:31.087297",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu DGC bất ngờ tăng hơn 4% sau thông báo mới từ Hóa chất Đức Giang",
+        "link": "https://cafef.vn/co-phieu-dgc-bat-ngo-tang-hon-4-sau-thong-bao-moi-tu-hoa-chat-duc-giang-188260903181419858.chn",
+        "published": "Thu, 03 Sep 26 18:59:00 +0700"
+      },
       {
         "title": "Chủ tịch Nhiệt điện Hải Phòng qua đời",
         "link": "https://cafef.vn/chu-tich-nhiet-dien-hai-phong-qua-doi-188260903181815372.chn",
@@ -27,11 +32,6 @@
         "title": "Vốn hóa Vingroup đạt 1,9 triệu tỷ đồng, tỷ phú Phạm Nhật Vượng lập kỷ lục mới",
         "link": "https://cafef.vn/von-hoa-vingroup-dat-19-trieu-ty-dong-ty-phu-pham-nhat-vuong-lap-ky-luc-moi-188260903150305797.chn",
         "published": "Thu, 03 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "TTC tái cấu trúc sở hữu tại AgriS, định hướng dài hạn không thay đổi",
-        "link": "https://cafef.vn/ttc-tai-cau-truc-so-huu-tai-agris-dinh-huong-dai-han-khong-thay-doi-188260903144902945.chn",
-        "published": "Thu, 03 Sep 26 15:30:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Vietstock Daily 04/09/2026: Tiếp tục giằng co",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-04092026-tiep-tuc-giang-co-1636-1487912.htm",
+        "published": "Thu, 03 Sep 2026 18:08:55 +0700"
+      },
+      {
         "title": "Nhịp đập Thị trường 03/09: VIC thay đổi cục diện, VN-Index đóng cửa giảm nhẹ",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0309-vic-thay-doi-cuc-dien-vn-index-dong-cua-giam-nhe-1636-1487266.htm",
         "published": "Thu, 03 Sep 2026 16:37:00 +0700"
@@ -91,14 +96,29 @@
         "title": "Tuần 03-04/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/tuan-03-04092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1486895.htm",
         "published": "Thu, 03 Sep 2026 10:00:00 +0700"
-      },
-      {
-        "title": "[IR AWARDS] Lịch công bố thông tin tháng 09/2026 cần nhớ",
-        "link": "http://vietstock.vn/2026/09/ir-awards-lich-cong-bo-thong-tin-thang-092026-can-nho-830-1473389.htm",
-        "published": "Thu, 03 Sep 2026 09:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Misuse of informal money-transfer networks is growing worldwide, global watchdog says",
+        "link": "https://www.investing.com/news/economy-news/misuse-of-informal-moneytransfer-networks-is-growing-worldwide-global-watchdog-says-4887680",
+        "published": "2026-09-03 12:00:33"
+      },
+      {
+        "title": "ECB’s Schnabel may leave early for IMF job, Handelsblatt reports",
+        "link": "https://www.investing.com/news/economy-news/ecbs-schnabel-may-leave-early-for-imf-job-handelsblatt-reports-4887562",
+        "published": "2026-09-03 11:48:48"
+      },
+      {
+        "title": "Wall St futures tepid as Middle East tensions keep investors wary",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
+        "published": "2026-09-03 11:48:32"
+      },
+      {
+        "title": "Yen rallies sharply as markets raise bets on Bank of Japan rate hikes",
+        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
+        "published": "2026-09-03 11:30:24"
+      },
       {
         "title": "Putin says Russia’s budget deficit poses no critical risk",
         "link": "https://www.investing.com/news/economy-news/putin-says-russias-budget-deficit-poses-no-critical-risk-93CH-4887583",
@@ -108,26 +128,6 @@
         "title": "German firms face pressure from China, study says",
         "link": "https://www.investing.com/news/economy-news/german-firms-face-pressure-from-china-study-says-93CH-4887580",
         "published": "2026-09-03 11:23:32"
-      },
-      {
-        "title": "Sweden central bank sees unclear inflation risks amid growth",
-        "link": "https://www.investing.com/news/economy-news/sweden-central-bank-sees-unclear-inflation-risks-amid-growth-93CH-4887575",
-        "published": "2026-09-03 11:21:32"
-      },
-      {
-        "title": "ECB to raise rates a second time in September, but then done, say economists: Reuters poll",
-        "link": "https://www.investing.com/news/economy-news/ecb-to-raise-rates-a-second-time-in-september-but-then-done-say-economists-reuters-poll-4887563",
-        "published": "2026-09-03 11:12:47"
-      },
-      {
-        "title": "ECB’s Schnabel may leave early for IMF job, Handelsblatt reports",
-        "link": "https://www.investing.com/news/economy-news/ecbs-schnabel-may-leave-early-for-imf-job-handelsblatt-reports-4887562",
-        "published": "2026-09-03 11:12:27"
-      },
-      {
-        "title": "HSBC raises Treasury yield forecasts on more hawkish Fed outlook",
-        "link": "https://www.investing.com/news/economy-news/hsbc-raises-treasury-yield-forecasts-on-more-hawkish-fed-outlook-4887479",
-        "published": "2026-09-03 10:51:23"
       }
     ]
   }
