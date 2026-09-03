@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T06:13:24.052781",
+  "fetched_at": "2026-09-03T06:43:31.871600",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng giảm 1,3 triệu đồng sau kỳ nghỉ lễ Quốc khánh 2/9",
+        "link": "https://vneconomy.vn/gia-vang-giam-13-trieu-dong-sau-ky-nghi-le-quoc-khanh-29.htm",
+        "published": "Thu, 03 Sep 2026 06:35:07 GMT"
+      },
+      {
         "title": "Lãi suất tiết kiệm ngân hàng nào cao nhất tháng 9/2026?",
         "link": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-92026.htm",
         "published": "Thu, 03 Sep 2026 05:01:28 GMT"
@@ -59,14 +64,19 @@
         "title": "Chuyển từ bồi thường thiệt hại sang tái thiết cuộc sống cho người bị thu hồi đất",
         "link": "https://vneconomy.vn/chuyen-tu-boi-thuong-thiet-hai-sang-tai-thiet-cuoc-song-cho-nguoi-bi-thu-hoi-dat.htm",
         "published": "Wed, 02 Sep 2026 02:42:24 GMT"
-      },
-      {
-        "title": "Giá vàng sụt gần 120 USD/oz vì đồng USD và lợi suất trái phiếu tăng mạnh",
-        "link": "https://vneconomy.vn/gia-vang-sut-gan-120-usdoz-vi-dong-usd-va-loi-suat-trai-phieu-tang-manh.htm",
-        "published": "Wed, 02 Sep 2026 01:49:18 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Nhịp đập Thị trường 03/09: VIC làm trụ, VN-Index chỉ còn giảm gần 11 điểm",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0309-vic-lam-tru-vn-index-chi-con-giam-gan-11-diem-1636-1487266.htm",
+        "published": "Thu, 03 Sep 2026 13:02:00 +0700"
+      },
+      {
+        "title": "Phân tích kỹ thuật phiên chiều 03/09: Thế giằng co vẫn còn",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0309-the-giang-co-van-con-585-1487528.htm",
+        "published": "Thu, 03 Sep 2026 13:02:00 +0700"
+      },
       {
         "title": "ADS bị nhắc nhở chậm công bố thông tin",
         "link": "http://vietstock.vn/2026/09/ads-bi-nhac-nho-cham-cong-bo-thong-tin-830-1487283.htm",
@@ -86,19 +96,14 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 03/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0309-830-1486637.htm",
         "published": "Thu, 03 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "03/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/0309-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1487082.htm",
-        "published": "Thu, 03 Sep 2026 06:30:00 +0700"
-      },
-      {
-        "title": "Vietstock Weekly 03-04/09/2026: Giữ đà phục hồi",
-        "link": "http://vietstock.vn/2026/09/vietstock-weekly-03-04092026-giu-da-phuc-hoi-1636-1486892.htm",
-        "published": "Wed, 02 Sep 2026 18:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
+        "link": "https://www.investing.com/news/economy-news/economic-activity-edged-up-and-prices-rose-moderately-in-recent-weeks-fed-survey-shows-4886620",
+        "published": "2026-09-03 06:18:24"
+      },
       {
         "title": "Shares, bonds rally as markets await Fed signals; yen jumps",
         "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
@@ -123,11 +128,6 @@
         "title": "Trump signs bill to avert government shutdown before midterm elections",
         "link": "https://www.investing.com/news/economy-news/trump-signs-bill-to-avert-government-shutdown-before-midterm-elections-4886940",
         "published": "2026-09-03 02:30:41"
-      },
-      {
-        "title": "Iran launches drone, missile strikes at U.S. bases in Kuwait",
-        "link": "https://www.investing.com/news/economy-news/iran-launches-drone-missile-strikes-at-us-bases-in-kuwait-4886939",
-        "published": "2026-09-03 02:28:32"
       }
     ]
   }
