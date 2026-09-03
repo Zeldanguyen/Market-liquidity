@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T13:09:36.515905",
+  "fetched_at": "2026-09-03T13:40:31.009410",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Theo dấu dòng tiền cá mập 03/09: Khối ngoại và tự doanh cùng bán ròng",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0309-khoi-ngoai-va-tu-doanh-cung-ban-rong-830-1488274.htm",
+        "published": "Thu, 03 Sep 2026 19:41:47 +0700"
+      },
+      {
         "title": "Vietstock Daily 04/09/2026: Tiếp tục giằng co",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-04092026-tiep-tuc-giang-co-1636-1487912.htm",
         "published": "Thu, 03 Sep 2026 18:08:55 +0700"
@@ -91,43 +96,38 @@
         "title": "ADS bị nhắc nhở chậm công bố thông tin",
         "link": "http://vietstock.vn/2026/09/ads-bi-nhac-nho-cham-cong-bo-thong-tin-830-1487283.htm",
         "published": "Thu, 03 Sep 2026 11:14:29 +0700"
-      },
-      {
-        "title": "Tuần 03-04/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-        "link": "http://vietstock.vn/2026/09/tuan-03-04092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1486895.htm",
-        "published": "Thu, 03 Sep 2026 10:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "US trade deficit widens to $88.6 billion in July",
-        "link": "https://www.investing.com/news/economy-news/us-trade-deficit-widens-to-886-billion-in-july-4887917",
-        "published": "2026-09-03 12:48:20"
-      },
-      {
-        "title": "US weekly jobless claims rise marginally amid stable labor market",
-        "link": "https://www.investing.com/news/economy-news/us-weekly-jobless-claims-rise-marginally-amid-stable-labor-market-4887893",
-        "published": "2026-09-03 12:42:29"
-      },
-      {
-        "title": "Canada July trade surplus shrinks, weeks before new U.S. tariffs",
+        "title": "Canada July trade surplus shrinks, weeks before new US tariffs",
         "link": "https://www.investing.com/news/economy-news/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-4887868",
-        "published": "2026-09-03 12:37:51"
+        "published": "2026-09-03 13:19:07"
       },
       {
-        "title": "Tech pilgrims flock to China as global innovation race heats up",
-        "link": "https://www.investing.com/news/economy-news/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up-4886889",
-        "published": "2026-09-03 12:37:28"
+        "title": "Turkey’s central bank gets 16 tons of gold back to reserves",
+        "link": "https://www.investing.com/news/economy-news/turkeys-central-bank-gets-16-tons-of-gold-back-to-reserves-93CH-4887990",
+        "published": "2026-09-03 13:17:50"
       },
       {
-        "title": "Fed’s Waller open to leaving rates unchanged at September meeting if inflation cools",
+        "title": "Senegal starts transfer for 2048 bond coupon payment",
+        "link": "https://www.investing.com/news/economy-news/senegal-starts-transfer-for-2048-bond-coupon-payment-93CH-4887979",
+        "published": "2026-09-03 13:13:28"
+      },
+      {
+        "title": "Fed’s Waller open to leaving rates unchanged this month if inflation cools",
         "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
-        "published": "2026-09-03 12:36:56"
+        "published": "2026-09-03 13:01:12"
       },
       {
-        "title": "Putin cites chance of peace deal, Ukraine sees ’new dynamic’",
-        "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
-        "published": "2026-09-03 12:31:03"
+        "title": "Fed’s Waller open to September rate hold—if disinflation holds up",
+        "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-september-rate-holdif-disinflation-holds-up-4887926",
+        "published": "2026-09-03 12:56:46"
+      },
+      {
+        "title": "S&P 500, Nasdaq eye tepid open as Middle East tensions weigh",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
+        "published": "2026-09-03 12:54:40"
       }
     ]
   }
