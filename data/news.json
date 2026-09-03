@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T19:36:41.718334",
+  "fetched_at": "2026-09-03T20:08:58.640827",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Revolut wins conditional US banking license",
+        "link": "https://www.investing.com/news/economy-news/revolut-wins-conditional-us-banking-license-4888334",
+        "published": "2026-09-03 19:49:30"
+      },
+      {
+        "title": "Canada July trade surplus shrinks, US exports drop",
+        "link": "https://www.investing.com/news/economy-news/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-4887868",
+        "published": "2026-09-03 19:49:08"
+      },
+      {
+        "title": "Yen jumps on BOJ hike bets, dollar slips on Waller comments",
+        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
+        "published": "2026-09-03 19:30:42"
+      },
+      {
         "title": "Bank of Canada unveils new $20 bill with King Charles portrait",
         "link": "https://www.investing.com/news/economy-news/bank-of-canada-unveils-new-20-bill-with-king-charles-portrait-93CH-4888428",
         "published": "2026-09-03 19:00:24"
@@ -113,21 +128,6 @@
         "title": "Wall Street rallies as Fed’s Waller eases rate hike fears",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
         "published": "2026-09-03 18:31:23"
-      },
-      {
-        "title": "Revolut wins conditional US banking license",
-        "link": "https://www.investing.com/news/economy-news/revolut-wins-conditional-us-banking-license-4888334",
-        "published": "2026-09-03 18:31:05"
-      },
-      {
-        "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
-        "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
-        "published": "2026-09-03 18:12:59"
-      },
-      {
-        "title": "US convenience stores say looming healthy food rule puts food stamps use at risk",
-        "link": "https://www.investing.com/news/economy-news/us-convenience-stores-say-looming-healthy-food-ruleputs-food-stamps-use-at-risk-4888389",
-        "published": "2026-09-03 18:12:42"
       }
     ]
   }
