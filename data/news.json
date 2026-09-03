@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T14:09:46.017006",
+  "fetched_at": "2026-09-03T14:40:39.601012",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Resistance to Bolivia IMF deal grows as groups meet over fuel crisis",
-        "link": "https://www.investing.com/news/economy-news/resistance-to-bolivia-imf-dealgrows-as-groups-meet-over-fuel-crisis-4888068",
-        "published": "2026-09-03 13:49:35"
+        "title": "Canada July trade surplus shrinks, US exports drop",
+        "link": "https://www.investing.com/news/economy-news/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-4887868",
+        "published": "2026-09-03 14:24:34"
+      },
+      {
+        "title": "Stocks gain as bonds recover; rising Gulf tensions boost oil",
+        "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
+        "published": "2026-09-03 14:13:02"
+      },
+      {
+        "title": "Wall St indexes climb after Fed’s Waller says he could support rate hold",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
+        "published": "2026-09-03 14:08:17"
+      },
+      {
+        "title": "Strong demand boosts US services sector activity in August",
+        "link": "https://www.investing.com/news/economy-news/strong-demand-boosts-us-services-sector-activity-in-august-4888106",
+        "published": "2026-09-03 14:07:15"
+      },
+      {
+        "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
+        "link": "https://www.investing.com/news/economy-news/bond-selloff-deepens-as-oil-prices-and-public-debt-fears-jolt-markets-4888104",
+        "published": "2026-09-03 14:06:46"
       },
       {
         "title": "Anthropic still flagged as risk to defense industrial base, US official says",
         "link": "https://www.investing.com/news/economy-news/anthropic-still-flagged-as-risk-to-defense-industrial-base-us-official-says-4888052",
-        "published": "2026-09-03 13:48:58"
-      },
-      {
-        "title": "France starts tests on Tesla’s self-driving tech",
-        "link": "https://www.investing.com/news/economy-news/france-starts-tests-on-teslasselfdriving-tech-4887390",
-        "published": "2026-09-03 13:45:11"
-      },
-      {
-        "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
-        "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
-        "published": "2026-09-03 13:39:20"
-      },
-      {
-        "title": "Canada July trade surplus shrinks, weeks before new US tariffs",
-        "link": "https://www.investing.com/news/economy-news/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-4887868",
-        "published": "2026-09-03 13:19:07"
-      },
-      {
-        "title": "Turkey’s central bank gets 16 tons of gold back to reserves",
-        "link": "https://www.investing.com/news/economy-news/turkeys-central-bank-gets-16-tons-of-gold-back-to-reserves-93CH-4887990",
-        "published": "2026-09-03 13:17:50"
+        "published": "2026-09-03 14:02:22"
       }
     ]
   }
