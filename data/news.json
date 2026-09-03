@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T05:18:31.663405",
+  "fetched_at": "2026-09-03T05:53:35.420166",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,19 +100,24 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Shares, bonds rally as markets await signals for Fed rates",
+        "title": "Shares, bonds rally as markets await Fed signals; yen jumps",
         "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
-        "published": "2026-09-03 05:00:28"
+        "published": "2026-09-03 05:24:25"
+      },
+      {
+        "title": "Yen gets boost from hawkish BOJ repricing of rate expectations",
+        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
+        "published": "2026-09-03 05:18:50"
+      },
+      {
+        "title": "India’s services growth picks up in August but stays near four-year low, PMI shows",
+        "link": "https://www.investing.com/news/economy-news/indias-services-growth-picks-up-in-august-but-stays-near-fouryear-low-pmi-shows-4886979",
+        "published": "2026-09-03 05:12:50"
       },
       {
         "title": "Morning Bid: Bonds breathe sigh of relief",
         "link": "https://www.investing.com/news/economy-news/morning-bid-bonds-breathe-sigh-of-relief-4886972",
         "published": "2026-09-03 04:36:24"
-      },
-      {
-        "title": "Yen climbs on hawkish BOJ repricing",
-        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
-        "published": "2026-09-03 03:24:29"
       },
       {
         "title": "Trump signs bill to avert government shutdown before midterm elections",
@@ -123,11 +128,6 @@
         "title": "Iran launches drone, missile strikes at U.S. bases in Kuwait",
         "link": "https://www.investing.com/news/economy-news/iran-launches-drone-missile-strikes-at-us-bases-in-kuwait-4886939",
         "published": "2026-09-03 02:28:32"
-      },
-      {
-        "title": "China services activity quickens on stronger domestic demand, private PMI shows",
-        "link": "https://www.investing.com/news/economy-news/china-services-activity-quickens-on-stronger-domestic-demand-private-pmi-shows-4886924",
-        "published": "2026-09-03 02:00:28"
       }
     ]
   }
