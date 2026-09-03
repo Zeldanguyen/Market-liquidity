@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T18:42:45.393978",
+  "fetched_at": "2026-09-03T19:08:33.562721",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bank of Canada unveils new $20 bill with King Charles portrait",
+        "link": "https://www.investing.com/news/economy-news/bank-of-canada-unveils-new-20-bill-with-king-charles-portrait-93CH-4888428",
+        "published": "2026-09-03 19:00:24"
+      },
+      {
+        "title": "JD Vance says White House wants Fed to cut interest rates",
+        "link": "https://www.investing.com/news/economy-news/jd-vance-says-white-house-wants-fed-to-cut-interest-rates-93CH-4888405",
+        "published": "2026-09-03 18:36:55"
+      },
+      {
+        "title": "Wall Street rallies as Fed’s Waller eases rate hike fears",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
+        "published": "2026-09-03 18:31:23"
+      },
+      {
+        "title": "Revolut wins conditional US banking license",
+        "link": "https://www.investing.com/news/economy-news/revolut-wins-conditional-us-banking-license-4888334",
+        "published": "2026-09-03 18:31:05"
+      },
+      {
         "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
         "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
         "published": "2026-09-03 18:12:59"
@@ -108,26 +128,6 @@
         "title": "US convenience stores say looming healthy food rule puts food stamps use at risk",
         "link": "https://www.investing.com/news/economy-news/us-convenience-stores-say-looming-healthy-food-ruleputs-food-stamps-use-at-risk-4888389",
         "published": "2026-09-03 18:12:42"
-      },
-      {
-        "title": "OpenAI launches new Astra model amid growing scrutiny over agents’ safety",
-        "link": "https://www.investing.com/news/economy-news/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-4888385",
-        "published": "2026-09-03 18:06:28"
-      },
-      {
-        "title": "Bank of England economist says rate rise could avoid bigger hikes",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-economist-says-rate-rise-could-avoid-bigger-hikes-93CH-4888381",
-        "published": "2026-09-03 18:03:22"
-      },
-      {
-        "title": "Fed’s Waller says safety premium for Treasuries is gone, pushing neutral rate higher",
-        "link": "https://www.investing.com/news/economy-news/feds-waller-says-safety-premium-for-treasuries-is-gone-pushing-neutral-rate-higher-4888374",
-        "published": "2026-09-03 17:48:53"
-      },
-      {
-        "title": "Revolut wins conditional US banking license",
-        "link": "https://www.investing.com/news/economy-news/revolut-wins-conditional-us-banking-license-4888334",
-        "published": "2026-09-03 17:42:27"
       }
     ]
   }
