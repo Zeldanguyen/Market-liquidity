@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-03T01:08:57.592820",
+  "fetched_at": "2026-09-03T01:40:46.769372",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Bất động sản Greenwich chậm thanh toán gần 1.700 tỷ đồng gốc, lãi trái phiếu",
+        "link": "https://cafef.vn/bat-dong-san-greenwich-cham-thanh-toan-gan-1700-ty-dong-goc-lai-trai-phieu-18826090308234871.chn",
+        "published": "Thu, 03 Sep 26 08:23:00 +0700"
+      },
       {
         "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, một \"thế lực\" âm thầm gom loạt cổ phiếu",
         "link": "https://cafef.vn/dong-tien-chuc-cho-do-vao-thi-truong-sau-nghi-le-mot-the-luc-am-tham-gom-loat-co-phieu-188260902232615915.chn",
@@ -27,11 +32,6 @@
         "title": "Chuyên gia đưa ra lời khuyên cho nhà đầu tư chứng khoán sau nghỉ lễ",
         "link": "https://cafef.vn/chuyen-gia-dua-ra-loi-khuyen-cho-nha-dau-tu-chung-khoan-sau-nghi-le-188260902202110327.chn",
         "published": "Wed, 02 Sep 26 20:21:00 +0700"
-      },
-      {
-        "title": "Khi nào thị trường tài sản mã hóa vận hành, loại tài sản nào được giao dịch?",
-        "link": "https://cafef.vn/khi-nao-thi-truong-tai-san-ma-hoa-van-hanh-loai-tai-san-nao-duoc-giao-dich-188260902170000627.chn",
-        "published": "Wed, 02 Sep 26 17:59:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 03/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0309-830-1486637.htm",
+        "published": "Thu, 03 Sep 2026 08:00:00 +0700"
+      },
+      {
         "title": "03/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/0309-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1487082.htm",
         "published": "Thu, 03 Sep 2026 06:30:00 +0700"
@@ -91,18 +96,18 @@
         "title": "Giá cổ phiếu biến động vì tin đồn",
         "link": "http://vietstock.vn/2026/08/gia-co-phieu-bien-dong-vi-tin-don-830-1486926.htm",
         "published": "Sat, 29 Aug 2026 21:02:00 +0700"
-      },
-      {
-        "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC “gánh” hơn 52 điểm",
-        "link": "http://vietstock.vn/2026/08/vn-index-tang-64-diem-tuan-qua-rieng-vic-ganh-hon-52-diem-830-1486908.htm",
-        "published": "Sat, 29 Aug 2026 20:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen in the spotlight after sudden jump",
+        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
+        "published": "2026-09-03 01:07:03"
+      },
+      {
         "title": "IMF’s Georgieva says rising bond yields threaten progress on developing country debt",
         "link": "https://www.investing.com/news/economy-news/imfs-georgieva-says-rising-bond-yields-threaten-progress-on-developing-country-debt-4886901",
-        "published": "2026-09-03 00:24:32"
+        "published": "2026-09-03 01:06:44"
       },
       {
         "title": "Tech pilgrims flock to China as global innovation race heats up",
@@ -123,11 +128,6 @@
         "title": "Yen jumps, oil pumps",
         "link": "https://www.investing.com/news/economy-news/yen-jumps-oil-pumps-4886787",
         "published": "2026-09-02 21:07:24"
-      },
-      {
-        "title": "NBA fines Clippers $30M, strips five draft picks over Leonard",
-        "link": "https://www.investing.com/news/economy-news/nba-fines-clippers-30m-strips-five-draft-picks-over-leonard-93CH-4886752",
-        "published": "2026-09-02 20:33:01"
       }
     ]
   }
