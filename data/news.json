@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T15:39:58.002311",
+  "fetched_at": "2026-09-03T16:10:49.605152",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Hơn 545.000 tỷ đồng vốn đầu tư công vẫn chờ giải ngân sau 8 tháng",
+        "link": "https://vneconomy.vn/hon-545000-ty-dong-von-dau-tu-cong-van-cho-giai-ngan-sau-8-thang.htm",
+        "published": "Thu, 03 Sep 2026 16:01:05 GMT"
+      },
+      {
+        "title": "Bộ Tài chính đề xuất năm nhiệm vụ tạo dư địa tăng trưởng 4 tháng cuối năm",
+        "link": "https://vneconomy.vn/bo-tai-chinh-de-xuat-nam-nhiem-vu-tao-du-dia-tang-truong-4-thang-cuoi-nam.htm",
+        "published": "Thu, 03 Sep 2026 15:53:25 GMT"
+      },
+      {
         "title": "Ngổn ngang những mối lo của giới đầu tư trái phiếu toàn cầu",
         "link": "https://vneconomy.vn/ngon-ngang-nhung-moi-lo-cua-gioi-dau-tu-trai-phieu-toan-cau.htm",
         "published": "Thu, 03 Sep 2026 12:33:41 GMT"
@@ -54,16 +64,6 @@
         "title": "BIDV triển khai gói vay ưu đãi tiếp sức nhu cầu an cư đích thực",
         "link": "https://vneconomy.vn/bidv-trien-khai-goi-vay-uu-dai-tiep-suc-nhu-cau-an-cu-dich-thuc.htm",
         "published": "Thu, 03 Sep 2026 09:08:27 GMT"
-      },
-      {
-        "title": "Chỉ số giá tiêu dùng tiếp tục tăng, giá vàng biến động ngược chiều với thế giới",
-        "link": "https://vneconomy.vn/chi-so-gia-tieu-dung-tiep-tuc-tang-gia-vang-bien-dong-nguoc-chieu-voi-the-gioi.htm",
-        "published": "Thu, 03 Sep 2026 08:42:26 GMT"
-      },
-      {
-        "title": "Giảm chi phí đất: Làm sao để người mua nhà thực sự được hưởng lợi?",
-        "link": "https://vneconomy.vn/giam-chi-phi-dat-lam-sao-de-nguoi-mua-nha-thuc-su-duoc-huong-loi.htm",
-        "published": "Thu, 03 Sep 2026 08:19:36 GMT"
       }
     ],
     "Vietstock": [
