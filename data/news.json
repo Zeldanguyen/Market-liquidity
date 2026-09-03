@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T23:09:36.568285",
+  "fetched_at": "2026-09-03T23:37:37.852173",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "04/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/0409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1488288.htm",
+        "published": "Fri, 04 Sep 2026 06:00:00 +0700"
+      },
+      {
         "title": "Cổ phiếu dầu khí có tuần hút tiền",
         "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-co-tuan-hut-tien-830-1487529.htm",
         "published": "Thu, 03 Sep 2026 20:30:00 +0700"
@@ -91,18 +96,18 @@
         "title": "Đếm ngược đến 16h00 ngày 7/9 – Cơ hội cuối cùng sở hữu cổ phiếu DatVietVAC với ROE trên 40% và mức định giá hấp dẫn",
         "link": "http://vietstock.vn/2026/09/dem-nguoc-den-16h00-ngay-79-8211-co-hoi-cuoi-cung-so-huu-co-phieu-datvietvac-voi-roe-tren-40-va-muc-dinh-gia-hap-dan-830-1487539.htm",
         "published": "Thu, 03 Sep 2026 16:30:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 03/09: Thế giằng co vẫn còn",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0309-the-giang-co-van-con-585-1487528.htm",
-        "published": "Thu, 03 Sep 2026 13:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
         "title": "Bond yields fall, stocks rally as Fed’s Waller comments curb rate hike bets",
         "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
-        "published": "2026-09-03 22:18:24"
+        "published": "2026-09-03 23:00:49"
+      },
+      {
+        "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
+        "published": "2026-09-03 22:48:40"
       },
       {
         "title": "SEC proposes to rescind investment adviser political donation rule",
@@ -123,11 +128,6 @@
         "title": "Trading Day: Waller cools Fed hike hoopla",
         "link": "https://www.investing.com/news/economy-news/trading-day-waller-cools-fed-hike-hoopla-4888590",
         "published": "2026-09-03 21:07:04"
-      },
-      {
-        "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
-        "published": "2026-09-03 20:24:46"
       }
     ]
   }
