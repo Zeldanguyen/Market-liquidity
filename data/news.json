@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T10:39:51.458576",
+  "fetched_at": "2026-09-03T11:09:10.682370",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "HSBC raises Treasury yield forecasts on more hawkish Fed outlook",
+        "link": "https://www.investing.com/news/economy-news/hsbc-raises-treasury-yield-forecasts-on-more-hawkish-fed-outlook-4887479",
+        "published": "2026-09-03 10:51:23"
+      },
+      {
         "title": "ECB’s Schnabel may depart early for IMF role, report says",
         "link": "https://www.investing.com/news/economy-news/ecbs-schnabel-may-depart-early-for-imf-role-report-says-93CH-4887430",
         "published": "2026-09-03 10:32:50"
@@ -123,11 +128,6 @@
         "title": "Analysis-Bond selloff is likely amplified by obscure economic rate",
         "link": "https://www.investing.com/news/economy-news/analysisbondselloff-is-likely-amplified-by-obscure-economic-rate-4887345",
         "published": "2026-09-03 10:09:01"
-      },
-      {
-        "title": "Wall St futures subdued as investors weigh earnings, oil prices",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
-        "published": "2026-09-03 10:08:17"
       }
     ]
   }
