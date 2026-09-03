@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-03T16:41:00.370715",
+  "fetched_at": "2026-09-03T17:08:46.833152",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Dư báo VN-Index hướng lên vùng 1.850-1.870 trong tháng 9, CTCK chỉ ra loạt cổ phiếu kỳ vọng \"hút tiền\"",
+        "link": "https://cafef.vn/du-bao-vn-index-huong-len-vung-1850-1870-trong-thang-9-ctck-chi-ra-loat-co-phieu-ky-vong-hut-tien-188260903221553944.chn",
+        "published": "Fri, 04 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Phát hiện một ngôi làng \"ngồi trên\" 50 tấn vàng",
+        "link": "https://cafef.vn/phat-hien-mot-ngoi-lang-ngoi-tren-50-tan-vang-188260903221445992.chn",
+        "published": "Fri, 04 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Một sự kiện lớn sắp diễn ra, CTCK đưa ra 2 kịch bản cho thị trường chứng khoán",
+        "link": "https://cafef.vn/mot-su-kien-lon-sap-dien-ra-ctck-dua-ra-2-kich-ban-cho-thi-truong-chung-khoan-188260903221313469.chn",
+        "published": "Fri, 04 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Ngay trước khi hết thời hạn đăng ký mua IPO, 90% cổ phiếu IPO DatVietVAC đã có nhu cầu",
         "link": "https://cafef.vn/ngay-truoc-khi-het-thoi-han-dang-ky-mua-ipo-90-co-phieu-ipo-datvietvac-da-co-nhu-cau-188260903173746941.chn",
@@ -17,21 +32,6 @@
         "title": "Chủ tịch Nhiệt điện Hải Phòng qua đời",
         "link": "https://cafef.vn/chu-tich-nhiet-dien-hai-phong-qua-doi-188260903181815372.chn",
         "published": "Thu, 03 Sep 26 18:18:00 +0700"
-      },
-      {
-        "title": "Sau dịp 2/9, vợ chồng tỷ phú Phạm Nhật Vượng có thêm hơn 1 tỷ USD",
-        "link": "https://cafef.vn/sau-dip-2-9-vo-chong-ty-phu-pham-nhat-vuong-co-them-hon-1-ty-usd-18826090318162589.chn",
-        "published": "Thu, 03 Sep 26 18:16:00 +0700"
-      },
-      {
-        "title": "Ông Nguyễn Hữu Chỉnh bị bắt, doanh nghiệp công bố thông tin mới",
-        "link": "https://cafef.vn/ong-nguyen-huu-chinh-bi-bat-doanh-nghiep-cong-bo-thong-tin-moi-188260903160730418.chn",
-        "published": "Thu, 03 Sep 26 16:08:00 +0700"
-      },
-      {
-        "title": "Khối ngoại đột ngột bán ròng gần 1.500 tỷ đồng phiên đầu tháng 9, \"xả\" mạnh loạt cổ phiếu ngân hàng",
-        "link": "https://cafef.vn/khoi-ngoai-dot-ngot-ban-rong-gan-1500-ty-dong-phien-dau-thang-9-xa-manh-loat-co-phieu-ngan-hang-188260903152131269.chn",
-        "published": "Thu, 03 Sep 26 15:45:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Revolut wins conditional US banking license",
+        "link": "https://www.investing.com/news/economy-news/revolut-wins-conditional-us-banking-license-4888334",
+        "published": "2026-09-03 16:36:38"
+      },
+      {
         "title": "European stocks recover from one-month lows as bond yields retreat",
         "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-bond-yields-ease-4887085",
         "published": "2026-09-03 16:30:44"
@@ -123,11 +128,6 @@
         "title": "US mortgage rates climb to 6.71%, highest since July 2025",
         "link": "https://www.investing.com/news/economy-news/us-mortgage-rates-climb-to-671-highest-since-july-2025-93CH-4888306",
         "published": "2026-09-03 16:03:06"
-      },
-      {
-        "title": "Wall St climbs after Fed’s Waller says he could support rate hold",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
-        "published": "2026-09-03 16:01:33"
       }
     ]
   }
