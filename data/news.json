@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-03T17:08:46.833152",
+  "fetched_at": "2026-09-03T17:40:21.276904",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Người phụ nữ giàu nhất Việt Nam vừa lập kỷ lục mới",
+        "link": "https://cafef.vn/nguoi-phu-nu-giau-nhat-viet-nam-vua-lap-ky-luc-moi-188260903232320823.chn",
+        "published": "Fri, 04 Sep 26 00:08:00 +0700"
+      },
+      {
+        "title": "“Đại gia” ngành thép cho Chủ tịch Phát Đạt vay hàng trăm tỷ, cùng tham gia siêu dự án tại Thủ Thiêm do Lotte làm chủ đầu tư",
+        "link": "https://cafef.vn/dai-gia-nganh-thep-cho-chu-tich-phat-dat-vay-hang-tram-ty-cung-tham-gia-sieu-du-an-tai-thu-thiem-do-lotte-lam-chu-dau-tu-188260903232453368.chn",
+        "published": "Fri, 04 Sep 26 00:07:00 +0700"
+      },
+      {
+        "title": "Nhóm cổ đông CII nâng sở hữu tại PC1 lên 12,79%, nắm khối cổ phiếu hơn 1.000 tỷ đồng",
+        "link": "https://cafef.vn/nhom-co-dong-cii-nang-so-huu-tai-pc1-len-1279-nam-khoi-co-phieu-hon-1000-ty-dong-188260903145318683.chn",
+        "published": "Fri, 04 Sep 26 00:07:00 +0700"
+      },
       {
         "title": "Dư báo VN-Index hướng lên vùng 1.850-1.870 trong tháng 9, CTCK chỉ ra loạt cổ phiếu kỳ vọng \"hút tiền\"",
         "link": "https://cafef.vn/du-bao-vn-index-huong-len-vung-1850-1870-trong-thang-9-ctck-chi-ra-loat-co-phieu-ky-vong-hut-tien-188260903221553944.chn",
@@ -17,21 +32,6 @@
         "title": "Một sự kiện lớn sắp diễn ra, CTCK đưa ra 2 kịch bản cho thị trường chứng khoán",
         "link": "https://cafef.vn/mot-su-kien-lon-sap-dien-ra-ctck-dua-ra-2-kich-ban-cho-thi-truong-chung-khoan-188260903221313469.chn",
         "published": "Fri, 04 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Ngay trước khi hết thời hạn đăng ký mua IPO, 90% cổ phiếu IPO DatVietVAC đã có nhu cầu",
-        "link": "https://cafef.vn/ngay-truoc-khi-het-thoi-han-dang-ky-mua-ipo-90-co-phieu-ipo-datvietvac-da-co-nhu-cau-188260903173746941.chn",
-        "published": "Thu, 03 Sep 26 19:30:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu DGC bất ngờ tăng hơn 4% sau thông báo mới từ Hóa chất Đức Giang",
-        "link": "https://cafef.vn/co-phieu-dgc-bat-ngo-tang-hon-4-sau-thong-bao-moi-tu-hoa-chat-duc-giang-188260903181419858.chn",
-        "published": "Thu, 03 Sep 26 18:59:00 +0700"
-      },
-      {
-        "title": "Chủ tịch Nhiệt điện Hải Phòng qua đời",
-        "link": "https://cafef.vn/chu-tich-nhiet-dien-hai-phong-qua-doi-188260903181815372.chn",
-        "published": "Thu, 03 Sep 26 18:18:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -102,7 +102,12 @@
       {
         "title": "Revolut wins conditional US banking license",
         "link": "https://www.investing.com/news/economy-news/revolut-wins-conditional-us-banking-license-4888334",
-        "published": "2026-09-03 16:36:38"
+        "published": "2026-09-03 17:25:39"
+      },
+      {
+        "title": "US fixed 30-year mortgage rate rises to highest since July 2025",
+        "link": "https://www.investing.com/news/economy-news/us-fixed-30year-mortgage-rate-rises-to-highest-since-july-2025-4888325",
+        "published": "2026-09-03 16:56:04"
       },
       {
         "title": "European stocks recover from one-month lows as bond yields retreat",
@@ -113,11 +118,6 @@
         "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
         "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
         "published": "2026-09-03 16:25:42"
-      },
-      {
-        "title": "US fixed 30-year mortgage rate rises to highest since July 2025",
-        "link": "https://www.investing.com/news/economy-news/us-fixed-30year-mortgage-rate-rises-to-highest-since-july-2025-4888325",
-        "published": "2026-09-03 16:24:45"
       },
       {
         "title": "Canada to invest C$4.7 billion in domestic rail car production",
