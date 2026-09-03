@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T12:43:52.986110",
+  "fetched_at": "2026-09-03T13:09:36.515905",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US trade deficit widens to $88.6 billion in July",
+        "link": "https://www.investing.com/news/economy-news/us-trade-deficit-widens-to-886-billion-in-july-4887917",
+        "published": "2026-09-03 12:48:20"
+      },
+      {
+        "title": "US weekly jobless claims rise marginally amid stable labor market",
+        "link": "https://www.investing.com/news/economy-news/us-weekly-jobless-claims-rise-marginally-amid-stable-labor-market-4887893",
+        "published": "2026-09-03 12:42:29"
+      },
+      {
+        "title": "Canada July trade surplus shrinks, weeks before new U.S. tariffs",
+        "link": "https://www.investing.com/news/economy-news/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-4887868",
+        "published": "2026-09-03 12:37:51"
+      },
+      {
+        "title": "Tech pilgrims flock to China as global innovation race heats up",
+        "link": "https://www.investing.com/news/economy-news/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up-4886889",
+        "published": "2026-09-03 12:37:28"
+      },
+      {
+        "title": "Fed’s Waller open to leaving rates unchanged at September meeting if inflation cools",
+        "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
+        "published": "2026-09-03 12:36:56"
+      },
+      {
         "title": "Putin cites chance of peace deal, Ukraine sees ’new dynamic’",
         "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
         "published": "2026-09-03 12:31:03"
-      },
-      {
-        "title": "Analysts raise Canadian dollar forecasts, expecting trade tensions to ultimately fade: Reuters Poll",
-        "link": "https://www.investing.com/news/economy-news/analysts-raise-canadian-dollar-forecasts-expecting-trade-tensions-to-ultimately-fade-reuters-poll-4887760",
-        "published": "2026-09-03 12:13:26"
-      },
-      {
-        "title": "Stocks gain as bonds recover; rising Gulf tensions boost oil",
-        "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
-        "published": "2026-09-03 12:06:21"
-      },
-      {
-        "title": "Misuse of informal money-transfer networks is growing worldwide, global watchdog says",
-        "link": "https://www.investing.com/news/economy-news/misuse-of-informal-moneytransfer-networks-is-growing-worldwide-global-watchdog-says-4887680",
-        "published": "2026-09-03 12:00:33"
-      },
-      {
-        "title": "ECB’s Schnabel may leave early for IMF job, Handelsblatt reports",
-        "link": "https://www.investing.com/news/economy-news/ecbs-schnabel-may-leave-early-for-imf-job-handelsblatt-reports-4887562",
-        "published": "2026-09-03 11:48:48"
-      },
-      {
-        "title": "Wall St futures tepid as Middle East tensions keep investors wary",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
-        "published": "2026-09-03 11:48:32"
       }
     ]
   }
