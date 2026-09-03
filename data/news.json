@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T14:40:39.601012",
+  "fetched_at": "2026-09-03T15:09:29.984227",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
+        "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
+        "published": "2026-09-03 14:36:34"
+      },
+      {
         "title": "Canada July trade surplus shrinks, US exports drop",
         "link": "https://www.investing.com/news/economy-news/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-4887868",
         "published": "2026-09-03 14:24:34"
@@ -123,11 +128,6 @@
         "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
         "link": "https://www.investing.com/news/economy-news/bond-selloff-deepens-as-oil-prices-and-public-debt-fears-jolt-markets-4888104",
         "published": "2026-09-03 14:06:46"
-      },
-      {
-        "title": "Anthropic still flagged as risk to defense industrial base, US official says",
-        "link": "https://www.investing.com/news/economy-news/anthropic-still-flagged-as-risk-to-defense-industrial-base-us-official-says-4888052",
-        "published": "2026-09-03 14:02:22"
       }
     ]
   }
