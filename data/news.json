@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T09:40:48.258515",
+  "fetched_at": "2026-09-03T10:09:43.175037",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,16 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 03/09: VIC thay đổi cục diện, VN-Index đóng cửa giảm nhẹ",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0309-vic-thay-doi-cuc-dien-vn-index-dong-cua-giam-nhe-1636-1487266.htm",
+        "published": "Thu, 03 Sep 2026 16:37:00 +0700"
+      },
+      {
+        "title": "Đếm ngược đến 16h00 ngày 7/9 – Cơ hội cuối cùng sở hữu cổ phiếu DatVietVAC với ROE trên 40% và mức định giá hấp dẫn",
+        "link": "http://vietstock.vn/2026/09/dem-nguoc-den-16h00-ngay-79-8211-co-hoi-cuoi-cung-so-huu-co-phieu-datvietvac-voi-roe-tren-40-va-muc-dinh-gia-hap-dan-830-1487539.htm",
+        "published": "Thu, 03 Sep 2026 16:30:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 03/09: Thế giằng co vẫn còn",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0309-the-giang-co-van-con-585-1487528.htm",
         "published": "Thu, 03 Sep 2026 13:02:00 +0700"
@@ -86,19 +96,19 @@
         "title": "[IR AWARDS] Lịch công bố thông tin tháng 09/2026 cần nhớ",
         "link": "http://vietstock.vn/2026/09/ir-awards-lich-cong-bo-thong-tin-thang-092026-can-nho-830-1473389.htm",
         "published": "Thu, 03 Sep 2026 09:02:00 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 03/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0309-830-1486637.htm",
-        "published": "Thu, 03 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "03/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/0309-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1487082.htm",
-        "published": "Thu, 03 Sep 2026 06:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Yen rallies sharply as markets raise bets on Bank of Japan rate hikes",
+        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
+        "published": "2026-09-03 09:42:24"
+      },
+      {
+        "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
+        "link": "https://www.investing.com/news/economy-news/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise-4885685",
+        "published": "2026-09-03 09:36:55"
+      },
       {
         "title": "Stocks, bonds gain ahead of US data, Fed comments; yen rallies",
         "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
@@ -118,16 +128,6 @@
         "title": "Explainer-Why India’s strong GDP growth is raising eyebrows",
         "link": "https://www.investing.com/news/economy-news/explainerwhy-indias-strong-gdp-growth-is-raising-eyebrows-4887155",
         "published": "2026-09-03 08:24:30"
-      },
-      {
-        "title": "Swiss economy grows at fastest rate in nearly five years",
-        "link": "https://www.investing.com/news/economy-news/swiss-economy-grows-at-fastest-rate-in-nearly-five-years-4887118",
-        "published": "2026-09-03 08:00:40"
-      },
-      {
-        "title": "Dollar to hold gains, but stuck on sparse Fed rate guidance - Reuters poll",
-        "link": "https://www.investing.com/news/economy-news/dollar-to-hold-gains-but-stuck-on-sparse-fed-rate-guidance--reuters-poll-4886272",
-        "published": "2026-09-03 07:55:19"
       }
     ]
   }
