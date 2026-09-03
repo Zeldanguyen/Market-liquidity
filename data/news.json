@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-03T12:12:31.087297",
+  "fetched_at": "2026-09-03T12:43:52.986110",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ngay trước khi hết thời hạn đăng ký mua IPO, 90% cổ phiếu IPO DatVietVAC đã có nhu cầu",
+        "link": "https://cafef.vn/ngay-truoc-khi-het-thoi-han-dang-ky-mua-ipo-90-co-phieu-ipo-datvietvac-da-co-nhu-cau-188260903173746941.chn",
+        "published": "Thu, 03 Sep 26 19:30:00 +0700"
+      },
       {
         "title": "Cổ phiếu DGC bất ngờ tăng hơn 4% sau thông báo mới từ Hóa chất Đức Giang",
         "link": "https://cafef.vn/co-phieu-dgc-bat-ngo-tang-hon-4-sau-thong-bao-moi-tu-hoa-chat-duc-giang-188260903181419858.chn",
@@ -27,14 +32,14 @@
         "title": "Khối ngoại đột ngột bán ròng gần 1.500 tỷ đồng phiên đầu tháng 9, \"xả\" mạnh loạt cổ phiếu ngân hàng",
         "link": "https://cafef.vn/khoi-ngoai-dot-ngot-ban-rong-gan-1500-ty-dong-phien-dau-thang-9-xa-manh-loat-co-phieu-ngan-hang-188260903152131269.chn",
         "published": "Thu, 03 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Vốn hóa Vingroup đạt 1,9 triệu tỷ đồng, tỷ phú Phạm Nhật Vượng lập kỷ lục mới",
-        "link": "https://cafef.vn/von-hoa-vingroup-dat-19-trieu-ty-dong-ty-phu-pham-nhat-vuong-lap-ky-luc-moi-188260903150305797.chn",
-        "published": "Thu, 03 Sep 26 15:45:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Ngổn ngang những mối lo của giới đầu tư trái phiếu toàn cầu",
+        "link": "https://vneconomy.vn/ngon-ngang-nhung-moi-lo-cua-gioi-dau-tu-trai-phieu-toan-cau.htm",
+        "published": "Thu, 03 Sep 2026 12:33:41 GMT"
+      },
       {
         "title": "Sửa Nghị quyết 107: \"Cởi nút thắt\" thuế tối thiểu toàn cầu cho các dự án điện BOT",
         "link": "https://vneconomy.vn/sua-nghi-quyet-107-coi-nut-that-thue-toi-thieu-toan-cau-cho-cac-du-an-dien-bot.htm",
@@ -59,11 +64,6 @@
         "title": "Giảm chi phí đất: Làm sao để người mua nhà thực sự được hưởng lợi?",
         "link": "https://vneconomy.vn/giam-chi-phi-dat-lam-sao-de-nguoi-mua-nha-thuc-su-duoc-huong-loi.htm",
         "published": "Thu, 03 Sep 2026 08:19:36 GMT"
-      },
-      {
-        "title": "Chiến tranh kéo dài ở Vùng Vịnh đang “làm khó” Fed",
-        "link": "https://vneconomy.vn/chien-tranh-keo-dai-o-vung-vinh-dang-lam-kho-fed.htm",
-        "published": "Thu, 03 Sep 2026 06:57:11 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Putin cites chance of peace deal, Ukraine sees ’new dynamic’",
+        "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
+        "published": "2026-09-03 12:31:03"
+      },
+      {
+        "title": "Analysts raise Canadian dollar forecasts, expecting trade tensions to ultimately fade: Reuters Poll",
+        "link": "https://www.investing.com/news/economy-news/analysts-raise-canadian-dollar-forecasts-expecting-trade-tensions-to-ultimately-fade-reuters-poll-4887760",
+        "published": "2026-09-03 12:13:26"
+      },
+      {
+        "title": "Stocks gain as bonds recover; rising Gulf tensions boost oil",
+        "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
+        "published": "2026-09-03 12:06:21"
+      },
+      {
         "title": "Misuse of informal money-transfer networks is growing worldwide, global watchdog says",
         "link": "https://www.investing.com/news/economy-news/misuse-of-informal-moneytransfer-networks-is-growing-worldwide-global-watchdog-says-4887680",
         "published": "2026-09-03 12:00:33"
@@ -113,21 +128,6 @@
         "title": "Wall St futures tepid as Middle East tensions keep investors wary",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
         "published": "2026-09-03 11:48:32"
-      },
-      {
-        "title": "Yen rallies sharply as markets raise bets on Bank of Japan rate hikes",
-        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
-        "published": "2026-09-03 11:30:24"
-      },
-      {
-        "title": "Putin says Russia’s budget deficit poses no critical risk",
-        "link": "https://www.investing.com/news/economy-news/putin-says-russias-budget-deficit-poses-no-critical-risk-93CH-4887583",
-        "published": "2026-09-03 11:25:02"
-      },
-      {
-        "title": "German firms face pressure from China, study says",
-        "link": "https://www.investing.com/news/economy-news/german-firms-face-pressure-from-china-study-says-93CH-4887580",
-        "published": "2026-09-03 11:23:32"
       }
     ]
   }
