@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T00:14:10.309499",
+  "fetched_at": "2026-09-03T00:45:30.370195",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "IMF’s Georgieva says rising bond yields threaten progress on developing country debt",
+        "link": "https://www.investing.com/news/economy-news/imfs-georgieva-says-rising-bond-yields-threaten-progress-on-developing-country-debt-4886901",
+        "published": "2026-09-03 00:24:32"
+      },
+      {
+        "title": "Tech pilgrims flock to China as global innovation race heats up",
+        "link": "https://www.investing.com/news/economy-news/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up-4886889",
+        "published": "2026-09-03 00:12:36"
+      },
+      {
         "title": "Stocks climb and US yields ease; yen jumps against dollar",
         "link": "https://www.investing.com/news/economy-news/asian-markets-tumble-as-usiran-fighting-lifts-oil-and-bond-yields-4885230",
         "published": "2026-09-02 22:07:54"
@@ -118,16 +128,6 @@
         "title": "NBA fines Clippers $30M, strips five draft picks over Leonard",
         "link": "https://www.investing.com/news/economy-news/nba-fines-clippers-30m-strips-five-draft-picks-over-leonard-93CH-4886752",
         "published": "2026-09-02 20:33:01"
-      },
-      {
-        "title": "OpenAI is building ’automated shutdown’ capabilities for AI tools, letter to lawmakers says",
-        "link": "https://www.investing.com/news/economy-news/openai-is-building-automated-shutdown-capabilities-for-ai-tools-letter-to-lawmakers-says-4886688",
-        "published": "2026-09-02 20:06:47"
-      },
-      {
-        "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
-        "link": "https://www.investing.com/news/economy-news/economic-activity-edged-up-and-prices-rose-moderately-in-recent-weeks-fed-survey-shows-4886620",
-        "published": "2026-09-02 19:54:27"
       }
     ]
   }
