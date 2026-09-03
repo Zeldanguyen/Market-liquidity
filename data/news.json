@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-03T08:42:20.401095",
+  "fetched_at": "2026-09-03T09:09:38.113814",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Khối ngoại đột ngột bán ròng gần 1.500 tỷ đồng phiên đầu tháng 9, \"xả\" mạnh loạt cổ phiếu ngân hàng",
+        "link": "https://cafef.vn/khoi-ngoai-dot-ngot-ban-rong-gan-1500-ty-dong-phien-dau-thang-9-xa-manh-loat-co-phieu-ngan-hang-188260903152131269.chn",
+        "published": "Thu, 03 Sep 26 15:45:00 +0700"
+      },
+      {
+        "title": "Vốn hóa Vingroup đạt 1,9 triệu tỷ đồng, tỷ phú Phạm Nhật Vượng lập kỷ lục mới",
+        "link": "https://cafef.vn/von-hoa-vingroup-dat-19-trieu-ty-dong-ty-phu-pham-nhat-vuong-lap-ky-luc-moi-188260903150305797.chn",
+        "published": "Thu, 03 Sep 26 15:45:00 +0700"
+      },
       {
         "title": "TTC tái cấu trúc sở hữu tại AgriS, định hướng dài hạn không thay đổi",
         "link": "https://cafef.vn/ttc-tai-cau-truc-so-huu-tai-agris-dinh-huong-dai-han-khong-thay-doi-188260903144902945.chn",
@@ -22,19 +32,19 @@
         "title": "Nhóm CII tiếp tục tăng sở hữu tại công ty của nữ Chủ tịch sinh năm 1999",
         "link": "https://cafef.vn/nhom-cii-tiep-tuc-tang-so-huu-tai-cong-ty-cua-nu-chu-tich-sinh-nam-1999-188260903150141496.chn",
         "published": "Thu, 03 Sep 26 15:03:00 +0700"
-      },
-      {
-        "title": "Vốn hóa Vingroup đạt 1,9 triệu tỷ đồng, tỷ phú Phạm Nhật Vượng lập kỷ lục mới",
-        "link": "https://cafef.vn/von-hoa-vingroup-dat-19-trieu-ty-dong-ty-phu-pham-nhat-vuong-lap-ky-luc-moi-188260903150305797.chn",
-        "published": "Thu, 03 Sep 26 15:02:00 +0700"
-      },
-      {
-        "title": "ACBS mua lại trước hạn lô trái phiếu 200 tỷ đồng",
-        "link": "https://cafef.vn/acbs-mua-lai-truoc-han-lo-trai-phieu-200-ty-dong-188260903143829367.chn",
-        "published": "Thu, 03 Sep 26 15:01:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "BIDV triển khai gói vay ưu đãi tiếp sức nhu cầu an cư đích thực",
+        "link": "https://vneconomy.vn/bidv-trien-khai-goi-vay-uu-dai-tiep-suc-nhu-cau-an-cu-dich-thuc.htm",
+        "published": "Thu, 03 Sep 2026 09:08:27 GMT"
+      },
+      {
+        "title": "Chỉ số giá tiêu dùng tiếp tục tăng, giá vàng biến động ngược chiều với thế giới",
+        "link": "https://vneconomy.vn/chi-so-gia-tieu-dung-tiep-tuc-tang-gia-vang-bien-dong-nguoc-chieu-voi-the-gioi.htm",
+        "published": "Thu, 03 Sep 2026 08:42:26 GMT"
+      },
       {
         "title": "Giảm chi phí đất: Làm sao để người mua nhà thực sự được hưởng lợi?",
         "link": "https://vneconomy.vn/giam-chi-phi-dat-lam-sao-de-nguoi-mua-nha-thuc-su-duoc-huong-loi.htm",
@@ -54,24 +64,9 @@
         "title": "Lãi suất tiết kiệm ngân hàng nào cao nhất tháng 9/2026?",
         "link": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-92026.htm",
         "published": "Thu, 03 Sep 2026 05:01:28 GMT"
-      },
-      {
-        "title": "Đồng yên bật tăng sau khi BOJ để ngỏ khả năng tăng mạnh lãi suất",
-        "link": "https://vneconomy.vn/dong-yen-bat-tang-sau-khi-boj-de-ngo-kha-nang-tang-manh-lai-suat.htm",
-        "published": "Thu, 03 Sep 2026 02:46:51 GMT"
-      },
-      {
-        "title": "Giá vàng hồi mạnh, SPDR Gold Trust mua ròng 10 tấn trong một phiên",
-        "link": "https://vneconomy.vn/gia-vang-hoi-manh-spdr-gold-trust-mua-rong-10-tan-trong-mot-phien.htm",
-        "published": "Wed, 02 Sep 2026 23:54:20 GMT"
       }
     ],
     "Vietstock": [
-      {
-        "title": "Nhịp đập Thị trường 03/09: VIC làm trụ, VN-Index chỉ còn giảm gần 11 điểm",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0309-vic-lam-tru-vn-index-chi-con-giam-gan-11-diem-1636-1487266.htm",
-        "published": "Thu, 03 Sep 2026 13:02:00 +0700"
-      },
       {
         "title": "Phân tích kỹ thuật phiên chiều 03/09: Thế giằng co vẫn còn",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0309-the-giang-co-van-con-585-1487528.htm",
@@ -96,9 +91,24 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 03/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0309-830-1486637.htm",
         "published": "Thu, 03 Sep 2026 08:00:00 +0700"
+      },
+      {
+        "title": "03/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/0309-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1487082.htm",
+        "published": "Thu, 03 Sep 2026 06:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Stocks, bonds gain ahead of US data, Fed comments; yen rallies",
+        "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
+        "published": "2026-09-03 08:48:24"
+      },
+      {
+        "title": "Bank Negara Malaysia holds rates steady at 2.75%",
+        "link": "https://www.investing.com/news/economy-news/bank-negara-malaysia-holds-rates-steady-at-275-93CH-4887175",
+        "published": "2026-09-03 08:48:09"
+      },
       {
         "title": "European stocks rise as global bond selloff eases",
         "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-bond-yields-ease-4887085",
@@ -118,16 +128,6 @@
         "title": "Dollar to hold gains, but stuck on sparse Fed rate guidance - Reuters poll",
         "link": "https://www.investing.com/news/economy-news/dollar-to-hold-gains-but-stuck-on-sparse-fed-rate-guidance--reuters-poll-4886272",
         "published": "2026-09-03 07:55:19"
-      },
-      {
-        "title": "Oil pulls back, Broadcom disappoints - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/oil-pulls-back-broadcom-disappoints--whats-moving-markets-4887030",
-        "published": "2026-09-03 07:50:30"
-      },
-      {
-        "title": "Yen rallies sharply as markets raise bets on Bank of Japan rate hikes",
-        "link": "https://www.investing.com/news/economy-news/yen-in-the-spotlight-after-sudden-jump-4886913",
-        "published": "2026-09-03 07:42:53"
       }
     ]
   }
