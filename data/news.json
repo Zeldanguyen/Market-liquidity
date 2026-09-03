@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T23:37:27.640038",
+  "fetched_at": "2026-09-03T00:14:10.309499",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng hồi mạnh, SPDR Gold Trust mua ròng 10 tấn trong một phiên",
+        "link": "https://vneconomy.vn/gia-vang-hoi-manh-spdr-gold-trust-mua-rong-10-tan-trong-mot-phien.htm",
+        "published": "Wed, 02 Sep 2026 23:54:20 GMT"
+      },
+      {
         "title": "Thị trường trái phiếu chính phủ toàn cầu lại bán tháo",
         "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-lai-ban-thao.htm",
         "published": "Wed, 02 Sep 2026 05:50:05 GMT"
@@ -59,14 +64,14 @@
         "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
         "link": "https://vneconomy.vn/moi-lo-lai-suat-tang-day-gia-vang-xuong-day-2-tuan.htm",
         "published": "Tue, 01 Sep 2026 01:21:08 GMT"
-      },
-      {
-        "title": "Từ tăng trưởng đến thịnh vượng, hạnh phúc",
-        "link": "https://vneconomy.vn/tu-tang-truong-den-thinh-vuong-hanh-phuc.htm",
-        "published": "Mon, 31 Aug 2026 11:04:29 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "03/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/0309-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1487082.htm",
+        "published": "Thu, 03 Sep 2026 06:30:00 +0700"
+      },
       {
         "title": "Vietstock Weekly 03-04/09/2026: Giữ đà phục hồi",
         "link": "http://vietstock.vn/2026/09/vietstock-weekly-03-04092026-giu-da-phuc-hoi-1636-1486892.htm",
@@ -91,11 +96,6 @@
         "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC “gánh” hơn 52 điểm",
         "link": "http://vietstock.vn/2026/08/vn-index-tang-64-diem-tuan-qua-rieng-vic-ganh-hon-52-diem-830-1486908.htm",
         "published": "Sat, 29 Aug 2026 20:30:00 +0700"
-      },
-      {
-        "title": "Quản lý kỳ vọng nhà đầu tư: Yếu tố then chốt sự ổn định định giá trong năm 2026",
-        "link": "http://vietstock.vn/2026/08/quan-ly-ky-vong-nha-dau-tu-yeu-to-then-chot-su-on-dinh-dinh-gia-trong-nam-2026-830-1468836.htm",
-        "published": "Sat, 29 Aug 2026 14:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
