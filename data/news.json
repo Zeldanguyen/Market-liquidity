@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-03T11:09:10.682370",
+  "fetched_at": "2026-09-03T11:39:06.107631",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chủ tịch Nhiệt điện Hải Phòng qua đời",
+        "link": "https://cafef.vn/chu-tich-nhiet-dien-hai-phong-qua-doi-188260903181815372.chn",
+        "published": "Thu, 03 Sep 26 18:18:00 +0700"
+      },
+      {
+        "title": "Sau dịp 2/9, vợ chồng tỷ phú Phạm Nhật Vượng có thêm hơn 1 tỷ USD",
+        "link": "https://cafef.vn/sau-dip-2-9-vo-chong-ty-phu-pham-nhat-vuong-co-them-hon-1-ty-usd-18826090318162589.chn",
+        "published": "Thu, 03 Sep 26 18:16:00 +0700"
+      },
       {
         "title": "Ông Nguyễn Hữu Chỉnh bị bắt, doanh nghiệp công bố thông tin mới",
         "link": "https://cafef.vn/ong-nguyen-huu-chinh-bi-bat-doanh-nghiep-cong-bo-thong-tin-moi-188260903160730418.chn",
@@ -22,16 +32,6 @@
         "title": "TTC tái cấu trúc sở hữu tại AgriS, định hướng dài hạn không thay đổi",
         "link": "https://cafef.vn/ttc-tai-cau-truc-so-huu-tai-agris-dinh-huong-dai-han-khong-thay-doi-188260903144902945.chn",
         "published": "Thu, 03 Sep 26 15:30:00 +0700"
-      },
-      {
-        "title": "Từ kế thừa đến kiến tạo: Bà Đặng Huỳnh Ức My mở ra giai đoạn tăng trưởng mới cho AgriS",
-        "link": "https://cafef.vn/tu-ke-thua-den-kien-tao-ba-dang-huynh-uc-my-mo-ra-giai-doan-tang-truong-moi-cho-agris-188260903144820665.chn",
-        "published": "Thu, 03 Sep 26 15:30:00 +0700"
-      },
-      {
-        "title": "Siba Group chốt ngày phát hành cổ phiếu ESOP",
-        "link": "https://cafef.vn/siba-group-chot-ngay-phat-hanh-co-phieu-esop-188260903143800234.chn",
-        "published": "Thu, 03 Sep 26 15:12:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Putin says Russia’s budget deficit poses no critical risk",
+        "link": "https://www.investing.com/news/economy-news/putin-says-russias-budget-deficit-poses-no-critical-risk-93CH-4887583",
+        "published": "2026-09-03 11:25:02"
+      },
+      {
+        "title": "German firms face pressure from China, study says",
+        "link": "https://www.investing.com/news/economy-news/german-firms-face-pressure-from-china-study-says-93CH-4887580",
+        "published": "2026-09-03 11:23:32"
+      },
+      {
+        "title": "Sweden central bank sees unclear inflation risks amid growth",
+        "link": "https://www.investing.com/news/economy-news/sweden-central-bank-sees-unclear-inflation-risks-amid-growth-93CH-4887575",
+        "published": "2026-09-03 11:21:32"
+      },
+      {
+        "title": "ECB to raise rates a second time in September, but then done, say economists: Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/ecb-to-raise-rates-a-second-time-in-september-but-then-done-say-economists-reuters-poll-4887563",
+        "published": "2026-09-03 11:12:47"
+      },
+      {
+        "title": "ECB’s Schnabel may leave early for IMF job, Handelsblatt reports",
+        "link": "https://www.investing.com/news/economy-news/ecbs-schnabel-may-leave-early-for-imf-job-handelsblatt-reports-4887562",
+        "published": "2026-09-03 11:12:27"
+      },
+      {
         "title": "HSBC raises Treasury yield forecasts on more hawkish Fed outlook",
         "link": "https://www.investing.com/news/economy-news/hsbc-raises-treasury-yield-forecasts-on-more-hawkish-fed-outlook-4887479",
         "published": "2026-09-03 10:51:23"
-      },
-      {
-        "title": "ECB’s Schnabel may depart early for IMF role, report says",
-        "link": "https://www.investing.com/news/economy-news/ecbs-schnabel-may-depart-early-for-imf-role-report-says-93CH-4887430",
-        "published": "2026-09-03 10:32:50"
-      },
-      {
-        "title": "S&P warns of risks in China’s bond market rating practices",
-        "link": "https://www.investing.com/news/economy-news/sp-warns-of-risks-in-chinas-bond-market-rating-practices-93CH-4887418",
-        "published": "2026-09-03 10:27:51"
-      },
-      {
-        "title": "France starts tests on Tesla’s self-driving tech",
-        "link": "https://www.investing.com/news/economy-news/france-starts-tests-on-teslasselfdriving-tech-4887390",
-        "published": "2026-09-03 10:14:19"
-      },
-      {
-        "title": "Russia can manage its growing budget deficit, Putin says",
-        "link": "https://www.investing.com/news/economy-news/russia-can-manage-its-growing-budget-deficit-putin-says-4887347",
-        "published": "2026-09-03 10:09:24"
-      },
-      {
-        "title": "Analysis-Bond selloff is likely amplified by obscure economic rate",
-        "link": "https://www.investing.com/news/economy-news/analysisbondselloff-is-likely-amplified-by-obscure-economic-rate-4887345",
-        "published": "2026-09-03 10:09:01"
       }
     ]
   }
