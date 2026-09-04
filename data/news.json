@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T20:39:22.731729",
+  "fetched_at": "2026-09-04T21:08:48.769686",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Lutnick to review Pentagon deals with Cerberus amid conflict concerns - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/lutnick-to-review-pentagon-deals-with-cerberus-amid-conflict-concerns--bloomberg-93CH-4890020",
+        "published": "2026-09-04 20:49:44"
+      },
+      {
         "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
         "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
         "published": "2026-09-04 20:31:58"
@@ -123,11 +128,6 @@
         "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
         "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
         "published": "2026-09-04 18:00:27"
-      },
-      {
-        "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
-        "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
-        "published": "2026-09-04 17:19:35"
       }
     ]
   }
