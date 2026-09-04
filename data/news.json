@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T19:08:14.565838",
+  "fetched_at": "2026-09-04T19:36:51.025654",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil posts $7.4 billion trade surplus in August",
+        "link": "https://www.investing.com/news/economy-news/brazil-posts-74-billion-trade-surplus-in-august-93CH-4889958",
+        "published": "2026-09-04 19:25:52"
+      },
+      {
+        "title": "Justice Department halts antitrust cooperation with Canada - report",
+        "link": "https://www.investing.com/news/economy-news/justice-department-halts-antitrust-cooperation-with-canada--report-4889949",
+        "published": "2026-09-04 19:14:42"
+      },
+      {
         "title": "Wall Street dips after strong jobs data fuels hawkish Fed bets",
         "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
         "published": "2026-09-04 18:30:40"
@@ -118,16 +128,6 @@
         "title": "Venezuela’s August inflation eases to 8.9% from July’s 19.9%",
         "link": "https://www.investing.com/news/economy-news/venezuelas-august-inflation-eases-to-89-from-julys-199-93CH-4889874",
         "published": "2026-09-04 16:58:53"
-      },
-      {
-        "title": "Fed’s Hammack says time to act on inflation",
-        "link": "https://www.investing.com/news/economy-news/feds-hammack-says-time-to-act-on-inflation-4889871",
-        "published": "2026-09-04 16:50:27"
-      },
-      {
-        "title": "Reaction roundup: Experts, analysts weigh in on blockbuster jobs report",
-        "link": "https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-blockbuster-jobs-report-4889866",
-        "published": "2026-09-04 16:42:26"
       }
     ]
   }
