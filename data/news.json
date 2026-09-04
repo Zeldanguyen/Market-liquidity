@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T12:43:38.691201",
+  "fetched_at": "2026-09-04T13:09:02.251395",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Theo dấu dòng tiền cá mập 04/09: Khối ngoại mua ròng 119 tỷ đồng, tự doanh bán ròng 168 tỷ đồng",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0409-khoi-ngoai-mua-rong-119-ty-dong-tu-doanh-ban-rong-168-ty-dong-830-1488880.htm",
+        "published": "Fri, 04 Sep 2026 19:32:00 +0700"
+      },
+      {
         "title": "Chứng khoán Tuần 03-04/09/2026: Dòng tiền phân hóa",
         "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-03-04092026-dong-tien-phan-hoa-1636-1488796.htm",
         "published": "Fri, 04 Sep 2026 18:17:00 +0700"
@@ -91,14 +96,14 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 04/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0409-830-1487833.htm",
         "published": "Fri, 04 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "04/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/0409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1488288.htm",
-        "published": "Fri, 04 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Canada’s job market loses steam as employment drops by over 41,000",
+        "link": "https://www.investing.com/news/economy-news/canadas-job-market-loses-steam-as-employment-drops-by-over-41000-4889588",
+        "published": "2026-09-04 12:36:28"
+      },
       {
         "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
         "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
@@ -123,11 +128,6 @@
         "title": "EU natural gas storage at 65% of capacity, official says",
         "link": "https://www.investing.com/news/economy-news/eu-natural-gas-storage-at-65-of-capacity-official-says-93CH-4889401",
         "published": "2026-09-04 11:05:11"
-      },
-      {
-        "title": "Yen’s changing fortunes might finally be spooking the bears",
-        "link": "https://www.investing.com/news/economy-news/analysisyens-changing-fortunes-might-finally-be-spooking-the-bears-4888902",
-        "published": "2026-09-04 11:00:46"
       }
     ]
   }
