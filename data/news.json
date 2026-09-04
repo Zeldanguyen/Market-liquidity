@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-04T16:39:18.314853",
+  "fetched_at": "2026-09-04T17:09:06.243047",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một công ty chuẩn bị “lăn chốt” cổ tức 20% bằng tiền mặt ngay tháng 9",
+        "link": "https://cafef.vn/mot-cong-ty-chuan-bi-lan-chot-co-tuc-20-bang-tien-mat-ngay-thang-9-188260904223522096.chn",
+        "published": "Sat, 05 Sep 26 00:01:00 +0700"
+      },
+      {
+        "title": "2 cổ phiếu chứng khoán có thể bị loại khỏi FTSE Vietnam 30",
+        "link": "https://cafef.vn/2-co-phieu-chung-khoan-co-the-bi-loai-khoi-ftse-vietnam-30-188260904223448979.chn",
+        "published": "Sat, 05 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "VN-Index vượt 1.850 điểm, nhà đầu tư vẫn chưa thể thở phào",
         "link": "https://cafef.vn/vn-index-vuot-1850-diem-nha-dau-tu-van-chua-the-tho-phao-188260904173001282.chn",
@@ -22,16 +32,6 @@
         "title": "Khối ngoại \"quay xe\" mua ròng phiên VN-Index bứt phá, gom mạnh VIC, VHM",
         "link": "https://cafef.vn/khoi-ngoai-quay-xe-mua-rong-phien-vn-index-but-pha-gom-manh-vic-vhm-188260904153527046.chn",
         "published": "Fri, 04 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Mục đích bán cổ phiếu của con gái Chủ tịch PNJ",
-        "link": "https://cafef.vn/muc-dich-ban-co-phieu-cua-con-gai-chu-tich-pnj-188260904153404477.chn",
-        "published": "Fri, 04 Sep 26 15:33:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu DGC của Hóa chất Đức Giang bị giữ nguyên diện cảnh báo",
-        "link": "https://cafef.vn/co-phieu-dgc-cua-hoa-chat-duc-giang-bi-giu-nguyen-dien-canh-bao-188260904144703246.chn",
-        "published": "Fri, 04 Sep 26 15:20:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Venezuela’s August inflation eases to 8.9% from July’s 19.9%",
+        "link": "https://www.investing.com/news/economy-news/venezuelas-august-inflation-eases-to-89-from-julys-199-93CH-4889874",
+        "published": "2026-09-04 16:58:53"
+      },
+      {
+        "title": "Fed’s Hammack says time to act on inflation",
+        "link": "https://www.investing.com/news/economy-news/feds-hammack-says-time-to-act-on-inflation-4889871",
+        "published": "2026-09-04 16:50:27"
+      },
+      {
+        "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
+        "published": "2026-09-04 16:49:50"
+      },
+      {
+        "title": "Reaction roundup: Experts, analysts weigh in on blockbuster jobs report",
+        "link": "https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-blockbuster-jobs-report-4889866",
+        "published": "2026-09-04 16:42:26"
+      },
+      {
         "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets",
         "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
-        "published": "2026-09-04 16:24:52"
+        "published": "2026-09-04 16:30:56"
       },
       {
         "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1%",
         "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
         "published": "2026-09-04 16:18:53"
-      },
-      {
-        "title": "From microchips to missile threats: How the U.S.-China AI race took a dark turn",
-        "link": "https://www.investing.com/news/economy-news/from-microchips-to-missile-threats-how-the-uschina-ai-race-took-a-dark-turn-4889827",
-        "published": "2026-09-04 16:04:51"
-      },
-      {
-        "title": "Canadian bond yield dips as weak jobs data lifts rate-cut hopes",
-        "link": "https://www.investing.com/news/economy-news/canadian-bond-yield-dips-as-weak-jobs-data-lifts-ratecut-hopes-4889823",
-        "published": "2026-09-04 15:52:08"
-      },
-      {
-        "title": "Canada jobs fall sharply in August as labour market loses summer momentum",
-        "link": "https://www.investing.com/news/economy-news/canada-jobs-fall-sharply-in-august-as-labour-market-loses-summer-momentum-4889821",
-        "published": "2026-09-04 15:50:09"
-      },
-      {
-        "title": "Fed rate hike back in focus after strong jobs report",
-        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
-        "published": "2026-09-04 15:43:57"
       }
     ]
   }
