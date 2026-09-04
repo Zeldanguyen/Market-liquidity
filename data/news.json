@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T22:37:18.777983",
+  "fetched_at": "2026-09-04T23:08:25.872600",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report",
+        "link": "https://www.investing.com/news/economy-news/citigroup-delays-fed-ratecut-forecast-to-2027-after-strong-us-jobs-report-4889795",
+        "published": "2026-09-04 22:54:57"
+      },
+      {
+        "title": "Britain eases infrastructure approval rules to boost investment",
+        "link": "https://www.investing.com/news/economy-news/britain-eases-infrastructure-approval-rules-to-boost-investment-4890086",
+        "published": "2026-09-04 22:31:09"
+      },
+      {
+        "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
+        "published": "2026-09-04 22:30:49"
+      },
+      {
         "title": "Lutnick to review Pentagon deals with Cerberus amid conflict concerns - Bloomberg",
         "link": "https://www.investing.com/news/economy-news/lutnick-to-review-pentagon-deals-with-cerberus-amid-conflict-concerns--bloomberg-93CH-4890020",
         "published": "2026-09-04 20:49:44"
@@ -113,21 +128,6 @@
         "title": "Portugal approves $2.67 billion plan to address waste crisis",
         "link": "https://www.investing.com/news/economy-news/portugal-approves-267-billion-plan-to-address-waste-crisis-93CH-4889961",
         "published": "2026-09-04 19:28:55"
-      },
-      {
-        "title": "Brazil posts $7.4 billion trade surplus in August",
-        "link": "https://www.investing.com/news/economy-news/brazil-posts-74-billion-trade-surplus-in-august-93CH-4889958",
-        "published": "2026-09-04 19:25:52"
-      },
-      {
-        "title": "Justice Department halts antitrust cooperation with Canada - report",
-        "link": "https://www.investing.com/news/economy-news/justice-department-halts-antitrust-cooperation-with-canada--report-4889949",
-        "published": "2026-09-04 19:14:42"
-      },
-      {
-        "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
-        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
-        "published": "2026-09-04 18:00:27"
       }
     ]
   }
