@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T20:09:28.931412",
+  "fetched_at": "2026-09-04T20:39:22.731729",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
+        "published": "2026-09-04 20:31:58"
+      },
+      {
         "title": "Portugal approves $2.67 billion plan to address waste crisis",
         "link": "https://www.investing.com/news/economy-news/portugal-approves-267-billion-plan-to-address-waste-crisis-93CH-4889961",
         "published": "2026-09-04 19:28:55"
@@ -113,11 +118,6 @@
         "title": "Justice Department halts antitrust cooperation with Canada - report",
         "link": "https://www.investing.com/news/economy-news/justice-department-halts-antitrust-cooperation-with-canada--report-4889949",
         "published": "2026-09-04 19:14:42"
-      },
-      {
-        "title": "Wall Street dips after strong jobs data fuels hawkish Fed bets",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
-        "published": "2026-09-04 18:30:40"
       },
       {
         "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
