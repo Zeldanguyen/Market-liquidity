@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T00:43:24.722277",
+  "fetched_at": "2026-09-04T01:07:55.202830",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Tỷ giá yên Nhật tăng mạnh do khả năng BOJ tăng lãi suất, không có dấu hiệu can thiệp",
+        "link": "https://vneconomy.vn/ty-gia-yen-nhat-tang-manh-do-kha-nang-boj-tang-lai-suat-khong-co-dau-hieu-can-thiep.htm",
+        "published": "Fri, 04 Sep 2026 00:52:22 GMT"
+      },
+      {
         "title": "Giá vàng nhảy lên vùng 4.500 USD/oz sau phát biểu của một quan chức Fed",
         "link": "https://vneconomy.vn/gia-vang-nhay-len-vung-4500-usdoz-sau-phat-bieu-cua-mot-quan-chuc-fed.htm",
         "published": "Fri, 04 Sep 2026 00:23:59 GMT"
@@ -59,11 +64,6 @@
         "title": "Sửa Nghị quyết 107: \"Cởi nút thắt\" thuế tối thiểu toàn cầu cho các dự án điện BOT",
         "link": "https://vneconomy.vn/sua-nghi-quyet-107-coi-nut-that-thue-toi-thieu-toan-cau-cho-cac-du-an-dien-bot.htm",
         "published": "Thu, 03 Sep 2026 09:28:38 GMT"
-      },
-      {
-        "title": "Chính thức có thể phạt 100 triệu đồng đối với giao dịch tài sản mã hóa sai quy định",
-        "link": "https://vneconomy.vn/chinh-thuc-co-the-phat-100-trieu-dong-doi-voi-giao-dich-tai-san-ma-hoa-sai-quy-dinh.htm",
-        "published": "Thu, 03 Sep 2026 09:28:06 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan July household spending falls at fastest pace in 2-1/2 years",
+        "link": "https://www.investing.com/news/economy-news/japan-july-household-spending-fall-36-yearyear-4888711",
+        "published": "2026-09-04 00:54:27"
+      },
+      {
         "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
         "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
         "published": "2026-09-04 00:30:51"
@@ -108,11 +113,6 @@
         "title": "Bond yields fall, stocks rally as Fed’s Waller comments curb rate hike bets",
         "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
         "published": "2026-09-04 00:30:34"
-      },
-      {
-        "title": "Japan year-on-year household spending drops for 8 straight months",
-        "link": "https://www.investing.com/news/economy-news/japan-july-household-spending-fall-36-yearyear-4888711",
-        "published": "2026-09-03 23:54:52"
       },
       {
         "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
