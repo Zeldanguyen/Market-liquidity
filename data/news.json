@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T06:43:09.368233",
+  "fetched_at": "2026-09-04T07:09:23.687905",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "J.P. Morgan, BNP Paribas forecast December ECB rate hike as energy risks linger",
+        "link": "https://www.investing.com/news/economy-news/jp-morgan-bnp-paribas-forecast-december-ecb-rate-hike-as-energy-risks-linger-4888859",
+        "published": "2026-09-04 06:38:35"
+      },
+      {
+        "title": "Exclusive-Citi eyes China brokerage unit licence as soon as this month, sources say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveciti-eyes-china-brokerage-unit-licence-as-soon-as-this-month-sources-say-4888861",
+        "published": "2026-09-04 06:37:33"
+      },
+      {
         "title": "Shares rally ahead of US jobs data, Fed’s Waller soothes bonds",
         "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
         "published": "2026-09-04 06:19:10"
@@ -118,16 +128,6 @@
         "title": "Morning Bid: Seems payrolls isn’t the data you are looking for",
         "link": "https://www.investing.com/news/economy-news/morning-bid-seems-payrolls-isnt-the-data-you-are-looking-for-4888820",
         "published": "2026-09-04 04:37:04"
-      },
-      {
-        "title": "US job growth expected to rebound in August; unemployment rate forecast steady at 4.1%",
-        "link": "https://www.investing.com/news/economy-news/us-job-growth-expected-to-rebound-in-august-unemployment-rate-forecast-steady-at-41-4888813",
-        "published": "2026-09-04 04:24:59"
-      },
-      {
-        "title": "Tech pilgrims flock to China as global innovation race heats up",
-        "link": "https://www.investing.com/news/economy-news/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up-4886889",
-        "published": "2026-09-04 04:18:53"
       }
     ]
   }
