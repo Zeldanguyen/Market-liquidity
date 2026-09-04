@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-04T08:10:14.791854",
+  "fetched_at": "2026-09-04T08:41:39.295632",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Mục đích bán cổ phiếu của con gái Chủ tịch PNJ",
+        "link": "https://cafef.vn/muc-dich-ban-co-phieu-cua-con-gai-chu-tich-pnj-188260904153404477.chn",
+        "published": "Fri, 04 Sep 26 15:33:00 +0700"
+      },
+      {
+        "title": "Cổ phiếu DGC của Hóa chất Đức Giang bị giữ nguyên diện cảnh báo",
+        "link": "https://cafef.vn/co-phieu-dgc-cua-hoa-chat-duc-giang-bi-giu-nguyen-dien-canh-bao-188260904144703246.chn",
+        "published": "Fri, 04 Sep 26 15:20:00 +0700"
+      },
       {
         "title": "Ông Đoàn Văn Hiểu Em muốn gom thêm cổ phiếu Điện Máy Xanh",
         "link": "https://cafef.vn/ong-doan-van-hieu-em-muon-gom-them-co-phieu-dien-may-xanh-18826090414461838.chn",
@@ -22,16 +32,6 @@
         "title": "Giá vàng bật tăng 2 phiên liên tiếp, quỹ lớn nhất thế giới \"quay đầu\" xả hàng",
         "link": "https://cafef.vn/gia-vang-bat-tang-2-phien-lien-tiep-quy-lon-nhat-the-gioi-quay-dau-xa-hang-18826090411315599.chn",
         "published": "Fri, 04 Sep 26 11:32:00 +0700"
-      },
-      {
-        "title": "Nhà Khang Điền sẽ phát hành 123 triệu cổ phiếu trả cổ tức và ESOP",
-        "link": "https://cafef.vn/nha-khang-dien-se-phat-hanh-123-trieu-co-phieu-tra-co-tuc-va-esop-18826090410370807.chn",
-        "published": "Fri, 04 Sep 26 11:23:00 +0700"
-      },
-      {
-        "title": "Đúng 5 ngày nữa, cổ đông Vinhomes sẽ chứng kiến một thay đổi quan trọng",
-        "link": "https://cafef.vn/dung-5-ngay-nua-co-dong-vinhomes-se-chung-kien-mot-thay-doi-quan-trong-188260904111958112.chn",
-        "published": "Fri, 04 Sep 26 11:20:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,9 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Take Five: Good evening, Mr Bond",
+        "link": "https://www.investing.com/news/economy-news/take-five-good-evening-mr-bond-4888961",
+        "published": "2026-09-04 08:30:48"
+      },
+      {
         "title": "Analysis-Yen’s changing fortunes might finally be spooking the bears",
         "link": "https://www.investing.com/news/economy-news/analysisyens-changing-fortunes-might-finally-be-spooking-the-bears-4888902",
-        "published": "2026-09-04 07:48:42"
+        "published": "2026-09-04 08:12:36"
+      },
+      {
+        "title": "Lululemon slumps, Adobe names new CEO,  NFP ahead - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/lululemon-slumps-adobe-names-new-ceo--nfp-ahead--whats-moving-markets-4888866",
+        "published": "2026-09-04 08:01:20"
       },
       {
         "title": "Shares rally ahead of US jobs data, Fed’s Waller soothes bonds",
@@ -118,16 +128,6 @@
         "title": "J.P. Morgan, BNP Paribas forecast December ECB rate hike as energy risks linger",
         "link": "https://www.investing.com/news/economy-news/jp-morgan-bnp-paribas-forecast-december-ecb-rate-hike-as-energy-risks-linger-4888859",
         "published": "2026-09-04 06:38:35"
-      },
-      {
-        "title": "Exclusive-Citi eyes China brokerage unit licence as soon as this month, sources say",
-        "link": "https://www.investing.com/news/economy-news/exclusiveciti-eyes-china-brokerage-unit-licence-as-soon-as-this-month-sources-say-4888861",
-        "published": "2026-09-04 06:37:33"
-      },
-      {
-        "title": "UK-EU alignment is a “problem” for U.S. trade deal, Greer says - report",
-        "link": "https://www.investing.com/news/economy-news/ukeu-alignment-is-a-problem-for-us-trade-deal-greer-says--report-4888842",
-        "published": "2026-09-04 06:07:40"
       }
     ]
   }
