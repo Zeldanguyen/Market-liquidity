@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T05:08:49.170531",
+  "fetched_at": "2026-09-04T05:39:30.225213",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
+        "link": "https://www.investing.com/news/economy-news/us-to-seek-back-payment-from-europe-for-ukraine-aid-trump-says-4888267",
+        "published": "2026-09-04 05:00:59"
+      },
+      {
         "title": "Asian shares climb ahead of US jobs data, Fed’s Waller soothes bonds",
         "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 03:30:24"
+        "published": "2026-09-04 04:43:06"
+      },
+      {
+        "title": "Morning Bid: Seems payrolls isn’t the data you are looking for",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-seems-payrolls-isnt-the-data-you-are-looking-for-4888820",
+        "published": "2026-09-04 04:37:04"
+      },
+      {
+        "title": "US job growth expected to rebound in August; unemployment rate forecast steady at 4.1%",
+        "link": "https://www.investing.com/news/economy-news/us-job-growth-expected-to-rebound-in-august-unemployment-rate-forecast-steady-at-41-4888813",
+        "published": "2026-09-04 04:24:59"
+      },
+      {
+        "title": "Tech pilgrims flock to China as global innovation race heats up",
+        "link": "https://www.investing.com/news/economy-news/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up-4886889",
+        "published": "2026-09-04 04:18:53"
       },
       {
         "title": "Japan budget requests swell to pandemic-era scale under Takaichi agenda",
         "link": "https://www.investing.com/news/economy-news/japan-budget-requests-swell-to-pandemicera-scale-under-takaichi-agenda-4888765",
         "published": "2026-09-04 02:12:31"
-      },
-      {
-        "title": "Yen headed for strongest week in a month, dollar flat ahead of payroll data",
-        "link": "https://www.investing.com/news/economy-news/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data-4888753",
-        "published": "2026-09-04 01:36:28"
-      },
-      {
-        "title": "Japan July household spending falls at fastest pace in 2-1/2 years",
-        "link": "https://www.investing.com/news/economy-news/japan-july-household-spending-fall-36-yearyear-4888711",
-        "published": "2026-09-04 00:54:27"
-      },
-      {
-        "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
-        "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
-        "published": "2026-09-04 00:30:51"
-      },
-      {
-        "title": "Bond yields fall, stocks rally as Fed’s Waller comments curb rate hike bets",
-        "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
-        "published": "2026-09-04 00:30:34"
       }
     ]
   }
