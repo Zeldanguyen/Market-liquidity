@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T19:36:51.025654",
+  "fetched_at": "2026-09-04T20:09:28.931412",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Portugal approves $2.67 billion plan to address waste crisis",
+        "link": "https://www.investing.com/news/economy-news/portugal-approves-267-billion-plan-to-address-waste-crisis-93CH-4889961",
+        "published": "2026-09-04 19:28:55"
+      },
+      {
         "title": "Brazil posts $7.4 billion trade surplus in August",
         "link": "https://www.investing.com/news/economy-news/brazil-posts-74-billion-trade-surplus-in-august-93CH-4889958",
         "published": "2026-09-04 19:25:52"
@@ -123,11 +128,6 @@
         "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
         "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
         "published": "2026-09-04 17:19:35"
-      },
-      {
-        "title": "Venezuela’s August inflation eases to 8.9% from July’s 19.9%",
-        "link": "https://www.investing.com/news/economy-news/venezuelas-august-inflation-eases-to-89-from-julys-199-93CH-4889874",
-        "published": "2026-09-04 16:58:53"
       }
     ]
   }
