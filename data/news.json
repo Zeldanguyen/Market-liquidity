@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T13:09:02.251395",
+  "fetched_at": "2026-09-04T13:40:28.925620",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Canada’s job market loses steam as employment drops by over 41,000",
-        "link": "https://www.investing.com/news/economy-news/canadas-job-market-loses-steam-as-employment-drops-by-over-41000-4889588",
-        "published": "2026-09-04 12:36:28"
-      },
-      {
-        "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
-        "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
-        "published": "2026-09-04 12:06:39"
-      },
-      {
-        "title": "Traders brace for US jobs data after Fed’s Waller soothes bond markets",
-        "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 11:54:28"
-      },
-      {
-        "title": "Nasdaq, S&P 500 futures rise ahead of key jobs report",
+        "title": "S&P 500, Dow set for lower open after jobs report fuels rate-hike bets",
         "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
-        "published": "2026-09-04 11:36:31"
+        "published": "2026-09-04 13:12:39"
       },
       {
         "title": "TSX futures muted ahead of domestic, US jobs reports",
         "link": "https://www.investing.com/news/economy-news/tsx-futures-muted-ahead-of-domestic-us-jobs-reports-4889409",
-        "published": "2026-09-04 11:12:30"
+        "published": "2026-09-04 13:07:51"
       },
       {
-        "title": "EU natural gas storage at 65% of capacity, official says",
-        "link": "https://www.investing.com/news/economy-news/eu-natural-gas-storage-at-65-of-capacity-official-says-93CH-4889401",
-        "published": "2026-09-04 11:05:11"
+        "title": "Take Five: Good evening, Mr Bond",
+        "link": "https://www.investing.com/news/economy-news/take-five-good-evening-mr-bond-4888961",
+        "published": "2026-09-04 13:06:40"
+      },
+      {
+        "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1%",
+        "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
+        "published": "2026-09-04 12:55:00"
+      },
+      {
+        "title": "Instant View: Strong August jobs report sends yields higher",
+        "link": "https://www.investing.com/news/economy-news/instant-view-strong-august-jobs-report-sends-yields-higher-4889623",
+        "published": "2026-09-04 12:54:42"
+      },
+      {
+        "title": "Canada’s job market loses steam as employment drops by over 41,000",
+        "link": "https://www.investing.com/news/economy-news/canadas-job-market-loses-steam-as-employment-drops-by-over-41000-4889588",
+        "published": "2026-09-04 12:36:28"
       }
     ]
   }
