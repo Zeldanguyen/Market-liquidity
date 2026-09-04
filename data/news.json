@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-04T03:09:37.132298",
+  "fetched_at": "2026-09-04T03:40:02.713090",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "PNJ giải trình gì về những chênh lệch hàng nghìn tỷ đồng trong báo cáo tài chính?",
+        "link": "https://cafef.vn/pnj-giai-trinh-gi-ve-nhung-chenh-lech-hang-nghin-ty-dong-trong-bao-cao-tai-chinh-188260904103609322.chn",
+        "published": "Fri, 04 Sep 26 10:36:00 +0700"
+      },
+      {
+        "title": "Gia đình cựu Chủ tịch Hóa chất Đức Giang sẽ nhận hơn 800 tỷ ngay trong tháng 9",
+        "link": "https://cafef.vn/gia-dinh-cuu-chu-tich-hoa-chat-duc-giang-se-nhan-hon-800-ty-ngay-trong-thang-9-188260904103336636.chn",
+        "published": "Fri, 04 Sep 26 10:33:00 +0700"
+      },
+      {
+        "title": "Doanh nghiệp dệt may Việt Nam thua kiện Amazon vừa công bố tài liệu quan trọng",
+        "link": "https://cafef.vn/doanh-nghiep-det-may-viet-nam-thua-kien-amazon-vua-cong-bo-tai-lieu-quan-trong-188260904102932499.chn",
+        "published": "Fri, 04 Sep 26 10:31:00 +0700"
+      },
       {
         "title": "Thị trường carbon vận hành: Cơ hội mới cho dòng tiền xanh",
         "link": "https://cafef.vn/thi-truong-carbon-van-hanh-co-hoi-moi-cho-dong-tien-xanh-188260904085441437.chn",
@@ -17,21 +32,6 @@
         "title": "Sở giao dịch hàng hóa phải cung cấp dữ liệu theo thời gian thực từ 15/9",
         "link": "https://cafef.vn/so-giao-dich-hang-hoa-phai-cung-cap-du-lieu-theo-thoi-gian-thuc-tu-15-9-188260904084745161.chn",
         "published": "Fri, 04 Sep 26 08:47:00 +0700"
-      },
-      {
-        "title": "Người phụ nữ giàu nhất Việt Nam vừa lập kỷ lục mới",
-        "link": "https://cafef.vn/nguoi-phu-nu-giau-nhat-viet-nam-vua-lap-ky-luc-moi-188260903232320823.chn",
-        "published": "Fri, 04 Sep 26 00:08:00 +0700"
-      },
-      {
-        "title": "“Đại gia” ngành thép cho Chủ tịch Phát Đạt vay hàng trăm tỷ, cùng tham gia siêu dự án tại Thủ Thiêm do Lotte làm chủ đầu tư",
-        "link": "https://cafef.vn/dai-gia-nganh-thep-cho-chu-tich-phat-dat-vay-hang-tram-ty-cung-tham-gia-sieu-du-an-tai-thu-thiem-do-lotte-lam-chu-dau-tu-188260903232453368.chn",
-        "published": "Fri, 04 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Nhóm cổ đông CII nâng sở hữu tại PC1 lên 12,79%, nắm khối cổ phiếu hơn 1.000 tỷ đồng",
-        "link": "https://cafef.vn/nhom-co-dong-cii-nang-so-huu-tai-pc1-len-1279-nam-khoi-co-phieu-hon-1000-ty-dong-188260903145318683.chn",
-        "published": "Fri, 04 Sep 26 00:07:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "CTCK đua tăng vốn, lên sàn: Dư cung có làm khó sóng IPO?",
+        "link": "http://vietstock.vn/2026/09/ctck-dua-tang-von-len-san-du-cung-co-lam-kho-song-ipo-830-1488327.htm",
+        "published": "Fri, 04 Sep 2026 09:57:30 +0700"
+      },
+      {
         "title": "Khối ngoại hạ nhiệt bán ròng, chuyên gia dự báo đà bán khó kéo dài mãi",
         "link": "http://vietstock.vn/2026/09/khoi-ngoai-ha-nhiet-ban-rong-chuyen-gia-du-bao-da-ban-kho-keo-dai-mai-830-1487914.htm",
         "published": "Fri, 04 Sep 2026 09:13:40 +0700"
@@ -91,18 +96,13 @@
         "title": "Theo dấu dòng tiền cá mập 03/09: Khối ngoại và tự doanh cùng bán ròng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0309-khoi-ngoai-va-tu-doanh-cung-ban-rong-830-1488274.htm",
         "published": "Thu, 03 Sep 2026 19:41:47 +0700"
-      },
-      {
-        "title": "Vietstock Daily 04/09/2026: Tiếp tục giằng co",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-04092026-tiep-tuc-giang-co-1636-1487912.htm",
-        "published": "Thu, 03 Sep 2026 18:08:55 +0700"
       }
     ],
     "Investing.com Economy": [
       {
         "title": "Asian shares climb ahead of US jobs data, Fed’s Waller soothes bonds",
         "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 02:36:34"
+        "published": "2026-09-04 03:30:24"
       },
       {
         "title": "Japan budget requests swell to pandemic-era scale under Takaichi agenda",
