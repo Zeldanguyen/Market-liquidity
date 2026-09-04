@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-04T09:40:32.942118",
+  "fetched_at": "2026-09-04T10:10:12.838607",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vì sao PVIT bị xử phạt?",
+        "link": "https://cafef.vn/vi-sao-pvit-bi-xu-phat-188260904165802559.chn",
+        "published": "Fri, 04 Sep 26 16:57:00 +0700"
+      },
       {
         "title": "Vingroup và SACOMBANK cùng nhau lên đỉnh",
         "link": "https://cafef.vn/vingroup-va-sacombank-cung-nhau-len-dinh-18826090416324243.chn",
@@ -27,11 +32,6 @@
         "title": "Ông Đoàn Văn Hiểu Em muốn gom thêm cổ phiếu Điện Máy Xanh",
         "link": "https://cafef.vn/ong-doan-van-hieu-em-muon-gom-them-co-phieu-dien-may-xanh-18826090414461838.chn",
         "published": "Fri, 04 Sep 26 14:54:00 +0700"
-      },
-      {
-        "title": "Trước khi tuyên bố sắp IPO tại Mỹ, CT Group từng gây sốc khi thưởng Tết 1 lượng vàng 9999 cho tạp vụ, bảo vệ, tài xế…",
-        "link": "https://cafef.vn/truoc-khi-tuyen-bo-sap-ipo-tai-my-ct-group-tung-gay-soc-khi-thuong-tet-1-luong-vang-9999-cho-tap-vu-bao-ve-tai-xe-188260904110235686.chn",
-        "published": "Fri, 04 Sep 26 12:59:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bank of England’s Bailey sees long-term pressures driving up government debt",
+        "link": "https://www.investing.com/news/economy-news/bank-of-englands-bailey-sees-longterm-pressures-driving-up-government-debt-4889149",
+        "published": "2026-09-04 09:49:38"
+      },
+      {
+        "title": "Euro zone retail sales tumble as non-food demand weakens",
+        "link": "https://www.investing.com/news/economy-news/euro-zone-retail-sales-tumble-as-nonfood-demand-weakens-4889125",
+        "published": "2026-09-04 09:34:06"
+      },
+      {
         "title": "Shares inch higher ahead of US jobs data after Fed’s Waller soothes bonds",
         "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
         "published": "2026-09-04 09:24:24"
@@ -118,16 +128,6 @@
         "title": "Nasdaq, S&P 500 futures climb ahead of key jobs report",
         "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
         "published": "2026-09-04 09:06:36"
-      },
-      {
-        "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
-        "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
-        "published": "2026-09-04 09:01:08"
-      },
-      {
-        "title": "Explainer-Why India’s strong GDP growth is raising eyebrows",
-        "link": "https://www.investing.com/news/economy-news/explainerwhy-indias-strong-gdp-growth-is-raising-eyebrows-4889032",
-        "published": "2026-09-04 09:00:51"
       }
     ]
   }
