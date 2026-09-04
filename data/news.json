@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T17:09:06.243047",
+  "fetched_at": "2026-09-04T17:37:04.954371",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
+        "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
+        "published": "2026-09-04 17:19:35"
+      },
+      {
         "title": "Venezuela’s August inflation eases to 8.9% from July’s 19.9%",
         "link": "https://www.investing.com/news/economy-news/venezuelas-august-inflation-eases-to-89-from-julys-199-93CH-4889874",
         "published": "2026-09-04 16:58:53"
@@ -123,11 +128,6 @@
         "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets",
         "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
         "published": "2026-09-04 16:30:56"
-      },
-      {
-        "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1%",
-        "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
-        "published": "2026-09-04 16:18:53"
       }
     ]
   }
