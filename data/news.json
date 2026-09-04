@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T15:09:13.997067",
+  "fetched_at": "2026-09-04T15:40:23.565651",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil’s Supreme Court faces rare test as justices turn against each other",
+        "link": "https://www.investing.com/news/economy-news/brazils-supreme-court-faces-rare-test-as-justices-turn-against-each-other-4889808",
+        "published": "2026-09-04 15:31:14"
+      },
+      {
+        "title": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report",
+        "link": "https://www.investing.com/news/economy-news/citigroup-delays-fed-ratecut-forecast-to-2027-after-strong-us-jobs-report-4889795",
+        "published": "2026-09-04 15:13:06"
+      },
+      {
         "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1%",
         "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
         "published": "2026-09-04 14:54:29"
@@ -118,16 +128,6 @@
         "title": "BlackRock’s Rosenberg says inflation data key after jobs beat",
         "link": "https://www.investing.com/news/economy-news/blackrocks-rosenberg-says-inflation-data-key-after-jobs-beat-4889769",
         "published": "2026-09-04 14:41:13"
-      },
-      {
-        "title": "Fed rate hike back in focus after strong jobs report",
-        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
-        "published": "2026-09-04 14:36:37"
-      },
-      {
-        "title": "S&P 500, Dow slide after jobs report fuels rate-hike bets",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
-        "published": "2026-09-04 14:26:10"
       }
     ]
   }
