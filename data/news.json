@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-04T01:38:00.786472",
+  "fetched_at": "2026-09-04T02:09:21.699643",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cơ cấu lại vốn nhà nước: Giữ đúng chỗ, rút đúng nơi",
+        "link": "https://cafef.vn/co-cau-lai-von-nha-nuoc-giu-dung-cho-rut-dung-noi-188260904083713494.chn",
+        "published": "Fri, 04 Sep 26 09:00:00 +0700"
+      },
+      {
+        "title": "Sở giao dịch hàng hóa phải cung cấp dữ liệu theo thời gian thực từ 15/9",
+        "link": "https://cafef.vn/so-giao-dich-hang-hoa-phai-cung-cap-du-lieu-theo-thoi-gian-thuc-tu-15-9-188260904084745161.chn",
+        "published": "Fri, 04 Sep 26 08:47:00 +0700"
+      },
       {
         "title": "Người phụ nữ giàu nhất Việt Nam vừa lập kỷ lục mới",
         "link": "https://cafef.vn/nguoi-phu-nu-giau-nhat-viet-nam-vua-lap-ky-luc-moi-188260903232320823.chn",
@@ -22,19 +32,19 @@
         "title": "Dư báo VN-Index hướng lên vùng 1.850-1.870 trong tháng 9, CTCK chỉ ra loạt cổ phiếu kỳ vọng \"hút tiền\"",
         "link": "https://cafef.vn/du-bao-vn-index-huong-len-vung-1850-1870-trong-thang-9-ctck-chi-ra-loat-co-phieu-ky-vong-hut-tien-188260903221553944.chn",
         "published": "Fri, 04 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Phát hiện một ngôi làng \"ngồi trên\" 50 tấn vàng",
-        "link": "https://cafef.vn/phat-hien-mot-ngoi-lang-ngoi-tren-50-tan-vang-188260903221445992.chn",
-        "published": "Fri, 04 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Một sự kiện lớn sắp diễn ra, CTCK đưa ra 2 kịch bản cho thị trường chứng khoán",
-        "link": "https://cafef.vn/mot-su-kien-lon-sap-dien-ra-ctck-dua-ra-2-kich-ban-cho-thi-truong-chung-khoan-188260903221313469.chn",
-        "published": "Fri, 04 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Một quan chức Fed phát tín hiệu muốn giữ nguyên lãi suất trong cuộc họp tới",
+        "link": "https://vneconomy.vn/mot-quan-chuc-fed-phat-tin-hieu-muon-giu-nguyen-lai-suat-trong-cuoc-hop-toi.htm",
+        "published": "Fri, 04 Sep 2026 02:08:36 GMT"
+      },
+      {
+        "title": "Đề xuất bỏ điều kiện kinh doanh dịch vụ kế toán, siết trách nhiệm hậu kiểm",
+        "link": "https://vneconomy.vn/de-xuat-bo-dieu-kien-kinh-doanh-dich-vu-ke-toan-siet-trach-nhiem-hau-kiem.htm",
+        "published": "Fri, 04 Sep 2026 01:39:32 GMT"
+      },
       {
         "title": "Tỷ giá yên Nhật tăng mạnh do khả năng BOJ tăng lãi suất, không có dấu hiệu can thiệp",
         "link": "https://vneconomy.vn/ty-gia-yen-nhat-tang-manh-do-kha-nang-boj-tang-lai-suat-khong-co-dau-hieu-can-thiep.htm",
@@ -54,16 +64,6 @@
         "title": "Bộ Tài chính đề xuất năm nhiệm vụ tạo dư địa tăng trưởng 4 tháng cuối năm",
         "link": "https://vneconomy.vn/bo-tai-chinh-de-xuat-nam-nhiem-vu-tao-du-dia-tang-truong-4-thang-cuoi-nam.htm",
         "published": "Thu, 03 Sep 2026 15:53:25 GMT"
-      },
-      {
-        "title": "Ngổn ngang những mối lo của giới đầu tư trái phiếu toàn cầu",
-        "link": "https://vneconomy.vn/ngon-ngang-nhung-moi-lo-cua-gioi-dau-tu-trai-phieu-toan-cau.htm",
-        "published": "Thu, 03 Sep 2026 12:33:41 GMT"
-      },
-      {
-        "title": "Sửa Nghị quyết 107: \"Cởi nút thắt\" thuế tối thiểu toàn cầu cho các dự án điện BOT",
-        "link": "https://vneconomy.vn/sua-nghi-quyet-107-coi-nut-that-thue-toi-thieu-toan-cau-cho-cac-du-an-dien-bot.htm",
-        "published": "Thu, 03 Sep 2026 09:28:38 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen headed for strongest week in a month, dollar flat ahead of payroll data",
+        "link": "https://www.investing.com/news/economy-news/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data-4888753",
+        "published": "2026-09-04 01:36:28"
+      },
+      {
         "title": "Japan July household spending falls at fastest pace in 2-1/2 years",
         "link": "https://www.investing.com/news/economy-news/japan-july-household-spending-fall-36-yearyear-4888711",
         "published": "2026-09-04 00:54:27"
@@ -123,11 +128,6 @@
         "title": "SEC proposes to rescind investment adviser political donation rule",
         "link": "https://www.investing.com/news/economy-news/sec-proposes-to-rescind-investment-adviser-political-donation-rule-93CH-4888646",
         "published": "2026-09-03 22:00:16"
-      },
-      {
-        "title": "Brazil’s Congress upholds zero-tax policy on imports under $50",
-        "link": "https://www.investing.com/news/economy-news/brazils-congress-upholds-zerotax-policy-on-imports-under-50-4888615",
-        "published": "2026-09-03 21:30:43"
       }
     ]
   }
