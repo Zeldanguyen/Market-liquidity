@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T06:11:45.329490",
+  "fetched_at": "2026-09-04T06:43:09.368233",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Phân tích kỹ thuật phiên chiều 04/09: Rung lắc tại ngưỡng Fibonacci Projection 100%",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0409-rung-lac-tai-nguong-fibonacci-projection-100-585-1488519.htm",
+        "published": "Fri, 04 Sep 2026 12:54:19 +0700"
+      },
+      {
         "title": "CTCK đua tăng vốn, lên sàn: Dư cung có làm khó sóng IPO?",
         "link": "http://vietstock.vn/2026/09/ctck-dua-tang-von-len-san-du-cung-co-lam-kho-song-ipo-830-1488327.htm",
         "published": "Fri, 04 Sep 2026 09:57:30 +0700"
@@ -91,23 +96,23 @@
         "title": "Cổ phiếu dầu khí có tuần hút tiền",
         "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-co-tuan-hut-tien-830-1487529.htm",
         "published": "Thu, 03 Sep 2026 20:30:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 03/09: Khối ngoại và tự doanh cùng bán ròng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0309-khoi-ngoai-va-tu-doanh-cung-ban-rong-830-1488274.htm",
-        "published": "Thu, 03 Sep 2026 19:41:47 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "Shares rally ahead of US jobs data, Fed’s Waller soothes bonds",
+        "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
+        "published": "2026-09-04 06:19:10"
+      },
+      {
+        "title": "UK-EU alignment is a “problem” for U.S. trade deal, Greer says - report",
+        "link": "https://www.investing.com/news/economy-news/ukeu-alignment-is-a-problem-for-us-trade-deal-greer-says--report-4888842",
+        "published": "2026-09-04 06:07:40"
+      },
+      {
         "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
         "link": "https://www.investing.com/news/economy-news/us-to-seek-back-payment-from-europe-for-ukraine-aid-trump-says-4888267",
         "published": "2026-09-04 05:00:59"
-      },
-      {
-        "title": "Asian shares climb ahead of US jobs data, Fed’s Waller soothes bonds",
-        "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 04:43:06"
       },
       {
         "title": "Morning Bid: Seems payrolls isn’t the data you are looking for",
@@ -123,11 +128,6 @@
         "title": "Tech pilgrims flock to China as global innovation race heats up",
         "link": "https://www.investing.com/news/economy-news/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up-4886889",
         "published": "2026-09-04 04:18:53"
-      },
-      {
-        "title": "Japan budget requests swell to pandemic-era scale under Takaichi agenda",
-        "link": "https://www.investing.com/news/economy-news/japan-budget-requests-swell-to-pandemicera-scale-under-takaichi-agenda-4888765",
-        "published": "2026-09-04 02:12:31"
       }
     ]
   }
