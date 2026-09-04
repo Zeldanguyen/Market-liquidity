@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T16:10:13.866674",
+  "fetched_at": "2026-09-04T16:39:18.314853",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
+        "published": "2026-09-04 16:24:52"
+      },
+      {
+        "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1%",
+        "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
+        "published": "2026-09-04 16:18:53"
+      },
+      {
         "title": "From microchips to missile threats: How the U.S.-China AI race took a dark turn",
         "link": "https://www.investing.com/news/economy-news/from-microchips-to-missile-threats-how-the-uschina-ai-race-took-a-dark-turn-4889827",
         "published": "2026-09-04 16:04:51"
@@ -118,16 +128,6 @@
         "title": "Fed rate hike back in focus after strong jobs report",
         "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
         "published": "2026-09-04 15:43:57"
-      },
-      {
-        "title": "Yen’s changing fortunes might finally be spooking the bears",
-        "link": "https://www.investing.com/news/economy-news/analysisyens-changing-fortunes-might-finally-be-spooking-the-bears-4888902",
-        "published": "2026-09-04 15:43:01"
-      },
-      {
-        "title": "Canada’s Ivey PMI climbs to 64.3 in August, highest since 2022",
-        "link": "https://www.investing.com/news/economy-news/canadas-ivey-pmi-climbs-to-643-in-august-highest-since-2022-93CH-4889814",
-        "published": "2026-09-04 15:38:35"
       }
     ]
   }
