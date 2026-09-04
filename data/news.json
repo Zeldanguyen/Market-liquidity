@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T10:10:12.838607",
+  "fetched_at": "2026-09-04T10:40:32.480886",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil’s richest captured record income share despite Lula’s effort to prioritize the poor",
+        "link": "https://www.investing.com/news/economy-news/brazils-richest-captured-record-income-share-despite-lulas-effort-to-prioritize-the-poor-4889232",
+        "published": "2026-09-04 10:08:45"
+      },
+      {
         "title": "Bank of England’s Bailey sees long-term pressures driving up government debt",
         "link": "https://www.investing.com/news/economy-news/bank-of-englands-bailey-sees-longterm-pressures-driving-up-government-debt-4889149",
         "published": "2026-09-04 09:49:38"
@@ -123,11 +128,6 @@
         "title": "US job growth expected to rebound in August; unemployment rate forecast steady at 4.1%",
         "link": "https://www.investing.com/news/economy-news/us-job-growth-expected-to-rebound-in-august-unemployment-rate-forecast-steady-at-41-4888813",
         "published": "2026-09-04 09:13:12"
-      },
-      {
-        "title": "Nasdaq, S&P 500 futures climb ahead of key jobs report",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
-        "published": "2026-09-04 09:06:36"
       }
     ]
   }
