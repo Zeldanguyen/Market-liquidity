@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T07:09:23.687905",
+  "fetched_at": "2026-09-04T07:40:15.408569",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Is the ECB headed for a third hike?",
+        "link": "https://www.investing.com/news/economy-news/is-the-ecb-headed-for-a-third-hike-4888865",
+        "published": "2026-09-04 06:46:20"
+      },
+      {
         "title": "J.P. Morgan, BNP Paribas forecast December ECB rate hike as energy risks linger",
         "link": "https://www.investing.com/news/economy-news/jp-morgan-bnp-paribas-forecast-december-ecb-rate-hike-as-energy-risks-linger-4888859",
         "published": "2026-09-04 06:38:35"
@@ -123,11 +128,6 @@
         "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
         "link": "https://www.investing.com/news/economy-news/us-to-seek-back-payment-from-europe-for-ukraine-aid-trump-says-4888267",
         "published": "2026-09-04 05:00:59"
-      },
-      {
-        "title": "Morning Bid: Seems payrolls isn’t the data you are looking for",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-seems-payrolls-isnt-the-data-you-are-looking-for-4888820",
-        "published": "2026-09-04 04:37:04"
       }
     ]
   }
