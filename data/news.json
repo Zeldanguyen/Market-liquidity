@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T17:37:04.954371",
+  "fetched_at": "2026-09-04T18:10:35.733745",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
+        "published": "2026-09-04 18:00:27"
+      },
+      {
         "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
         "link": "https://www.investing.com/news/economy-news/us-nonfarm-payrolls-surge-in-august-unemployment-rate-steady-at-41-4889606",
         "published": "2026-09-04 17:19:35"
@@ -113,11 +118,6 @@
         "title": "Fed’s Hammack says time to act on inflation",
         "link": "https://www.investing.com/news/economy-news/feds-hammack-says-time-to-act-on-inflation-4889871",
         "published": "2026-09-04 16:50:27"
-      },
-      {
-        "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
-        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
-        "published": "2026-09-04 16:49:50"
       },
       {
         "title": "Reaction roundup: Experts, analysts weigh in on blockbuster jobs report",
