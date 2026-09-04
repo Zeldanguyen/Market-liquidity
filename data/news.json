@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-04T03:40:02.713090",
+  "fetched_at": "2026-09-04T04:09:31.764560",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng bạc hôm nay 4/9: Doji, Phú Quý, SJC đồng loạt tăng mạnh, vàng miếng lấy lại phong độ",
+        "link": "https://cafef.vn/gia-vang-bac-hom-nay-4-9-doji-phu-quy-sjc-dong-loat-tang-manh-vang-mieng-lay-lai-phong-do-188260904110357562.chn",
+        "published": "Fri, 04 Sep 26 11:03:00 +0700"
+      },
       {
         "title": "PNJ giải trình gì về những chênh lệch hàng nghìn tỷ đồng trong báo cáo tài chính?",
         "link": "https://cafef.vn/pnj-giai-trinh-gi-ve-nhung-chenh-lech-hang-nghin-ty-dong-trong-bao-cao-tai-chinh-188260904103609322.chn",
@@ -27,14 +32,19 @@
         "title": "Cơ cấu lại vốn nhà nước: Giữ đúng chỗ, rút đúng nơi",
         "link": "https://cafef.vn/co-cau-lai-von-nha-nuoc-giu-dung-cho-rut-dung-noi-188260904083713494.chn",
         "published": "Fri, 04 Sep 26 09:00:00 +0700"
-      },
-      {
-        "title": "Sở giao dịch hàng hóa phải cung cấp dữ liệu theo thời gian thực từ 15/9",
-        "link": "https://cafef.vn/so-giao-dich-hang-hoa-phai-cung-cap-du-lieu-theo-thoi-gian-thuc-tu-15-9-188260904084745161.chn",
-        "published": "Fri, 04 Sep 26 08:47:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giá vàng trong nước tăng nhanh hơn giá thế giới",
+        "link": "https://vneconomy.vn/gia-vang-trong-nuoc-tang-nhanh-hon-gia-the-gioi.htm",
+        "published": "Fri, 04 Sep 2026 03:50:49 GMT"
+      },
+      {
+        "title": "Khi Doanh nghiệp Quốc gia trở thành tài sản chiến lược của đất nước",
+        "link": "https://vneconomy.vn/khi-doanh-nghiep-quoc-gia-tro-thanh-tai-san-chien-luoc-cua-dat-nuoc.htm",
+        "published": "Fri, 04 Sep 2026 03:47:49 GMT"
+      },
       {
         "title": "Goldman Sachs dự báo giá vàng có thể đạt 4.900 USD/oz trước khi kết thúc năm 2026",
         "link": "https://vneconomy.vn/goldman-sachs-du-bao-gia-vang-co-the-dat-4900-usdoz-truoc-khi-ket-thuc-nam-2026.htm",
@@ -54,16 +64,6 @@
         "title": "Tỷ giá yên Nhật tăng mạnh do khả năng BOJ tăng lãi suất, không có dấu hiệu can thiệp",
         "link": "https://vneconomy.vn/ty-gia-yen-nhat-tang-manh-do-kha-nang-boj-tang-lai-suat-khong-co-dau-hieu-can-thiep.htm",
         "published": "Fri, 04 Sep 2026 00:52:22 GMT"
-      },
-      {
-        "title": "Giá vàng nhảy lên vùng 4.500 USD/oz sau phát biểu của một quan chức Fed",
-        "link": "https://vneconomy.vn/gia-vang-nhay-len-vung-4500-usdoz-sau-phat-bieu-cua-mot-quan-chuc-fed.htm",
-        "published": "Fri, 04 Sep 2026 00:23:59 GMT"
-      },
-      {
-        "title": "Hơn 545.000 tỷ đồng vốn đầu tư công vẫn chờ giải ngân sau 8 tháng",
-        "link": "https://vneconomy.vn/hon-545000-ty-dong-von-dau-tu-cong-van-cho-giai-ngan-sau-8-thang.htm",
-        "published": "Thu, 03 Sep 2026 16:01:05 GMT"
       }
     ],
     "Vietstock": [
