@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T02:39:19.004800",
+  "fetched_at": "2026-09-04T03:09:37.132298",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Khối ngoại hạ nhiệt bán ròng, chuyên gia dự báo đà bán khó kéo dài mãi",
+        "link": "http://vietstock.vn/2026/09/khoi-ngoai-ha-nhiet-ban-rong-chuyen-gia-du-bao-da-ban-kho-keo-dai-mai-830-1487914.htm",
+        "published": "Fri, 04 Sep 2026 09:13:40 +0700"
+      },
+      {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 04/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0409-830-1487833.htm",
         "published": "Fri, 04 Sep 2026 08:00:00 +0700"
@@ -91,14 +96,19 @@
         "title": "Vietstock Daily 04/09/2026: Tiếp tục giằng co",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-04092026-tiep-tuc-giang-co-1636-1487912.htm",
         "published": "Thu, 03 Sep 2026 18:08:55 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 03/09: VIC thay đổi cục diện, VN-Index đóng cửa giảm nhẹ",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0309-vic-thay-doi-cuc-dien-vn-index-dong-cua-giam-nhe-1636-1487266.htm",
-        "published": "Thu, 03 Sep 2026 16:37:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Asian shares climb ahead of US jobs data, Fed’s Waller soothes bonds",
+        "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
+        "published": "2026-09-04 02:36:34"
+      },
+      {
+        "title": "Japan budget requests swell to pandemic-era scale under Takaichi agenda",
+        "link": "https://www.investing.com/news/economy-news/japan-budget-requests-swell-to-pandemicera-scale-under-takaichi-agenda-4888765",
+        "published": "2026-09-04 02:12:31"
+      },
       {
         "title": "Yen headed for strongest week in a month, dollar flat ahead of payroll data",
         "link": "https://www.investing.com/news/economy-news/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data-4888753",
@@ -118,16 +128,6 @@
         "title": "Bond yields fall, stocks rally as Fed’s Waller comments curb rate hike bets",
         "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
         "published": "2026-09-04 00:30:34"
-      },
-      {
-        "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-subdued-as-investors-weigh-earnings-oil-prices-4887340",
-        "published": "2026-09-03 22:48:40"
-      },
-      {
-        "title": "SEC proposes to rescind investment adviser political donation rule",
-        "link": "https://www.investing.com/news/economy-news/sec-proposes-to-rescind-investment-adviser-political-donation-rule-93CH-4888646",
-        "published": "2026-09-03 22:00:16"
       }
     ]
   }
