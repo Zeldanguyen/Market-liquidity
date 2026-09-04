@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-04T08:41:39.295632",
+  "fetched_at": "2026-09-04T09:09:27.467549",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Khối ngoại \"quay xe\" mua ròng phiên VN-Index bứt phá, gom mạnh VIC, VHM",
+        "link": "https://cafef.vn/khoi-ngoai-quay-xe-mua-rong-phien-vn-index-but-pha-gom-manh-vic-vhm-188260904153527046.chn",
+        "published": "Fri, 04 Sep 26 15:45:00 +0700"
+      },
       {
         "title": "Mục đích bán cổ phiếu của con gái Chủ tịch PNJ",
         "link": "https://cafef.vn/muc-dich-ban-co-phieu-cua-con-gai-chu-tich-pnj-188260904153404477.chn",
@@ -27,11 +32,6 @@
         "title": "Cổ đông Nhà nước muốn thoái sạch vốn với giá cao ngất ngưởng, một cổ phiếu tăng vọt 50% sau 1 tháng",
         "link": "https://cafef.vn/co-dong-nha-nuoc-muon-thoai-sach-von-voi-gia-cao-ngat-nguong-mot-co-phieu-tang-vot-50-sau-1-thang-188260904114132879.chn",
         "published": "Fri, 04 Sep 26 11:43:00 +0700"
-      },
-      {
-        "title": "Giá vàng bật tăng 2 phiên liên tiếp, quỹ lớn nhất thế giới \"quay đầu\" xả hàng",
-        "link": "https://cafef.vn/gia-vang-bat-tang-2-phien-lien-tiep-quy-lon-nhat-the-gioi-quay-dau-xa-hang-18826090411315599.chn",
-        "published": "Fri, 04 Sep 26 11:32:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UK firms plan slightly smaller price rises, BoE survey shows",
+        "link": "https://www.investing.com/news/economy-news/uk-firms-plan-slightly-smaller-price-rises-boe-survey-shows-4888995",
+        "published": "2026-09-04 08:42:55"
+      },
+      {
         "title": "Take Five: Good evening, Mr Bond",
         "link": "https://www.investing.com/news/economy-news/take-five-good-evening-mr-bond-4888961",
         "published": "2026-09-04 08:30:48"
@@ -123,11 +128,6 @@
         "title": "Is the ECB headed for a third hike?",
         "link": "https://www.investing.com/news/economy-news/is-the-ecb-headed-for-a-third-hike-4888865",
         "published": "2026-09-04 06:46:20"
-      },
-      {
-        "title": "J.P. Morgan, BNP Paribas forecast December ECB rate hike as energy risks linger",
-        "link": "https://www.investing.com/news/economy-news/jp-morgan-bnp-paribas-forecast-december-ecb-rate-hike-as-energy-risks-linger-4888859",
-        "published": "2026-09-04 06:38:35"
       }
     ]
   }
