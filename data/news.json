@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-04T02:09:21.699643",
+  "fetched_at": "2026-09-04T02:39:19.004800",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Thị trường carbon vận hành: Cơ hội mới cho dòng tiền xanh",
+        "link": "https://cafef.vn/thi-truong-carbon-van-hanh-co-hoi-moi-cho-dong-tien-xanh-188260904085441437.chn",
+        "published": "Fri, 04 Sep 26 09:20:00 +0700"
+      },
       {
         "title": "Cơ cấu lại vốn nhà nước: Giữ đúng chỗ, rút đúng nơi",
         "link": "https://cafef.vn/co-cau-lai-von-nha-nuoc-giu-dung-cho-rut-dung-noi-188260904083713494.chn",
@@ -27,14 +32,14 @@
         "title": "Nhóm cổ đông CII nâng sở hữu tại PC1 lên 12,79%, nắm khối cổ phiếu hơn 1.000 tỷ đồng",
         "link": "https://cafef.vn/nhom-co-dong-cii-nang-so-huu-tai-pc1-len-1279-nam-khoi-co-phieu-hon-1000-ty-dong-188260903145318683.chn",
         "published": "Fri, 04 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Dư báo VN-Index hướng lên vùng 1.850-1.870 trong tháng 9, CTCK chỉ ra loạt cổ phiếu kỳ vọng \"hút tiền\"",
-        "link": "https://cafef.vn/du-bao-vn-index-huong-len-vung-1850-1870-trong-thang-9-ctck-chi-ra-loat-co-phieu-ky-vong-hut-tien-188260903221553944.chn",
-        "published": "Fri, 04 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Goldman Sachs dự báo giá vàng có thể đạt 4.900 USD/oz trước khi kết thúc năm 2026",
+        "link": "https://vneconomy.vn/goldman-sachs-du-bao-gia-vang-co-the-dat-4900-usdoz-truoc-khi-ket-thuc-nam-2026.htm",
+        "published": "Fri, 04 Sep 2026 02:20:07 GMT"
+      },
       {
         "title": "Một quan chức Fed phát tín hiệu muốn giữ nguyên lãi suất trong cuộc họp tới",
         "link": "https://vneconomy.vn/mot-quan-chuc-fed-phat-tin-hieu-muon-giu-nguyen-lai-suat-trong-cuoc-hop-toi.htm",
@@ -59,11 +64,6 @@
         "title": "Hơn 545.000 tỷ đồng vốn đầu tư công vẫn chờ giải ngân sau 8 tháng",
         "link": "https://vneconomy.vn/hon-545000-ty-dong-von-dau-tu-cong-van-cho-giai-ngan-sau-8-thang.htm",
         "published": "Thu, 03 Sep 2026 16:01:05 GMT"
-      },
-      {
-        "title": "Bộ Tài chính đề xuất năm nhiệm vụ tạo dư địa tăng trưởng 4 tháng cuối năm",
-        "link": "https://vneconomy.vn/bo-tai-chinh-de-xuat-nam-nhiem-vu-tao-du-dia-tang-truong-4-thang-cuoi-nam.htm",
-        "published": "Thu, 03 Sep 2026 15:53:25 GMT"
       }
     ],
     "Vietstock": [
