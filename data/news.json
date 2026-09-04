@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-04T07:40:15.408569",
+  "fetched_at": "2026-09-04T08:10:14.791854",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ông Đoàn Văn Hiểu Em muốn gom thêm cổ phiếu Điện Máy Xanh",
+        "link": "https://cafef.vn/ong-doan-van-hieu-em-muon-gom-them-co-phieu-dien-may-xanh-18826090414461838.chn",
+        "published": "Fri, 04 Sep 26 14:54:00 +0700"
+      },
       {
         "title": "Trước khi tuyên bố sắp IPO tại Mỹ, CT Group từng gây sốc khi thưởng Tết 1 lượng vàng 9999 cho tạp vụ, bảo vệ, tài xế…",
         "link": "https://cafef.vn/truoc-khi-tuyen-bo-sap-ipo-tai-my-ct-group-tung-gay-soc-khi-thuong-tet-1-luong-vang-9999-cho-tap-vu-bao-ve-tai-xe-188260904110235686.chn",
@@ -26,11 +31,6 @@
       {
         "title": "Đúng 5 ngày nữa, cổ đông Vinhomes sẽ chứng kiến một thay đổi quan trọng",
         "link": "https://cafef.vn/dung-5-ngay-nua-co-dong-vinhomes-se-chung-kien-mot-thay-doi-quan-trong-188260904111958112.chn",
-        "published": "Fri, 04 Sep 26 11:20:00 +0700"
-      },
-      {
-        "title": "Xi măng Long Thành lỗ lũy kế hơn 141 tỷ đồng",
-        "link": "https://cafef.vn/xi-mang-long-thanh-lo-luy-ke-hon-141-ty-dong-18826090410373659.chn",
         "published": "Fri, 04 Sep 26 11:20:00 +0700"
       }
     ],
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Analysis-Yen’s changing fortunes might finally be spooking the bears",
+        "link": "https://www.investing.com/news/economy-news/analysisyens-changing-fortunes-might-finally-be-spooking-the-bears-4888902",
+        "published": "2026-09-04 07:48:42"
+      },
+      {
+        "title": "Shares rally ahead of US jobs data, Fed’s Waller soothes bonds",
+        "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
+        "published": "2026-09-04 07:44:53"
+      },
+      {
         "title": "Is the ECB headed for a third hike?",
         "link": "https://www.investing.com/news/economy-news/is-the-ecb-headed-for-a-third-hike-4888865",
         "published": "2026-09-04 06:46:20"
@@ -115,19 +125,9 @@
         "published": "2026-09-04 06:37:33"
       },
       {
-        "title": "Shares rally ahead of US jobs data, Fed’s Waller soothes bonds",
-        "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 06:19:10"
-      },
-      {
         "title": "UK-EU alignment is a “problem” for U.S. trade deal, Greer says - report",
         "link": "https://www.investing.com/news/economy-news/ukeu-alignment-is-a-problem-for-us-trade-deal-greer-says--report-4888842",
         "published": "2026-09-04 06:07:40"
-      },
-      {
-        "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
-        "link": "https://www.investing.com/news/economy-news/us-to-seek-back-payment-from-europe-for-ukraine-aid-trump-says-4888267",
-        "published": "2026-09-04 05:00:59"
       }
     ]
   }
