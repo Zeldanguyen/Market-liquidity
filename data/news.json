@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T00:13:03.430753",
+  "fetched_at": "2026-09-04T00:43:24.722277",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng nhảy lên vùng 4.500 USD/oz sau phát biểu của một quan chức Fed",
+        "link": "https://vneconomy.vn/gia-vang-nhay-len-vung-4500-usdoz-sau-phat-bieu-cua-mot-quan-chuc-fed.htm",
+        "published": "Fri, 04 Sep 2026 00:23:59 GMT"
+      },
+      {
         "title": "Hơn 545.000 tỷ đồng vốn đầu tư công vẫn chờ giải ngân sau 8 tháng",
         "link": "https://vneconomy.vn/hon-545000-ty-dong-von-dau-tu-cong-van-cho-giai-ngan-sau-8-thang.htm",
         "published": "Thu, 03 Sep 2026 16:01:05 GMT"
@@ -59,11 +64,6 @@
         "title": "Chính thức có thể phạt 100 triệu đồng đối với giao dịch tài sản mã hóa sai quy định",
         "link": "https://vneconomy.vn/chinh-thuc-co-the-phat-100-trieu-dong-doi-voi-giao-dich-tai-san-ma-hoa-sai-quy-dinh.htm",
         "published": "Thu, 03 Sep 2026 09:28:06 GMT"
-      },
-      {
-        "title": "BIDV triển khai gói vay ưu đãi tiếp sức nhu cầu an cư đích thực",
-        "link": "https://vneconomy.vn/bidv-trien-khai-goi-vay-uu-dai-tiep-suc-nhu-cau-an-cu-dich-thuc.htm",
-        "published": "Thu, 03 Sep 2026 09:08:27 GMT"
       }
     ],
     "Vietstock": [
@@ -100,9 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
+        "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
+        "published": "2026-09-04 00:30:51"
+      },
+      {
         "title": "Bond yields fall, stocks rally as Fed’s Waller comments curb rate hike bets",
         "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
-        "published": "2026-09-03 23:00:49"
+        "published": "2026-09-04 00:30:34"
+      },
+      {
+        "title": "Japan year-on-year household spending drops for 8 straight months",
+        "link": "https://www.investing.com/news/economy-news/japan-july-household-spending-fall-36-yearyear-4888711",
+        "published": "2026-09-03 23:54:52"
       },
       {
         "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
@@ -115,19 +125,9 @@
         "published": "2026-09-03 22:00:16"
       },
       {
-        "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
-        "link": "https://www.investing.com/news/economy-news/putin-cites-chance-of-peace-deal-ukraine-sees-new-dynamic-4887788",
-        "published": "2026-09-03 21:37:28"
-      },
-      {
         "title": "Brazil’s Congress upholds zero-tax policy on imports under $50",
         "link": "https://www.investing.com/news/economy-news/brazils-congress-upholds-zerotax-policy-on-imports-under-50-4888615",
         "published": "2026-09-03 21:30:43"
-      },
-      {
-        "title": "Trading Day: Waller cools Fed hike hoopla",
-        "link": "https://www.investing.com/news/economy-news/trading-day-waller-cools-fed-hike-hoopla-4888590",
-        "published": "2026-09-03 21:07:04"
       }
     ]
   }
