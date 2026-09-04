@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T11:39:20.880437",
+  "fetched_at": "2026-09-04T12:11:52.666046",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Chứng khoán Tuần 03-04/09/2026: Dòng tiền phân hóa",
+        "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-03-04092026-dong-tien-phan-hoa-1636-1488796.htm",
+        "published": "Fri, 04 Sep 2026 18:17:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 04/09: Rung lắc tại ngưỡng Fibonacci Projection 100%",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0409-rung-lac-tai-nguong-fibonacci-projection-100-585-1488519.htm",
         "published": "Fri, 04 Sep 2026 12:54:19 +0700"
@@ -91,14 +96,19 @@
         "title": "04/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/0409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1488288.htm",
         "published": "Fri, 04 Sep 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu dầu khí có tuần hút tiền",
-        "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-co-tuan-hut-tien-830-1487529.htm",
-        "published": "Thu, 03 Sep 2026 20:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Traders brace for US jobs data after Fed’s Waller soothes bond markets",
+        "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
+        "published": "2026-09-04 11:54:28"
+      },
+      {
+        "title": "Nasdaq, S&P 500 futures rise ahead of key jobs report",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
+        "published": "2026-09-04 11:36:31"
+      },
       {
         "title": "TSX futures muted ahead of domestic, US jobs reports",
         "link": "https://www.investing.com/news/economy-news/tsx-futures-muted-ahead-of-domestic-us-jobs-reports-4889409",
@@ -118,16 +128,6 @@
         "title": "Global money funds draw biggest inflow in nearly a month as investors turn cautious",
         "link": "https://www.investing.com/news/economy-news/global-money-funds-draw-biggest-inflow-in-nearly-a-month-as-investors-turn-cautious-4889352",
         "published": "2026-09-04 10:49:51"
-      },
-      {
-        "title": "Brazil’s richest captured record income share despite Lula’s effort to prioritize the poor",
-        "link": "https://www.investing.com/news/economy-news/brazils-richest-captured-record-income-share-despite-lulas-effort-to-prioritize-the-poor-4889232",
-        "published": "2026-09-04 10:49:32"
-      },
-      {
-        "title": "More Argentines turn to apps for loans as debt stress hits record",
-        "link": "https://www.investing.com/news/economy-news/more-argentines-turn-to-apps-for-loans-as-debt-stress-hits-record-4889322",
-        "published": "2026-09-04 10:38:17"
       }
     ]
   }
