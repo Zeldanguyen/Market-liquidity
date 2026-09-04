@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T10:40:32.480886",
+  "fetched_at": "2026-09-04T11:09:21.740393",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen’s changing fortunes might finally be spooking the bears",
+        "link": "https://www.investing.com/news/economy-news/analysisyens-changing-fortunes-might-finally-be-spooking-the-bears-4888902",
+        "published": "2026-09-04 11:00:46"
+      },
+      {
+        "title": "Global money funds draw biggest inflow in nearly a month as investors turn cautious",
+        "link": "https://www.investing.com/news/economy-news/global-money-funds-draw-biggest-inflow-in-nearly-a-month-as-investors-turn-cautious-4889352",
+        "published": "2026-09-04 10:49:51"
+      },
+      {
         "title": "Brazil’s richest captured record income share despite Lula’s effort to prioritize the poor",
         "link": "https://www.investing.com/news/economy-news/brazils-richest-captured-record-income-share-despite-lulas-effort-to-prioritize-the-poor-4889232",
-        "published": "2026-09-04 10:08:45"
+        "published": "2026-09-04 10:49:32"
+      },
+      {
+        "title": "More Argentines turn to apps for loans as debt stress hits record",
+        "link": "https://www.investing.com/news/economy-news/more-argentines-turn-to-apps-for-loans-as-debt-stress-hits-record-4889322",
+        "published": "2026-09-04 10:38:17"
       },
       {
         "title": "Bank of England’s Bailey sees long-term pressures driving up government debt",
@@ -113,21 +128,6 @@
         "title": "Euro zone retail sales tumble as non-food demand weakens",
         "link": "https://www.investing.com/news/economy-news/euro-zone-retail-sales-tumble-as-nonfood-demand-weakens-4889125",
         "published": "2026-09-04 09:34:06"
-      },
-      {
-        "title": "Shares inch higher ahead of US jobs data after Fed’s Waller soothes bonds",
-        "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 09:24:24"
-      },
-      {
-        "title": "Tech pilgrims flock to China as global innovation race heats up",
-        "link": "https://www.investing.com/news/economy-news/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up-4886889",
-        "published": "2026-09-04 09:13:33"
-      },
-      {
-        "title": "US job growth expected to rebound in August; unemployment rate forecast steady at 4.1%",
-        "link": "https://www.investing.com/news/economy-news/us-job-growth-expected-to-rebound-in-august-unemployment-rate-forecast-steady-at-41-4888813",
-        "published": "2026-09-04 09:13:12"
       }
     ]
   }
