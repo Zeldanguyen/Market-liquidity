@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-04T09:09:27.467549",
+  "fetched_at": "2026-09-04T09:40:32.942118",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vingroup và SACOMBANK cùng nhau lên đỉnh",
+        "link": "https://cafef.vn/vingroup-va-sacombank-cung-nhau-len-dinh-18826090416324243.chn",
+        "published": "Fri, 04 Sep 26 16:32:00 +0700"
+      },
       {
         "title": "Khối ngoại \"quay xe\" mua ròng phiên VN-Index bứt phá, gom mạnh VIC, VHM",
         "link": "https://cafef.vn/khoi-ngoai-quay-xe-mua-rong-phien-vn-index-but-pha-gom-manh-vic-vhm-188260904153527046.chn",
@@ -27,11 +32,6 @@
         "title": "Trước khi tuyên bố sắp IPO tại Mỹ, CT Group từng gây sốc khi thưởng Tết 1 lượng vàng 9999 cho tạp vụ, bảo vệ, tài xế…",
         "link": "https://cafef.vn/truoc-khi-tuyen-bo-sap-ipo-tai-my-ct-group-tung-gay-soc-khi-thuong-tet-1-luong-vang-9999-cho-tap-vu-bao-ve-tai-xe-188260904110235686.chn",
         "published": "Fri, 04 Sep 26 12:59:00 +0700"
-      },
-      {
-        "title": "Cổ đông Nhà nước muốn thoái sạch vốn với giá cao ngất ngưởng, một cổ phiếu tăng vọt 50% sau 1 tháng",
-        "link": "https://cafef.vn/co-dong-nha-nuoc-muon-thoai-sach-von-voi-gia-cao-ngat-nguong-mot-co-phieu-tang-vot-50-sau-1-thang-188260904114132879.chn",
-        "published": "Fri, 04 Sep 26 11:43:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "UK firms plan slightly smaller price rises, BoE survey shows",
-        "link": "https://www.investing.com/news/economy-news/uk-firms-plan-slightly-smaller-price-rises-boe-survey-shows-4888995",
-        "published": "2026-09-04 08:42:55"
-      },
-      {
-        "title": "Take Five: Good evening, Mr Bond",
-        "link": "https://www.investing.com/news/economy-news/take-five-good-evening-mr-bond-4888961",
-        "published": "2026-09-04 08:30:48"
-      },
-      {
-        "title": "Analysis-Yen’s changing fortunes might finally be spooking the bears",
-        "link": "https://www.investing.com/news/economy-news/analysisyens-changing-fortunes-might-finally-be-spooking-the-bears-4888902",
-        "published": "2026-09-04 08:12:36"
-      },
-      {
-        "title": "Lululemon slumps, Adobe names new CEO,  NFP ahead - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/lululemon-slumps-adobe-names-new-ceo--nfp-ahead--whats-moving-markets-4888866",
-        "published": "2026-09-04 08:01:20"
-      },
-      {
-        "title": "Shares rally ahead of US jobs data, Fed’s Waller soothes bonds",
+        "title": "Shares inch higher ahead of US jobs data after Fed’s Waller soothes bonds",
         "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 07:44:53"
+        "published": "2026-09-04 09:24:24"
       },
       {
-        "title": "Is the ECB headed for a third hike?",
-        "link": "https://www.investing.com/news/economy-news/is-the-ecb-headed-for-a-third-hike-4888865",
-        "published": "2026-09-04 06:46:20"
+        "title": "Tech pilgrims flock to China as global innovation race heats up",
+        "link": "https://www.investing.com/news/economy-news/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up-4886889",
+        "published": "2026-09-04 09:13:33"
+      },
+      {
+        "title": "US job growth expected to rebound in August; unemployment rate forecast steady at 4.1%",
+        "link": "https://www.investing.com/news/economy-news/us-job-growth-expected-to-rebound-in-august-unemployment-rate-forecast-steady-at-41-4888813",
+        "published": "2026-09-04 09:13:12"
+      },
+      {
+        "title": "Nasdaq, S&P 500 futures climb ahead of key jobs report",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
+        "published": "2026-09-04 09:06:36"
+      },
+      {
+        "title": "Fed’s Waller channels his inner John Lennon with a plea to ’give disinflation a chance’",
+        "link": "https://www.investing.com/news/economy-news/feds-waller-open-to-leaving-rates-unchanged-at-september-meeting-if-inflation-cools-4887866",
+        "published": "2026-09-04 09:01:08"
+      },
+      {
+        "title": "Explainer-Why India’s strong GDP growth is raising eyebrows",
+        "link": "https://www.investing.com/news/economy-news/explainerwhy-indias-strong-gdp-growth-is-raising-eyebrows-4889032",
+        "published": "2026-09-04 09:00:51"
       }
     ]
   }
