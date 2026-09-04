@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-04T11:09:21.740393",
+  "fetched_at": "2026-09-04T11:39:20.880437",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VN-Index vượt 1.850 điểm, nhà đầu tư vẫn chưa thể thở phào",
+        "link": "https://cafef.vn/vn-index-vuot-1850-diem-nha-dau-tu-van-chua-the-tho-phao-188260904173001282.chn",
+        "published": "Fri, 04 Sep 26 18:16:00 +0700"
+      },
       {
         "title": "Vì sao PVIT bị xử phạt?",
         "link": "https://cafef.vn/vi-sao-pvit-bi-xu-phat-188260904165802559.chn",
@@ -27,14 +32,14 @@
         "title": "Cổ phiếu DGC của Hóa chất Đức Giang bị giữ nguyên diện cảnh báo",
         "link": "https://cafef.vn/co-phieu-dgc-cua-hoa-chat-duc-giang-bi-giu-nguyen-dien-canh-bao-188260904144703246.chn",
         "published": "Fri, 04 Sep 26 15:20:00 +0700"
-      },
-      {
-        "title": "Ông Đoàn Văn Hiểu Em muốn gom thêm cổ phiếu Điện Máy Xanh",
-        "link": "https://cafef.vn/ong-doan-van-hieu-em-muon-gom-them-co-phieu-dien-may-xanh-18826090414461838.chn",
-        "published": "Fri, 04 Sep 26 14:54:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Tuổi thọ tăng, người Việt chuẩn bị sớm hơn cho một tuổi già độc lập",
+        "link": "https://vneconomy.vn/tuoi-tho-tang-nguoi-viet-chuan-bi-som-hon-cho-mot-tuoi-gia-doc-lap.htm",
+        "published": "Fri, 04 Sep 2026 11:30:48 GMT"
+      },
       {
         "title": "Giá vàng trong nước tăng nhanh hơn giá thế giới",
         "link": "https://vneconomy.vn/gia-vang-trong-nuoc-tang-nhanh-hon-gia-the-gioi.htm",
@@ -59,11 +64,6 @@
         "title": "Đề xuất bỏ điều kiện kinh doanh dịch vụ kế toán, siết trách nhiệm hậu kiểm",
         "link": "https://vneconomy.vn/de-xuat-bo-dieu-kien-kinh-doanh-dich-vu-ke-toan-siet-trach-nhiem-hau-kiem.htm",
         "published": "Fri, 04 Sep 2026 01:39:32 GMT"
-      },
-      {
-        "title": "Tỷ giá yên Nhật tăng mạnh do khả năng BOJ tăng lãi suất, không có dấu hiệu can thiệp",
-        "link": "https://vneconomy.vn/ty-gia-yen-nhat-tang-manh-do-kha-nang-boj-tang-lai-suat-khong-co-dau-hieu-can-thiep.htm",
-        "published": "Fri, 04 Sep 2026 00:52:22 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "TSX futures muted ahead of domestic, US jobs reports",
+        "link": "https://www.investing.com/news/economy-news/tsx-futures-muted-ahead-of-domestic-us-jobs-reports-4889409",
+        "published": "2026-09-04 11:12:30"
+      },
+      {
+        "title": "EU natural gas storage at 65% of capacity, official says",
+        "link": "https://www.investing.com/news/economy-news/eu-natural-gas-storage-at-65-of-capacity-official-says-93CH-4889401",
+        "published": "2026-09-04 11:05:11"
+      },
+      {
         "title": "Yen’s changing fortunes might finally be spooking the bears",
         "link": "https://www.investing.com/news/economy-news/analysisyens-changing-fortunes-might-finally-be-spooking-the-bears-4888902",
         "published": "2026-09-04 11:00:46"
@@ -118,16 +128,6 @@
         "title": "More Argentines turn to apps for loans as debt stress hits record",
         "link": "https://www.investing.com/news/economy-news/more-argentines-turn-to-apps-for-loans-as-debt-stress-hits-record-4889322",
         "published": "2026-09-04 10:38:17"
-      },
-      {
-        "title": "Bank of England’s Bailey sees long-term pressures driving up government debt",
-        "link": "https://www.investing.com/news/economy-news/bank-of-englands-bailey-sees-longterm-pressures-driving-up-government-debt-4889149",
-        "published": "2026-09-04 09:49:38"
-      },
-      {
-        "title": "Euro zone retail sales tumble as non-food demand weakens",
-        "link": "https://www.investing.com/news/economy-news/euro-zone-retail-sales-tumble-as-nonfood-demand-weakens-4889125",
-        "published": "2026-09-04 09:34:06"
       }
     ]
   }
