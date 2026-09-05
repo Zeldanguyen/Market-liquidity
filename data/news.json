@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T13:36:59.400994",
+  "fetched_at": "2026-09-05T14:08:33.600682",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Chỉ 2 phiên giao dịch, VIC đưa VN-Index qua những cung bậc trái chiều",
+        "link": "http://vietstock.vn/2026/09/chi-2-phien-giao-dich-vic-dua-vn-index-qua-nhung-cung-bac-trai-chieu-830-1489047.htm",
+        "published": "Sat, 05 Sep 2026 20:32:00 +0700"
+      },
+      {
         "title": "Gia đình Chủ tịch PNJ từ cổ đông thành chủ nợ, giảm bớt rủi ro trong khủng hoảng",
         "link": "http://vietstock.vn/2026/09/gia-dinh-chu-tich-pnj-tu-co-dong-thanh-chu-no-giam-bot-rui-ro-trong-khung-hoang-830-1489051.htm",
         "published": "Sat, 05 Sep 2026 11:17:26 +0700"
@@ -91,11 +96,6 @@
         "title": "Phân tích kỹ thuật phiên chiều 04/09: Rung lắc tại ngưỡng Fibonacci Projection 100%",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0409-rung-lac-tai-nguong-fibonacci-projection-100-585-1488519.htm",
         "published": "Fri, 04 Sep 2026 12:54:19 +0700"
-      },
-      {
-        "title": "CTCK đua tăng vốn, lên sàn: Dư cung có làm khó sóng IPO?",
-        "link": "http://vietstock.vn/2026/09/ctck-dua-tang-von-len-san-du-cung-co-lam-kho-song-ipo-830-1488327.htm",
-        "published": "Fri, 04 Sep 2026 09:57:30 +0700"
       }
     ],
     "Investing.com Economy": [
