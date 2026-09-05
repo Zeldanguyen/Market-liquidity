@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T12:41:37.579147",
+  "fetched_at": "2026-09-05T13:08:36.751668",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá mua, bán vàng miếng SJC sụt tới 1 triệu đồng/lượng trong tuần sau nghỉ lễ",
+        "link": "https://vneconomy.vn/gia-mua-ban-vang-mieng-sjc-sut-toi-1-trieu-dongluong-trong-tuan-sau-nghi-le.htm",
+        "published": "Sat, 05 Sep 2026 12:46:55 GMT"
+      },
+      {
         "title": "Sau báo cáo việc làm “rực rỡ” của Mỹ, Tổng thống Trump kêu gọi Fed giảm lãi suất",
         "link": "https://vneconomy.vn/sau-bao-cao-viec-lam-ruc-ro-cua-my-tong-thong-trump-keu-goi-fed-giam-lai-suat.htm",
         "published": "Sat, 05 Sep 2026 02:35:00 GMT"
@@ -59,11 +64,6 @@
         "title": "“Làm sạch” gần 95.000 mã số thuế, ngăn doanh nghiệp “ma”",
         "link": "https://vneconomy.vn/lam-sach-gan-95000-ma-so-thue-ngan-doanh-nghiep-ma.htm",
         "published": "Sat, 05 Sep 2026 01:15:54 GMT"
-      },
-      {
-        "title": "Hà Nội quyết tâm đạt tăng trưởng 11% trong năm 2026",
-        "link": "https://vneconomy.vn/ha-noi-quyet-tam-dat-tang-truong-11-trong-nam-2026.htm",
-        "published": "Sat, 05 Sep 2026 01:04:27 GMT"
       }
     ],
     "Vietstock": [
