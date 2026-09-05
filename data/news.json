@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-05T01:37:45.218060",
+  "fetched_at": "2026-09-05T02:09:21.654647",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lỗ sau thuế hơn 154 tỷ đồng, Tập đoàn Đua Fat (DFF) chỉ còn 3 nhân sự",
+        "link": "https://cafef.vn/lo-sau-thue-hon-154-ty-dong-tap-doan-dua-fat-dff-chi-con-3-nhan-su-188260905085025868.chn",
+        "published": "Sat, 05 Sep 26 08:50:00 +0700"
+      },
+      {
+        "title": "LPS phát hành lô trái phiếu 600 tỷ đồng",
+        "link": "https://cafef.vn/lps-phat-hanh-lo-trai-phieu-600-ty-dong-188260905084459344.chn",
+        "published": "Sat, 05 Sep 26 08:44:00 +0700"
+      },
+      {
+        "title": "Tổng giám đốc Đoàn Văn Hiểu Em lần thứ hai đăng ký mua cổ phiếu DMX",
+        "link": "https://cafef.vn/tong-giam-doc-doan-van-hieu-em-lan-thu-hai-dang-ky-mua-co-phieu-dmx-188260905084356629.chn",
+        "published": "Sat, 05 Sep 26 08:43:00 +0700"
+      },
       {
         "title": "Một công ty chuẩn bị “lăn chốt” cổ tức 20% bằng tiền mặt ngay tháng 9",
         "link": "https://cafef.vn/mot-cong-ty-chuan-bi-lan-chot-co-tuc-20-bang-tien-mat-ngay-thang-9-188260904223522096.chn",
@@ -17,21 +32,6 @@
         "title": "VN-Index vượt 1.850 điểm, nhà đầu tư vẫn chưa thể thở phào",
         "link": "https://cafef.vn/vn-index-vuot-1850-diem-nha-dau-tu-van-chua-the-tho-phao-188260904173001282.chn",
         "published": "Fri, 04 Sep 26 18:16:00 +0700"
-      },
-      {
-        "title": "Vì sao PVIT bị xử phạt?",
-        "link": "https://cafef.vn/vi-sao-pvit-bi-xu-phat-188260904165802559.chn",
-        "published": "Fri, 04 Sep 26 16:57:00 +0700"
-      },
-      {
-        "title": "Vingroup và SACOMBANK cùng nhau lên đỉnh",
-        "link": "https://cafef.vn/vingroup-va-sacombank-cung-nhau-len-dinh-18826090416324243.chn",
-        "published": "Fri, 04 Sep 26 16:32:00 +0700"
-      },
-      {
-        "title": "Khối ngoại \"quay xe\" mua ròng phiên VN-Index bứt phá, gom mạnh VIC, VHM",
-        "link": "https://cafef.vn/khoi-ngoai-quay-xe-mua-rong-phien-vn-index-but-pha-gom-manh-vic-vhm-188260904153527046.chn",
-        "published": "Fri, 04 Sep 26 15:45:00 +0700"
       }
     ],
     "VnEconomy": [
