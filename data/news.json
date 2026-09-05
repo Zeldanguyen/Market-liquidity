@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-05T17:08:43.074883",
+  "fetched_at": "2026-09-05T17:36:17.700256",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Kem Tràng Tiền làm ăn ra sao trước khi rời cơ sở biểu tượng 70 năm?",
+        "link": "https://cafef.vn/kem-trang-tien-lam-an-ra-sao-truoc-khi-roi-co-so-bieu-tuong-70-nam-188260905232347422.chn",
+        "published": "Sun, 06 Sep 26 00:10:00 +0700"
+      },
+      {
+        "title": "Giá vàng chờ “phán quyết” từ loạt dữ liệu kinh tế quan trọng trong tuần tới",
+        "link": "https://cafef.vn/gia-vang-cho-phan-quyet-tu-loat-du-lieu-kinh-te-quan-trong-trong-tuan-toi-188260905220607105.chn",
+        "published": "Sun, 06 Sep 26 00:08:00 +0700"
+      },
+      {
+        "title": "Một doanh nghiệp HOSE bất ngờ hủy Đại hội bất thường, cổ phiếu lập tức \"tím lịm\"",
+        "link": "https://cafef.vn/mot-doanh-nghiep-hose-bat-ngo-huy-dai-hoi-bat-thuong-co-phieu-lap-tuc-tim-lim-188260905221612531.chn",
+        "published": "Sun, 06 Sep 26 00:07:00 +0700"
+      },
       {
         "title": "Lịch chốt quyền cổ tức tuần 7-11/9: Hơn 30 doanh nghiệp \"lăn chốt\", tổng tỷ lệ cao nhất 94%",
         "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-7-11-9-hon-30-doanh-nghiep-lan-chot-tong-ty-le-cao-nhat-94-188260905221719956.chn",
@@ -17,21 +32,6 @@
         "title": "Một quỹ ngoại đang nắm lượng cổ phiếu Sacombank trị giá khoảng 4.600 tỷ đồng",
         "link": "https://cafef.vn/mot-quy-ngoai-dang-nam-luong-co-phieu-sacombank-tri-gia-khoang-4600-ty-dong-18826090522051542.chn",
         "published": "Sun, 06 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Tỷ phú Phạm Nhật Vượng giàu hơn cả Chủ tịch Samsung, Alibaba, Xiaomi",
-        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-giau-hon-ca-chu-tich-samsung-alibaba-xiaomi-188260905231025704.chn",
-        "published": "Sun, 06 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Green SM có động thái mới tại loạt tỉnh thành phía Nam",
-        "link": "https://cafef.vn/green-sm-co-dong-thai-moi-tai-loat-tinh-thanh-phia-nam-188260905170800678.chn",
-        "published": "Sat, 05 Sep 26 17:09:00 +0700"
-      },
-      {
-        "title": "Chứng khoán tuần qua: Vingroup và Sacombank cùng nhau lập đỉnh",
-        "link": "https://cafef.vn/chung-khoan-tuan-qua-vingroup-va-sacombank-cung-nhau-lap-dinh-188260905163758408.chn",
-        "published": "Sat, 05 Sep 26 16:48:00 +0700"
       }
     ],
     "VnEconomy": [
