@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T03:39:02.681452",
+  "fetched_at": "2026-09-05T04:09:07.316536",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan, U.S. advance $550 billion investment pact with AI, chips in focus",
+        "link": "https://www.investing.com/news/economy-news/japan-us-advance-550-billion-investment-pact-with-ai-chips-in-focus-4890158",
+        "published": "2026-09-05 03:32:14"
+      },
+      {
         "title": "U.S. shields 35% stake in Venezuela oil venture from dilution, Reuters reports",
         "link": "https://www.investing.com/news/economy-news/us-shields-35-stake-in-venezuela-oil-venture-from-dilution-reuters-reports-4890149",
         "published": "2026-09-05 02:21:28"
@@ -123,11 +128,6 @@
         "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
         "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
         "published": "2026-09-04 23:06:56"
-      },
-      {
-        "title": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report",
-        "link": "https://www.investing.com/news/economy-news/citigroup-delays-fed-ratecut-forecast-to-2027-after-strong-us-jobs-report-4889795",
-        "published": "2026-09-04 22:54:57"
       }
     ]
   }
