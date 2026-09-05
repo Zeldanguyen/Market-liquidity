@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T00:13:56.107991",
+  "fetched_at": "2026-09-05T00:43:58.958417",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "DatVietVAC x Lenzo Yoon: Tham vọng xây dựng nền kinh tế fandom nghìn tỷ",
+        "link": "http://vietstock.vn/2026/09/datvietvac-x-lenzo-yoon-tham-vong-xay-dung-nen-kinh-te-fandom-nghin-ty-830-1488675.htm",
+        "published": "Sat, 05 Sep 2026 07:02:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 04/09: Khối ngoại mua ròng 119 tỷ đồng, tự doanh bán ròng 168 tỷ đồng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0409-khoi-ngoai-mua-rong-119-ty-dong-tu-doanh-ban-rong-168-ty-dong-830-1488880.htm",
         "published": "Fri, 04 Sep 2026 19:32:00 +0700"
@@ -91,18 +96,18 @@
         "title": "Khối ngoại hạ nhiệt bán ròng, chuyên gia dự báo đà bán khó kéo dài mãi",
         "link": "http://vietstock.vn/2026/09/khoi-ngoai-ha-nhiet-ban-rong-chuyen-gia-du-bao-da-ban-kho-keo-dai-mai-830-1487914.htm",
         "published": "Fri, 04 Sep 2026 09:13:40 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 04/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0409-830-1487833.htm",
-        "published": "Fri, 04 Sep 2026 08:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "Britain cuts infrastructure appraisal rate to boost investment",
+        "link": "https://www.investing.com/news/economy-news/britain-cuts-infrastructure-appraisal-rate-to-boost-investment-4890117",
+        "published": "2026-09-04 23:59:25"
+      },
+      {
         "title": "Yields, dollar rise, stocks ease after solid US jobs report",
         "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 23:43:02"
+        "published": "2026-09-04 23:55:15"
       },
       {
         "title": "US structured Venezuela oil position to protect it from dilution, official says",
@@ -123,11 +128,6 @@
         "title": "Britain eases infrastructure approval rules to boost investment",
         "link": "https://www.investing.com/news/economy-news/britain-eases-infrastructure-approval-rules-to-boost-investment-4890086",
         "published": "2026-09-04 22:31:09"
-      },
-      {
-        "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
-        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
-        "published": "2026-09-04 22:30:49"
       }
     ]
   }
