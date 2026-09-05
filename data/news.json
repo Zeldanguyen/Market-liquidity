@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T13:08:36.751668",
+  "fetched_at": "2026-09-05T13:36:59.400994",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Iranian tanker hit near Kharg Island in US attack, Tasnim reports",
+        "link": "https://www.investing.com/news/economy-news/irans-oil-blockade-leverage-weakens-as-us-keeps-gulf-crude-flowing-4890160",
+        "published": "2026-09-05 12:59:37"
+      },
+      {
         "title": "South Korea exports surpass annual record as AI chip boom drives shipments",
         "link": "https://www.investing.com/news/economy-news/south-korea-exports-surpass-annual-record-as-ai-chip-boom-drives-shipments-4890182",
         "published": "2026-09-05 08:37:58"
@@ -123,11 +128,6 @@
         "title": "White House reviewed potential replacements for Pentagon deputy Feinberg - Reuters",
         "link": "https://www.investing.com/news/economy-news/white-house-reviewed-potential-replacements-for-pentagon-deputy-feinberg--reuters-4890163",
         "published": "2026-09-05 05:10:23"
-      },
-      {
-        "title": "Iran’s oil blockade leverage weakens as U.S. keeps Gulf crude flowing",
-        "link": "https://www.investing.com/news/economy-news/irans-oil-blockade-leverage-weakens-as-us-keeps-gulf-crude-flowing-4890160",
-        "published": "2026-09-05 04:40:39"
       }
     ]
   }
