@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T07:08:28.439283",
+  "fetched_at": "2026-09-05T07:37:32.558619",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Another false dawn? China’s luxury spending revival seems to be fading: Bernstein",
+        "link": "https://www.investing.com/news/economy-news/another-false-dawn-chinas-luxury-spending-revival-seems-to-be-fading-bernstein-4890177",
+        "published": "2026-09-05 07:17:26"
+      },
+      {
         "title": "Farage turmoil gives UK PM Burnham breathing room ahead of budget",
         "link": "https://www.investing.com/news/economy-news/farage-turmoil-gives-uk-pm-burnham-breathing-room-ahead-of-budget-4890173",
         "published": "2026-09-05 06:38:43"
@@ -123,11 +128,6 @@
         "title": "Hong Kong targets bigger offshore yuan role, mainland links, in first 5-year plan",
         "link": "https://www.investing.com/news/economy-news/hong-kong-targets-bigger-offshore-yuan-role-mainland-links-in-first-5year-plan-4890159",
         "published": "2026-09-05 04:00:04"
-      },
-      {
-        "title": "Japan, U.S. advance $550 billion investment pact with AI, chips in focus",
-        "link": "https://www.investing.com/news/economy-news/japan-us-advance-550-billion-investment-pact-with-ai-chips-in-focus-4890158",
-        "published": "2026-09-05 03:32:14"
       }
     ]
   }
