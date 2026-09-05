@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-05T10:08:34.850995",
+  "fetched_at": "2026-09-05T10:37:16.432462",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Green SM có động thái mới tại loạt tỉnh thành phía Nam",
+        "link": "https://cafef.vn/green-sm-co-dong-thai-moi-tai-loat-tinh-thanh-phia-nam-188260905170800678.chn",
+        "published": "Sat, 05 Sep 26 17:09:00 +0700"
+      },
       {
         "title": "Chứng khoán tuần qua: Vingroup và Sacombank cùng nhau lập đỉnh",
         "link": "https://cafef.vn/chung-khoan-tuan-qua-vingroup-va-sacombank-cung-nhau-lap-dinh-188260905163758408.chn",
@@ -27,11 +32,6 @@
         "title": "Ông Nguyễn Quốc Cường dùng Lamborghini làm giải thưởng cho khách mua căn hộ",
         "link": "https://cafef.vn/ong-nguyen-quoc-cuong-dung-lamborghini-lam-giai-thuong-cho-khach-mua-can-ho-188260905130526508.chn",
         "published": "Sat, 05 Sep 26 13:59:00 +0700"
-      },
-      {
-        "title": "TVC không hoàn tất giao dịch mua cổ phiếu TVB",
-        "link": "https://cafef.vn/tvc-khong-hoan-tat-giao-dich-mua-co-phieu-tvb-188260905130706429.chn",
-        "published": "Sat, 05 Sep 26 13:07:00 +0700"
       }
     ],
     "VnEconomy": [
