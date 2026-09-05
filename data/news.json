@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-09-05T16:38:50.145911",
+  "fetched_at": "2026-09-05T17:08:43.074883",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lịch chốt quyền cổ tức tuần 7-11/9: Hơn 30 doanh nghiệp \"lăn chốt\", tổng tỷ lệ cao nhất 94%",
+        "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-7-11-9-hon-30-doanh-nghiep-lan-chot-tong-ty-le-cao-nhat-94-188260905221719956.chn",
+        "published": "Sun, 06 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Sau tháng 7 tệ nhất lịch sử, quỹ ngoại tỷ USD hồi phục mạnh trong tháng 8",
+        "link": "https://cafef.vn/sau-thang-7-te-nhat-lich-su-quy-ngoai-ty-usd-hoi-phuc-manh-trong-thang-8-188260905220357572.chn",
+        "published": "Sun, 06 Sep 26 00:04:00 +0700"
+      },
+      {
+        "title": "Một quỹ ngoại đang nắm lượng cổ phiếu Sacombank trị giá khoảng 4.600 tỷ đồng",
+        "link": "https://cafef.vn/mot-quy-ngoai-dang-nam-luong-co-phieu-sacombank-tri-gia-khoang-4600-ty-dong-18826090522051542.chn",
+        "published": "Sun, 06 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Tỷ phú Phạm Nhật Vượng giàu hơn cả Chủ tịch Samsung, Alibaba, Xiaomi",
+        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-giau-hon-ca-chu-tich-samsung-alibaba-xiaomi-188260905231025704.chn",
+        "published": "Sun, 06 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Green SM có động thái mới tại loạt tỉnh thành phía Nam",
         "link": "https://cafef.vn/green-sm-co-dong-thai-moi-tai-loat-tinh-thanh-phia-nam-188260905170800678.chn",
@@ -12,26 +32,6 @@
         "title": "Chứng khoán tuần qua: Vingroup và Sacombank cùng nhau lập đỉnh",
         "link": "https://cafef.vn/chung-khoan-tuan-qua-vingroup-va-sacombank-cung-nhau-lap-dinh-188260905163758408.chn",
         "published": "Sat, 05 Sep 26 16:48:00 +0700"
-      },
-      {
-        "title": "Thăm nhà máy VinFast, Tổng thống Myanmar bày tỏ ấn tượng với 3 thứ của hãng xe “Made in Vietnam”",
-        "link": "https://cafef.vn/tham-nha-may-vinfast-tong-thong-myanmar-bay-to-an-tuong-voi-3-thu-cua-hang-xe-made-in-vietnam-188260905164126955.chn",
-        "published": "Sat, 05 Sep 26 16:43:47 +0700"
-      },
-      {
-        "title": "Động thái gây chú ý của CEO Điện Máy Xanh",
-        "link": "https://cafef.vn/dong-thai-gay-chu-y-cua-ceo-dien-may-xanh-188260905154642968.chn",
-        "published": "Sat, 05 Sep 26 15:46:00 +0700"
-      },
-      {
-        "title": "Dừng bán kem Tràng Tiền tại số 35 Tràng Tiền sau gần 70 năm",
-        "link": "https://cafef.vn/dung-ban-kem-trang-tien-tai-so-35-trang-tien-sau-gan-70-nam-188260905154528454.chn",
-        "published": "Sat, 05 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Ông Nguyễn Quốc Cường dùng Lamborghini làm giải thưởng cho khách mua căn hộ",
-        "link": "https://cafef.vn/ong-nguyen-quoc-cuong-dung-lamborghini-lam-giai-thuong-cho-khach-mua-can-ho-188260905130526508.chn",
-        "published": "Sat, 05 Sep 26 13:59:00 +0700"
       }
     ],
     "VnEconomy": [
