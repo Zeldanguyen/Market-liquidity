@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T00:43:58.958417",
+  "fetched_at": "2026-09-05T01:08:13.583669",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Hà Nội quyết tâm đạt tăng trưởng 11% trong năm 2026",
+        "link": "https://vneconomy.vn/ha-noi-quyet-tam-dat-tang-truong-11-trong-nam-2026.htm",
+        "published": "Sat, 05 Sep 2026 01:04:27 GMT"
+      },
+      {
+        "title": "ABBank ra mắt Tích lũy An Gia: Giải pháp tài chính tự chủ",
+        "link": "https://vneconomy.vn/abbank-ra-mat-tich-luy-an-gia-giai-phap-tai-chinh-tu-chu.htm",
+        "published": "Sat, 05 Sep 2026 01:00:00 GMT"
+      },
+      {
         "title": "Thế giới bước vào kỷ nguyên lãi suất cao: Ai thiệt hại?",
         "link": "https://vneconomy.vn/the-gioi-buoc-vao-ky-nguyen-lai-suat-cao-ai-thiet-hai.htm",
         "published": "Fri, 04 Sep 2026 12:32:09 GMT"
@@ -54,23 +64,13 @@
         "title": "Khi Doanh nghiệp Quốc gia trở thành tài sản chiến lược của đất nước",
         "link": "https://vneconomy.vn/khi-doanh-nghiep-quoc-gia-tro-thanh-tai-san-chien-luoc-cua-dat-nuoc.htm",
         "published": "Fri, 04 Sep 2026 03:47:49 GMT"
-      },
-      {
-        "title": "Goldman Sachs dự báo giá vàng có thể đạt 4.900 USD/oz trước khi kết thúc năm 2026",
-        "link": "https://vneconomy.vn/goldman-sachs-du-bao-gia-vang-co-the-dat-4900-usdoz-truoc-khi-ket-thuc-nam-2026.htm",
-        "published": "Fri, 04 Sep 2026 02:20:07 GMT"
-      },
-      {
-        "title": "Một quan chức Fed phát tín hiệu muốn giữ nguyên lãi suất trong cuộc họp tới",
-        "link": "https://vneconomy.vn/mot-quan-chuc-fed-phat-tin-hieu-muon-giu-nguyen-lai-suat-trong-cuoc-hop-toi.htm",
-        "published": "Fri, 04 Sep 2026 02:08:36 GMT"
       }
     ],
     "Vietstock": [
       {
         "title": "DatVietVAC x Lenzo Yoon: Tham vọng xây dựng nền kinh tế fandom nghìn tỷ",
         "link": "http://vietstock.vn/2026/09/datvietvac-x-lenzo-yoon-tham-vong-xay-dung-nen-kinh-te-fandom-nghin-ty-830-1488675.htm",
-        "published": "Sat, 05 Sep 2026 07:02:00 +0700"
+        "published": "Sat, 05 Sep 2026 06:02:00 +0700"
       },
       {
         "title": "Theo dấu dòng tiền cá mập 04/09: Khối ngoại mua ròng 119 tỷ đồng, tự doanh bán ròng 168 tỷ đồng",
