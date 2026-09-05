@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-05T02:39:15.240257",
+  "fetched_at": "2026-09-05T03:09:19.428917",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "FTSE Russell loại 21 cổ phiếu FTSE Vietnam Index, thêm mới MCH, TCX và VPL",
+        "link": "https://cafef.vn/ftse-russell-loai-21-co-phieu-ftse-vietnam-index-them-moi-mch-tcx-va-vpl-188260905100801281.chn",
+        "published": "Sat, 05 Sep 26 10:07:00 +0700"
+      },
       {
         "title": "Bà Phạm Thu Hương lần đầu vào top 1000 người giàu nhất thế giới",
         "link": "https://cafef.vn/ba-pham-thu-huong-lan-dau-vao-top-1000-nguoi-giau-nhat-the-gioi-188260905093520168.chn",
@@ -27,11 +32,6 @@
         "title": "Lỗ sau thuế hơn 154 tỷ đồng, Tập đoàn Đua Fat (DFF) chỉ còn 3 nhân sự",
         "link": "https://cafef.vn/lo-sau-thue-hon-154-ty-dong-tap-doan-dua-fat-dff-chi-con-3-nhan-su-188260905085025868.chn",
         "published": "Sat, 05 Sep 26 08:50:00 +0700"
-      },
-      {
-        "title": "LPS phát hành lô trái phiếu 600 tỷ đồng",
-        "link": "https://cafef.vn/lps-phat-hanh-lo-trai-phieu-600-ty-dong-188260905084459344.chn",
-        "published": "Sat, 05 Sep 26 08:44:00 +0700"
       }
     ],
     "VnEconomy": [
