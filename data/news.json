@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T16:09:03.764114",
+  "fetched_at": "2026-09-05T16:38:50.145911",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Federal appeals court upholds ban on Trump’s bid to use citizenship data for voter checks",
+        "link": "https://www.investing.com/news/economy-news/federal-appeals-court-upholds-ban-on-trumps-bid-to-use-citizenship-data-for-voter-checks-4890220",
+        "published": "2026-09-05 16:06:33"
+      },
+      {
         "title": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says",
         "link": "https://www.investing.com/news/economy-news/irans-oil-blockade-leverage-weakens-as-us-keeps-gulf-crude-flowing-4890160",
         "published": "2026-09-05 15:15:21"
@@ -123,11 +128,6 @@
         "title": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training",
         "link": "https://www.investing.com/news/economy-news/seattle-times-newsday-sue-openai-and-microsoft-over-ai-training-4890166",
         "published": "2026-09-05 05:59:13"
-      },
-      {
-        "title": "White House reviewed potential replacements for Pentagon deputy Feinberg - Reuters",
-        "link": "https://www.investing.com/news/economy-news/white-house-reviewed-potential-replacements-for-pentagon-deputy-feinberg--reuters-4890163",
-        "published": "2026-09-05 05:10:23"
       }
     ]
   }
