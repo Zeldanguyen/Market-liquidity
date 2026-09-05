@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T04:09:07.316536",
+  "fetched_at": "2026-09-05T04:39:03.967123",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Hong Kong targets bigger offshore yuan role, mainland links, in first 5-year plan",
+        "link": "https://www.investing.com/news/economy-news/hong-kong-targets-bigger-offshore-yuan-role-mainland-links-in-first-5year-plan-4890159",
+        "published": "2026-09-05 04:00:04"
+      },
+      {
         "title": "Japan, U.S. advance $550 billion investment pact with AI, chips in focus",
         "link": "https://www.investing.com/news/economy-news/japan-us-advance-550-billion-investment-pact-with-ai-chips-in-focus-4890158",
         "published": "2026-09-05 03:32:14"
@@ -123,11 +128,6 @@
         "title": "US structured Venezuela oil position to protect it from dilution, official says",
         "link": "https://www.investing.com/news/economy-news/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says-4890107",
         "published": "2026-09-04 23:30:29"
-      },
-      {
-        "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
-        "published": "2026-09-04 23:06:56"
       }
     ]
   }
