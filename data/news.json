@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-05T09:37:44.190915",
+  "fetched_at": "2026-09-05T10:08:34.850995",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán tuần qua: Vingroup và Sacombank cùng nhau lập đỉnh",
+        "link": "https://cafef.vn/chung-khoan-tuan-qua-vingroup-va-sacombank-cung-nhau-lap-dinh-188260905163758408.chn",
+        "published": "Sat, 05 Sep 26 16:48:00 +0700"
+      },
+      {
+        "title": "Thăm nhà máy VinFast, Tổng thống Myanmar bày tỏ ấn tượng với 3 thứ của hãng xe “Made in Vietnam”",
+        "link": "https://cafef.vn/tham-nha-may-vinfast-tong-thong-myanmar-bay-to-an-tuong-voi-3-thu-cua-hang-xe-made-in-vietnam-188260905164126955.chn",
+        "published": "Sat, 05 Sep 26 16:43:47 +0700"
+      },
       {
         "title": "Động thái gây chú ý của CEO Điện Máy Xanh",
         "link": "https://cafef.vn/dong-thai-gay-chu-y-cua-ceo-dien-may-xanh-188260905154642968.chn",
@@ -22,16 +32,6 @@
         "title": "TVC không hoàn tất giao dịch mua cổ phiếu TVB",
         "link": "https://cafef.vn/tvc-khong-hoan-tat-giao-dich-mua-co-phieu-tvb-188260905130706429.chn",
         "published": "Sat, 05 Sep 26 13:07:00 +0700"
-      },
-      {
-        "title": "FTSE Russell loại 21 cổ phiếu FTSE Vietnam Index, thêm mới MCH, TCX và VPL",
-        "link": "https://cafef.vn/ftse-russell-loai-21-co-phieu-ftse-vietnam-index-them-moi-mch-tcx-va-vpl-188260905100801281.chn",
-        "published": "Sat, 05 Sep 26 10:07:00 +0700"
-      },
-      {
-        "title": "Bà Phạm Thu Hương lần đầu vào top 1000 người giàu nhất thế giới",
-        "link": "https://cafef.vn/ba-pham-thu-huong-lan-dau-vao-top-1000-nguoi-giau-nhat-the-gioi-188260905093520168.chn",
-        "published": "Sat, 05 Sep 26 09:35:00 +0700"
       }
     ],
     "VnEconomy": [
