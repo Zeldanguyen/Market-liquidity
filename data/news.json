@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T18:09:51.710452",
+  "fetched_at": "2026-09-05T18:42:22.737224",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Greek PM unveils plan to boost incomes ahead of elections",
+        "link": "https://www.investing.com/news/economy-news/greek-pm-unveilsplan-to-boost-incomes-ahead-of-elections-4890230",
+        "published": "2026-09-05 18:12:28"
+      },
+      {
         "title": "Federal appeals court upholds ban on Trump’s bid to use citizenship data for voter checks",
         "link": "https://www.investing.com/news/economy-news/federal-appeals-court-upholds-ban-on-trumps-bid-to-use-citizenship-data-for-voter-checks-4890220",
         "published": "2026-09-05 16:06:33"
@@ -123,11 +128,6 @@
         "title": "Farage turmoil gives UK PM Burnham breathing room ahead of budget",
         "link": "https://www.investing.com/news/economy-news/farage-turmoil-gives-uk-pm-burnham-breathing-room-ahead-of-budget-4890173",
         "published": "2026-09-05 06:38:43"
-      },
-      {
-        "title": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training",
-        "link": "https://www.investing.com/news/economy-news/seattle-times-newsday-sue-openai-and-microsoft-over-ai-training-4890166",
-        "published": "2026-09-05 05:59:13"
       }
     ]
   }
