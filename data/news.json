@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T04:39:03.967123",
+  "fetched_at": "2026-09-05T05:08:30.028935",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Gia đình Chủ tịch PNJ từ cổ đông thành chủ nợ, giảm bớt rủi ro trong khủng hoảng",
+        "link": "http://vietstock.vn/2026/09/gia-dinh-chu-tich-pnj-tu-co-dong-thanh-chu-no-giam-bot-rui-ro-trong-khung-hoang-830-1489051.htm",
+        "published": "Sat, 05 Sep 2026 11:17:26 +0700"
+      },
+      {
         "title": "DatVietVAC x Lenzo Yoon: Tham vọng xây dựng nền kinh tế fandom nghìn tỷ",
         "link": "http://vietstock.vn/2026/09/datvietvac-x-lenzo-yoon-tham-vong-xay-dung-nen-kinh-te-fandom-nghin-ty-830-1488675.htm",
         "published": "Sat, 05 Sep 2026 06:02:00 +0700"
@@ -91,14 +96,14 @@
         "title": "CTCK đua tăng vốn, lên sàn: Dư cung có làm khó sóng IPO?",
         "link": "http://vietstock.vn/2026/09/ctck-dua-tang-von-len-san-du-cung-co-lam-kho-song-ipo-830-1488327.htm",
         "published": "Fri, 04 Sep 2026 09:57:30 +0700"
-      },
-      {
-        "title": "Khối ngoại hạ nhiệt bán ròng, chuyên gia dự báo đà bán khó kéo dài mãi",
-        "link": "http://vietstock.vn/2026/09/khoi-ngoai-ha-nhiet-ban-rong-chuyen-gia-du-bao-da-ban-kho-keo-dai-mai-830-1487914.htm",
-        "published": "Fri, 04 Sep 2026 09:13:40 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Iran’s oil blockade leverage weakens as U.S. keeps Gulf crude flowing",
+        "link": "https://www.investing.com/news/economy-news/irans-oil-blockade-leverage-weakens-as-us-keeps-gulf-crude-flowing-4890160",
+        "published": "2026-09-05 04:40:39"
+      },
       {
         "title": "Hong Kong targets bigger offshore yuan role, mainland links, in first 5-year plan",
         "link": "https://www.investing.com/news/economy-news/hong-kong-targets-bigger-offshore-yuan-role-mainland-links-in-first-5year-plan-4890159",
@@ -123,11 +128,6 @@
         "title": "Yields, dollar rise, stocks ease after solid US jobs report",
         "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
         "published": "2026-09-04 23:55:15"
-      },
-      {
-        "title": "US structured Venezuela oil position to protect it from dilution, official says",
-        "link": "https://www.investing.com/news/economy-news/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says-4890107",
-        "published": "2026-09-04 23:30:29"
       }
     ]
   }
