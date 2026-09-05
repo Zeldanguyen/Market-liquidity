@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T23:36:08.127686",
+  "fetched_at": "2026-09-05T00:13:56.107991",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -102,7 +102,12 @@
       {
         "title": "Yields, dollar rise, stocks ease after solid US jobs report",
         "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "published": "2026-09-04 23:18:49"
+        "published": "2026-09-04 23:43:02"
+      },
+      {
+        "title": "US structured Venezuela oil position to protect it from dilution, official says",
+        "link": "https://www.investing.com/news/economy-news/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says-4890107",
+        "published": "2026-09-04 23:30:29"
       },
       {
         "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
@@ -123,11 +128,6 @@
         "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
         "link": "https://www.investing.com/news/economy-news/fed-rate-hike-back-in-focus-after-strong-jobs-report-4889758",
         "published": "2026-09-04 22:30:49"
-      },
-      {
-        "title": "Lutnick to review Pentagon deals with Cerberus amid conflict concerns - Bloomberg",
-        "link": "https://www.investing.com/news/economy-news/lutnick-to-review-pentagon-deals-with-cerberus-amid-conflict-concerns--bloomberg-93CH-4890020",
-        "published": "2026-09-04 20:49:44"
       }
     ]
   }
