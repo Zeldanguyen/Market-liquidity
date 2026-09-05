@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-09-05T02:09:21.654647",
+  "fetched_at": "2026-09-05T02:39:15.240257",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Bà Phạm Thu Hương lần đầu vào top 1000 người giàu nhất thế giới",
+        "link": "https://cafef.vn/ba-pham-thu-huong-lan-dau-vao-top-1000-nguoi-giau-nhat-the-gioi-188260905093520168.chn",
+        "published": "Sat, 05 Sep 26 09:35:00 +0700"
+      },
+      {
+        "title": "Tài sản hai người con ông Nguyễn Đức Thụy \"bốc hơi\" 3.000 tỷ đồng chỉ sau 2 tuần",
+        "link": "https://cafef.vn/tai-san-hai-nguoi-con-ong-nguyen-duc-thuy-boc-hoi-3000-ty-dong-chi-sau-2-tuan-188260905093236235.chn",
+        "published": "Sat, 05 Sep 26 09:32:00 +0700"
+      },
+      {
+        "title": "Giá vàng quay đầu điều chỉnh, quỹ lớn nhất thế giới hành động gì?",
+        "link": "https://cafef.vn/gia-vang-quay-dau-dieu-chinh-quy-lon-nhat-the-gioi-hanh-dong-gi-188260905092756256.chn",
+        "published": "Sat, 05 Sep 26 09:30:00 +0700"
+      },
+      {
+        "title": "Vàng vừa tăng hôm qua, sáng nay quay đầu giảm mạnh",
+        "link": "https://cafef.vn/vang-vua-tang-hom-qua-sang-nay-quay-dau-giam-manh-188260905090845513.chn",
+        "published": "Sat, 05 Sep 26 09:10:00 +0700"
+      },
       {
         "title": "Lỗ sau thuế hơn 154 tỷ đồng, Tập đoàn Đua Fat (DFF) chỉ còn 3 nhân sự",
         "link": "https://cafef.vn/lo-sau-thue-hon-154-ty-dong-tap-doan-dua-fat-dff-chi-con-3-nhan-su-188260905085025868.chn",
@@ -12,29 +32,19 @@
         "title": "LPS phát hành lô trái phiếu 600 tỷ đồng",
         "link": "https://cafef.vn/lps-phat-hanh-lo-trai-phieu-600-ty-dong-188260905084459344.chn",
         "published": "Sat, 05 Sep 26 08:44:00 +0700"
-      },
-      {
-        "title": "Tổng giám đốc Đoàn Văn Hiểu Em lần thứ hai đăng ký mua cổ phiếu DMX",
-        "link": "https://cafef.vn/tong-giam-doc-doan-van-hieu-em-lan-thu-hai-dang-ky-mua-co-phieu-dmx-188260905084356629.chn",
-        "published": "Sat, 05 Sep 26 08:43:00 +0700"
-      },
-      {
-        "title": "Một công ty chuẩn bị “lăn chốt” cổ tức 20% bằng tiền mặt ngay tháng 9",
-        "link": "https://cafef.vn/mot-cong-ty-chuan-bi-lan-chot-co-tuc-20-bang-tien-mat-ngay-thang-9-188260904223522096.chn",
-        "published": "Sat, 05 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "2 cổ phiếu chứng khoán có thể bị loại khỏi FTSE Vietnam 30",
-        "link": "https://cafef.vn/2-co-phieu-chung-khoan-co-the-bi-loai-khoi-ftse-vietnam-30-188260904223448979.chn",
-        "published": "Sat, 05 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "VN-Index vượt 1.850 điểm, nhà đầu tư vẫn chưa thể thở phào",
-        "link": "https://cafef.vn/vn-index-vuot-1850-diem-nha-dau-tu-van-chua-the-tho-phao-188260904173001282.chn",
-        "published": "Fri, 04 Sep 26 18:16:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Sau báo cáo việc làm “rực rỡ” của Mỹ, Tổng thống Trump kêu gọi Fed giảm lãi suất",
+        "link": "https://vneconomy.vn/sau-bao-cao-viec-lam-ruc-ro-cua-my-tong-thong-trump-keu-goi-fed-giam-lai-suat.htm",
+        "published": "Sat, 05 Sep 2026 02:35:00 GMT"
+      },
+      {
+        "title": "Quỹ đầu tư khổng lồ của Na Uy đề xuất giảm nắm giữ trái phiếu kho bạc Mỹ",
+        "link": "https://vneconomy.vn/quy-dau-tu-khong-lo-cua-na-uy-de-xuat-giam-nam-giu-trai-phieu-kho-bac-my.htm",
+        "published": "Sat, 05 Sep 2026 02:34:31 GMT"
+      },
       {
         "title": "Vàng trượt giá sau báo cáo việc làm Mỹ, SPDR Gold Trust tiếp tục bán ròng",
         "link": "https://vneconomy.vn/vang-truot-gia-sau-bao-cao-viec-lam-my-spdr-gold-trust-tiep-tuc-ban-rong.htm",
@@ -54,16 +64,6 @@
         "title": "Hà Nội quyết tâm đạt tăng trưởng 11% trong năm 2026",
         "link": "https://vneconomy.vn/ha-noi-quyet-tam-dat-tang-truong-11-trong-nam-2026.htm",
         "published": "Sat, 05 Sep 2026 01:04:27 GMT"
-      },
-      {
-        "title": "ABBank ra mắt Tích lũy An Gia: Giải pháp tài chính tự chủ",
-        "link": "https://vneconomy.vn/abbank-ra-mat-tich-luy-an-gia-giai-phap-tai-chinh-tu-chu.htm",
-        "published": "Sat, 05 Sep 2026 01:00:00 GMT"
-      },
-      {
-        "title": "Thế giới bước vào kỷ nguyên lãi suất cao: Ai thiệt hại?",
-        "link": "https://vneconomy.vn/the-gioi-buoc-vao-ky-nguyen-lai-suat-cao-ai-thiet-hai.htm",
-        "published": "Fri, 04 Sep 2026 12:32:09 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "U.S. shields 35% stake in Venezuela oil venture from dilution, Reuters reports",
+        "link": "https://www.investing.com/news/economy-news/us-shields-35-stake-in-venezuela-oil-venture-from-dilution-reuters-reports-4890149",
+        "published": "2026-09-05 02:21:28"
+      },
+      {
         "title": "Britain cuts infrastructure appraisal rate to boost investment",
         "link": "https://www.investing.com/news/economy-news/britain-cuts-infrastructure-appraisal-rate-to-boost-investment-4890117",
         "published": "2026-09-04 23:59:25"
@@ -123,11 +128,6 @@
         "title": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report",
         "link": "https://www.investing.com/news/economy-news/citigroup-delays-fed-ratecut-forecast-to-2027-after-strong-us-jobs-report-4889795",
         "published": "2026-09-04 22:54:57"
-      },
-      {
-        "title": "Britain eases infrastructure approval rules to boost investment",
-        "link": "https://www.investing.com/news/economy-news/britain-eases-infrastructure-approval-rules-to-boost-investment-4890086",
-        "published": "2026-09-04 22:31:09"
       }
     ]
   }
