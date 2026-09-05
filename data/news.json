@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T06:10:48.435325",
+  "fetched_at": "2026-09-05T06:41:38.904338",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training",
+        "link": "https://www.investing.com/news/economy-news/seattle-times-newsday-sue-openai-and-microsoft-over-ai-training-4890166",
+        "published": "2026-09-05 05:59:13"
+      },
+      {
         "title": "White House reviewed potential replacements for Pentagon deputy Feinberg - Reuters",
         "link": "https://www.investing.com/news/economy-news/white-house-reviewed-potential-replacements-for-pentagon-deputy-feinberg--reuters-4890163",
         "published": "2026-09-05 05:10:23"
@@ -123,11 +128,6 @@
         "title": "U.S. shields 35% stake in Venezuela oil venture from dilution, Reuters reports",
         "link": "https://www.investing.com/news/economy-news/us-shields-35-stake-in-venezuela-oil-venture-from-dilution-reuters-reports-4890149",
         "published": "2026-09-05 02:21:28"
-      },
-      {
-        "title": "Britain cuts infrastructure appraisal rate to boost investment",
-        "link": "https://www.investing.com/news/economy-news/britain-cuts-infrastructure-appraisal-rate-to-boost-investment-4890117",
-        "published": "2026-09-04 23:59:25"
       }
     ]
   }
