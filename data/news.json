@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T02:39:13.037942",
+  "fetched_at": "2026-09-06T03:09:41.057591",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Ukraine weighs new tax revenue source to help fund war effort - WSJ",
+        "link": "https://www.investing.com/news/economy-news/ukraine-weighs-new-tax-revenue-source-to-help-fund-war-effort--wsj-4890250",
+        "published": "2026-09-06 02:40:10"
+      },
+      {
         "title": "Billions in Iranian funds are passing through U.S. banks despite sanctions - WSJ",
         "link": "https://www.investing.com/news/economy-news/billions-in-iranian-funds-are-passing-through-us-banks-despite-sanctions--wsj-4890248",
         "published": "2026-09-06 01:52:35"
@@ -123,11 +128,6 @@
         "title": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says",
         "link": "https://www.investing.com/news/economy-news/irans-oil-blockade-leverage-weakens-as-us-keeps-gulf-crude-flowing-4890160",
         "published": "2026-09-05 15:15:21"
-      },
-      {
-        "title": "South Korea exports surpass annual record as AI chip boom drives shipments",
-        "link": "https://www.investing.com/news/economy-news/south-korea-exports-surpass-annual-record-as-ai-chip-boom-drives-shipments-4890182",
-        "published": "2026-09-05 08:37:58"
       }
     ]
   }
