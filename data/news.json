@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-06T08:09:59.603121",
+  "fetched_at": "2026-09-06T08:40:20.130861",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "CEO ngân hàng nào lương cao hơn chủ tịch?",
+        "link": "https://cafef.vn/ceo-ngan-hang-nao-luong-cao-hon-chu-tich-188260906144830421.chn",
+        "published": "Sun, 06 Sep 26 15:18:00 +0700"
+      },
       {
         "title": "Thời điểm này nên mua vàng hay gửi tiết kiệm?",
         "link": "https://cafef.vn/thoi-diem-nay-nen-mua-vang-hay-gui-tiet-kiem-18826090614514867.chn",
@@ -27,11 +32,6 @@
         "title": "Từng đắt hơn thế giới 30 triệu đồng/lượng, vàng SJC có những phiên 'rẻ' hơn: Thị trường vàng đang đổi chiều?",
         "link": "https://cafef.vn/tung-dat-hon-the-gioi-30-trieu-dong-luong-vang-sjc-co-nhung-phien-re-hon-thi-truong-vang-dang-doi-chieu-188260906101151907.chn",
         "published": "Sun, 06 Sep 26 11:11:00 +0700"
-      },
-      {
-        "title": "Một thế lực vừa \"tung tiền\" gom gần 10 tấn vàng chỉ trong 1 tuần",
-        "link": "https://cafef.vn/mot-the-luc-vua-tung-tien-gom-gan-10-tan-vang-chi-trong-1-tuan-18826090610252927.chn",
-        "published": "Sun, 06 Sep 26 10:28:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "OPEC+ set to hold oil output policy steady for October - Reuters",
+        "link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
+        "published": "2026-09-06 08:17:31"
+      },
+      {
         "title": "Germany moves to strengthen drone and cyber defenses after airport attack",
         "link": "https://www.investing.com/news/economy-news/germany-moves-to-strengthen-drone-and-cyber-defenses-after-airport-attack-4890268",
         "published": "2026-09-06 07:59:19"
@@ -123,11 +128,6 @@
         "title": "Ukraine weighs new tax revenue source to help fund war effort - WSJ",
         "link": "https://www.investing.com/news/economy-news/ukraine-weighs-new-tax-revenue-source-to-help-fund-war-effort--wsj-4890250",
         "published": "2026-09-06 02:40:10"
-      },
-      {
-        "title": "Billions in Iranian funds are passing through U.S. banks despite sanctions - WSJ",
-        "link": "https://www.investing.com/news/economy-news/billions-in-iranian-funds-are-passing-through-us-banks-despite-sanctions--wsj-4890248",
-        "published": "2026-09-06 01:52:35"
       }
     ]
   }
