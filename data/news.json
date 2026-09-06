@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T23:08:25.391153",
+  "fetched_at": "2026-09-06T23:37:23.428100",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "07/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/0709-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1489139.htm",
+        "published": "Mon, 07 Sep 2026 06:02:00 +0700"
+      },
+      {
         "title": "Vietstock Weekly 07-11/09/2026: Củng cố đà tăng?",
         "link": "http://vietstock.vn/2026/09/vietstock-weekly-07-11092026-cung-co-da-tang-1636-1489030.htm",
         "published": "Sun, 06 Sep 2026 18:00:00 +0700"
@@ -91,14 +96,14 @@
         "title": "DatVietVAC x Lenzo Yoon: Tham vọng xây dựng nền kinh tế fandom nghìn tỷ",
         "link": "http://vietstock.vn/2026/09/datvietvac-x-lenzo-yoon-tham-vong-xay-dung-nen-kinh-te-fandom-nghin-ty-830-1488675.htm",
         "published": "Sat, 05 Sep 2026 06:02:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 04/09: Khối ngoại mua ròng 119 tỷ đồng, tự doanh bán ròng 168 tỷ đồng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0409-khoi-ngoai-mua-rong-119-ty-dong-tu-doanh-ban-rong-168-ty-dong-830-1488880.htm",
-        "published": "Fri, 04 Sep 2026 19:32:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "UK finance minister Healey seeks growth through decentralising power",
+        "link": "https://www.investing.com/news/economy-news/uk-finance-minister-healey-seeks-growth-through-decentralising-power-4890323",
+        "published": "2026-09-06 23:06:33"
+      },
       {
         "title": "Trump administration focuses on boosting oil output, Wright says",
         "link": "https://www.investing.com/news/economy-news/trump-administration-focuses-on-boosting-oil-output-wright-says-93CH-4890315",
@@ -123,11 +128,6 @@
         "title": "Investors to pore over inflation data for signals on rate trajectory",
         "link": "https://www.investing.com/news/economy-news/investors-to-pore-over-inflation-data-for-signals-on-rate-trajectory-4890293",
         "published": "2026-09-06 13:00:28"
-      },
-      {
-        "title": "OPEC+ pauses oil output policy steady for October",
-        "link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
-        "published": "2026-09-06 12:36:04"
       }
     ]
   }
