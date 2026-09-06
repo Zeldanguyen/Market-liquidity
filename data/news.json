@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-06T17:08:22.593202",
+  "fetched_at": "2026-09-06T17:36:59.913385",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vốn hóa Vingroup bằng 10 ngân hàng cộng lại",
+        "link": "https://cafef.vn/von-hoa-vingroup-bang-10-ngan-hang-cong-lai-188260906233731288.chn",
+        "published": "Mon, 07 Sep 26 00:05:00 +0700"
+      },
       {
         "title": "Lãi kỷ lục, một doanh nghiệp trả cổ tức gần 3.000 đồng/cp ngay trong tháng 9",
         "link": "https://cafef.vn/lai-ky-luc-mot-doanh-nghiep-tra-co-tuc-gan-3000-dong-cp-ngay-trong-thang-9-18826090622204429.chn",
@@ -27,11 +32,6 @@
         "title": "CEO ngân hàng nào lương cao hơn chủ tịch?",
         "link": "https://cafef.vn/ceo-ngan-hang-nao-luong-cao-hon-chu-tich-188260906144830421.chn",
         "published": "Sun, 06 Sep 26 15:18:00 +0700"
-      },
-      {
-        "title": "Thời điểm này nên mua vàng hay gửi tiết kiệm?",
-        "link": "https://cafef.vn/thoi-diem-nay-nen-mua-vang-hay-gui-tiet-kiem-18826090614514867.chn",
-        "published": "Sun, 06 Sep 26 14:51:00 +0700"
       }
     ],
     "VnEconomy": [
