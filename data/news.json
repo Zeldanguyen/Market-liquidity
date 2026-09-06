@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T12:11:05.769595",
+  "fetched_at": "2026-09-06T12:42:39.403248",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "OPEC+ pauses oil output policy steady for October",
+        "link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
+        "published": "2026-09-06 12:36:04"
+      },
+      {
+        "title": "Italy could grow by up to 1% this year, minister says",
+        "link": "https://www.investing.com/news/economy-news/italy-could-grow-by-up-to-1-this-year-minister-says-93CH-4890286",
+        "published": "2026-09-06 12:11:12"
+      },
+      {
         "title": "Turkey forecasts GDP growth to reach 5% by 2029",
         "link": "https://www.investing.com/news/economy-news/turkey-forecasts-gdp-growth-to-reach-5-by-2029-93CH-4890275",
         "published": "2026-09-06 10:19:05"
@@ -115,19 +125,9 @@
         "published": "2026-09-06 09:56:15"
       },
       {
-        "title": "OPEC+ set to hold oil output policy steady for October - Reuters",
-        "link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
-        "published": "2026-09-06 08:17:31"
-      },
-      {
         "title": "Germany moves to strengthen drone and cyber defenses after airport attack",
         "link": "https://www.investing.com/news/economy-news/germany-moves-to-strengthen-drone-and-cyber-defenses-after-airport-attack-4890268",
         "published": "2026-09-06 07:59:19"
-      },
-      {
-        "title": "Citi shares its 3-month uranium outlook. Here are the price targets",
-        "link": "https://www.investing.com/news/economy-news/citi-shares-its-3month-uranium-outlook-here-are-the-price-targets-4890263",
-        "published": "2026-09-06 06:46:40"
       }
     ]
   }
