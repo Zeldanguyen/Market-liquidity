@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-06T03:09:41.057591",
+  "fetched_at": "2026-09-06T03:40:01.216079",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một thế lực vừa \"tung tiền\" gom gần 10 tấn vàng chỉ trong 1 tuần",
+        "link": "https://cafef.vn/mot-the-luc-vua-tung-tien-gom-gan-10-tan-vang-chi-trong-1-tuan-18826090610252927.chn",
+        "published": "Sun, 06 Sep 26 10:28:00 +0700"
+      },
       {
         "title": "Ông Nguyễn Thanh Hải tiếp tục từ nhiệm thành viên HĐQT EVS",
         "link": "https://cafef.vn/ong-nguyen-thanh-hai-tiep-tuc-tu-nhiem-thanh-vien-hdqt-evs-188260906085947057.chn",
@@ -27,11 +32,6 @@
         "title": "Một doanh nghiệp HOSE bất ngờ hủy Đại hội bất thường, cổ phiếu lập tức \"tím lịm\"",
         "link": "https://cafef.vn/mot-doanh-nghiep-hose-bat-ngo-huy-dai-hoi-bat-thuong-co-phieu-lap-tuc-tim-lim-188260905221612531.chn",
         "published": "Sun, 06 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Lịch chốt quyền cổ tức tuần 7-11/9: Hơn 30 doanh nghiệp \"lăn chốt\", tổng tỷ lệ cao nhất 94%",
-        "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-7-11-9-hon-30-doanh-nghiep-lan-chot-tong-ty-le-cao-nhat-94-188260905221719956.chn",
-        "published": "Sun, 06 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "How widespread is the adoption of robots among Swiss companies?",
+        "link": "https://www.investing.com/news/economy-news/how-widespread-is-the-adoption-of-robots-among-swiss-companies-4890251",
+        "published": "2026-09-06 03:19:56"
+      },
+      {
         "title": "Ukraine weighs new tax revenue source to help fund war effort - WSJ",
         "link": "https://www.investing.com/news/economy-news/ukraine-weighs-new-tax-revenue-source-to-help-fund-war-effort--wsj-4890250",
         "published": "2026-09-06 02:40:10"
@@ -123,11 +128,6 @@
         "title": "Federal appeals court upholds ban on Trump’s bid to use citizenship data for voter checks",
         "link": "https://www.investing.com/news/economy-news/federal-appeals-court-upholds-ban-on-trumps-bid-to-use-citizenship-data-for-voter-checks-4890220",
         "published": "2026-09-05 16:06:33"
-      },
-      {
-        "title": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says",
-        "link": "https://www.investing.com/news/economy-news/irans-oil-blockade-leverage-weakens-as-us-keeps-gulf-crude-flowing-4890160",
-        "published": "2026-09-05 15:15:21"
       }
     ]
   }
