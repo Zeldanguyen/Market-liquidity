@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T13:09:10.083747",
+  "fetched_at": "2026-09-06T13:38:10.244763",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Investors to pore over inflation data for signals on rate trajectory",
+        "link": "https://www.investing.com/news/economy-news/investors-to-pore-over-inflation-data-for-signals-on-rate-trajectory-4890293",
+        "published": "2026-09-06 13:00:28"
+      },
+      {
         "title": "OPEC+ pauses oil output policy steady for October",
         "link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
         "published": "2026-09-06 12:36:04"
@@ -123,11 +128,6 @@
         "title": "How China became a more powerful force in global gold demand",
         "link": "https://www.investing.com/news/economy-news/how-china-became-a-more-powerful-force-in-global-gold-demand-4890273",
         "published": "2026-09-06 09:56:15"
-      },
-      {
-        "title": "Germany moves to strengthen drone and cyber defenses after airport attack",
-        "link": "https://www.investing.com/news/economy-news/germany-moves-to-strengthen-drone-and-cyber-defenses-after-airport-attack-4890268",
-        "published": "2026-09-06 07:59:19"
       }
     ]
   }
