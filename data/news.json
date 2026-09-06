@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T00:14:22.514586",
+  "fetched_at": "2026-09-06T00:47:11.653645",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Europe’s satellite launch ambitions take off as German rocket reaches orbit",
+        "link": "https://www.investing.com/news/economy-news/europes-satellite-launch-ambitions-take-off-as-german-rocket-reaches-orbit-4890245",
+        "published": "2026-09-06 00:03:34"
+      },
+      {
         "title": "Greek PM unveils plan to boost incomes ahead of elections",
         "link": "https://www.investing.com/news/economy-news/greek-pm-unveilsplan-to-boost-incomes-ahead-of-elections-4890230",
         "published": "2026-09-05 20:24:25"
@@ -123,11 +128,6 @@
         "title": "Another false dawn? China’s luxury spending revival seems to be fading: Bernstein",
         "link": "https://www.investing.com/news/economy-news/another-false-dawn-chinas-luxury-spending-revival-seems-to-be-fading-bernstein-4890177",
         "published": "2026-09-05 07:17:26"
-      },
-      {
-        "title": "Farage turmoil gives UK PM Burnham breathing room ahead of budget",
-        "link": "https://www.investing.com/news/economy-news/farage-turmoil-gives-uk-pm-burnham-breathing-room-ahead-of-budget-4890173",
-        "published": "2026-09-05 06:38:43"
       }
     ]
   }
