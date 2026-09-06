@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-06T04:09:31.729734",
+  "fetched_at": "2026-09-06T04:39:35.257280",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Từng đắt hơn thế giới 30 triệu đồng/lượng, vàng SJC có những phiên 'rẻ' hơn: Thị trường vàng đang đổi chiều?",
+        "link": "https://cafef.vn/tung-dat-hon-the-gioi-30-trieu-dong-luong-vang-sjc-co-nhung-phien-re-hon-thi-truong-vang-dang-doi-chieu-188260906101151907.chn",
+        "published": "Sun, 06 Sep 26 11:11:00 +0700"
+      },
       {
         "title": "Một thế lực vừa \"tung tiền\" gom gần 10 tấn vàng chỉ trong 1 tuần",
         "link": "https://cafef.vn/mot-the-luc-vua-tung-tien-gom-gan-10-tan-vang-chi-trong-1-tuan-18826090610252927.chn",
@@ -27,11 +32,6 @@
         "title": "Giá vàng chờ “phán quyết” từ loạt dữ liệu kinh tế quan trọng trong tuần tới",
         "link": "https://cafef.vn/gia-vang-cho-phan-quyet-tu-loat-du-lieu-kinh-te-quan-trong-trong-tuan-toi-188260905220607105.chn",
         "published": "Sun, 06 Sep 26 00:08:00 +0700"
-      },
-      {
-        "title": "Một doanh nghiệp HOSE bất ngờ hủy Đại hội bất thường, cổ phiếu lập tức \"tím lịm\"",
-        "link": "https://cafef.vn/mot-doanh-nghiep-hose-bat-ngo-huy-dai-hoi-bat-thuong-co-phieu-lap-tuc-tim-lim-188260905221612531.chn",
-        "published": "Sun, 06 Sep 26 00:07:00 +0700"
       }
     ],
     "VnEconomy": [
