@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T11:08:39.424974",
+  "fetched_at": "2026-09-06T11:37:39.444866",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Vietstock Weekly 07-11/09/2026: Củng cố đà tăng?",
+        "link": "http://vietstock.vn/2026/09/vietstock-weekly-07-11092026-cung-co-da-tang-1636-1489030.htm",
+        "published": "Sun, 06 Sep 2026 18:00:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 07-11/09/2026",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-07-11092026-585-1489032.htm",
         "published": "Sun, 06 Sep 2026 07:30:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Theo dấu dòng tiền cá mập 04/09: Khối ngoại mua ròng 119 tỷ đồng, tự doanh bán ròng 168 tỷ đồng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0409-khoi-ngoai-mua-rong-119-ty-dong-tu-doanh-ban-rong-168-ty-dong-830-1488880.htm",
         "published": "Fri, 04 Sep 2026 19:32:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Tuần 03-04/09/2026: Dòng tiền phân hóa",
-        "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-03-04092026-dong-tien-phan-hoa-1636-1488796.htm",
-        "published": "Fri, 04 Sep 2026 18:17:00 +0700"
       }
     ],
     "Investing.com Economy": [
