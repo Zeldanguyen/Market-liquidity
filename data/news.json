@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T14:09:40.410353",
+  "fetched_at": "2026-09-06T14:38:19.783507",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Israel cuts fuel tax as gasoline prices hit record high",
+        "link": "https://www.investing.com/news/economy-news/israel-cuts-fuel-tax-as-gasoline-prices-hit-record-high-93CH-4890297",
+        "published": "2026-09-06 14:22:13"
+      },
+      {
         "title": "Investors to pore over inflation data for signals on rate trajectory",
         "link": "https://www.investing.com/news/economy-news/investors-to-pore-over-inflation-data-for-signals-on-rate-trajectory-4890293",
         "published": "2026-09-06 13:00:28"
@@ -123,11 +128,6 @@
         "title": "Turkey expects inflation to drop to 28.4% in 2026",
         "link": "https://www.investing.com/news/economy-news/turkey-expects-inflation-to-drop-to-284-in-2026-93CH-4890274",
         "published": "2026-09-06 10:16:49"
-      },
-      {
-        "title": "How China became a more powerful force in global gold demand",
-        "link": "https://www.investing.com/news/economy-news/how-china-became-a-more-powerful-force-in-global-gold-demand-4890273",
-        "published": "2026-09-06 09:56:15"
       }
     ]
   }
