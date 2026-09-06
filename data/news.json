@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-06T10:09:14.548160",
+  "fetched_at": "2026-09-06T10:38:34.964287",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán hướng đỉnh cũ, dòng tiền liệu có đủ mạnh?",
+        "link": "https://cafef.vn/chung-khoan-huong-dinh-cu-dong-tien-lieu-co-du-manh-188260906164227196.chn",
+        "published": "Sun, 06 Sep 26 17:17:00 +0700"
+      },
       {
         "title": "CEO ngân hàng nào lương cao hơn chủ tịch?",
         "link": "https://cafef.vn/ceo-ngan-hang-nao-luong-cao-hon-chu-tich-188260906144830421.chn",
@@ -27,11 +32,6 @@
         "title": "Doanh nghiệp bất động sản dồn dập huy động vốn",
         "link": "https://cafef.vn/doanh-nghiep-bat-dong-san-don-dap-huy-dong-von-188260906124740475.chn",
         "published": "Sun, 06 Sep 26 12:47:00 +0700"
-      },
-      {
-        "title": "Từng đắt hơn thế giới 30 triệu đồng/lượng, vàng SJC có những phiên 'rẻ' hơn: Thị trường vàng đang đổi chiều?",
-        "link": "https://cafef.vn/tung-dat-hon-the-gioi-30-trieu-dong-luong-vang-sjc-co-nhung-phien-re-hon-thi-truong-vang-dang-doi-chieu-188260906101151907.chn",
-        "published": "Sun, 06 Sep 26 11:11:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Turkey forecasts GDP growth to reach 5% by 2029",
+        "link": "https://www.investing.com/news/economy-news/turkey-forecasts-gdp-growth-to-reach-5-by-2029-93CH-4890275",
+        "published": "2026-09-06 10:19:05"
+      },
+      {
+        "title": "Turkey expects inflation to drop to 28.4% in 2026",
+        "link": "https://www.investing.com/news/economy-news/turkey-expects-inflation-to-drop-to-284-in-2026-93CH-4890274",
+        "published": "2026-09-06 10:16:49"
+      },
+      {
+        "title": "How China became a more powerful force in global gold demand",
+        "link": "https://www.investing.com/news/economy-news/how-china-became-a-more-powerful-force-in-global-gold-demand-4890273",
+        "published": "2026-09-06 09:56:15"
+      },
+      {
         "title": "OPEC+ set to hold oil output policy steady for October - Reuters",
         "link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
         "published": "2026-09-06 08:17:31"
@@ -113,21 +128,6 @@
         "title": "Citi shares its 3-month uranium outlook. Here are the price targets",
         "link": "https://www.investing.com/news/economy-news/citi-shares-its-3month-uranium-outlook-here-are-the-price-targets-4890263",
         "published": "2026-09-06 06:46:40"
-      },
-      {
-        "title": "U.S.-Iran tanker war escalates as Hormuz disruption deepens",
-        "link": "https://www.investing.com/news/economy-news/usiran-tanker-war-escalates-as-hormuz-disruption-deepens-4890259",
-        "published": "2026-09-06 06:25:11"
-      },
-      {
-        "title": "How widespread is the adoption of robots among Swiss companies?",
-        "link": "https://www.investing.com/news/economy-news/how-widespread-is-the-adoption-of-robots-among-swiss-companies-4890251",
-        "published": "2026-09-06 03:19:56"
-      },
-      {
-        "title": "Ukraine weighs new tax revenue source to help fund war effort - WSJ",
-        "link": "https://www.investing.com/news/economy-news/ukraine-weighs-new-tax-revenue-source-to-help-fund-war-effort--wsj-4890250",
-        "published": "2026-09-06 02:40:10"
       }
     ]
   }
