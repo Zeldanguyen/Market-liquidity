@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T06:42:49.013351",
+  "fetched_at": "2026-09-06T07:08:39.701445",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Citi shares its 3-month uranium outlook. Here are the price targets",
+        "link": "https://www.investing.com/news/economy-news/citi-shares-its-3month-uranium-outlook-here-are-the-price-targets-4890263",
+        "published": "2026-09-06 06:46:40"
+      },
+      {
         "title": "U.S.-Iran tanker war escalates as Hormuz disruption deepens",
         "link": "https://www.investing.com/news/economy-news/usiran-tanker-war-escalates-as-hormuz-disruption-deepens-4890259",
         "published": "2026-09-06 06:25:11"
@@ -123,11 +128,6 @@
         "title": "Europe’s satellite launch ambitions take off as German rocket reaches orbit",
         "link": "https://www.investing.com/news/economy-news/europes-satellite-launch-ambitions-take-off-as-german-rocket-reaches-orbit-4890245",
         "published": "2026-09-06 00:03:34"
-      },
-      {
-        "title": "Greek PM unveils plan to boost incomes ahead of elections",
-        "link": "https://www.investing.com/news/economy-news/greek-pm-unveilsplan-to-boost-incomes-ahead-of-elections-4890230",
-        "published": "2026-09-05 20:24:25"
       }
     ]
   }
