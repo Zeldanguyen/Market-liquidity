@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-06T12:42:39.403248",
+  "fetched_at": "2026-09-06T13:09:10.083747",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một doanh nghiệp HoSE sắp trả thêm 30% cổ tức tiền mặt, đều đăn chia tiền mặt cao chót vót suốt 16 năm",
+        "link": "https://cafef.vn/mot-doanh-nghiep-hose-sap-tra-them-30-co-tuc-tien-mat-deu-dan-chia-tien-mat-cao-chot-vot-suot-16-nam-188260906200633919.chn",
+        "published": "Sun, 06 Sep 26 20:06:00 +0700"
+      },
       {
         "title": "Chứng khoán hướng đỉnh cũ, dòng tiền liệu có đủ mạnh?",
         "link": "https://cafef.vn/chung-khoan-huong-dinh-cu-dong-tien-lieu-co-du-manh-188260906164227196.chn",
@@ -27,11 +32,6 @@
         "title": "Góc nhìn chuyên gia: Chứng khoán hướng lên 1.900 điểm, hai nhóm cổ phiếu được kỳ vọng \"dẫn sóng\" nâng hạng",
         "link": "https://cafef.vn/goc-nhin-chuyen-gia-chung-khoan-huong-len-1900-diem-hai-nhom-co-phieu-duoc-ky-vong-dan-song-nang-hang-188260906143644485.chn",
         "published": "Sun, 06 Sep 26 14:39:00 +0700"
-      },
-      {
-        "title": "Doanh nghiệp bất động sản dồn dập huy động vốn",
-        "link": "https://cafef.vn/doanh-nghiep-bat-dong-san-don-dap-huy-dong-von-188260906124740475.chn",
-        "published": "Sun, 06 Sep 26 12:47:00 +0700"
       }
     ],
     "VnEconomy": [
