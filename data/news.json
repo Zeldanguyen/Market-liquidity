@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T06:11:06.645902",
+  "fetched_at": "2026-09-06T06:42:49.013351",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "U.S.-Iran tanker war escalates as Hormuz disruption deepens",
+        "link": "https://www.investing.com/news/economy-news/usiran-tanker-war-escalates-as-hormuz-disruption-deepens-4890259",
+        "published": "2026-09-06 06:25:11"
+      },
+      {
         "title": "How widespread is the adoption of robots among Swiss companies?",
         "link": "https://www.investing.com/news/economy-news/how-widespread-is-the-adoption-of-robots-among-swiss-companies-4890251",
         "published": "2026-09-06 03:19:56"
@@ -123,11 +128,6 @@
         "title": "Greek PM unveils plan to boost incomes ahead of elections",
         "link": "https://www.investing.com/news/economy-news/greek-pm-unveilsplan-to-boost-incomes-ahead-of-elections-4890230",
         "published": "2026-09-05 20:24:25"
-      },
-      {
-        "title": "Federal appeals court upholds ban on Trump’s bid to use citizenship data for voter checks",
-        "link": "https://www.investing.com/news/economy-news/federal-appeals-court-upholds-ban-on-trumps-bid-to-use-citizenship-data-for-voter-checks-4890220",
-        "published": "2026-09-05 16:06:33"
       }
     ]
   }
