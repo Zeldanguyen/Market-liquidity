@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-06T16:39:22.373149",
+  "fetched_at": "2026-09-06T17:08:22.593202",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lãi kỷ lục, một doanh nghiệp trả cổ tức gần 3.000 đồng/cp ngay trong tháng 9",
+        "link": "https://cafef.vn/lai-ky-luc-mot-doanh-nghiep-tra-co-tuc-gan-3000-dong-cp-ngay-trong-thang-9-18826090622204429.chn",
+        "published": "Mon, 07 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Chuyên gia chỉ ra một “tín hiệu lạ” đang xuất hiện trên thị trường chứng khoán",
+        "link": "https://cafef.vn/chuyen-gia-chi-ra-mot-tin-hieu-la-dang-xuat-hien-tren-thi-truong-chung-khoan-188260906222151798.chn",
+        "published": "Mon, 07 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Một doanh nghiệp HoSE sắp trả thêm 30% cổ tức tiền mặt, đều đăn chia tiền mặt cao chót vót suốt 16 năm",
         "link": "https://cafef.vn/mot-doanh-nghiep-hose-sap-tra-them-30-co-tuc-tien-mat-deu-dan-chia-tien-mat-cao-chot-vot-suot-16-nam-188260906200633919.chn",
@@ -22,16 +32,6 @@
         "title": "Thời điểm này nên mua vàng hay gửi tiết kiệm?",
         "link": "https://cafef.vn/thoi-diem-nay-nen-mua-vang-hay-gui-tiet-kiem-18826090614514867.chn",
         "published": "Sun, 06 Sep 26 14:51:00 +0700"
-      },
-      {
-        "title": "Lý do Cường đô la khoe siêu xe Lamborghini Temerario",
-        "link": "https://cafef.vn/ly-do-cuong-do-la-khoe-sieu-xe-lamborghini-temerario-188260906144659004.chn",
-        "published": "Sun, 06 Sep 26 14:46:00 +0700"
-      },
-      {
-        "title": "Góc nhìn chuyên gia: Chứng khoán hướng lên 1.900 điểm, hai nhóm cổ phiếu được kỳ vọng \"dẫn sóng\" nâng hạng",
-        "link": "https://cafef.vn/goc-nhin-chuyen-gia-chung-khoan-huong-len-1900-diem-hai-nhom-co-phieu-duoc-ky-vong-dan-song-nang-hang-188260906143644485.chn",
-        "published": "Sun, 06 Sep 26 14:39:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump administration asks Supreme Court to allow mail ballot limits",
+        "link": "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313",
+        "published": "2026-09-06 16:32:48"
+      },
+      {
         "title": "What is \"The Warsh Shadow Rate\"?",
         "link": "https://www.investing.com/news/economy-news/what-is-the-warsh-shadow-rate-4890298",
         "published": "2026-09-06 14:26:09"
@@ -123,11 +128,6 @@
         "title": "Italy could grow by up to 1% this year, minister says",
         "link": "https://www.investing.com/news/economy-news/italy-could-grow-by-up-to-1-this-year-minister-says-93CH-4890286",
         "published": "2026-09-06 12:11:12"
-      },
-      {
-        "title": "Turkey forecasts GDP growth to reach 5% by 2029",
-        "link": "https://www.investing.com/news/economy-news/turkey-forecasts-gdp-growth-to-reach-5-by-2029-93CH-4890275",
-        "published": "2026-09-06 10:19:05"
       }
     ]
   }
