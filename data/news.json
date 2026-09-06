@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T14:38:19.783507",
+  "fetched_at": "2026-09-06T15:09:10.564243",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "What is \"The Warsh Shadow Rate\"?",
+        "link": "https://www.investing.com/news/economy-news/what-is-the-warsh-shadow-rate-4890298",
+        "published": "2026-09-06 14:26:09"
+      },
+      {
         "title": "Israel cuts fuel tax as gasoline prices hit record high",
         "link": "https://www.investing.com/news/economy-news/israel-cuts-fuel-tax-as-gasoline-prices-hit-record-high-93CH-4890297",
         "published": "2026-09-06 14:22:13"
@@ -123,11 +128,6 @@
         "title": "Turkey forecasts GDP growth to reach 5% by 2029",
         "link": "https://www.investing.com/news/economy-news/turkey-forecasts-gdp-growth-to-reach-5-by-2029-93CH-4890275",
         "published": "2026-09-06 10:19:05"
-      },
-      {
-        "title": "Turkey expects inflation to drop to 28.4% in 2026",
-        "link": "https://www.investing.com/news/economy-news/turkey-expects-inflation-to-drop-to-284-in-2026-93CH-4890274",
-        "published": "2026-09-06 10:16:49"
       }
     ]
   }
