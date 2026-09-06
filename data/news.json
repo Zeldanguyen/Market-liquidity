@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T19:08:28.144472",
+  "fetched_at": "2026-09-06T19:36:31.488723",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump administration focuses on boosting oil output, Wright says",
+        "link": "https://www.investing.com/news/economy-news/trump-administration-focuses-on-boosting-oil-output-wright-says-93CH-4890315",
+        "published": "2026-09-06 19:04:33"
+      },
+      {
         "title": "Trump administration asks Supreme Court to allow mail ballot limits",
         "link": "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313",
         "published": "2026-09-06 16:32:48"
@@ -123,11 +128,6 @@
         "title": "OPEC+ pauses oil output policy steady for October",
         "link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
         "published": "2026-09-06 12:36:04"
-      },
-      {
-        "title": "Italy could grow by up to 1% this year, minister says",
-        "link": "https://www.investing.com/news/economy-news/italy-could-grow-by-up-to-1-this-year-minister-says-93CH-4890286",
-        "published": "2026-09-06 12:11:12"
       }
     ]
   }
