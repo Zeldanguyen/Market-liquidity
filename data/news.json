@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T23:10:09.010001",
+  "fetched_at": "2026-09-07T23:37:21.200455",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "08/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/0809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1489740.htm",
+        "published": "Tue, 08 Sep 2026 06:00:00 +0700"
+      },
+      {
         "title": "UBCKNN phạt Công ty Việt Vương vì chậm công bố thông tin",
         "link": "http://vietstock.vn/2026/09/ubcknn-phat-cong-ty-viet-vuong-vi-cham-cong-bo-thong-tin-830-1489737.htm",
         "published": "Mon, 07 Sep 2026 22:32:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Phân tích kỹ thuật phiên chiều 07/09: Áp lực bán hiện hữu",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0709-ap-luc-ban-hien-huu-585-1489405.htm",
         "published": "Mon, 07 Sep 2026 13:03:13 +0700"
-      },
-      {
-        "title": "Tuần 07-11/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-        "link": "http://vietstock.vn/2026/09/tuan-07-11092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1489031.htm",
-        "published": "Mon, 07 Sep 2026 10:00:00 +0700"
       }
     ],
     "Investing.com Economy": [

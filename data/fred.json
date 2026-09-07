@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-09-07T23:08:04.866344",
+  "fetched_at": "2026-09-07T23:35:49.668566",
   "series": {
     "fed_funds_rate": [
       {
@@ -98,38 +98,9 @@
         "value": "4.73"
       }
     ],
-    "us_2y_yield": [
-      {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
-        "date": "2026-09-03",
-        "value": "4.34"
-      },
-      {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
-        "date": "2026-09-02",
-        "value": "4.39"
-      },
-      {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
-        "date": "2026-09-01",
-        "value": "4.39"
-      },
-      {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
-        "date": "2026-08-31",
-        "value": "4.34"
-      },
-      {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
-        "date": "2026-08-28",
-        "value": "4.34"
-      }
-    ],
+    "us_2y_yield": {
+      "error": "HTTP Error 502: Bad Gateway"
+    },
     "us_30y_yield": [
       {
         "realtime_start": "2026-09-04",
