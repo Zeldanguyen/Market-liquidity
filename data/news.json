@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-07T10:09:09.087008",
+  "fetched_at": "2026-09-07T10:40:32.603746",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Bà Phạm Thu Hương vừa rời top 1000 người giàu nhất hành tinh",
+        "link": "https://cafef.vn/ba-pham-thu-huong-vua-roi-top-1000-nguoi-giau-nhat-hanh-tinh-188260907173401713.chn",
+        "published": "Mon, 07 Sep 26 17:34:00 +0700"
+      },
+      {
+        "title": "Một người Việt vừa mất 42.000 tỷ đồng sau 6 tiếng",
+        "link": "https://cafef.vn/mot-nguoi-viet-vua-mat-42000-ty-dong-sau-6-tieng-188260907173158187.chn",
+        "published": "Mon, 07 Sep 26 17:31:00 +0700"
+      },
+      {
+        "title": "Bất ngờ lượng vàng của NHTW Trung Quốc sau 21 tháng mua ròng liên tiếp",
+        "link": "https://cafef.vn/bat-ngo-luong-vang-cua-nhtw-trung-quoc-sau-21-thang-mua-rong-lien-tiep-188260907172104044.chn",
+        "published": "Mon, 07 Sep 26 17:20:00 +0700"
+      },
       {
         "title": "VN-Index đột ngột \"đánh rơi\" 30 điểm phiên đầu tuần: Điều gì đang xảy ra?",
         "link": "https://cafef.vn/vn-index-dot-ngot-danh-roi-30-diem-phien-dau-tuan-dieu-gi-dang-xay-ra-188260907155447896.chn",
@@ -17,21 +32,6 @@
         "title": "Khối ngoại bán ròng gần 500 tỷ đồng trong ngày VN-Index giảm sâu, cổ phiếu nào bị \"xả\" mạnh nhất?",
         "link": "https://cafef.vn/khoi-ngoai-ban-rong-gan-500-ty-dong-trong-ngay-vn-index-giam-sau-co-phieu-nao-bi-xa-manh-nhat-188260907152912131.chn",
         "published": "Mon, 07 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Vừa nhận 800 tỷ, gia đình cựu Chủ tịch Hóa chất Đức Giang lại có thêm hơn chục tỷ từ một giao dịch đặc biệt",
-        "link": "https://cafef.vn/vua-nhan-800-ty-gia-dinh-cuu-chu-tich-hoa-chat-duc-giang-lai-co-them-hon-chuc-ty-tu-mot-giao-dich-dac-biet-188260907144446266.chn",
-        "published": "Mon, 07 Sep 26 14:45:00 +0700"
-      },
-      {
-        "title": "Rạng Đông (RAL) chốt tạm ứng cổ tức 25% sau khi hơn 66% kế hoạch lợi nhuận năm",
-        "link": "https://cafef.vn/rang-dong-ral-chot-tam-ung-co-tuc-25-sau-khi-hon-66-ke-hoach-loi-nhuan-nam-188260907135519006.chn",
-        "published": "Mon, 07 Sep 26 13:56:00 +0700"
-      },
-      {
-        "title": "Thêm 5 mã chứng khoán bị cắt margin, danh sách dài gồm 69 cái tên",
-        "link": "https://cafef.vn/them-5-ma-chung-khoan-bi-cat-margin-danh-sach-dai-gom-69-cai-ten-188260907135427154.chn",
-        "published": "Mon, 07 Sep 26 13:54:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 07/09: Khối ngoại quay lại bán ròng, VN-Index giảm hơn 31 điểm",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0709-khoi-ngoai-quay-lai-ban-rong-vn-index-giam-hon-31-diem-1636-1489224.htm",
+        "published": "Mon, 07 Sep 2026 16:57:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 07/09: Áp lực bán hiện hữu",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0709-ap-luc-ban-hien-huu-585-1489405.htm",
         "published": "Mon, 07 Sep 2026 13:03:13 +0700"
@@ -91,14 +96,14 @@
         "title": "Vietstock Weekly 07-11/09/2026: Củng cố đà tăng?",
         "link": "http://vietstock.vn/2026/09/vietstock-weekly-07-11092026-cung-co-da-tang-1636-1489030.htm",
         "published": "Sun, 06 Sep 2026 18:00:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 07-11/09/2026",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-07-11092026-585-1489032.htm",
-        "published": "Sun, 06 Sep 2026 07:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Iran’s parliament speaker warns of strikes against U.S. energy firms",
+        "link": "https://www.investing.com/news/economy-news/irans-parliament-speaker-warns-of-strikes-against-us-energy-firms-4890591",
+        "published": "2026-09-07 10:12:11"
+      },
       {
         "title": "Yen hits seven-month high; dollar soft ahead of US inflation",
         "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
@@ -123,11 +128,6 @@
         "title": "U.S., Iran exchange fresh strikes; Nvidia’s Huang on AGI - what’s moving markets",
         "link": "https://www.investing.com/news/economy-news/us-iran-exchange-fresh-strikes-nvidias-huang-on-agi--whats-moving-markets-4890510",
         "published": "2026-09-07 07:54:13"
-      },
-      {
-        "title": "European shares dip as rise in oil prices weighs; Novartis slips",
-        "link": "https://www.investing.com/news/economy-news/european-shares-dip-as-rise-in-oil-prices-weighs-novartis-slips-4890493",
-        "published": "2026-09-07 07:36:26"
       }
     ]
   }
