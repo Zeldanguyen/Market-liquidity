@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-09-07T22:08:26.729740",
+  "fetched_at": "2026-09-07T22:37:05.711997",
   "series": {
     "fed_funds_rate": [
       {
@@ -132,32 +132,32 @@
     ],
     "us_30y_yield": [
       {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
+        "realtime_start": "2026-09-07",
+        "realtime_end": "2026-09-07",
         "date": "2026-09-03",
         "value": "5.25"
       },
       {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
+        "realtime_start": "2026-09-07",
+        "realtime_end": "2026-09-07",
         "date": "2026-09-02",
         "value": "5.27"
       },
       {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
+        "realtime_start": "2026-09-07",
+        "realtime_end": "2026-09-07",
         "date": "2026-09-01",
         "value": "5.27"
       },
       {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
+        "realtime_start": "2026-09-07",
+        "realtime_end": "2026-09-07",
         "date": "2026-08-31",
         "value": "5.25"
       },
       {
-        "realtime_start": "2026-09-04",
-        "realtime_end": "2026-09-04",
+        "realtime_start": "2026-09-07",
+        "realtime_end": "2026-09-07",
         "date": "2026-08-28",
         "value": "5.22"
       }
