@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-07T10:40:32.603746",
+  "fetched_at": "2026-09-07T11:09:25.536959",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một mã chứng khoán bị tự doanh CTCK bán ròng gần trăm tỷ phiên đầu tuần",
+        "link": "https://cafef.vn/mot-ma-chung-khoan-bi-tu-doanh-ctck-ban-rong-gan-tram-ty-phien-dau-tuan-188260907174741838.chn",
+        "published": "Mon, 07 Sep 26 17:46:00 +0700"
+      },
       {
         "title": "Bà Phạm Thu Hương vừa rời top 1000 người giàu nhất hành tinh",
         "link": "https://cafef.vn/ba-pham-thu-huong-vua-roi-top-1000-nguoi-giau-nhat-hanh-tinh-188260907173401713.chn",
@@ -24,13 +29,8 @@
         "published": "Mon, 07 Sep 26 15:59:00 +0700"
       },
       {
-        "title": "Chuyện gì vừa xảy ra với cổ phiếu Vingroup?",
+        "title": "Cổ phiếu Vingroup điều chỉnh phiên đầu tuần",
         "link": "https://cafef.vn/chuyen-gi-vua-xay-ra-voi-co-phieu-vingroup-188260907154438857.chn",
-        "published": "Mon, 07 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Khối ngoại bán ròng gần 500 tỷ đồng trong ngày VN-Index giảm sâu, cổ phiếu nào bị \"xả\" mạnh nhất?",
-        "link": "https://cafef.vn/khoi-ngoai-ban-rong-gan-500-ty-dong-trong-ngay-vn-index-giam-sau-co-phieu-nao-bi-xa-manh-nhat-188260907152912131.chn",
         "published": "Mon, 07 Sep 26 15:45:00 +0700"
       }
     ],
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UK’s Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
+        "published": "2026-09-07 10:36:31"
+      },
+      {
         "title": "Iran’s parliament speaker warns of strikes against U.S. energy firms",
         "link": "https://www.investing.com/news/economy-news/irans-parliament-speaker-warns-of-strikes-against-us-energy-firms-4890591",
         "published": "2026-09-07 10:12:11"
@@ -123,11 +128,6 @@
         "title": "Take Five: Good evening, Mr Bond",
         "link": "https://www.investing.com/news/economy-news/take-five-good-evening-mr-bond-4890525",
         "published": "2026-09-07 08:00:44"
-      },
-      {
-        "title": "U.S., Iran exchange fresh strikes; Nvidia’s Huang on AGI - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/us-iran-exchange-fresh-strikes-nvidias-huang-on-agi--whats-moving-markets-4890510",
-        "published": "2026-09-07 07:54:13"
       }
     ]
   }
