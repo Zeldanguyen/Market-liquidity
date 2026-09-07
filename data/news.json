@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T06:13:07.607519",
+  "fetched_at": "2026-09-07T06:46:21.530475",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Phân tích kỹ thuật phiên chiều 07/09: Áp lực bán hiện hữu",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0709-ap-luc-ban-hien-huu-585-1489405.htm",
+        "published": "Mon, 07 Sep 2026 13:03:13 +0700"
+      },
+      {
         "title": "Nhịp đập Thị trường 07/09: Quay đầu giảm điểm",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0709-quay-dau-giam-diem-1636-1489224.htm",
         "published": "Mon, 07 Sep 2026 11:52:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Vietstock Weekly 07-11/09/2026: Củng cố đà tăng?",
         "link": "http://vietstock.vn/2026/09/vietstock-weekly-07-11092026-cung-co-da-tang-1636-1489030.htm",
         "published": "Sun, 06 Sep 2026 18:00:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 07-11/09/2026",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-07-11092026-585-1489032.htm",
-        "published": "Sun, 06 Sep 2026 07:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
