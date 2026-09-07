@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T00:14:33.604598",
+  "fetched_at": "2026-09-07T00:47:24.280662",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Takaichi’s reflationist aide projects Bank of Japan rate hike in September",
+        "link": "https://www.investing.com/news/economy-news/takaichis-reflationist-aide-projects-bank-of-japan-rate-hike-in-september-4890331",
+        "published": "2026-09-07 00:30:40"
+      },
+      {
         "title": "UK finance minister Healey seeks growth through decentralising power",
         "link": "https://www.investing.com/news/economy-news/uk-finance-minister-healey-seeks-growth-through-decentralising-power-4890323",
         "published": "2026-09-06 23:06:33"
@@ -123,11 +128,6 @@
         "title": "Israel cuts fuel tax as gasoline prices hit record high",
         "link": "https://www.investing.com/news/economy-news/israel-cuts-fuel-tax-as-gasoline-prices-hit-record-high-93CH-4890297",
         "published": "2026-09-06 14:22:13"
-      },
-      {
-        "title": "Investors to pore over inflation data for signals on rate trajectory",
-        "link": "https://www.investing.com/news/economy-news/investors-to-pore-over-inflation-data-for-signals-on-rate-trajectory-4890293",
-        "published": "2026-09-06 13:00:28"
       }
     ]
   }
