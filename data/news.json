@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T13:10:37.837689",
+  "fetched_at": "2026-09-07T13:41:52.874888",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Tổng dư nợ tín dụng của TP. Hồ Chí Minh và TP. Đồng Nai hơn 6,3 triệu tỉ đồng, tăng 9%",
+        "link": "https://vneconomy.vn/tong-du-no-tin-dung-cua-tp-ho-chi-minh-va-tp-dong-nai-hon-63-trieu-ti-dong-tang-9.htm",
+        "published": "Mon, 07 Sep 2026 13:24:45 GMT"
+      },
+      {
         "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài trong tháng 9",
         "link": "https://vneconomy.vn/ty-gia-doi-mat-nhieu-phep-thu-tu-ben-ngoai-trong-thang-9.htm",
         "published": "Mon, 07 Sep 2026 08:16:10 GMT"
@@ -59,11 +64,6 @@
         "title": "Doanh nghiệp Quốc gia tạo nên sức mạnh của các nền kinh tế lớn: Đâu là bài học cho Việt Nam?",
         "link": "https://vneconomy.vn/doanh-nghiep-quoc-gia-tao-nen-suc-manh-cua-cac-nen-kinh-te-lon-dau-la-bai-hoc-cho-viet-nam.htm",
         "published": "Mon, 07 Sep 2026 03:15:04 GMT"
-      },
-      {
-        "title": "ACB ra mắt giải pháp thanh toán QR xuyên biên giới, mở rộng kết nối giao dịch và nhận thanh toán với thị trường quốc tế",
-        "link": "https://vneconomy.vn/acb-ra-mat-giai-phap-thanh-toan-qr-xuyen-bien-gioi-mo-rong-ket-noi-giao-dich-va-nhan-thanh-toan-voi-thi-truong-quoc-te.htm",
-        "published": "Mon, 07 Sep 2026 03:14:54 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
+        "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
+        "published": "2026-09-07 13:13:36"
+      },
+      {
         "title": "Yen hits seven-month high; dollar soft ahead of US inflation",
         "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
         "published": "2026-09-07 12:37:02"
@@ -113,11 +118,6 @@
         "title": "OpenAI has sent EU incident report on hijacked German website, Commission says",
         "link": "https://www.investing.com/news/economy-news/openai-has-sent-eu-incident-report-on-hijacked-german-website-commission-says-4890611",
         "published": "2026-09-07 11:00:35"
-      },
-      {
-        "title": "UK’s Jaguar Land Rover to cut 4,000 jobs over next two years",
-        "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
-        "published": "2026-09-07 10:36:31"
       },
       {
         "title": "Iran’s parliament speaker warns of strikes against U.S. energy firms",
