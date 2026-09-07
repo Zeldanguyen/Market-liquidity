@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T02:09:32.187973",
+  "fetched_at": "2026-09-07T02:40:57.898839",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Australia’s right-wing One Nation party proposes pension shake-up to boost take-home pay",
+        "link": "https://www.investing.com/news/economy-news/australias-rightwing-one-nation-party-proposes-pension-shakeup-to-boost-takehome-pay-4890345",
+        "published": "2026-09-07 02:24:09"
+      },
+      {
         "title": "Dollar gets little lift from boost in Fed hike expectations",
         "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
         "published": "2026-09-07 01:37:07"
@@ -123,11 +128,6 @@
         "title": "Trump administration focuses on boosting oil output, Wright says",
         "link": "https://www.investing.com/news/economy-news/trump-administration-focuses-on-boosting-oil-output-wright-says-93CH-4890315",
         "published": "2026-09-06 19:04:33"
-      },
-      {
-        "title": "Trump administration asks Supreme Court to allow mail ballot limits",
-        "link": "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313",
-        "published": "2026-09-06 16:32:48"
       }
     ]
   }
