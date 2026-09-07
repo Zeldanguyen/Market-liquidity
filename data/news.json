@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-07T11:42:00.685814",
+  "fetched_at": "2026-09-07T12:12:07.020352",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Doanh thu bảo hiểm đi xuống, lợi nhuận vẫn tăng mạnh",
+        "link": "https://cafef.vn/doanh-thu-bao-hiem-di-xuong-loi-nhuan-van-tang-manh-188260907190937031.chn",
+        "published": "Mon, 07 Sep 26 19:09:00 +0700"
+      },
+      {
+        "title": "Khai trừ Đảng chủ tịch Tổng công ty Xây dựng Hà Nội",
+        "link": "https://cafef.vn/khai-tru-dang-chu-tich-tong-cong-ty-xay-dung-ha-noi-188260907190231153.chn",
+        "published": "Mon, 07 Sep 26 19:02:00 +0700"
+      },
       {
         "title": "Một mã chứng khoán bị tự doanh CTCK bán ròng gần trăm tỷ phiên đầu tuần",
         "link": "https://cafef.vn/mot-ma-chung-khoan-bi-tu-doanh-ctck-ban-rong-gan-tram-ty-phien-dau-tuan-188260907174741838.chn",
@@ -22,16 +32,6 @@
         "title": "Bất ngờ lượng vàng của NHTW Trung Quốc sau 21 tháng mua ròng liên tiếp",
         "link": "https://cafef.vn/bat-ngo-luong-vang-cua-nhtw-trung-quoc-sau-21-thang-mua-rong-lien-tiep-188260907172104044.chn",
         "published": "Mon, 07 Sep 26 17:20:00 +0700"
-      },
-      {
-        "title": "VN-Index đột ngột \"đánh rơi\" 30 điểm phiên đầu tuần: Điều gì đang xảy ra?",
-        "link": "https://cafef.vn/vn-index-dot-ngot-danh-roi-30-diem-phien-dau-tuan-dieu-gi-dang-xay-ra-188260907155447896.chn",
-        "published": "Mon, 07 Sep 26 15:59:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu Vingroup điều chỉnh phiên đầu tuần",
-        "link": "https://cafef.vn/chuyen-gi-vua-xay-ra-voi-co-phieu-vingroup-188260907154438857.chn",
-        "published": "Mon, 07 Sep 26 15:45:00 +0700"
       }
     ],
     "VnEconomy": [
