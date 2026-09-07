@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-09-07T00:47:24.280662",
+  "fetched_at": "2026-09-07T01:09:04.462794",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu VPB tăng 15% sau một tháng, đứng vững trên đường MA200",
+        "link": "https://cafef.vn/co-phieu-vpb-tang-15-sau-mot-thang-dung-vung-tren-duong-ma200-188260907080303688.chn",
+        "published": "Mon, 07 Sep 26 08:00:00 +0700"
+      },
+      {
+        "title": "AgriS (SBT) Từ chuyển giao thế hệ đến những động lực tăng trưởng mới",
+        "link": "https://cafef.vn/agris-sbt-tu-chuyen-giao-the-he-den-nhung-dong-luc-tang-truong-moi-188260905130208325.chn",
+        "published": "Mon, 07 Sep 26 08:00:00 +0700"
+      },
+      {
+        "title": "Từ công thức phân bổ tài sản đến xu hướng đầu tư được ưa chuộng",
+        "link": "https://cafef.vn/tu-cong-thuc-phan-bo-tai-san-den-xu-huong-dau-tu-duoc-ua-chuong-18826090417280464.chn",
+        "published": "Mon, 07 Sep 26 08:00:00 +0700"
+      },
+      {
+        "title": "Pinetree duy trì chính sách cho vay margin 0% trong kỳ nâng hạng FTSE",
+        "link": "https://cafef.vn/pinetree-duy-tri-chinh-sach-cho-vay-margin-0-trong-ky-nang-hang-ftse-188260904172713842.chn",
+        "published": "Mon, 07 Sep 26 08:00:00 +0700"
+      },
       {
         "title": "Vốn hóa Vingroup bằng 10 ngân hàng cộng lại",
         "link": "https://cafef.vn/von-hoa-vingroup-bang-10-ngan-hang-cong-lai-188260906233731288.chn",
@@ -12,26 +32,6 @@
         "title": "Lãi kỷ lục, một doanh nghiệp trả cổ tức gần 3.000 đồng/cp ngay trong tháng 9",
         "link": "https://cafef.vn/lai-ky-luc-mot-doanh-nghiep-tra-co-tuc-gan-3000-dong-cp-ngay-trong-thang-9-18826090622204429.chn",
         "published": "Mon, 07 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Chuyên gia chỉ ra một “tín hiệu lạ” đang xuất hiện trên thị trường chứng khoán",
-        "link": "https://cafef.vn/chuyen-gia-chi-ra-mot-tin-hieu-la-dang-xuat-hien-tren-thi-truong-chung-khoan-188260906222151798.chn",
-        "published": "Mon, 07 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Một doanh nghiệp HoSE sắp trả thêm 30% cổ tức tiền mặt, đều đăn chia tiền mặt cao chót vót suốt 16 năm",
-        "link": "https://cafef.vn/mot-doanh-nghiep-hose-sap-tra-them-30-co-tuc-tien-mat-deu-dan-chia-tien-mat-cao-chot-vot-suot-16-nam-188260906200633919.chn",
-        "published": "Sun, 06 Sep 26 20:06:00 +0700"
-      },
-      {
-        "title": "Chứng khoán hướng đỉnh cũ, dòng tiền liệu có đủ mạnh?",
-        "link": "https://cafef.vn/chung-khoan-huong-dinh-cu-dong-tien-lieu-co-du-manh-188260906164227196.chn",
-        "published": "Sun, 06 Sep 26 17:17:00 +0700"
-      },
-      {
-        "title": "CEO ngân hàng nào lương cao hơn chủ tịch?",
-        "link": "https://cafef.vn/ceo-ngan-hang-nao-luong-cao-hon-chu-tich-188260906144830421.chn",
-        "published": "Sun, 06 Sep 26 15:18:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -102,7 +102,7 @@
       {
         "title": "Takaichi’s reflationist aide projects Bank of Japan rate hike in September",
         "link": "https://www.investing.com/news/economy-news/takaichis-reflationist-aide-projects-bank-of-japan-rate-hike-in-september-4890331",
-        "published": "2026-09-07 00:30:40"
+        "published": "2026-09-07 00:54:40"
       },
       {
         "title": "UK finance minister Healey seeks growth through decentralising power",
