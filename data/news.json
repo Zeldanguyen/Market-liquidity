@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-07T07:41:51.773353",
+  "fetched_at": "2026-09-07T08:10:41.205269",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vừa nhận 800 tỷ, gia đình cựu Chủ tịch Hóa chất Đức Giang lại có thêm hơn chục tỷ từ một giao dịch đặc biệt",
+        "link": "https://cafef.vn/vua-nhan-800-ty-gia-dinh-cuu-chu-tich-hoa-chat-duc-giang-lai-co-them-hon-chuc-ty-tu-mot-giao-dich-dac-biet-188260907144446266.chn",
+        "published": "Mon, 07 Sep 26 14:45:00 +0700"
+      },
       {
         "title": "Rạng Đông (RAL) chốt tạm ứng cổ tức 25% sau khi hơn 66% kế hoạch lợi nhuận năm",
         "link": "https://cafef.vn/rang-dong-ral-chot-tam-ung-co-tuc-25-sau-khi-hon-66-ke-hoach-loi-nhuan-nam-188260907135519006.chn",
@@ -27,11 +32,6 @@
         "title": "Siết giám sát kỳ cơ cấu FTSE: Dọn đường đón vốn nâng hạng",
         "link": "https://cafef.vn/siet-giam-sat-ky-co-cau-ftse-don-duong-don-von-nang-hang-188260907113223925.chn",
         "published": "Mon, 07 Sep 26 12:32:00 +0700"
-      },
-      {
-        "title": "Tiến vào gần 3.000 trạm xăng Petrolimex, Ohmee liệu có tạo nên cơn địa chấn trên thị trường cửa hàng tiện lợi?",
-        "link": "https://cafef.vn/tien-vao-gan-3000-tram-xang-petrolimex-ohmee-lieu-co-tao-nen-con-dia-chan-tren-thi-truong-cua-hang-tien-loi-188260907113530527.chn",
-        "published": "Mon, 07 Sep 26 12:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "U.S., Iran exchange fresh strikes; Nvidia’s Huang on AGI - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/us-iran-exchange-fresh-strikes-nvidias-huang-on-agi--whats-moving-markets-4890510",
+        "published": "2026-09-07 07:54:13"
+      },
+      {
         "title": "European shares dip as rise in oil prices weighs; Novartis slips",
         "link": "https://www.investing.com/news/economy-news/european-shares-dip-as-rise-in-oil-prices-weighs-novartis-slips-4890493",
         "published": "2026-09-07 07:36:26"
@@ -123,11 +128,6 @@
         "title": "Morning Bid: Diesel the real spoiler for US inflation doves",
         "link": "https://www.investing.com/news/economy-news/morning-bid-diesel-the-real-spoiler-for-us-inflation-doves-4890357",
         "published": "2026-09-07 04:36:33"
-      },
-      {
-        "title": "China to issue $45 billion in bonds to recapitalize major banks, insurers",
-        "link": "https://www.investing.com/news/economy-news/china-to-issue-45-billion-in-bonds-to-recapitalize-major-banks-insurers-4890354",
-        "published": "2026-09-07 04:09:09"
       }
     ]
   }
