@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-07T08:42:38.783754",
+  "fetched_at": "2026-09-07T09:10:22.932459",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VN-Index đột ngột \"đánh rơi\" 30 điểm phiên đầu tuần: Điều gì đang xảy ra?",
+        "link": "https://cafef.vn/vn-index-dot-ngot-danh-roi-30-diem-phien-dau-tuan-dieu-gi-dang-xay-ra-188260907155447896.chn",
+        "published": "Mon, 07 Sep 26 15:59:00 +0700"
+      },
+      {
+        "title": "Chuyện gì vừa xảy ra với cổ phiếu Vingroup?",
+        "link": "https://cafef.vn/chuyen-gi-vua-xay-ra-voi-co-phieu-vingroup-188260907154438857.chn",
+        "published": "Mon, 07 Sep 26 15:45:00 +0700"
+      },
+      {
+        "title": "Khối ngoại bán ròng gần 500 tỷ đồng trong ngày VN-Index giảm sâu, cổ phiếu nào bị \"xả\" mạnh nhất?",
+        "link": "https://cafef.vn/khoi-ngoai-ban-rong-gan-500-ty-dong-trong-ngay-vn-index-giam-sau-co-phieu-nao-bi-xa-manh-nhat-188260907152912131.chn",
+        "published": "Mon, 07 Sep 26 15:45:00 +0700"
+      },
       {
         "title": "Vừa nhận 800 tỷ, gia đình cựu Chủ tịch Hóa chất Đức Giang lại có thêm hơn chục tỷ từ một giao dịch đặc biệt",
         "link": "https://cafef.vn/vua-nhan-800-ty-gia-dinh-cuu-chu-tich-hoa-chat-duc-giang-lai-co-them-hon-chuc-ty-tu-mot-giao-dich-dac-biet-188260907144446266.chn",
@@ -17,21 +32,6 @@
         "title": "Thêm 5 mã chứng khoán bị cắt margin, danh sách dài gồm 69 cái tên",
         "link": "https://cafef.vn/them-5-ma-chung-khoan-bi-cat-margin-danh-sach-dai-gom-69-cai-ten-188260907135427154.chn",
         "published": "Mon, 07 Sep 26 13:54:00 +0700"
-      },
-      {
-        "title": "Thị trường ngày 7/9: Dầu tiếp tục tăng mạnh khi Mỹ và Iran “ăn miếng trả miếng”, vàng lên xuống thất thường",
-        "link": "https://cafef.vn/thi-truong-ngay-7-9-dau-tiep-tuc-tang-manh-khi-my-va-iran-an-mieng-tra-mieng-vang-len-xuong-that-thuong-188260907135346556.chn",
-        "published": "Mon, 07 Sep 26 13:54:00 +0700"
-      },
-      {
-        "title": "Xây dựng Thái Sơn báo lãi hơn 11.200 tỷ đồng sau nửa năm",
-        "link": "https://cafef.vn/xay-dung-thai-son-bao-lai-hon-11200-ty-dong-sau-nua-nam-188260907113337175.chn",
-        "published": "Mon, 07 Sep 26 13:03:00 +0700"
-      },
-      {
-        "title": "Siết giám sát kỳ cơ cấu FTSE: Dọn đường đón vốn nâng hạng",
-        "link": "https://cafef.vn/siet-giam-sat-ky-co-cau-ftse-don-duong-don-von-nang-hang-188260907113223925.chn",
-        "published": "Mon, 07 Sep 26 12:32:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -73,11 +73,6 @@
         "published": "Mon, 07 Sep 2026 13:03:13 +0700"
       },
       {
-        "title": "Nhịp đập Thị trường 07/09: Quay đầu giảm điểm",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0709-quay-dau-giam-diem-1636-1489224.htm",
-        "published": "Mon, 07 Sep 2026 11:52:00 +0700"
-      },
-      {
         "title": "Tuần 07-11/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/tuan-07-11092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1489031.htm",
         "published": "Mon, 07 Sep 2026 10:00:00 +0700"
@@ -96,6 +91,11 @@
         "title": "Vietstock Weekly 07-11/09/2026: Củng cố đà tăng?",
         "link": "http://vietstock.vn/2026/09/vietstock-weekly-07-11092026-cung-co-da-tang-1636-1489030.htm",
         "published": "Sun, 06 Sep 2026 18:00:00 +0700"
+      },
+      {
+        "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 07-11/09/2026",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-07-11092026-585-1489032.htm",
+        "published": "Sun, 06 Sep 2026 07:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
