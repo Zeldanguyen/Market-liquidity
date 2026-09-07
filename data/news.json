@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T09:42:42.530635",
+  "fetched_at": "2026-09-07T10:09:09.087008",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen hits seven-month high; dollar soft ahead of US inflation",
+        "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
+        "published": "2026-09-07 09:42:32"
+      },
+      {
         "title": "UBS forecasts two US Fed rate hikes in 2026 after strong jobs report",
         "link": "https://www.investing.com/news/economy-news/ubs-forecasts-two-us-fed-rate-hikes-in-2026-after-strong-jobs-report-4890561",
         "published": "2026-09-07 09:13:06"
@@ -123,11 +128,6 @@
         "title": "European shares dip as rise in oil prices weighs; Novartis slips",
         "link": "https://www.investing.com/news/economy-news/european-shares-dip-as-rise-in-oil-prices-weighs-novartis-slips-4890493",
         "published": "2026-09-07 07:36:26"
-      },
-      {
-        "title": "UK house prices fall for first time since November 2023, Lloyds data shows",
-        "link": "https://www.investing.com/news/economy-news/uk-house-prices-fall-for-first-time-since-november-2023-lloyds-data-shows-4890455",
-        "published": "2026-09-07 06:54:28"
       }
     ]
   }
