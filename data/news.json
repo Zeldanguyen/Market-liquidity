@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T08:10:41.205269",
+  "fetched_at": "2026-09-07T08:42:38.783754",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài trong tháng 9",
+        "link": "https://vneconomy.vn/ty-gia-doi-mat-nhieu-phep-thu-tu-ben-ngoai-trong-thang-9.htm",
+        "published": "Mon, 07 Sep 2026 08:16:10 GMT"
+      },
+      {
+        "title": "SHB: Top 10 doanh nghiệp tiêu biểu về năng lượng và môi trường xanh bền vững",
+        "link": "https://vneconomy.vn/shb-top-10-doanh-nghiep-tieu-bieu-ve-nang-luong-va-moi-truong-xanh-ben-vung.htm",
+        "published": "Mon, 07 Sep 2026 08:00:39 GMT"
+      },
+      {
         "title": "Vàng trong nước cao hơn thế giới khoảng 6-8 triệu đồng/lượng",
         "link": "https://vneconomy.vn/vang-trong-nuoc-cao-hon-the-gioi-khoang-6-8-trieu-dongluong.htm",
         "published": "Mon, 07 Sep 2026 03:43:34 GMT"
@@ -54,16 +64,6 @@
         "title": "ACB ra mắt giải pháp thanh toán QR xuyên biên giới, mở rộng kết nối giao dịch và nhận thanh toán với thị trường quốc tế",
         "link": "https://vneconomy.vn/acb-ra-mat-giai-phap-thanh-toan-qr-xuyen-bien-gioi-mo-rong-ket-noi-giao-dich-va-nhan-thanh-toan-voi-thi-truong-quoc-te.htm",
         "published": "Mon, 07 Sep 2026 03:14:54 GMT"
-      },
-      {
-        "title": "Tổng thống Trump gia tăng sức ép lên Fed trước cuộc họp vào tuần tới",
-        "link": "https://vneconomy.vn/tong-thong-trump-gia-tang-suc-ep-len-fed-truoc-cuoc-hop-vao-tuan-toi.htm",
-        "published": "Mon, 07 Sep 2026 03:06:32 GMT"
-      },
-      {
-        "title": "Đằng sau việc Hồng Kông nhập khẩu 100 tấn vàng từ Nga",
-        "link": "https://vneconomy.vn/dang-sau-viec-hong-kong-nhap-khau-100-tan-vang-tu-nga.htm",
-        "published": "Mon, 07 Sep 2026 00:10:52 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Take Five: Good evening, Mr Bond",
+        "link": "https://www.investing.com/news/economy-news/take-five-good-evening-mr-bond-4890525",
+        "published": "2026-09-07 08:00:44"
+      },
+      {
         "title": "U.S., Iran exchange fresh strikes; Nvidia’s Huang on AGI - what’s moving markets",
         "link": "https://www.investing.com/news/economy-news/us-iran-exchange-fresh-strikes-nvidias-huang-on-agi--whats-moving-markets-4890510",
         "published": "2026-09-07 07:54:13"
@@ -123,11 +128,6 @@
         "title": "China’s export growth seen accelerating in August: Reuters poll",
         "link": "https://www.investing.com/news/economy-news/chinas-export-growth-seen-accelerating-in-august-reuters-poll-4890373",
         "published": "2026-09-07 05:42:55"
-      },
-      {
-        "title": "Morning Bid: Diesel the real spoiler for US inflation doves",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-diesel-the-real-spoiler-for-us-inflation-doves-4890357",
-        "published": "2026-09-07 04:36:33"
       }
     ]
   }
