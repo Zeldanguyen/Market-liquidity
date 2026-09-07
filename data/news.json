@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T23:37:23.428100",
+  "fetched_at": "2026-09-07T00:14:33.604598",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,9 +36,24 @@
     ],
     "VnEconomy": [
       {
+        "title": "Đằng sau việc Hồng Kông nhập khẩu 100 tấn vàng từ Nga",
+        "link": "https://vneconomy.vn/dang-sau-viec-hong-kong-nhap-khau-100-tan-vang-tu-nga.htm",
+        "published": "Mon, 07 Sep 2026 00:10:52 GMT"
+      },
+      {
+        "title": "Số liệu lạm phát Mỹ có thể gây biến động giá vàng tuần này",
+        "link": "https://vneconomy.vn/so-lieu-lam-phat-my-co-the-gay-bien-dong-gia-vang-tuan-nay.htm",
+        "published": "Mon, 07 Sep 2026 00:07:01 GMT"
+      },
+      {
         "title": "Giá mua, bán vàng miếng SJC sụt tới 1 triệu đồng/lượng trong tuần sau nghỉ lễ",
         "link": "https://vneconomy.vn/gia-mua-ban-vang-mieng-sjc-sut-toi-1-trieu-dongluong-trong-tuan-sau-nghi-le.htm",
         "published": "Sat, 05 Sep 2026 12:46:55 GMT"
+      },
+      {
+        "title": "Phó thủ tướng: Sửa Luật chứng khoán phải đảm bảo thị trường hoạt động ổn định, liên tục",
+        "link": "https://vneconomy.vn/pho-thu-tuong-sua-luat-chung-khoan-phai-dam-bao-thi-truong-hoat-dong-on-dinh-lien-tuc.htm",
+        "published": "Sat, 05 Sep 2026 07:24:23 GMT"
       },
       {
         "title": "Sau báo cáo việc làm “rực rỡ” của Mỹ, Tổng thống Trump kêu gọi Fed giảm lãi suất",
@@ -49,21 +64,6 @@
         "title": "Quỹ đầu tư khổng lồ của Na Uy đề xuất giảm nắm giữ trái phiếu kho bạc Mỹ",
         "link": "https://vneconomy.vn/quy-dau-tu-khong-lo-cua-na-uy-de-xuat-giam-nam-giu-trai-phieu-kho-bac-my.htm",
         "published": "Sat, 05 Sep 2026 02:34:31 GMT"
-      },
-      {
-        "title": "Vàng trượt giá sau báo cáo việc làm Mỹ, SPDR Gold Trust tiếp tục bán ròng",
-        "link": "https://vneconomy.vn/vang-truot-gia-sau-bao-cao-viec-lam-my-spdr-gold-trust-tiep-tuc-ban-rong.htm",
-        "published": "Sat, 05 Sep 2026 01:31:09 GMT"
-      },
-      {
-        "title": "Bộ Tài chính đưa ra hai kịch bản lạm phát, dư địa kiểm soát ngày càng hẹp",
-        "link": "https://vneconomy.vn/bo-tai-chinh-dua-ra-hai-kich-ban-lam-phat-du-dia-kiem-soat-ngay-cang-hep.htm",
-        "published": "Sat, 05 Sep 2026 01:19:17 GMT"
-      },
-      {
-        "title": "“Làm sạch” gần 95.000 mã số thuế, ngăn doanh nghiệp “ma”",
-        "link": "https://vneconomy.vn/lam-sach-gan-95000-ma-so-thue-ngan-doanh-nghiep-ma.htm",
-        "published": "Sat, 05 Sep 2026 01:15:54 GMT"
       }
     ],
     "Vietstock": [
