@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-07T17:09:09.313079",
+  "fetched_at": "2026-09-07T17:39:28.496788",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một quốc gia nắm giữ hàng nghìn tấn vàng đang âm thầm bán ra",
+        "link": "https://cafef.vn/mot-quoc-gia-nam-giu-hang-nghin-tan-vang-dang-am-tham-ban-ra-188260907222038416.chn",
+        "published": "Tue, 08 Sep 26 00:07:00 +0700"
+      },
       {
         "title": "Một cổ phiếu Bluechips có thể chịu áp lực bán ròng hơn 1.500 tỷ đồng ngay trong tháng 9 này",
         "link": "https://cafef.vn/mot-co-phieu-bluechips-co-the-chiu-ap-luc-ban-rong-hon-1500-ty-dong-ngay-trong-thang-9-nay-188260907224142804.chn",
@@ -27,11 +32,6 @@
         "title": "Loạt sếp lớn một doanh nghiệp bất động sản liên tục \"bắt đáy\" lượng lớn cổ phiếu",
         "link": "https://cafef.vn/loat-sep-lon-mot-doanh-nghiep-bat-dong-san-lien-tuc-bat-day-luong-lon-co-phieu-188260907220347851.chn",
         "published": "Tue, 08 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "PvX Partners tài trợ 12 triệu USD cho Skylink Studio đưa Classic Games Việt ra thế giới",
-        "link": "https://cafef.vn/pvx-partners-tai-tro-12-trieu-usd-cho-skylink-studio-dua-classic-games-viet-ra-the-gioi-188260907120711724.chn",
-        "published": "Mon, 07 Sep 26 19:30:00 +0700"
       }
     ],
     "VnEconomy": [
