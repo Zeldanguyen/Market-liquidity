@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T07:11:27.417636",
+  "fetched_at": "2026-09-07T07:41:51.773353",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -19,8 +19,8 @@
         "published": "Mon, 07 Sep 26 13:54:00 +0700"
       },
       {
-        "title": "Một công ty con của Vingroup chỉ có 1 nhân viên, báo lãi hơn 11.200 tỷ đồng sau nửa năm",
-        "link": "https://cafef.vn/mot-cong-ty-con-cua-vingroup-chi-co-1-nhan-vien-bao-lai-hon-11200-ty-dong-sau-nua-nam-188260907113337175.chn",
+        "title": "Xây dựng Thái Sơn báo lãi hơn 11.200 tỷ đồng sau nửa năm",
+        "link": "https://cafef.vn/xay-dung-thai-son-bao-lai-hon-11200-ty-dong-sau-nua-nam-188260907113337175.chn",
         "published": "Mon, 07 Sep 26 13:03:00 +0700"
       },
       {
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "European shares dip as rise in oil prices weighs; Novartis slips",
+        "link": "https://www.investing.com/news/economy-news/european-shares-dip-as-rise-in-oil-prices-weighs-novartis-slips-4890493",
+        "published": "2026-09-07 07:36:26"
+      },
+      {
+        "title": "UK house prices fall for first time since November 2023, Lloyds data shows",
+        "link": "https://www.investing.com/news/economy-news/uk-house-prices-fall-for-first-time-since-november-2023-lloyds-data-shows-4890455",
+        "published": "2026-09-07 06:54:28"
+      },
+      {
         "title": "Dollar barely gets lift from boost in Fed hike expectations",
         "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
         "published": "2026-09-07 06:30:31"
@@ -118,16 +128,6 @@
         "title": "China to issue $45 billion in bonds to recapitalize major banks, insurers",
         "link": "https://www.investing.com/news/economy-news/china-to-issue-45-billion-in-bonds-to-recapitalize-major-banks-insurers-4890354",
         "published": "2026-09-07 04:09:09"
-      },
-      {
-        "title": "Another rate hike, just for insurance: Five questions for the ECB",
-        "link": "https://www.investing.com/news/economy-news/another-rate-hike-just-for-insurance-five-questions-for-the-ecb-4890353",
-        "published": "2026-09-07 04:06:28"
-      },
-      {
-        "title": "Yen’s changing fortunes might finally be spooking the bears",
-        "link": "https://www.investing.com/news/economy-news/yens-changing-fortunes-might-finally-be-spooking-the-bears-4890347",
-        "published": "2026-09-07 03:00:34"
       }
     ]
   }
