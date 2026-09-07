@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-07T01:09:04.462794",
+  "fetched_at": "2026-09-07T01:39:51.545846",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 7/9-11/9, tỷ lệ cao nhất 30%",
+        "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-7-9-11-9-ty-le-cao-nhat-30-18826090708104502.chn",
+        "published": "Mon, 07 Sep 26 08:10:00 +0700"
+      },
       {
         "title": "Cổ phiếu VPB tăng 15% sau một tháng, đứng vững trên đường MA200",
         "link": "https://cafef.vn/co-phieu-vpb-tang-15-sau-mot-thang-dung-vung-tren-duong-ma200-188260907080303688.chn",
@@ -27,11 +32,6 @@
         "title": "Vốn hóa Vingroup bằng 10 ngân hàng cộng lại",
         "link": "https://cafef.vn/von-hoa-vingroup-bang-10-ngan-hang-cong-lai-188260906233731288.chn",
         "published": "Mon, 07 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Lãi kỷ lục, một doanh nghiệp trả cổ tức gần 3.000 đồng/cp ngay trong tháng 9",
-        "link": "https://cafef.vn/lai-ky-luc-mot-doanh-nghiep-tra-co-tuc-gan-3000-dong-cp-ngay-trong-thang-9-18826090622204429.chn",
-        "published": "Mon, 07 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 07/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0709-830-1489022.htm",
+        "published": "Mon, 07 Sep 2026 08:00:00 +0700"
+      },
+      {
         "title": "07/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/0709-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1489139.htm",
         "published": "Mon, 07 Sep 2026 06:02:00 +0700"
@@ -91,14 +96,14 @@
         "title": "Gia đình Chủ tịch PNJ từ cổ đông thành chủ nợ, giảm bớt rủi ro trong khủng hoảng",
         "link": "http://vietstock.vn/2026/09/gia-dinh-chu-tich-pnj-tu-co-dong-thanh-chu-no-giam-bot-rui-ro-trong-khung-hoang-830-1489051.htm",
         "published": "Sat, 05 Sep 2026 11:17:26 +0700"
-      },
-      {
-        "title": "DatVietVAC x Lenzo Yoon: Tham vọng xây dựng nền kinh tế fandom nghìn tỷ",
-        "link": "http://vietstock.vn/2026/09/datvietvac-x-lenzo-yoon-tham-vong-xay-dung-nen-kinh-te-fandom-nghin-ty-830-1488675.htm",
-        "published": "Sat, 05 Sep 2026 06:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Asia shares bounce, others cautious as oil rises",
+        "link": "https://www.investing.com/news/economy-news/asia-shares-bounce-others-cautious-as-oil-rises-4890338",
+        "published": "2026-09-07 01:13:13"
+      },
       {
         "title": "Takaichi’s reflationist aide projects Bank of Japan rate hike in September",
         "link": "https://www.investing.com/news/economy-news/takaichis-reflationist-aide-projects-bank-of-japan-rate-hike-in-september-4890331",
@@ -123,11 +128,6 @@
         "title": "What is \"The Warsh Shadow Rate\"?",
         "link": "https://www.investing.com/news/economy-news/what-is-the-warsh-shadow-rate-4890298",
         "published": "2026-09-06 14:26:09"
-      },
-      {
-        "title": "Israel cuts fuel tax as gasoline prices hit record high",
-        "link": "https://www.investing.com/news/economy-news/israel-cuts-fuel-tax-as-gasoline-prices-hit-record-high-93CH-4890297",
-        "published": "2026-09-06 14:22:13"
       }
     ]
   }
