@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-07T05:40:58.832447",
+  "fetched_at": "2026-09-07T06:13:07.607519",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một công ty con của Vingroup chỉ có 1 nhân viên, báo lãi hơn 11.200 tỷ đồng sau nửa năm",
+        "link": "https://cafef.vn/mot-cong-ty-con-cua-vingroup-chi-co-1-nhan-vien-bao-lai-hon-11200-ty-dong-sau-nua-nam-188260907113337175.chn",
+        "published": "Mon, 07 Sep 26 13:03:00 +0700"
+      },
       {
         "title": "Siết giám sát kỳ cơ cấu FTSE: Dọn đường đón vốn nâng hạng",
         "link": "https://cafef.vn/siet-giam-sat-ky-co-cau-ftse-don-duong-don-von-nang-hang-188260907113223925.chn",
@@ -27,11 +32,6 @@
         "title": "Những điểm nhấn khi doanh nghiệp FDI bước ra đại chúng",
         "link": "https://cafef.vn/nhung-diem-nhan-khi-doanh-nghiep-fdi-buoc-ra-dai-chung-188260907113127916.chn",
         "published": "Mon, 07 Sep 26 11:31:00 +0700"
-      },
-      {
-        "title": "Nữ trợ lý cấp cao vừa được bổ nhiệm giữ chức Chủ tịch một công ty chứng khoán",
-        "link": "https://cafef.vn/nu-tro-ly-cap-cao-vua-duoc-bo-nhiem-giu-chuc-chu-tich-mot-cong-ty-chung-khoan-188260907112919917.chn",
-        "published": "Mon, 07 Sep 26 11:29:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China’s export growth seen accelerating in August: Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/chinas-export-growth-seen-accelerating-in-august-reuters-poll-4890373",
+        "published": "2026-09-07 05:42:55"
+      },
+      {
         "title": "Morning Bid: Diesel the real spoiler for US inflation doves",
         "link": "https://www.investing.com/news/economy-news/morning-bid-diesel-the-real-spoiler-for-us-inflation-doves-4890357",
         "published": "2026-09-07 04:36:33"
@@ -123,11 +128,6 @@
         "title": "Australia’s right-wing One Nation party proposes pension shake-up to boost take-home pay",
         "link": "https://www.investing.com/news/economy-news/australias-rightwing-one-nation-party-proposes-pension-shakeup-to-boost-takehome-pay-4890345",
         "published": "2026-09-07 02:24:09"
-      },
-      {
-        "title": "Dollar gets little lift from boost in Fed hike expectations",
-        "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
-        "published": "2026-09-07 01:37:07"
       }
     ]
   }
