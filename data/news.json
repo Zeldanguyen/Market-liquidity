@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T15:09:54.213902",
+  "fetched_at": "2026-09-07T15:40:58.646551",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen surges to seven-month high; dollar drifts ahead of US inflation",
+        "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
+        "published": "2026-09-07 14:55:42"
+      },
+      {
         "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
         "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
         "published": "2026-09-07 13:13:36"
-      },
-      {
-        "title": "Yen hits seven-month high; dollar soft ahead of US inflation",
-        "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
-        "published": "2026-09-07 12:37:02"
       },
       {
         "title": "UBS expects the Fed to lift rates twice before the end of the year. Here’s why.",
