@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T12:45:04.687059",
+  "fetched_at": "2026-09-07T13:10:37.837689",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Theo dấu dòng tiền cá mập 07/09: Khối ngoại, tự doanh cùng xả trong phiên giảm hơn 31 điểm",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0709-khoi-ngoai-tu-doanh-cung-xa-trong-phien-giam-hon-31-diem-830-1489704.htm",
+        "published": "Mon, 07 Sep 2026 19:21:13 +0700"
+      },
+      {
         "title": "Vietstock Daily 08/09/2026: Áp lực trở lại",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-08092026-ap-luc-tro-lai-1636-1489600.htm",
         "published": "Mon, 07 Sep 2026 18:06:24 +0700"
@@ -91,11 +96,6 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 07/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0709-830-1489022.htm",
         "published": "Mon, 07 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "07/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/0709-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1489139.htm",
-        "published": "Mon, 07 Sep 2026 06:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
