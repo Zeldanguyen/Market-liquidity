@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T09:10:22.932459",
+  "fetched_at": "2026-09-07T09:42:42.530635",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UBS forecasts two US Fed rate hikes in 2026 after strong jobs report",
+        "link": "https://www.investing.com/news/economy-news/ubs-forecasts-two-us-fed-rate-hikes-in-2026-after-strong-jobs-report-4890561",
+        "published": "2026-09-07 09:13:06"
+      },
+      {
+        "title": "Five things to watch in markets in the week ahead",
+        "link": "https://www.investing.com/news/economy-news/five-things-to-watch-in-markets-in-the-week-ahead-4890560",
+        "published": "2026-09-07 09:12:57"
+      },
+      {
         "title": "Take Five: Good evening, Mr Bond",
         "link": "https://www.investing.com/news/economy-news/take-five-good-evening-mr-bond-4890525",
         "published": "2026-09-07 08:00:44"
@@ -118,16 +128,6 @@
         "title": "UK house prices fall for first time since November 2023, Lloyds data shows",
         "link": "https://www.investing.com/news/economy-news/uk-house-prices-fall-for-first-time-since-november-2023-lloyds-data-shows-4890455",
         "published": "2026-09-07 06:54:28"
-      },
-      {
-        "title": "Dollar barely gets lift from boost in Fed hike expectations",
-        "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
-        "published": "2026-09-07 06:30:31"
-      },
-      {
-        "title": "China’s export growth seen accelerating in August: Reuters poll",
-        "link": "https://www.investing.com/news/economy-news/chinas-export-growth-seen-accelerating-in-august-reuters-poll-4890373",
-        "published": "2026-09-07 05:42:55"
       }
     ]
   }
