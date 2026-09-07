@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T02:40:57.898839",
+  "fetched_at": "2026-09-07T03:09:43.750023",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Tổng thống Trump gia tăng sức ép lên Fed trước cuộc họp vào tuần tới",
+        "link": "https://vneconomy.vn/tong-thong-trump-gia-tang-suc-ep-len-fed-truoc-cuoc-hop-vao-tuan-toi.htm",
+        "published": "Mon, 07 Sep 2026 03:06:32 GMT"
+      },
+      {
         "title": "Đằng sau việc Hồng Kông nhập khẩu 100 tấn vàng từ Nga",
         "link": "https://vneconomy.vn/dang-sau-viec-hong-kong-nhap-khau-100-tan-vang-tu-nga.htm",
         "published": "Mon, 07 Sep 2026 00:10:52 GMT"
@@ -59,11 +64,6 @@
         "title": "Sau báo cáo việc làm “rực rỡ” của Mỹ, Tổng thống Trump kêu gọi Fed giảm lãi suất",
         "link": "https://vneconomy.vn/sau-bao-cao-viec-lam-ruc-ro-cua-my-tong-thong-trump-keu-goi-fed-giam-lai-suat.htm",
         "published": "Sat, 05 Sep 2026 02:35:00 GMT"
-      },
-      {
-        "title": "Quỹ đầu tư khổng lồ của Na Uy đề xuất giảm nắm giữ trái phiếu kho bạc Mỹ",
-        "link": "https://vneconomy.vn/quy-dau-tu-khong-lo-cua-na-uy-de-xuat-giam-nam-giu-trai-phieu-kho-bac-my.htm",
-        "published": "Sat, 05 Sep 2026 02:34:31 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen’s changing fortunes might finally be spooking the bears",
+        "link": "https://www.investing.com/news/economy-news/yens-changing-fortunes-might-finally-be-spooking-the-bears-4890347",
+        "published": "2026-09-07 03:00:34"
+      },
+      {
         "title": "Australia’s right-wing One Nation party proposes pension shake-up to boost take-home pay",
         "link": "https://www.investing.com/news/economy-news/australias-rightwing-one-nation-party-proposes-pension-shakeup-to-boost-takehome-pay-4890345",
         "published": "2026-09-07 02:24:09"
@@ -123,11 +128,6 @@
         "title": "UK finance minister Healey seeks growth through decentralising power",
         "link": "https://www.investing.com/news/economy-news/uk-finance-minister-healey-seeks-growth-through-decentralising-power-4890323",
         "published": "2026-09-06 23:06:33"
-      },
-      {
-        "title": "Trump administration focuses on boosting oil output, Wright says",
-        "link": "https://www.investing.com/news/economy-news/trump-administration-focuses-on-boosting-oil-output-wright-says-93CH-4890315",
-        "published": "2026-09-06 19:04:33"
       }
     ]
   }
