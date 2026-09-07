@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T01:39:51.545846",
+  "fetched_at": "2026-09-07T02:09:32.187973",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar gets little lift from boost in Fed hike expectations",
+        "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
+        "published": "2026-09-07 01:37:07"
+      },
+      {
         "title": "Asia shares bounce, others cautious as oil rises",
         "link": "https://www.investing.com/news/economy-news/asia-shares-bounce-others-cautious-as-oil-rises-4890338",
         "published": "2026-09-07 01:13:13"
@@ -123,11 +128,6 @@
         "title": "Trump administration asks Supreme Court to allow mail ballot limits",
         "link": "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313",
         "published": "2026-09-06 16:32:48"
-      },
-      {
-        "title": "What is \"The Warsh Shadow Rate\"?",
-        "link": "https://www.investing.com/news/economy-news/what-is-the-warsh-shadow-rate-4890298",
-        "published": "2026-09-06 14:26:09"
       }
     ]
   }
