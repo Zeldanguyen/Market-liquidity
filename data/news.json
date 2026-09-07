@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-07T04:42:06.006231",
+  "fetched_at": "2026-09-07T05:09:13.657517",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tiến vào gần 3.000 trạm xăng Petrolimex, Ohmee liệu có tạo nên cơn địa chấn trên thị trường cửa hàng tiện lợi?",
+        "link": "https://cafef.vn/tien-vao-gan-3000-tram-xang-petrolimex-ohmee-lieu-co-tao-nen-con-dia-chan-tren-thi-truong-cua-hang-tien-loi-188260907113530527.chn",
+        "published": "Mon, 07 Sep 26 12:05:00 +0700"
+      },
       {
         "title": "Một \"đại gia\" Việt thu hơn 87.000 tỷ trong 8 tháng, bán gì mà khủng thế?",
         "link": "https://cafef.vn/mot-dai-gia-viet-thu-hon-87000-ty-trong-8-thang-ban-gi-ma-khung-the-188260907113829775.chn",
@@ -27,11 +32,6 @@
         "title": "Cổ phiếu DLG của Đức Long Gia Lai bị giữ nguyên diện cảnh báo",
         "link": "https://cafef.vn/co-phieu-dlg-cua-duc-long-gia-lai-bi-giu-nguyen-dien-canh-bao-188260907110648032.chn",
         "published": "Mon, 07 Sep 26 11:06:00 +0700"
-      },
-      {
-        "title": "Thuduc House bị nhắc nhở vì chậm công bố BCTC bán niên 2026 đã được soát xét",
-        "link": "https://cafef.vn/thuduc-house-bi-nhac-nho-vi-cham-cong-bo-bctc-ban-nien-2026-da-duoc-soat-xet-188260907110603481.chn",
-        "published": "Mon, 07 Sep 26 11:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Morning Bid: Diesel the real spoiler for US inflation doves",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-diesel-the-real-spoiler-for-us-inflation-doves-4890357",
+        "published": "2026-09-07 04:36:33"
+      },
+      {
         "title": "China to issue $45 billion in bonds to recapitalize major banks, insurers",
         "link": "https://www.investing.com/news/economy-news/china-to-issue-45-billion-in-bonds-to-recapitalize-major-banks-insurers-4890354",
         "published": "2026-09-07 04:09:09"
@@ -123,11 +128,6 @@
         "title": "Dollar gets little lift from boost in Fed hike expectations",
         "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
         "published": "2026-09-07 01:37:07"
-      },
-      {
-        "title": "Asia shares bounce, others cautious as oil rises",
-        "link": "https://www.investing.com/news/economy-news/asia-shares-bounce-others-cautious-as-oil-rises-4890338",
-        "published": "2026-09-07 01:13:13"
       }
     ]
   }
