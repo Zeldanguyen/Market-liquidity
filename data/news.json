@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-07T03:09:43.750023",
+  "fetched_at": "2026-09-07T03:42:19.037527",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VN-Index hướng mốc 1.900 điểm, nhà đầu tư nên làm gì?",
+        "link": "https://cafef.vn/vn-index-huong-moc-1900-diem-nha-dau-tu-nen-lam-gi-18826090710220235.chn",
+        "published": "Mon, 07 Sep 26 10:24:00 +0700"
+      },
+      {
+        "title": "Không chỉ nâng hạng, nhà đầu tư chứng khoán cần lưu ý tín hiệu quan trọng này trong tháng 9",
+        "link": "https://cafef.vn/khong-chi-nang-hang-nha-dau-tu-chung-khoan-can-luu-y-tin-hieu-quan-trong-nay-trong-thang-9-188260907101935749.chn",
+        "published": "Mon, 07 Sep 26 10:20:00 +0700"
+      },
+      {
+        "title": "Ngay trong tháng 9, Novaland và một mã ngân hàng có thể được hai \"cá mập\" tổng quy mô 24.000 tỷ đồng săn lùng mạnh nhất",
+        "link": "https://cafef.vn/ngay-trong-thang-9-novaland-va-mot-ma-ngan-hang-co-the-duoc-hai-ca-map-tong-quy-mo-24000-ty-dong-san-lung-manh-nhat-188260907101928334.chn",
+        "published": "Mon, 07 Sep 26 10:19:00 +0700"
+      },
       {
         "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 7/9-11/9, tỷ lệ cao nhất 30%",
         "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-7-9-11-9-ty-le-cao-nhat-30-18826090708104502.chn",
@@ -17,24 +32,24 @@
         "title": "AgriS (SBT) Từ chuyển giao thế hệ đến những động lực tăng trưởng mới",
         "link": "https://cafef.vn/agris-sbt-tu-chuyen-giao-the-he-den-nhung-dong-luc-tang-truong-moi-188260905130208325.chn",
         "published": "Mon, 07 Sep 26 08:00:00 +0700"
-      },
-      {
-        "title": "Từ công thức phân bổ tài sản đến xu hướng đầu tư được ưa chuộng",
-        "link": "https://cafef.vn/tu-cong-thuc-phan-bo-tai-san-den-xu-huong-dau-tu-duoc-ua-chuong-18826090417280464.chn",
-        "published": "Mon, 07 Sep 26 08:00:00 +0700"
-      },
-      {
-        "title": "Pinetree duy trì chính sách cho vay margin 0% trong kỳ nâng hạng FTSE",
-        "link": "https://cafef.vn/pinetree-duy-tri-chinh-sach-cho-vay-margin-0-trong-ky-nang-hang-ftse-188260904172713842.chn",
-        "published": "Mon, 07 Sep 26 08:00:00 +0700"
-      },
-      {
-        "title": "Vốn hóa Vingroup bằng 10 ngân hàng cộng lại",
-        "link": "https://cafef.vn/von-hoa-vingroup-bang-10-ngan-hang-cong-lai-188260906233731288.chn",
-        "published": "Mon, 07 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Chênh lệch lợi suất trái phiếu giữa Mỹ và Trung Quốc lớn nhất 20 năm",
+        "link": "https://vneconomy.vn/chenh-lech-loi-suat-trai-phieu-giua-my-va-trung-quoc-lon-nhat-20-nam.htm",
+        "published": "Mon, 07 Sep 2026 03:20:00 GMT"
+      },
+      {
+        "title": "Doanh nghiệp Quốc gia tạo nên sức mạnh của các nền kinh tế lớn: Đâu là bài học cho Việt Nam?",
+        "link": "https://vneconomy.vn/doanh-nghiep-quoc-gia-tao-nen-suc-manh-cua-cac-nen-kinh-te-lon-dau-la-bai-hoc-cho-viet-nam.htm",
+        "published": "Mon, 07 Sep 2026 03:15:04 GMT"
+      },
+      {
+        "title": "ACB ra mắt giải pháp thanh toán QR xuyên biên giới, mở rộng kết nối giao dịch và nhận thanh toán với thị trường quốc tế",
+        "link": "https://vneconomy.vn/acb-ra-mat-giai-phap-thanh-toan-qr-xuyen-bien-gioi-mo-rong-ket-noi-giao-dich-va-nhan-thanh-toan-voi-thi-truong-quoc-te.htm",
+        "published": "Mon, 07 Sep 2026 03:14:54 GMT"
+      },
       {
         "title": "Tổng thống Trump gia tăng sức ép lên Fed trước cuộc họp vào tuần tới",
         "link": "https://vneconomy.vn/tong-thong-trump-gia-tang-suc-ep-len-fed-truoc-cuoc-hop-vao-tuan-toi.htm",
@@ -49,24 +64,14 @@
         "title": "Số liệu lạm phát Mỹ có thể gây biến động giá vàng tuần này",
         "link": "https://vneconomy.vn/so-lieu-lam-phat-my-co-the-gay-bien-dong-gia-vang-tuan-nay.htm",
         "published": "Mon, 07 Sep 2026 00:07:01 GMT"
-      },
-      {
-        "title": "Giá mua, bán vàng miếng SJC sụt tới 1 triệu đồng/lượng trong tuần sau nghỉ lễ",
-        "link": "https://vneconomy.vn/gia-mua-ban-vang-mieng-sjc-sut-toi-1-trieu-dongluong-trong-tuan-sau-nghi-le.htm",
-        "published": "Sat, 05 Sep 2026 12:46:55 GMT"
-      },
-      {
-        "title": "Phó thủ tướng: Sửa Luật chứng khoán phải đảm bảo thị trường hoạt động ổn định, liên tục",
-        "link": "https://vneconomy.vn/pho-thu-tuong-sua-luat-chung-khoan-phai-dam-bao-thi-truong-hoat-dong-on-dinh-lien-tuc.htm",
-        "published": "Sat, 05 Sep 2026 07:24:23 GMT"
-      },
-      {
-        "title": "Sau báo cáo việc làm “rực rỡ” của Mỹ, Tổng thống Trump kêu gọi Fed giảm lãi suất",
-        "link": "https://vneconomy.vn/sau-bao-cao-viec-lam-ruc-ro-cua-my-tong-thong-trump-keu-goi-fed-giam-lai-suat.htm",
-        "published": "Sat, 05 Sep 2026 02:35:00 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Tuần 07-11/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+        "link": "http://vietstock.vn/2026/09/tuan-07-11092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1489031.htm",
+        "published": "Mon, 07 Sep 2026 10:00:00 +0700"
+      },
       {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 07/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0709-830-1489022.htm",
@@ -91,11 +96,6 @@
         "title": "Chỉ 2 phiên giao dịch, VIC đưa VN-Index qua những cung bậc trái chiều",
         "link": "http://vietstock.vn/2026/09/chi-2-phien-giao-dich-vic-dua-vn-index-qua-nhung-cung-bac-trai-chieu-830-1489047.htm",
         "published": "Sat, 05 Sep 2026 20:32:00 +0700"
-      },
-      {
-        "title": "Gia đình Chủ tịch PNJ từ cổ đông thành chủ nợ, giảm bớt rủi ro trong khủng hoảng",
-        "link": "http://vietstock.vn/2026/09/gia-dinh-chu-tich-pnj-tu-co-dong-thanh-chu-no-giam-bot-rui-ro-trong-khung-hoang-830-1489051.htm",
-        "published": "Sat, 05 Sep 2026 11:17:26 +0700"
       }
     ],
     "Investing.com Economy": [
