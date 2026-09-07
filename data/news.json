@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-07T06:46:21.530475",
+  "fetched_at": "2026-09-07T07:11:27.417636",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Rạng Đông (RAL) chốt tạm ứng cổ tức 25% sau khi hơn 66% kế hoạch lợi nhuận năm",
+        "link": "https://cafef.vn/rang-dong-ral-chot-tam-ung-co-tuc-25-sau-khi-hon-66-ke-hoach-loi-nhuan-nam-188260907135519006.chn",
+        "published": "Mon, 07 Sep 26 13:56:00 +0700"
+      },
+      {
+        "title": "Thêm 5 mã chứng khoán bị cắt margin, danh sách dài gồm 69 cái tên",
+        "link": "https://cafef.vn/them-5-ma-chung-khoan-bi-cat-margin-danh-sach-dai-gom-69-cai-ten-188260907135427154.chn",
+        "published": "Mon, 07 Sep 26 13:54:00 +0700"
+      },
+      {
+        "title": "Thị trường ngày 7/9: Dầu tiếp tục tăng mạnh khi Mỹ và Iran “ăn miếng trả miếng”, vàng lên xuống thất thường",
+        "link": "https://cafef.vn/thi-truong-ngay-7-9-dau-tiep-tuc-tang-manh-khi-my-va-iran-an-mieng-tra-mieng-vang-len-xuong-that-thuong-188260907135346556.chn",
+        "published": "Mon, 07 Sep 26 13:54:00 +0700"
+      },
       {
         "title": "Một công ty con của Vingroup chỉ có 1 nhân viên, báo lãi hơn 11.200 tỷ đồng sau nửa năm",
         "link": "https://cafef.vn/mot-cong-ty-con-cua-vingroup-chi-co-1-nhan-vien-bao-lai-hon-11200-ty-dong-sau-nua-nam-188260907113337175.chn",
@@ -17,21 +32,6 @@
         "title": "Tiến vào gần 3.000 trạm xăng Petrolimex, Ohmee liệu có tạo nên cơn địa chấn trên thị trường cửa hàng tiện lợi?",
         "link": "https://cafef.vn/tien-vao-gan-3000-tram-xang-petrolimex-ohmee-lieu-co-tao-nen-con-dia-chan-tren-thi-truong-cua-hang-tien-loi-188260907113530527.chn",
         "published": "Mon, 07 Sep 26 12:05:00 +0700"
-      },
-      {
-        "title": "Một \"đại gia\" Việt thu hơn 87.000 tỷ trong 8 tháng, bán gì mà khủng thế?",
-        "link": "https://cafef.vn/mot-dai-gia-viet-thu-hon-87000-ty-trong-8-thang-ban-gi-ma-khung-the-188260907113829775.chn",
-        "published": "Mon, 07 Sep 26 11:38:00 +0700"
-      },
-      {
-        "title": "Một người đàn ông Anh vừa bất ngờ tìm lại được 61 Bitcoin bị mất sau 12 năm, hiện trị giá 4,5 triệu USD",
-        "link": "https://cafef.vn/mot-nguoi-dan-ong-anh-vua-bat-ngo-tim-lai-duoc-61-bitcoin-bi-mat-sau-12-nam-hien-tri-gia-45-trieu-usd-18826090711361224.chn",
-        "published": "Mon, 07 Sep 26 11:36:00 +0700"
-      },
-      {
-        "title": "Những điểm nhấn khi doanh nghiệp FDI bước ra đại chúng",
-        "link": "https://cafef.vn/nhung-diem-nhan-khi-doanh-nghiep-fdi-buoc-ra-dai-chung-188260907113127916.chn",
-        "published": "Mon, 07 Sep 26 11:31:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar barely gets lift from boost in Fed hike expectations",
+        "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
+        "published": "2026-09-07 06:30:31"
+      },
+      {
         "title": "China’s export growth seen accelerating in August: Reuters poll",
         "link": "https://www.investing.com/news/economy-news/chinas-export-growth-seen-accelerating-in-august-reuters-poll-4890373",
         "published": "2026-09-07 05:42:55"
@@ -123,11 +128,6 @@
         "title": "Yen’s changing fortunes might finally be spooking the bears",
         "link": "https://www.investing.com/news/economy-news/yens-changing-fortunes-might-finally-be-spooking-the-bears-4890347",
         "published": "2026-09-07 03:00:34"
-      },
-      {
-        "title": "Australia’s right-wing One Nation party proposes pension shake-up to boost take-home pay",
-        "link": "https://www.investing.com/news/economy-news/australias-rightwing-one-nation-party-proposes-pension-shakeup-to-boost-takehome-pay-4890345",
-        "published": "2026-09-07 02:24:09"
       }
     ]
   }
