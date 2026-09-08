@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T23:37:21.200455",
+  "fetched_at": "2026-09-08T00:13:59.801838",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan revises Q2 GDP up to annualised 1.4% expansion",
+        "link": "https://www.investing.com/news/economy-news/japan-revises-q2-gdp-up-to-annualised-14-expansion-4890749",
+        "published": "2026-09-08 00:00:50"
+      },
+      {
+        "title": "Japan July real wages rise 2.4%, biggest gain since 2021",
+        "link": "https://www.investing.com/news/economy-news/japan-july-real-wages-rise-24-biggest-gain-since-2021-4890748",
+        "published": "2026-09-07 23:36:31"
+      },
+      {
+        "title": "Colombia 12-month inflation edges up more than expected in August",
+        "link": "https://www.investing.com/news/economy-news/colombia-12month-inflation-edges-up-more-than-expected-in-august-4890747",
+        "published": "2026-09-07 23:30:29"
+      },
+      {
         "title": "Yen surges to seven-month high; dollar drifts ahead of US inflation",
         "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
         "published": "2026-09-07 14:55:42"
@@ -113,21 +128,6 @@
         "title": "UBS expects the Fed to lift rates twice before the end of the year. Here’s why.",
         "link": "https://www.investing.com/news/economy-news/ubs-expects-the-fed-to-lift-rates-twice-before-the-end-of-the-year-heres-why-4890628",
         "published": "2026-09-07 11:58:53"
-      },
-      {
-        "title": "OpenAI has sent EU incident report on hijacked German website, Commission says",
-        "link": "https://www.investing.com/news/economy-news/openai-has-sent-eu-incident-report-on-hijacked-german-website-commission-says-4890611",
-        "published": "2026-09-07 11:00:35"
-      },
-      {
-        "title": "Iran’s parliament speaker warns of strikes against U.S. energy firms",
-        "link": "https://www.investing.com/news/economy-news/irans-parliament-speaker-warns-of-strikes-against-us-energy-firms-4890591",
-        "published": "2026-09-07 10:12:11"
-      },
-      {
-        "title": "UBS forecasts two US Fed rate hikes in 2026 after strong jobs report",
-        "link": "https://www.investing.com/news/economy-news/ubs-forecasts-two-us-fed-rate-hikes-in-2026-after-strong-jobs-report-4890561",
-        "published": "2026-09-07 09:13:06"
       }
     ]
   }
