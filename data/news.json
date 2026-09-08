@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-08T06:44:54.380841",
+  "fetched_at": "2026-09-08T07:11:02.379954",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "HOSE có thông báo mới đối với cổ phiếu HVN của Vietnam Airlines",
+        "link": "https://cafef.vn/hose-co-thong-bao-moi-doi-voi-co-phieu-hvn-cua-vietnam-airlines-188260908114306183.chn",
+        "published": "Tue, 08 Sep 26 14:05:00 +0700"
+      },
+      {
+        "title": "Một thành viên HĐQT Bệnh viện TNH muốn bán sạch cổ phiếu TNH đang có",
+        "link": "https://cafef.vn/mot-thanh-vien-hdqt-benh-vien-tnh-muon-ban-sach-co-phieu-tnh-dang-co-188260908133730789.chn",
+        "published": "Tue, 08 Sep 26 13:46:00 +0700"
+      },
       {
         "title": "Ông Nguyễn Như Hoàng Tuấn bị bắt, cổ phiếu DN \"có biến’\" trước ĐHĐCĐ bất thường",
         "link": "https://cafef.vn/ong-nguyen-nhu-hoang-tuan-bi-bat-co-phieu-dn-co-bien-truoc-dhdcd-bat-thuong-188260908133642856.chn",
@@ -22,16 +32,6 @@
         "title": "Kinh Bắc nắm quyền kiểm soát công ty quản lý CLB Bóng đá Hưng Yên",
         "link": "https://cafef.vn/kinh-bac-nam-quyen-kiem-soat-cong-ty-quan-ly-clb-bong-da-hung-yen-188260908110230352.chn",
         "published": "Tue, 08 Sep 26 11:44:00 +0700"
-      },
-      {
-        "title": "Tỷ phú Phạm Nhật Vượng đang cho xây 2 “siêu công trình” gần 40.000 tỷ đồng ở quê nhà: Đã khoan móng cọc trên biển, tạo ra thứ không thể thiếu của hàng trăm nghìn gia đình",
-        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-dang-cho-xay-2-sieu-cong-trinh-gan-40000-ty-dong-o-que-nha-da-khoan-mong-coc-tren-bien-tao-ra-thu-khong-the-thieu-cua-hang-tram-nghin-gia-dinh-188260908114134113.chn",
-        "published": "Tue, 08 Sep 26 11:41:00 +0700"
-      },
-      {
-        "title": "2 Gen Z vừa có thêm 600 tỷ đồng sau hơn 1 tiếng",
-        "link": "https://cafef.vn/2-gen-z-vua-co-them-600-ty-dong-sau-hon-1-tieng-188260908105904412.chn",
-        "published": "Tue, 08 Sep 26 11:15:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UK finance minister Healey seeks to set out brighter vision before tough budget",
+        "link": "https://www.investing.com/news/economy-news/uk-finance-minister-healey-seeks-to-set-out-brighter-vision-before-tough-budget-4890869",
+        "published": "2026-09-08 06:48:33"
+      },
+      {
         "title": "German exports unexpectedly fall in July",
         "link": "https://www.investing.com/news/economy-news/german-exports-fall-in-july-4890828",
         "published": "2026-09-08 06:30:31"
@@ -123,11 +128,6 @@
         "title": "Iran warns of maritime exclusion zone, strikes on U.S. Gulf energy assets",
         "link": "https://www.investing.com/news/economy-news/iran-warns-of-maritime-exclusion-zone-strikes-on-us-gulf-energy-assets-4890805",
         "published": "2026-09-08 05:54:21"
-      },
-      {
-        "title": "The yen’s sudden surge is upsetting the carry trade faithful",
-        "link": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
-        "published": "2026-09-08 05:24:56"
       }
     ]
   }
