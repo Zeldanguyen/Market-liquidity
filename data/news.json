@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-08T09:42:13.605802",
+  "fetched_at": "2026-09-08T10:10:10.548916",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Phiên 8/9: Tự doanh CTCK bất ngờ \"xả\" mạnh hàng trăm tỷ đồng tại một cổ phiếu chứng khoán",
+        "link": "https://cafef.vn/phien-8-9-tu-doanh-ctck-bat-ngo-xa-manh-hang-tram-ty-dong-tai-mot-co-phieu-chung-khoan-188260908170739426.chn",
+        "published": "Tue, 08 Sep 26 17:07:00 +0700"
+      },
+      {
+        "title": "Một thành viên HĐQT Nam Long từ nhiệm",
+        "link": "https://cafef.vn/mot-thanh-vien-hdqt-nam-long-tu-nhiem-188260908165623083.chn",
+        "published": "Tue, 08 Sep 26 16:56:00 +0700"
+      },
+      {
+        "title": "Chứng khoán An Bình sẽ phát hành 5 triệu cổ phiếu ESOP cho 163 cá nhân",
+        "link": "https://cafef.vn/chung-khoan-an-binh-se-phat-hanh-5-trieu-co-phieu-esop-cho-163-ca-nhan-1882609081655485.chn",
+        "published": "Tue, 08 Sep 26 16:55:00 +0700"
+      },
       {
         "title": "Phiên 8/9: Khối ngoại bán tiếp đà bán ròng, \"xả\" mạnh hai cổ phiếu ngân hàng",
         "link": "https://cafef.vn/phien-8-9-khoi-ngoai-ban-tiep-da-ban-rong-xa-manh-hai-co-phieu-ngan-hang-188260908154734368.chn",
@@ -17,21 +32,6 @@
         "title": "Lợi nhuận Becamex IDC (BCM) “lao dốc” hơn 83% sau nửa đầu năm, lãnh đạo vẫn lĩnh 5,1 tỷ đồng tiền thưởng",
         "link": "https://cafef.vn/loi-nhuan-becamex-idc-bcm-lao-doc-hon-83-sau-nua-dau-nam-lanh-dao-van-linh-51-ty-dong-tien-thuong-188260908150335669.chn",
         "published": "Tue, 08 Sep 26 15:03:00 +0700"
-      },
-      {
-        "title": "Thị trường trái phiếu doanh nghiệp tháng 8/2026: Ngân hàng tiếp tục áp đảo, có tin vui từ nhóm bất động sản",
-        "link": "https://cafef.vn/thi-truong-trai-phieu-doanh-nghiep-thang-8-2026-ngan-hang-tiep-tuc-ap-dao-co-tin-vui-tu-nhom-bat-dong-san-188260908150139039.chn",
-        "published": "Tue, 08 Sep 26 15:01:00 +0700"
-      },
-      {
-        "title": "Một doanh nghiệp đặt trụ sở tại The Grand Hanoi huy động 7.000 tỷ đồng trái phiếu",
-        "link": "https://cafef.vn/mot-doanh-nghiep-dat-tru-so-tai-the-grand-hanoi-huy-dong-7000-ty-dong-trai-phieu-188260908134238903.chn",
-        "published": "Tue, 08 Sep 26 14:15:00 +0700"
-      },
-      {
-        "title": "HOSE có thông báo mới đối với cổ phiếu HVN của Vietnam Airlines",
-        "link": "https://cafef.vn/hose-co-thong-bao-moi-doi-voi-co-phieu-hvn-cua-vietnam-airlines-188260908114306183.chn",
-        "published": "Tue, 08 Sep 26 14:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "The yen’s sudden surge upsets the carry trade faithful",
+        "link": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
+        "published": "2026-09-08 09:24:47"
+      },
+      {
         "title": "Wall St futures slip as oil surge puts markets on edge",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-slip-as-oil-surge-puts-markets-on-edge-4891064",
         "published": "2026-09-08 09:18:26"
@@ -123,11 +128,6 @@
         "title": "German exports unexpectedly fall in July",
         "link": "https://www.investing.com/news/economy-news/german-exports-fall-in-july-4890828",
         "published": "2026-09-08 07:24:53"
-      },
-      {
-        "title": "China’s exports surge as demand for high-tech, AI help prop up economic growth",
-        "link": "https://www.investing.com/news/economy-news/chinas-exports-up-25-yy-in-august-imports-surge-282-4890773",
-        "published": "2026-09-08 07:06:29"
       }
     ]
   }
