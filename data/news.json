@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-08T04:09:46.152572",
+  "fetched_at": "2026-09-08T04:42:21.001708",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "2 Gen Z vừa có thêm 600 tỷ đồng sau hơn 1 tiếng",
+        "link": "https://cafef.vn/2-gen-z-vua-co-them-600-ty-dong-sau-hon-1-tieng-188260908105904412.chn",
+        "published": "Tue, 08 Sep 26 11:15:00 +0700"
+      },
       {
         "title": "Vinhomes huy động lô trái phiếu 2.000 tỷ đồng, lãi suất 12%/năm",
         "link": "https://cafef.vn/vinhomes-huy-dong-lo-trai-phieu-2000-ty-dong-lai-suat-12-nam-188260908110452833.chn",
@@ -27,11 +32,6 @@
         "title": "Giá vàng bạc hôm nay 8/9 gây bất ngờ: Cập nhật mới nhất của SJC, Phú Quý, DOJI, BTMH",
         "link": "https://cafef.vn/gia-vang-bac-hom-nay-8-9-gay-bat-ngo-cap-nhat-moi-nhat-cua-sjc-phu-quy-doji-btmh-188260908101811782.chn",
         "published": "Tue, 08 Sep 26 10:40:00 +0700"
-      },
-      {
-        "title": "Người dân chú ý: Hơn 1 nghìn cây xăng trên cả nước sẽ thu gom thứ đã qua sử dụng từ hàng chục triệu gia đình",
-        "link": "https://cafef.vn/nguoi-dan-chu-y-hon-1-nghin-cay-xang-tren-ca-nuoc-se-thu-gom-thu-da-qua-su-dung-tu-hang-chuc-trieu-gia-dinh-188260908103810362.chn",
-        "published": "Tue, 08 Sep 26 10:38:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,16 @@
     ],
     "Vietstock": [
       {
+        "title": "Khi thị trường biến động, điều gì giữ chân nhà đầu tư?",
+        "link": "http://vietstock.vn/2026/09/khi-thi-truong-bien-dong-dieu-gi-giu-chan-nha-dau-tu-830-1487024.htm",
+        "published": "Tue, 08 Sep 2026 11:02:00 +0700"
+      },
+      {
+        "title": "“Soi” 27 cổ phiếu được vào FTSE GEIS: Mã nào phá đỉnh thời đại trong năm 2026?",
+        "link": "http://vietstock.vn/2026/09/soi-27-co-phieu-duoc-vao-ftse-geis-ma-nao-pha-dinh-thoi-dai-trong-nam-2026-830-1489815.htm",
+        "published": "Tue, 08 Sep 2026 10:47:47 +0700"
+      },
+      {
         "title": "Ngày 08/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/ngay-08092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1489601.htm",
         "published": "Tue, 08 Sep 2026 10:00:00 +0700"
@@ -86,28 +96,23 @@
         "title": "Cổ phiếu phân bón, hóa chất hút tiền",
         "link": "http://vietstock.vn/2026/09/co-phieu-phan-bon-hoa-chat-hut-tien-830-1489594.htm",
         "published": "Tue, 08 Sep 2026 09:11:23 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 08/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0809-830-1489626.htm",
-        "published": "Tue, 08 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "08/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/0809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1489740.htm",
-        "published": "Tue, 08 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Japan, US remain aligned on FX policy to foster stable markets, Katayama says",
-        "link": "https://www.investing.com/news/economy-news/japan-us-remain-aligned-on-fx-policy-to-foster-stable-markets-katayama-says-4890771",
-        "published": "2026-09-08 02:30:36"
+        "title": "China’s exports surge as demand for high-tech, AI help prop up economic growth",
+        "link": "https://www.investing.com/news/economy-news/chinas-exports-up-25-yy-in-august-imports-surge-282-4890773",
+        "published": "2026-09-08 03:54:26"
       },
       {
         "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
         "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
-        "published": "2026-09-08 02:00:24"
+        "published": "2026-09-08 03:37:07"
+      },
+      {
+        "title": "Japan, US remain aligned on FX policy to foster stable markets, Katayama says",
+        "link": "https://www.investing.com/news/economy-news/japan-us-remain-aligned-on-fx-policy-to-foster-stable-markets-katayama-says-4890771",
+        "published": "2026-09-08 02:30:36"
       },
       {
         "title": "Asia stocks waver as yen surges, Iran warns of retaliation",
@@ -123,11 +128,6 @@
         "title": "Australian consumer sentiment slides under rates, petrol pressure",
         "link": "https://www.investing.com/news/economy-news/australian-consumer-sentiment-slides-under-rates-petrol-pressure-4890753",
         "published": "2026-09-08 00:36:23"
-      },
-      {
-        "title": "Japan revises Q2 GDP up to annualised 1.4% expansion",
-        "link": "https://www.investing.com/news/economy-news/japan-revises-q2-gdp-up-to-annualised-14-expansion-4890749",
-        "published": "2026-09-08 00:00:50"
       }
     ]
   }
