@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T05:09:23.472181",
+  "fetched_at": "2026-09-08T05:41:15.643622",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Hơn 5.3 triệu cp RCD giao dịch cuối cùng trên UPCoM ngày 11/09",
+        "link": "http://vietstock.vn/2026/09/hon-53-trieu-cp-rcd-giao-dich-cuoi-cung-tren-upcom-ngay-1109-830-1489830.htm",
+        "published": "Tue, 08 Sep 2026 11:44:09 +0700"
+      },
+      {
         "title": "Khi thị trường biến động, điều gì giữ chân nhà đầu tư?",
         "link": "http://vietstock.vn/2026/09/khi-thi-truong-bien-dong-dieu-gi-giu-chan-nha-dau-tu-830-1487024.htm",
         "published": "Tue, 08 Sep 2026 11:02:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Trước “giờ G” nâng hạng: Thị trường vốn Việt Nam cần nâng cấp kiến trúc, không chỉ tốc độ",
         "link": "http://vietstock.vn/2026/09/truoc-gio-g-nang-hang-thi-truong-von-viet-nam-can-nang-cap-kien-truc-khong-chi-toc-do-830-1487758.htm",
         "published": "Tue, 08 Sep 2026 09:13:04 +0700"
-      },
-      {
-        "title": "Cổ phiếu phân bón, hóa chất hút tiền",
-        "link": "http://vietstock.vn/2026/09/co-phieu-phan-bon-hoa-chat-hut-tien-830-1489594.htm",
-        "published": "Tue, 08 Sep 2026 09:11:23 +0700"
       }
     ],
     "Investing.com Economy": [
