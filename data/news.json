@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-08T01:40:55.706202",
+  "fetched_at": "2026-09-08T02:09:20.991555",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ngân hàng dẫn sóng trái phiếu doanh nghiệp, Kho bạc Nhà nước tăng tốc huy động vốn",
+        "link": "https://cafef.vn/ngan-hang-dan-song-trai-phieu-doanh-nghiep-kho-bac-nha-nuoc-tang-toc-huy-dong-von-188260908085306175.chn",
+        "published": "Tue, 08 Sep 26 08:52:00 +0700"
+      },
+      {
+        "title": "Dòng tiền ETF dịch chuyển trước bước ngoặt nâng hạng",
+        "link": "https://cafef.vn/dong-tien-etf-dich-chuyen-truoc-buoc-ngoat-nang-hang-188260908084438335.chn",
+        "published": "Tue, 08 Sep 26 08:44:00 +0700"
+      },
+      {
+        "title": "VN-Index trước “gọng kìm” Fed - BOJ: Nội lực vĩ mô có đủ sức giữ nhịp thị trường?",
+        "link": "https://cafef.vn/vn-index-truoc-gong-kim-fed-boj-noi-luc-vi-mo-co-du-suc-giu-nhip-thi-truong-188260908084332149.chn",
+        "published": "Tue, 08 Sep 26 08:43:00 +0700"
+      },
       {
         "title": "Chủ đầu tư Aqua City lỗ ròng hơn 120 tỷ đồng bán niên 2026",
         "link": "https://cafef.vn/chu-dau-tu-aqua-city-lo-rong-hon-120-ty-dong-ban-nien-2026-188260908070820921.chn",
@@ -17,21 +32,6 @@
         "title": "Một quốc gia nắm giữ hàng nghìn tấn vàng đang âm thầm bán ra",
         "link": "https://cafef.vn/mot-quoc-gia-nam-giu-hang-nghin-tan-vang-dang-am-tham-ban-ra-188260907222038416.chn",
         "published": "Tue, 08 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Một cổ phiếu Bluechips có thể chịu áp lực bán ròng hơn 1.500 tỷ đồng ngay trong tháng 9 này",
-        "link": "https://cafef.vn/mot-co-phieu-bluechips-co-the-chiu-ap-luc-ban-rong-hon-1500-ty-dong-ngay-trong-thang-9-nay-188260907224142804.chn",
-        "published": "Tue, 08 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "CTCK dự báo Vinhomes có thể lãi kỷ lục gần 60.000 tỷ đồng trong năm nay",
-        "link": "https://cafef.vn/ctck-du-bao-vinhomes-co-the-lai-ky-luc-gan-60000-ty-dong-trong-nam-nay-188260907220427048.chn",
-        "published": "Tue, 08 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Việt Vương bị xử phạt do vi phạm công bố thông tin",
-        "link": "https://cafef.vn/viet-vuong-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260907195153075.chn",
-        "published": "Tue, 08 Sep 26 00:04:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
+        "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
+        "published": "2026-09-08 02:00:24"
+      },
+      {
+        "title": "Asia stocks waver as yen surges, Iran warns of retaliation",
+        "link": "https://www.investing.com/news/economy-news/asia-stocks-waver-as-yen-surges-iran-warns-of-retaliation-4890764",
+        "published": "2026-09-08 01:54:48"
+      },
+      {
         "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
         "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
         "published": "2026-09-08 01:06:29"
-      },
-      {
-        "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
-        "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
-        "published": "2026-09-08 01:00:30"
       },
       {
         "title": "Australian consumer sentiment slides under rates, petrol pressure",
@@ -123,11 +128,6 @@
         "title": "Japan July real wages rise 2.4%, biggest gain since 2021",
         "link": "https://www.investing.com/news/economy-news/japan-july-real-wages-rise-24-biggest-gain-since-2021-4890748",
         "published": "2026-09-07 23:36:31"
-      },
-      {
-        "title": "Colombia 12-month inflation edges up more than expected in August",
-        "link": "https://www.investing.com/news/economy-news/colombia-12month-inflation-edges-up-more-than-expected-in-august-4890747",
-        "published": "2026-09-07 23:30:29"
       }
     ]
   }
