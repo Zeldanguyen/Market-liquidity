@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T19:08:47.974665",
+  "fetched_at": "2026-09-08T19:38:49.167700",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "US accuses Chinese AI firms of ’industrial-scale’ theft of AI technology",
+        "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
+        "link": "https://www.investing.com/news/economy-news/irs-under-trump-unlawfully-shared-taxpayer-info-with-immigration-authorities-court-rules-4892276",
+        "published": "2026-09-08 19:32:21"
+      },
+      {
+        "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
         "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
-        "published": "2026-09-08 17:54:53"
+        "published": "2026-09-08 19:30:41"
       },
       {
         "title": "Canada seeks to sell nuclear technology to Poland amid trade tensions",
@@ -123,11 +128,6 @@
         "title": "Bank of England’s Bailey pushes back on rate hike expectations",
         "link": "https://www.investing.com/news/economy-news/bank-of-englands-bailey-pushes-back-on-rate-hike-expectations-93CH-4892161",
         "published": "2026-09-08 17:28:30"
-      },
-      {
-        "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
-        "link": "https://www.investing.com/news/economy-news/consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-shows-4892029",
-        "published": "2026-09-08 17:18:35"
       }
     ]
   }
