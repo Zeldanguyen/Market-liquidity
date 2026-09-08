@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T15:10:44.189383",
+  "fetched_at": "2026-09-08T15:42:47.817195",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
+        "link": "https://www.investing.com/news/economy-news/consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-shows-4892029",
+        "published": "2026-09-08 15:06:39"
+      },
+      {
+        "title": "US consumers’ inflation outlook steady as job worries rise",
+        "link": "https://www.investing.com/news/economy-news/us-consumers-inflation-outlook-steady-as-job-worries-rise-93CH-4892028",
+        "published": "2026-09-08 15:04:44"
+      },
+      {
+        "title": "US consumers’ inflation outlook steady in August, Fed report shows",
+        "link": "https://www.investing.com/news/economy-news/us-consumers-inflation-outlook-steady-in-august-fed-report-shows-4892027",
+        "published": "2026-09-08 15:04:39"
+      },
+      {
         "title": "UK airports halt departures due to air traffic control glitch",
         "link": "https://www.investing.com/news/economy-news/uk-airports-halt-departures-due-to-air-traffic-control-glitch-93CH-4891965",
         "published": "2026-09-08 14:28:11"
@@ -113,21 +128,6 @@
         "title": "TSA launches Gateside program for non-flyers with PreCheck",
         "link": "https://www.investing.com/news/economy-news/tsa-launches-gateside-program-for-nonflyers-with-precheck-93CH-4891924",
         "published": "2026-09-08 14:16:18"
-      },
-      {
-        "title": "Macron summit to seek boost for European space despite no-shows",
-        "link": "https://www.investing.com/news/economy-news/macron-summit-to-seek-boost-for-european-space-despite-noshows-4891906",
-        "published": "2026-09-08 14:13:08"
-      },
-      {
-        "title": "German exports unexpectedly fall as trade volatility bites",
-        "link": "https://www.investing.com/news/economy-news/german-exports-fall-in-july-4890828",
-        "published": "2026-09-08 12:49:07"
-      },
-      {
-        "title": "Yen pauses after rally as dollar firms",
-        "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
-        "published": "2026-09-08 12:48:49"
       }
     ]
   }
