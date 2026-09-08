@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-08T08:11:10.565867",
+  "fetched_at": "2026-09-08T08:42:44.980926",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ngày mai, hơn 4,1 tỷ cổ phiếu Vinhomes về tài khoản nhà đầu tư, được phép giao dịch",
+        "link": "https://cafef.vn/ngay-mai-hon-41-ty-co-phieu-vinhomes-ve-tai-khoan-nha-dau-tu-duoc-phep-giao-dich-18826090815103975.chn",
+        "published": "Tue, 08 Sep 26 15:10:00 +0700"
+      },
       {
         "title": "Lợi nhuận Becamex IDC (BCM) “lao dốc” hơn 83% sau nửa đầu năm, lãnh đạo vẫn lĩnh 5,1 tỷ đồng tiền thưởng",
         "link": "https://cafef.vn/loi-nhuan-becamex-idc-bcm-lao-doc-hon-83-sau-nua-dau-nam-lanh-dao-van-linh-51-ty-dong-tien-thuong-188260908150335669.chn",
@@ -27,11 +32,6 @@
         "title": "Một thành viên HĐQT Bệnh viện TNH muốn bán sạch cổ phiếu TNH đang có",
         "link": "https://cafef.vn/mot-thanh-vien-hdqt-benh-vien-tnh-muon-ban-sach-co-phieu-tnh-dang-co-188260908133730789.chn",
         "published": "Tue, 08 Sep 26 13:46:00 +0700"
-      },
-      {
-        "title": "Ông Nguyễn Như Hoàng Tuấn bị bắt, cổ phiếu DN \"có biến’\" trước ĐHĐCĐ bất thường",
-        "link": "https://cafef.vn/ong-nguyen-nhu-hoang-tuan-bi-bat-co-phieu-dn-co-bien-truoc-dhdcd-bat-thuong-188260908133642856.chn",
-        "published": "Tue, 08 Sep 26 13:37:00 +0700"
       }
     ],
     "VnEconomy": [
