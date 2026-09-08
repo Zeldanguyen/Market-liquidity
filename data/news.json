@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T02:41:37.268654",
+  "fetched_at": "2026-09-08T03:09:34.006352",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,16 @@
     ],
     "Vietstock": [
       {
+        "title": "Trước “giờ G” nâng hạng: Thị trường vốn Việt Nam cần nâng cấp kiến trúc, không chỉ tốc độ",
+        "link": "http://vietstock.vn/2026/09/truoc-gio-g-nang-hang-thi-truong-von-viet-nam-can-nang-cap-kien-truc-khong-chi-toc-do-830-1487758.htm",
+        "published": "Tue, 08 Sep 2026 09:13:04 +0700"
+      },
+      {
+        "title": "Cổ phiếu phân bón, hóa chất hút tiền",
+        "link": "http://vietstock.vn/2026/09/co-phieu-phan-bon-hoa-chat-hut-tien-830-1489594.htm",
+        "published": "Tue, 08 Sep 2026 09:11:23 +0700"
+      },
+      {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 08/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0809-830-1489626.htm",
         "published": "Tue, 08 Sep 2026 08:00:00 +0700"
@@ -86,19 +96,14 @@
         "title": "Theo dấu dòng tiền cá mập 07/09: Khối ngoại, tự doanh cùng xả trong phiên giảm hơn 31 điểm",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0709-khoi-ngoai-tu-doanh-cung-xa-trong-phien-giam-hon-31-diem-830-1489704.htm",
         "published": "Mon, 07 Sep 2026 19:21:13 +0700"
-      },
-      {
-        "title": "Vietstock Daily 08/09/2026: Áp lực trở lại",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-08092026-ap-luc-tro-lai-1636-1489600.htm",
-        "published": "Mon, 07 Sep 2026 18:06:24 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 07/09: Khối ngoại quay lại bán ròng, VN-Index giảm hơn 31 điểm",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0709-khoi-ngoai-quay-lai-ban-rong-vn-index-giam-hon-31-diem-1636-1489224.htm",
-        "published": "Mon, 07 Sep 2026 16:57:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Japan, US remain aligned on FX policy to foster stable markets, Katayama says",
+        "link": "https://www.investing.com/news/economy-news/japan-us-remain-aligned-on-fx-policy-to-foster-stable-markets-katayama-says-4890771",
+        "published": "2026-09-08 02:30:36"
+      },
       {
         "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
         "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
@@ -123,11 +128,6 @@
         "title": "Japan revises Q2 GDP up to annualised 1.4% expansion",
         "link": "https://www.investing.com/news/economy-news/japan-revises-q2-gdp-up-to-annualised-14-expansion-4890749",
         "published": "2026-09-08 00:00:50"
-      },
-      {
-        "title": "Japan July real wages rise 2.4%, biggest gain since 2021",
-        "link": "https://www.investing.com/news/economy-news/japan-july-real-wages-rise-24-biggest-gain-since-2021-4890748",
-        "published": "2026-09-07 23:36:31"
       }
     ]
   }
