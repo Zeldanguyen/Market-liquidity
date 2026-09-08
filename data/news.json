@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T23:09:34.049093",
+  "fetched_at": "2026-09-08T23:37:59.486419",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "09/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/0909-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1490191.htm",
+        "published": "Wed, 09 Sep 2026 06:02:00 +0700"
+      },
+      {
         "title": "C32 bị phạt 150 triệu đồng cho lỗi công bố sai lợi nhuận",
         "link": "http://vietstock.vn/2026/09/c32-bi-phat-150-trieu-dong-cho-loi-cong-bo-sai-loi-nhuan-830-1490179.htm",
         "published": "Tue, 08 Sep 2026 20:03:47 +0700"
@@ -91,11 +96,6 @@
         "title": "Phân tích kỹ thuật phiên chiều 08/09: Diễn biến giằng co",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0809-dien-bien-giang-co-585-1489870.htm",
         "published": "Tue, 08 Sep 2026 13:07:32 +0700"
-      },
-      {
-        "title": "Hơn 5.3 triệu cp RCD giao dịch cuối cùng trên UPCoM ngày 11/09",
-        "link": "http://vietstock.vn/2026/09/hon-53-trieu-cp-rcd-giao-dich-cuoi-cung-tren-upcom-ngay-1109-830-1489830.htm",
-        "published": "Tue, 08 Sep 2026 11:44:09 +0700"
       }
     ],
     "Investing.com Economy": [
