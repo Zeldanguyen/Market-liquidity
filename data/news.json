@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-08T17:10:24.294558",
+  "fetched_at": "2026-09-08T17:39:21.657586",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Đúng 9 giờ ngày 9/9, Vinhomes có một sự thay đổi lớn",
+        "link": "https://cafef.vn/dung-9-gio-ngay-9-9-vinhomes-co-mot-su-thay-doi-lon-188260908232101173.chn",
+        "published": "Wed, 09 Sep 26 00:10:00 +0700"
+      },
+      {
+        "title": "Quốc gia láng giềng Việt Nam mua vàng 22 tháng liên tiếp, nâng dự trữ lên mức kỷ lục",
+        "link": "https://cafef.vn/quoc-gia-lang-gieng-viet-nam-mua-vang-22-thang-lien-tiep-nang-du-tru-len-muc-ky-luc-188260908225058013.chn",
+        "published": "Wed, 09 Sep 26 00:10:00 +0700"
+      },
+      {
+        "title": "Ông Phạm Nhật Vượng đang xây một “thành phố trong lòng thành phố” rộng 228 ha giữa Tây Bắc: Gần 40% diện tích dành cho một hạng mục đặc biệt",
+        "link": "https://cafef.vn/ong-pham-nhat-vuong-dang-xay-mot-thanh-pho-trong-long-thanh-pho-rong-228-ha-giua-tay-bac-gan-40-dien-tich-danh-cho-mot-hang-muc-dac-biet-188260908224159534.chn",
+        "published": "Wed, 09 Sep 26 00:07:00 +0700"
+      },
       {
         "title": "Tỷ phú Phạm Nhật Vượng đang triển khai siêu công trình “tựa sơn, hướng hải” quy mô gần 44.000 tỷ đồng, có những thứ lần đầu xuất hiện tại Việt Nam",
         "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-dang-trien-khai-sieu-cong-trinh-tua-son-huong-hai-quy-mo-gan-44000-ty-dong-co-nhung-thu-lan-dau-xuat-hien-tai-viet-nam-188260908224241073.chn",
@@ -17,21 +32,6 @@
         "title": "Công ty của tỷ phú Nguyễn Đăng Quang sẽ chi hơn 1.000 tỷ đồng trả cổ tức ngay trong tháng 9",
         "link": "https://cafef.vn/cong-ty-cua-ty-phu-nguyen-dang-quang-se-chi-hon-1000-ty-dong-tra-co-tuc-ngay-trong-thang-9-188260908222523709.chn",
         "published": "Wed, 09 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Việt Nam sắp có công ty chứng khoán vốn điều lệ vượt mốc 33.000 tỷ đồng",
-        "link": "https://cafef.vn/viet-nam-sap-co-cong-ty-chung-khoan-von-dieu-le-vuot-moc-33000-ty-dong-188260908222401484.chn",
-        "published": "Wed, 09 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Gelex Electric sắp chi hơn 320 tỷ đồng tạm ứng cổ tức",
-        "link": "https://cafef.vn/gelex-electric-sap-chi-hon-320-ty-dong-tam-ung-co-tuc-188260908194527401.chn",
-        "published": "Tue, 08 Sep 26 19:45:00 +0700"
-      },
-      {
-        "title": "Một công ty con của Novaland lỗ ròng hơn 49 tỷ đồng trong nửa đầu năm 2026",
-        "link": "https://cafef.vn/mot-cong-ty-con-cua-novaland-lo-rong-hon-49-ty-dong-trong-nua-dau-nam-2026-188260908165657713.chn",
-        "published": "Tue, 08 Sep 26 17:56:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
+        "link": "https://www.investing.com/news/economy-news/consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-shows-4892029",
+        "published": "2026-09-08 17:18:35"
+      },
+      {
         "title": "Chile’s consumer prices rise 0.6% in August, beating forecasts",
         "link": "https://www.investing.com/news/economy-news/chiles-consumer-prices-rise-06-in-august-beating-forecasts-93CH-4892137",
         "published": "2026-09-08 16:47:52"
@@ -118,11 +123,6 @@
         "title": "BoE’s Bailey pushes back against idea of rate hike being inevitable",
         "link": "https://www.investing.com/news/economy-news/boes-bailey-says-market-curve-shows-inflation-risk-premium-4891918",
         "published": "2026-09-08 16:00:45"
-      },
-      {
-        "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
-        "link": "https://www.investing.com/news/economy-news/consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-shows-4892029",
-        "published": "2026-09-08 15:49:40"
       },
       {
         "title": "EU and Canada plan broad alliance to counter U.S.-China dominance - Bloomberg",
