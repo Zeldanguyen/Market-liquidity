@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T21:08:43.349797",
+  "fetched_at": "2026-09-08T21:38:37.403193",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
+        "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
+        "published": "2026-09-08 21:30:40"
+      },
+      {
+        "title": "Roll out the $100 barrel",
+        "link": "https://www.investing.com/news/economy-news/roll-out-the-100-barrel-4892486",
+        "published": "2026-09-08 21:06:28"
+      },
+      {
+        "title": "FDA names permanent leaders for drug, biologics and tobacco centers",
+        "link": "https://www.investing.com/news/economy-news/fda-names-permanent-leaders-for-drug-biologics-and-tobacco-centers-93CH-4892477",
+        "published": "2026-09-08 21:02:51"
+      },
+      {
         "title": "LIV Golf files for bankruptcy, plans player ownership model",
         "link": "https://www.investing.com/news/economy-news/liv-golf-files-for-bankruptcy-plans-player-ownership-model-93CH-4892442",
         "published": "2026-09-08 20:39:05"
-      },
-      {
-        "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
-        "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
-        "published": "2026-09-08 19:36:37"
       },
       {
         "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
@@ -118,16 +128,6 @@
         "title": "Canada seeks to sell nuclear technology to Poland amid trade tensions",
         "link": "https://www.investing.com/news/economy-news/canada-seeks-to-sell-nuclear-technology-to-poland-amid-trade-tensions-93CH-4892190",
         "published": "2026-09-08 17:52:45"
-      },
-      {
-        "title": "UK and 11 other nations impose trade limits on Israel",
-        "link": "https://www.investing.com/news/economy-news/uk-and-11-other-nations-impose-trade-limits-on-israel-93CH-4892176",
-        "published": "2026-09-08 17:37:10"
-      },
-      {
-        "title": "Yen hovers near seven-month high, dollar steadies",
-        "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
-        "published": "2026-09-08 17:36:52"
       }
     ]
   }
