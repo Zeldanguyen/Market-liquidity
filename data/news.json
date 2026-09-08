@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-09-08T16:42:11.742665",
+  "fetched_at": "2026-09-08T17:10:24.294558",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tỷ phú Phạm Nhật Vượng đang triển khai siêu công trình “tựa sơn, hướng hải” quy mô gần 44.000 tỷ đồng, có những thứ lần đầu xuất hiện tại Việt Nam",
+        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-dang-trien-khai-sieu-cong-trinh-tua-son-huong-hai-quy-mo-gan-44000-ty-dong-co-nhung-thu-lan-dau-xuat-hien-tai-viet-nam-188260908224241073.chn",
+        "published": "Wed, 09 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Một kim loại mang tính sống còn trong sản xuất công nghệ, công nghiệp vừa lập đỉnh mới",
+        "link": "https://cafef.vn/mot-kim-loai-mang-tinh-song-con-trong-san-xuat-cong-nghe-cong-nghiep-vua-lap-dinh-moi-188260908232508808.chn",
+        "published": "Wed, 09 Sep 26 00:04:00 +0700"
+      },
+      {
+        "title": "Công ty của tỷ phú Nguyễn Đăng Quang sẽ chi hơn 1.000 tỷ đồng trả cổ tức ngay trong tháng 9",
+        "link": "https://cafef.vn/cong-ty-cua-ty-phu-nguyen-dang-quang-se-chi-hon-1000-ty-dong-tra-co-tuc-ngay-trong-thang-9-188260908222523709.chn",
+        "published": "Wed, 09 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Việt Nam sắp có công ty chứng khoán vốn điều lệ vượt mốc 33.000 tỷ đồng",
+        "link": "https://cafef.vn/viet-nam-sap-co-cong-ty-chung-khoan-von-dieu-le-vuot-moc-33000-ty-dong-188260908222401484.chn",
+        "published": "Wed, 09 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Gelex Electric sắp chi hơn 320 tỷ đồng tạm ứng cổ tức",
         "link": "https://cafef.vn/gelex-electric-sap-chi-hon-320-ty-dong-tam-ung-co-tuc-188260908194527401.chn",
@@ -12,26 +32,6 @@
         "title": "Một công ty con của Novaland lỗ ròng hơn 49 tỷ đồng trong nửa đầu năm 2026",
         "link": "https://cafef.vn/mot-cong-ty-con-cua-novaland-lo-rong-hon-49-ty-dong-trong-nua-dau-nam-2026-188260908165657713.chn",
         "published": "Tue, 08 Sep 26 17:56:00 +0700"
-      },
-      {
-        "title": "Quyết định mới nhất của Vingroup với VinFast",
-        "link": "https://cafef.vn/quyet-dinh-moi-nhat-cua-vingroup-voi-vinfast-188260908175252399.chn",
-        "published": "Tue, 08 Sep 26 17:52:00 +0700"
-      },
-      {
-        "title": "VN-Index ‘quay xe’ sau cú rơi đầu tuần",
-        "link": "https://cafef.vn/vn-index-quay-xe-sau-cu-roi-dau-tuan-18826090817053572.chn",
-        "published": "Tue, 08 Sep 26 17:17:00 +0700"
-      },
-      {
-        "title": "Phiên 8/9: Tự doanh CTCK bất ngờ \"xả\" mạnh hàng trăm tỷ đồng tại một cổ phiếu chứng khoán",
-        "link": "https://cafef.vn/phien-8-9-tu-doanh-ctck-bat-ngo-xa-manh-hang-tram-ty-dong-tai-mot-co-phieu-chung-khoan-188260908170739426.chn",
-        "published": "Tue, 08 Sep 26 17:07:00 +0700"
-      },
-      {
-        "title": "Một thành viên HĐQT Nam Long từ nhiệm",
-        "link": "https://cafef.vn/mot-thanh-vien-hdqt-nam-long-tu-nhiem-188260908165623083.chn",
-        "published": "Tue, 08 Sep 26 16:56:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Chile’s consumer prices rise 0.6% in August, beating forecasts",
+        "link": "https://www.investing.com/news/economy-news/chiles-consumer-prices-rise-06-in-august-beating-forecasts-93CH-4892137",
+        "published": "2026-09-08 16:47:52"
+      },
+      {
+        "title": "Canada 10-year yield rises as oil surge fuels inflation worries",
+        "link": "https://www.investing.com/news/economy-news/canada-10year-yield-rises-as-oil-surge-fuels-inflation-worries-4892125",
+        "published": "2026-09-08 16:40:09"
+      },
+      {
         "title": "Yen hovers near seven-month high, dollar steadies",
         "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
         "published": "2026-09-08 16:01:02"
@@ -118,16 +128,6 @@
         "title": "EU and Canada plan broad alliance to counter U.S.-China dominance - Bloomberg",
         "link": "https://www.investing.com/news/economy-news/eu-and-canada-plan-broad-alliance-to-counter-uschina-dominance--bloomberg-4892058",
         "published": "2026-09-08 15:41:38"
-      },
-      {
-        "title": "US consumers’ inflation outlook steady as job worries rise",
-        "link": "https://www.investing.com/news/economy-news/us-consumers-inflation-outlook-steady-as-job-worries-rise-93CH-4892028",
-        "published": "2026-09-08 15:04:44"
-      },
-      {
-        "title": "US consumers’ inflation outlook steady in August, Fed report shows",
-        "link": "https://www.investing.com/news/economy-news/us-consumers-inflation-outlook-steady-in-august-fed-report-shows-4892027",
-        "published": "2026-09-08 15:04:39"
       }
     ]
   }
