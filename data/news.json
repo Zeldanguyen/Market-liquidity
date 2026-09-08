@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-08T06:11:42.658658",
+  "fetched_at": "2026-09-08T06:44:54.380841",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ông Nguyễn Như Hoàng Tuấn bị bắt, cổ phiếu DN \"có biến’\" trước ĐHĐCĐ bất thường",
+        "link": "https://cafef.vn/ong-nguyen-nhu-hoang-tuan-bi-bat-co-phieu-dn-co-bien-truoc-dhdcd-bat-thuong-188260908133642856.chn",
+        "published": "Tue, 08 Sep 26 13:37:00 +0700"
+      },
+      {
+        "title": "TCBS chốt ngày phát hành gần 555 triệu cổ phiếu trả cổ tức",
+        "link": "https://cafef.vn/tcbs-chot-ngay-phat-hanh-gan-555-trieu-co-phieu-tra-co-tuc-188260908123448079.chn",
+        "published": "Tue, 08 Sep 26 13:33:00 +0700"
+      },
+      {
+        "title": "HOSE cắt margin thêm 3 cổ phiếu, trong đó có một ngân hàng",
+        "link": "https://cafef.vn/hose-cat-margin-them-3-co-phieu-trong-do-co-mot-ngan-hang-188260908102315006.chn",
+        "published": "Tue, 08 Sep 26 13:16:00 +0700"
+      },
       {
         "title": "Kinh Bắc nắm quyền kiểm soát công ty quản lý CLB Bóng đá Hưng Yên",
         "link": "https://cafef.vn/kinh-bac-nam-quyen-kiem-soat-cong-ty-quan-ly-clb-bong-da-hung-yen-188260908110230352.chn",
@@ -17,21 +32,6 @@
         "title": "2 Gen Z vừa có thêm 600 tỷ đồng sau hơn 1 tiếng",
         "link": "https://cafef.vn/2-gen-z-vua-co-them-600-ty-dong-sau-hon-1-tieng-188260908105904412.chn",
         "published": "Tue, 08 Sep 26 11:15:00 +0700"
-      },
-      {
-        "title": "Vinhomes huy động lô trái phiếu 2.000 tỷ đồng, lãi suất 12%/năm",
-        "link": "https://cafef.vn/vinhomes-huy-dong-lo-trai-phieu-2000-ty-dong-lai-suat-12-nam-188260908110452833.chn",
-        "published": "Tue, 08 Sep 26 11:04:00 +0700"
-      },
-      {
-        "title": "Lãnh đạo Bệnh viện TNH đăng ký bán hơn 5,3 triệu cổ phiếu TNH",
-        "link": "https://cafef.vn/lanh-dao-benh-vien-tnh-dang-ky-ban-hon-53-trieu-co-phieu-tnh-188260908102148596.chn",
-        "published": "Tue, 08 Sep 26 10:57:00 +0700"
-      },
-      {
-        "title": "Vẫn lỗ lũy kế hơn 23.000 tỷ đồng, cổ phiếu một công ty bị giữ nguyên diện cảnh báo",
-        "link": "https://cafef.vn/van-lo-luy-ke-hon-23000-ty-dong-co-phieu-mot-cong-ty-bi-giu-nguyen-dien-canh-bao-188260908102120967.chn",
-        "published": "Tue, 08 Sep 26 10:55:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Phân tích kỹ thuật phiên chiều 08/09: Diễn biến giằng co",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0809-dien-bien-giang-co-585-1489870.htm",
+        "published": "Tue, 08 Sep 2026 13:07:32 +0700"
+      },
+      {
         "title": "Hơn 5.3 triệu cp RCD giao dịch cuối cùng trên UPCoM ngày 11/09",
         "link": "http://vietstock.vn/2026/09/hon-53-trieu-cp-rcd-giao-dich-cuoi-cung-tren-upcom-ngay-1109-830-1489830.htm",
         "published": "Tue, 08 Sep 2026 11:44:09 +0700"
@@ -91,43 +96,38 @@
         "title": "Chứng khoán Shinhan ra mắt VINASTALK - Nền tảng thông tin và đầu tư chứng khoán All-in-one",
         "link": "http://vietstock.vn/2026/09/chung-khoan-shinhan-ra-mat-vinastalk-nen-tang-thong-tin-va-dau-tu-chung-khoan-all-in-one-830-1489768.htm",
         "published": "Tue, 08 Sep 2026 09:42:00 +0700"
-      },
-      {
-        "title": "Trước “giờ G” nâng hạng: Thị trường vốn Việt Nam cần nâng cấp kiến trúc, không chỉ tốc độ",
-        "link": "http://vietstock.vn/2026/09/truoc-gio-g-nang-hang-thi-truong-von-viet-nam-can-nang-cap-kien-truc-khong-chi-toc-do-830-1487758.htm",
-        "published": "Tue, 08 Sep 2026 09:13:04 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "China’s exports surge as demand for high-tech, AI help prop up economic growth",
-        "link": "https://www.investing.com/news/economy-news/chinas-exports-up-25-yy-in-august-imports-surge-282-4890773",
-        "published": "2026-09-08 03:54:26"
+        "title": "German exports unexpectedly fall in July",
+        "link": "https://www.investing.com/news/economy-news/german-exports-fall-in-july-4890828",
+        "published": "2026-09-08 06:30:31"
       },
       {
-        "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
+        "title": "Yen’s rally to seven-month high weighs on dollar ahead of US CPI",
         "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
-        "published": "2026-09-08 03:37:07"
+        "published": "2026-09-08 06:12:53"
       },
       {
-        "title": "Japan, US remain aligned on FX policy to foster stable markets, Katayama says",
-        "link": "https://www.investing.com/news/economy-news/japan-us-remain-aligned-on-fx-policy-to-foster-stable-markets-katayama-says-4890771",
-        "published": "2026-09-08 02:30:36"
+        "title": "RBA’s Hunter says further tightening may be needed to curb inflation",
+        "link": "https://www.investing.com/news/economy-news/rbas-hunter-says-further-tightening-may-be-needed-to-curb-inflation-4890825",
+        "published": "2026-09-08 06:10:59"
       },
       {
-        "title": "Asia stocks waver as yen surges, Iran warns of retaliation",
-        "link": "https://www.investing.com/news/economy-news/asia-stocks-waver-as-yen-surges-iran-warns-of-retaliation-4890764",
-        "published": "2026-09-08 01:54:48"
+        "title": "Analysis-Why the BOJ will bet small on rate hikes now to avoid a bigger shock later",
+        "link": "https://www.investing.com/news/economy-news/analysiswhy-the-boj-will-bet-small-on-rate-hikes-now-to-avoid-a-bigger-shock-later-4890795",
+        "published": "2026-09-08 06:06:32"
       },
       {
-        "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
-        "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
-        "published": "2026-09-08 01:06:29"
+        "title": "Iran warns of maritime exclusion zone, strikes on U.S. Gulf energy assets",
+        "link": "https://www.investing.com/news/economy-news/iran-warns-of-maritime-exclusion-zone-strikes-on-us-gulf-energy-assets-4890805",
+        "published": "2026-09-08 05:54:21"
       },
       {
-        "title": "Australian consumer sentiment slides under rates, petrol pressure",
-        "link": "https://www.investing.com/news/economy-news/australian-consumer-sentiment-slides-under-rates-petrol-pressure-4890753",
-        "published": "2026-09-08 00:36:23"
+        "title": "The yen’s sudden surge is upsetting the carry trade faithful",
+        "link": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
+        "published": "2026-09-08 05:24:56"
       }
     ]
   }
