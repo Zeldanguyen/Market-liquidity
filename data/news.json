@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-08T00:47:08.406269",
+  "fetched_at": "2026-09-08T01:09:37.960712",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chủ đầu tư Aqua City lỗ ròng hơn 120 tỷ đồng bán niên 2026",
+        "link": "https://cafef.vn/chu-dau-tu-aqua-city-lo-rong-hon-120-ty-dong-ban-nien-2026-188260908070820921.chn",
+        "published": "Tue, 08 Sep 26 08:07:00 +0700"
+      },
+      {
+        "title": "BIG chính thức đón quỹ ngoại làm cổ đông chiến lược, mở đường lên HOSE",
+        "link": "https://cafef.vn/big-chinh-thuc-don-quy-ngoai-lam-co-dong-chien-luoc-mo-duong-len-hose-188260907211546169.chn",
+        "published": "Tue, 08 Sep 26 08:00:00 +0700"
+      },
       {
         "title": "Một quốc gia nắm giữ hàng nghìn tấn vàng đang âm thầm bán ra",
         "link": "https://cafef.vn/mot-quoc-gia-nam-giu-hang-nghin-tan-vang-dang-am-tham-ban-ra-188260907222038416.chn",
@@ -22,19 +32,24 @@
         "title": "Việt Vương bị xử phạt do vi phạm công bố thông tin",
         "link": "https://cafef.vn/viet-vuong-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260907195153075.chn",
         "published": "Tue, 08 Sep 26 00:04:00 +0700"
-      },
-      {
-        "title": "Không phải nâng hạng, một sự kiện quan trọng có thể tác động mạnh đến chứng khoán",
-        "link": "https://cafef.vn/khong-phai-nang-hang-mot-su-kien-quan-trong-co-the-tac-dong-manh-den-chung-khoan-188260907220652283.chn",
-        "published": "Tue, 08 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Loạt sếp lớn một doanh nghiệp bất động sản liên tục \"bắt đáy\" lượng lớn cổ phiếu",
-        "link": "https://cafef.vn/loat-sep-lon-mot-doanh-nghiep-bat-dong-san-lien-tuc-bat-day-luong-lon-co-phieu-188260907220347851.chn",
-        "published": "Tue, 08 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "KienlongBank ra mắt hệ sinh thái số MyShop 5.0 All-in-One cho Hộ kinh doanh",
+        "link": "https://vneconomy.vn/kienlongbank-ra-mat-he-sinh-thai-so-myshop-50-all-in-one-cho-ho-kinh-doanh.htm",
+        "published": "Tue, 08 Sep 2026 01:00:00 GMT"
+      },
+      {
+        "title": "Hải quan tịch thu hơn 15.300 tỷ đồng hàng hóa vi phạm",
+        "link": "https://vneconomy.vn/hai-quan-tich-thu-hon-15300-ty-dong-hang-hoa-vi-pham.htm",
+        "published": "Tue, 08 Sep 2026 00:59:36 GMT"
+      },
+      {
+        "title": "Nhiều nhà dự báo trở nên lạc quan hơn về triển vọng tăng giá của vàng",
+        "link": "https://vneconomy.vn/nhieu-nha-du-bao-tro-nen-lac-quan-hon-ve-trien-vong-tang-gia-cua-vang.htm",
+        "published": "Tue, 08 Sep 2026 00:55:28 GMT"
+      },
       {
         "title": "Mối lo lãi suất tăng \"neo\" giá vàng quanh ngưỡng 4.400 USD/oz",
         "link": "https://vneconomy.vn/moi-lo-lai-suat-tang-neo-gia-vang-quanh-nguong-4400-usdoz.htm",
@@ -49,21 +64,6 @@
         "title": "Tổng dư nợ tín dụng của TP. Hồ Chí Minh và TP. Đồng Nai hơn 6,3 triệu tỉ đồng, tăng 9%",
         "link": "https://vneconomy.vn/tong-du-no-tin-dung-cua-tp-ho-chi-minh-va-tp-dong-nai-hon-63-trieu-ti-dong-tang-9.htm",
         "published": "Mon, 07 Sep 2026 13:24:45 GMT"
-      },
-      {
-        "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài trong tháng 9",
-        "link": "https://vneconomy.vn/ty-gia-doi-mat-nhieu-phep-thu-tu-ben-ngoai-trong-thang-9.htm",
-        "published": "Mon, 07 Sep 2026 08:16:10 GMT"
-      },
-      {
-        "title": "SHB: Top 10 doanh nghiệp tiêu biểu về năng lượng và môi trường xanh bền vững",
-        "link": "https://vneconomy.vn/shb-top-10-doanh-nghiep-tieu-bieu-ve-nang-luong-va-moi-truong-xanh-ben-vung.htm",
-        "published": "Mon, 07 Sep 2026 08:00:39 GMT"
-      },
-      {
-        "title": "Vàng trong nước cao hơn thế giới khoảng 6-8 triệu đồng/lượng",
-        "link": "https://vneconomy.vn/vang-trong-nuoc-cao-hon-the-gioi-khoang-6-8-trieu-dongluong.htm",
-        "published": "Mon, 07 Sep 2026 03:43:34 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Australian consumer sentiment slides under rates, petrol pressure",
+        "link": "https://www.investing.com/news/economy-news/australian-consumer-sentiment-slides-under-rates-petrol-pressure-4890753",
+        "published": "2026-09-08 00:36:23"
+      },
+      {
         "title": "Japan revises Q2 GDP up to annualised 1.4% expansion",
         "link": "https://www.investing.com/news/economy-news/japan-revises-q2-gdp-up-to-annualised-14-expansion-4890749",
         "published": "2026-09-08 00:00:50"
@@ -123,11 +128,6 @@
         "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
         "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
         "published": "2026-09-07 13:13:36"
-      },
-      {
-        "title": "UBS expects the Fed to lift rates twice before the end of the year. Here’s why.",
-        "link": "https://www.investing.com/news/economy-news/ubs-expects-the-fed-to-lift-rates-twice-before-the-end-of-the-year-heres-why-4890628",
-        "published": "2026-09-07 11:58:53"
       }
     ]
   }
