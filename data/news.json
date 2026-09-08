@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T15:42:47.817195",
+  "fetched_at": "2026-09-08T16:10:33.630248",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -102,7 +102,12 @@
       {
         "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
         "link": "https://www.investing.com/news/economy-news/consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-shows-4892029",
-        "published": "2026-09-08 15:06:39"
+        "published": "2026-09-08 15:49:40"
+      },
+      {
+        "title": "EU and Canada plan broad alliance to counter U.S.-China dominance - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/eu-and-canada-plan-broad-alliance-to-counter-uschina-dominance--bloomberg-4892058",
+        "published": "2026-09-08 15:41:38"
       },
       {
         "title": "US consumers’ inflation outlook steady as job worries rise",
@@ -123,11 +128,6 @@
         "title": "BoE’s Bailey says market curve shows inflation \"risk premium\"",
         "link": "https://www.investing.com/news/economy-news/boes-bailey-says-market-curve-shows-inflation-risk-premium-4891918",
         "published": "2026-09-08 14:18:32"
-      },
-      {
-        "title": "TSA launches Gateside program for non-flyers with PreCheck",
-        "link": "https://www.investing.com/news/economy-news/tsa-launches-gateside-program-for-nonflyers-with-precheck-93CH-4891924",
-        "published": "2026-09-08 14:16:18"
       }
     ]
   }
