@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T01:09:37.960712",
+  "fetched_at": "2026-09-08T01:40:55.706202",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Không để sản phẩm đủ điều kiện tại Trung tâm Tài chính Quốc tế tiếp tục chờ triển khai",
+        "link": "https://vneconomy.vn/khong-de-san-pham-du-dieu-kien-tai-trung-tam-tai-chinh-quoc-te-tiep-tuc-cho-trien-khai.htm",
+        "published": "Tue, 08 Sep 2026 01:19:59 GMT"
+      },
+      {
         "title": "KienlongBank ra mắt hệ sinh thái số MyShop 5.0 All-in-One cho Hộ kinh doanh",
         "link": "https://vneconomy.vn/kienlongbank-ra-mat-he-sinh-thai-so-myshop-50-all-in-one-cho-ho-kinh-doanh.htm",
         "published": "Tue, 08 Sep 2026 01:00:00 GMT"
@@ -59,14 +64,14 @@
         "title": "Dự trữ ngoại hối của Nhật Bản giảm kỷ lục sau đợt can thiệp tỷ giá đồng yên tháng 8",
         "link": "https://vneconomy.vn/du-tru-ngoai-hoi-cua-nhat-ban-giam-ky-luc-sau-dot-can-thiep-ty-gia-dong-yen-thang-8.htm",
         "published": "Tue, 08 Sep 2026 00:21:59 GMT"
-      },
-      {
-        "title": "Tổng dư nợ tín dụng của TP. Hồ Chí Minh và TP. Đồng Nai hơn 6,3 triệu tỉ đồng, tăng 9%",
-        "link": "https://vneconomy.vn/tong-du-no-tin-dung-cua-tp-ho-chi-minh-va-tp-dong-nai-hon-63-trieu-ti-dong-tang-9.htm",
-        "published": "Mon, 07 Sep 2026 13:24:45 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 08/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0809-830-1489626.htm",
+        "published": "Tue, 08 Sep 2026 08:00:00 +0700"
+      },
       {
         "title": "08/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/0809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1489740.htm",
@@ -91,14 +96,19 @@
         "title": "Nhịp đập Thị trường 07/09: Khối ngoại quay lại bán ròng, VN-Index giảm hơn 31 điểm",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0709-khoi-ngoai-quay-lai-ban-rong-vn-index-giam-hon-31-diem-1636-1489224.htm",
         "published": "Mon, 07 Sep 2026 16:57:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 07/09: Áp lực bán hiện hữu",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0709-ap-luc-ban-hien-huu-585-1489405.htm",
-        "published": "Mon, 07 Sep 2026 13:03:13 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
+        "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
+        "published": "2026-09-08 01:06:29"
+      },
+      {
+        "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
+        "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
+        "published": "2026-09-08 01:00:30"
+      },
       {
         "title": "Australian consumer sentiment slides under rates, petrol pressure",
         "link": "https://www.investing.com/news/economy-news/australian-consumer-sentiment-slides-under-rates-petrol-pressure-4890753",
@@ -118,16 +128,6 @@
         "title": "Colombia 12-month inflation edges up more than expected in August",
         "link": "https://www.investing.com/news/economy-news/colombia-12month-inflation-edges-up-more-than-expected-in-august-4890747",
         "published": "2026-09-07 23:30:29"
-      },
-      {
-        "title": "Yen surges to seven-month high; dollar drifts ahead of US inflation",
-        "link": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
-        "published": "2026-09-07 14:55:42"
-      },
-      {
-        "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
-        "link": "https://www.investing.com/news/economy-news/uks-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years-4890609",
-        "published": "2026-09-07 13:13:36"
       }
     ]
   }
