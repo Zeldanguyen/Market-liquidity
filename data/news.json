@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-08T10:41:28.139406",
+  "fetched_at": "2026-09-08T11:09:19.690643",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một công ty con của Novaland lỗ ròng hơn 49 tỷ đồng trong nửa đầu năm 2026",
+        "link": "https://cafef.vn/mot-cong-ty-con-cua-novaland-lo-rong-hon-49-ty-dong-trong-nua-dau-nam-2026-188260908165657713.chn",
+        "published": "Tue, 08 Sep 26 17:56:00 +0700"
+      },
+      {
+        "title": "Quyết định mới nhất của Vingroup với VinFast",
+        "link": "https://cafef.vn/quyet-dinh-moi-nhat-cua-vingroup-voi-vinfast-188260908175252399.chn",
+        "published": "Tue, 08 Sep 26 17:52:00 +0700"
+      },
       {
         "title": "VN-Index ‘quay xe’ sau cú rơi đầu tuần",
         "link": "https://cafef.vn/vn-index-quay-xe-sau-cu-roi-dau-tuan-18826090817053572.chn",
@@ -22,16 +32,6 @@
         "title": "Chứng khoán An Bình sẽ phát hành 5 triệu cổ phiếu ESOP cho 163 cá nhân",
         "link": "https://cafef.vn/chung-khoan-an-binh-se-phat-hanh-5-trieu-co-phieu-esop-cho-163-ca-nhan-1882609081655485.chn",
         "published": "Tue, 08 Sep 26 16:55:00 +0700"
-      },
-      {
-        "title": "Phiên 8/9: Khối ngoại bán tiếp đà bán ròng, \"xả\" mạnh hai cổ phiếu ngân hàng",
-        "link": "https://cafef.vn/phien-8-9-khoi-ngoai-ban-tiep-da-ban-rong-xa-manh-hai-co-phieu-ngan-hang-188260908154734368.chn",
-        "published": "Tue, 08 Sep 26 15:48:00 +0700"
-      },
-      {
-        "title": "Ngày mai, hơn 4,1 tỷ cổ phiếu Vinhomes về tài khoản nhà đầu tư, được phép giao dịch",
-        "link": "https://cafef.vn/ngay-mai-hon-41-ty-co-phieu-vinhomes-ve-tai-khoan-nha-dau-tu-duoc-phep-giao-dich-18826090815103975.chn",
-        "published": "Tue, 08 Sep 26 15:10:00 +0700"
       }
     ],
     "VnEconomy": [
