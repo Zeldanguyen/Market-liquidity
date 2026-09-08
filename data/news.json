@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T22:39:23.909710",
+  "fetched_at": "2026-09-08T23:09:34.049093",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Cognition AI raises $2 billion at $48 billion valuation",
+        "link": "https://www.investing.com/news/economy-news/cognition-ai-raises-2-billion-at-48-billion-valuation-4892546",
+        "published": "2026-09-08 21:54:27"
+      },
+      {
         "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
         "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
-        "published": "2026-09-08 21:30:40"
+        "published": "2026-09-08 21:37:21"
       },
       {
         "title": "Roll out the $100 barrel",
@@ -123,11 +128,6 @@
         "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
         "link": "https://www.investing.com/news/economy-news/irs-under-trump-unlawfully-shared-taxpayer-info-with-immigration-authorities-court-rules-4892276",
         "published": "2026-09-08 19:32:21"
-      },
-      {
-        "title": "Canada seeks to sell nuclear technology to Poland amid trade tensions",
-        "link": "https://www.investing.com/news/economy-news/canada-seeks-to-sell-nuclear-technology-to-poland-amid-trade-tensions-93CH-4892190",
-        "published": "2026-09-08 17:52:45"
       }
     ]
   }
