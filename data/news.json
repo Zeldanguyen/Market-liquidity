@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-09-08T03:09:34.006352",
+  "fetched_at": "2026-09-08T03:42:14.368692",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Người dân chú ý: Hơn 1 nghìn cây xăng trên cả nước sẽ thu gom thứ đã qua sử dụng từ hàng chục triệu gia đình",
+        "link": "https://cafef.vn/nguoi-dan-chu-y-hon-1-nghin-cay-xang-tren-ca-nuoc-se-thu-gom-thu-da-qua-su-dung-tu-hang-chuc-trieu-gia-dinh-188260908103810362.chn",
+        "published": "Tue, 08 Sep 26 10:38:00 +0700"
+      },
+      {
+        "title": "Chủ tịch HĐQT Haxaco không mua hết lượng cổ phiếu HAX đã đăng ký",
+        "link": "https://cafef.vn/chu-tich-hdqt-haxaco-khong-mua-het-luong-co-phieu-hax-da-dang-ky-188260908102219958.chn",
+        "published": "Tue, 08 Sep 26 10:33:00 +0700"
+      },
+      {
+        "title": "Bất ngờ số căn hộ Vinhomes bán trong 5 năm qua",
+        "link": "https://cafef.vn/bat-ngo-so-can-ho-vinhomes-ban-trong-5-nam-qua-188260908102315006.chn",
+        "published": "Tue, 08 Sep 26 10:24:00 +0700"
+      },
+      {
+        "title": "Phó Thủ tướng yêu cầu ‘nóng’ với Trung tâm Tài chính quốc tế",
+        "link": "https://cafef.vn/pho-thu-tuong-yeu-cau-nong-voi-trung-tam-tai-chinh-quoc-te-188260908100621884.chn",
+        "published": "Tue, 08 Sep 26 10:08:00 +0700"
+      },
       {
         "title": "Ngân hàng dẫn sóng trái phiếu doanh nghiệp, Kho bạc Nhà nước tăng tốc huy động vốn",
         "link": "https://cafef.vn/ngan-hang-dan-song-trai-phieu-doanh-nghiep-kho-bac-nha-nuoc-tang-toc-huy-dong-von-188260908085306175.chn",
@@ -12,26 +32,6 @@
         "title": "Dòng tiền ETF dịch chuyển trước bước ngoặt nâng hạng",
         "link": "https://cafef.vn/dong-tien-etf-dich-chuyen-truoc-buoc-ngoat-nang-hang-188260908084438335.chn",
         "published": "Tue, 08 Sep 26 08:44:00 +0700"
-      },
-      {
-        "title": "VN-Index trước “gọng kìm” Fed - BOJ: Nội lực vĩ mô có đủ sức giữ nhịp thị trường?",
-        "link": "https://cafef.vn/vn-index-truoc-gong-kim-fed-boj-noi-luc-vi-mo-co-du-suc-giu-nhip-thi-truong-188260908084332149.chn",
-        "published": "Tue, 08 Sep 26 08:43:00 +0700"
-      },
-      {
-        "title": "Chủ đầu tư Aqua City lỗ ròng hơn 120 tỷ đồng bán niên 2026",
-        "link": "https://cafef.vn/chu-dau-tu-aqua-city-lo-rong-hon-120-ty-dong-ban-nien-2026-188260908070820921.chn",
-        "published": "Tue, 08 Sep 26 08:07:00 +0700"
-      },
-      {
-        "title": "BIG chính thức đón quỹ ngoại làm cổ đông chiến lược, mở đường lên HOSE",
-        "link": "https://cafef.vn/big-chinh-thuc-don-quy-ngoai-lam-co-dong-chien-luoc-mo-duong-len-hose-188260907211546169.chn",
-        "published": "Tue, 08 Sep 26 08:00:00 +0700"
-      },
-      {
-        "title": "Một quốc gia nắm giữ hàng nghìn tấn vàng đang âm thầm bán ra",
-        "link": "https://cafef.vn/mot-quoc-gia-nam-giu-hang-nghin-tan-vang-dang-am-tham-ban-ra-188260907222038416.chn",
-        "published": "Tue, 08 Sep 26 00:07:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,16 @@
     ],
     "Vietstock": [
       {
+        "title": "Ngày 08/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+        "link": "http://vietstock.vn/2026/09/ngay-08092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1489601.htm",
+        "published": "Tue, 08 Sep 2026 10:00:00 +0700"
+      },
+      {
+        "title": "Chứng khoán Shinhan ra mắt VINASTALK - Nền tảng thông tin và đầu tư chứng khoán All-in-one",
+        "link": "http://vietstock.vn/2026/09/chung-khoan-shinhan-ra-mat-vinastalk-nen-tang-thong-tin-va-dau-tu-chung-khoan-all-in-one-830-1489768.htm",
+        "published": "Tue, 08 Sep 2026 09:42:00 +0700"
+      },
+      {
         "title": "Trước “giờ G” nâng hạng: Thị trường vốn Việt Nam cần nâng cấp kiến trúc, không chỉ tốc độ",
         "link": "http://vietstock.vn/2026/09/truoc-gio-g-nang-hang-thi-truong-von-viet-nam-can-nang-cap-kien-truc-khong-chi-toc-do-830-1487758.htm",
         "published": "Tue, 08 Sep 2026 09:13:04 +0700"
@@ -86,16 +96,6 @@
         "title": "08/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/0809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1489740.htm",
         "published": "Tue, 08 Sep 2026 06:00:00 +0700"
-      },
-      {
-        "title": "UBCKNN phạt Công ty Việt Vương vì chậm công bố thông tin",
-        "link": "http://vietstock.vn/2026/09/ubcknn-phat-cong-ty-viet-vuong-vi-cham-cong-bo-thong-tin-830-1489737.htm",
-        "published": "Mon, 07 Sep 2026 22:32:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 07/09: Khối ngoại, tự doanh cùng xả trong phiên giảm hơn 31 điểm",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0709-khoi-ngoai-tu-doanh-cung-xa-trong-phien-giam-hon-31-diem-830-1489704.htm",
-        "published": "Mon, 07 Sep 2026 19:21:13 +0700"
       }
     ],
     "Investing.com Economy": [
