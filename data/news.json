@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-08T07:41:47.452595",
+  "fetched_at": "2026-09-08T08:11:10.565867",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lợi nhuận Becamex IDC (BCM) “lao dốc” hơn 83% sau nửa đầu năm, lãnh đạo vẫn lĩnh 5,1 tỷ đồng tiền thưởng",
+        "link": "https://cafef.vn/loi-nhuan-becamex-idc-bcm-lao-doc-hon-83-sau-nua-dau-nam-lanh-dao-van-linh-51-ty-dong-tien-thuong-188260908150335669.chn",
+        "published": "Tue, 08 Sep 26 15:03:00 +0700"
+      },
+      {
+        "title": "Thị trường trái phiếu doanh nghiệp tháng 8/2026: Ngân hàng tiếp tục áp đảo, có tin vui từ nhóm bất động sản",
+        "link": "https://cafef.vn/thi-truong-trai-phieu-doanh-nghiep-thang-8-2026-ngan-hang-tiep-tuc-ap-dao-co-tin-vui-tu-nhom-bat-dong-san-188260908150139039.chn",
+        "published": "Tue, 08 Sep 26 15:01:00 +0700"
+      },
       {
         "title": "Một doanh nghiệp đặt trụ sở tại The Grand Hanoi huy động 7.000 tỷ đồng trái phiếu",
         "link": "https://cafef.vn/mot-doanh-nghiep-dat-tru-so-tai-the-grand-hanoi-huy-dong-7000-ty-dong-trai-phieu-188260908134238903.chn",
@@ -22,16 +32,6 @@
         "title": "Ông Nguyễn Như Hoàng Tuấn bị bắt, cổ phiếu DN \"có biến’\" trước ĐHĐCĐ bất thường",
         "link": "https://cafef.vn/ong-nguyen-nhu-hoang-tuan-bi-bat-co-phieu-dn-co-bien-truoc-dhdcd-bat-thuong-188260908133642856.chn",
         "published": "Tue, 08 Sep 26 13:37:00 +0700"
-      },
-      {
-        "title": "TCBS chốt ngày phát hành gần 555 triệu cổ phiếu trả cổ tức",
-        "link": "https://cafef.vn/tcbs-chot-ngay-phat-hanh-gan-555-trieu-co-phieu-tra-co-tuc-188260908123448079.chn",
-        "published": "Tue, 08 Sep 26 13:33:00 +0700"
-      },
-      {
-        "title": "HOSE cắt margin thêm 3 cổ phiếu, trong đó có một ngân hàng",
-        "link": "https://cafef.vn/hose-cat-margin-them-3-co-phieu-trong-do-co-mot-ngan-hang-188260908102315006.chn",
-        "published": "Tue, 08 Sep 26 13:16:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Oil near $100, Fed rate fears and Iran tensions - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/oil-fed-rate-fears-and-iran-tensions--whats-moving-markets-4890862",
+        "published": "2026-09-08 07:57:32"
+      },
+      {
+        "title": "Takaichi’s reflationist aide projects Bank of Japan rate hike in September",
+        "link": "https://www.investing.com/news/economy-news/takaichis-reflationist-aide-projects-bank-of-japan-rate-hike-in-september-4890925",
+        "published": "2026-09-08 07:42:45"
+      },
+      {
+        "title": "German exports unexpectedly fall in July",
+        "link": "https://www.investing.com/news/economy-news/german-exports-fall-in-july-4890828",
+        "published": "2026-09-08 07:24:53"
+      },
+      {
         "title": "China’s exports surge as demand for high-tech, AI help prop up economic growth",
         "link": "https://www.investing.com/news/economy-news/chinas-exports-up-25-yy-in-august-imports-surge-282-4890773",
         "published": "2026-09-08 07:06:29"
@@ -110,24 +125,9 @@
         "published": "2026-09-08 06:48:33"
       },
       {
-        "title": "German exports unexpectedly fall in July",
-        "link": "https://www.investing.com/news/economy-news/german-exports-fall-in-july-4890828",
-        "published": "2026-09-08 06:30:31"
-      },
-      {
         "title": "Yen’s rally to seven-month high weighs on dollar ahead of US CPI",
         "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
         "published": "2026-09-08 06:12:53"
-      },
-      {
-        "title": "RBA’s Hunter says further tightening may be needed to curb inflation",
-        "link": "https://www.investing.com/news/economy-news/rbas-hunter-says-further-tightening-may-be-needed-to-curb-inflation-4890825",
-        "published": "2026-09-08 06:10:59"
-      },
-      {
-        "title": "Analysis-Why the BOJ will bet small on rate hikes now to avoid a bigger shock later",
-        "link": "https://www.investing.com/news/economy-news/analysiswhy-the-boj-will-bet-small-on-rate-hikes-now-to-avoid-a-bigger-shock-later-4890795",
-        "published": "2026-09-08 06:06:32"
       }
     ]
   }
