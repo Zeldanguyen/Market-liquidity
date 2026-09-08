@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-08T10:10:10.548916",
+  "fetched_at": "2026-09-08T10:41:28.139406",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VN-Index ‘quay xe’ sau cú rơi đầu tuần",
+        "link": "https://cafef.vn/vn-index-quay-xe-sau-cu-roi-dau-tuan-18826090817053572.chn",
+        "published": "Tue, 08 Sep 26 17:17:00 +0700"
+      },
       {
         "title": "Phiên 8/9: Tự doanh CTCK bất ngờ \"xả\" mạnh hàng trăm tỷ đồng tại một cổ phiếu chứng khoán",
         "link": "https://cafef.vn/phien-8-9-tu-doanh-ctck-bat-ngo-xa-manh-hang-tram-ty-dong-tai-mot-co-phieu-chung-khoan-188260908170739426.chn",
@@ -27,11 +32,6 @@
         "title": "Ngày mai, hơn 4,1 tỷ cổ phiếu Vinhomes về tài khoản nhà đầu tư, được phép giao dịch",
         "link": "https://cafef.vn/ngay-mai-hon-41-ty-co-phieu-vinhomes-ve-tai-khoan-nha-dau-tu-duoc-phep-giao-dich-18826090815103975.chn",
         "published": "Tue, 08 Sep 26 15:10:00 +0700"
-      },
-      {
-        "title": "Lợi nhuận Becamex IDC (BCM) “lao dốc” hơn 83% sau nửa đầu năm, lãnh đạo vẫn lĩnh 5,1 tỷ đồng tiền thưởng",
-        "link": "https://cafef.vn/loi-nhuan-becamex-idc-bcm-lao-doc-hon-83-sau-nua-dau-nam-lanh-dao-van-linh-51-ty-dong-tien-thuong-188260908150335669.chn",
-        "published": "Tue, 08 Sep 26 15:03:00 +0700"
       }
     ],
     "VnEconomy": [
