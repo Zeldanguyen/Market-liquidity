@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-08T07:11:02.379954",
+  "fetched_at": "2026-09-08T07:41:47.452595",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một doanh nghiệp đặt trụ sở tại The Grand Hanoi huy động 7.000 tỷ đồng trái phiếu",
+        "link": "https://cafef.vn/mot-doanh-nghiep-dat-tru-so-tai-the-grand-hanoi-huy-dong-7000-ty-dong-trai-phieu-188260908134238903.chn",
+        "published": "Tue, 08 Sep 26 14:15:00 +0700"
+      },
       {
         "title": "HOSE có thông báo mới đối với cổ phiếu HVN của Vietnam Airlines",
         "link": "https://cafef.vn/hose-co-thong-bao-moi-doi-voi-co-phieu-hvn-cua-vietnam-airlines-188260908114306183.chn",
@@ -27,14 +32,14 @@
         "title": "HOSE cắt margin thêm 3 cổ phiếu, trong đó có một ngân hàng",
         "link": "https://cafef.vn/hose-cat-margin-them-3-co-phieu-trong-do-co-mot-ngan-hang-188260908102315006.chn",
         "published": "Tue, 08 Sep 26 13:16:00 +0700"
-      },
-      {
-        "title": "Kinh Bắc nắm quyền kiểm soát công ty quản lý CLB Bóng đá Hưng Yên",
-        "link": "https://cafef.vn/kinh-bac-nam-quyen-kiem-soat-cong-ty-quan-ly-clb-bong-da-hung-yen-188260908110230352.chn",
-        "published": "Tue, 08 Sep 26 11:44:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Nở rộ chứng chỉ tiền gửi dưới 6 tháng chào lãi suất  7-8%/năm",
+        "link": "https://vneconomy.vn/no-ro-chung-chi-tien-gui-duoi-6-thang-chao-lai-suat-7-8nam.htm",
+        "published": "Tue, 08 Sep 2026 07:37:20 GMT"
+      },
       {
         "title": "Tỷ giá đồng yên bứt tốc lên đỉnh 7 tháng, “carry trade” bắt đầu đảo chiều",
         "link": "https://vneconomy.vn/ty-gia-dong-yen-but-toc-len-dinh-7-thang-carry-trade-bat-dau-dao-chieu.htm",
@@ -59,11 +64,6 @@
         "title": "Nhiều nhà dự báo trở nên lạc quan hơn về triển vọng tăng giá của vàng",
         "link": "https://vneconomy.vn/nhieu-nha-du-bao-tro-nen-lac-quan-hon-ve-trien-vong-tang-gia-cua-vang.htm",
         "published": "Tue, 08 Sep 2026 00:55:28 GMT"
-      },
-      {
-        "title": "Mối lo lãi suất tăng \"neo\" giá vàng quanh ngưỡng 4.400 USD/oz",
-        "link": "https://vneconomy.vn/moi-lo-lai-suat-tang-neo-gia-vang-quanh-nguong-4400-usdoz.htm",
-        "published": "Tue, 08 Sep 2026 00:38:17 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China’s exports surge as demand for high-tech, AI help prop up economic growth",
+        "link": "https://www.investing.com/news/economy-news/chinas-exports-up-25-yy-in-august-imports-surge-282-4890773",
+        "published": "2026-09-08 07:06:29"
+      },
+      {
         "title": "UK finance minister Healey seeks to set out brighter vision before tough budget",
         "link": "https://www.investing.com/news/economy-news/uk-finance-minister-healey-seeks-to-set-out-brighter-vision-before-tough-budget-4890869",
         "published": "2026-09-08 06:48:33"
@@ -123,11 +128,6 @@
         "title": "Analysis-Why the BOJ will bet small on rate hikes now to avoid a bigger shock later",
         "link": "https://www.investing.com/news/economy-news/analysiswhy-the-boj-will-bet-small-on-rate-hikes-now-to-avoid-a-bigger-shock-later-4890795",
         "published": "2026-09-08 06:06:32"
-      },
-      {
-        "title": "Iran warns of maritime exclusion zone, strikes on U.S. Gulf energy assets",
-        "link": "https://www.investing.com/news/economy-news/iran-warns-of-maritime-exclusion-zone-strikes-on-us-gulf-energy-assets-4890805",
-        "published": "2026-09-08 05:54:21"
       }
     ]
   }
