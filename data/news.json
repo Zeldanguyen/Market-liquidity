@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:41:03.308855",
+  "fetched_at": "2026-09-08T12:12:12.146452",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Mức lợi suất trái phiếu kho bạc Mỹ có thể đe dọa các tài sản khác",
+        "link": "https://vneconomy.vn/muc-loi-suat-trai-phieu-kho-bac-my-co-the-de-doa-cac-tai-san-khac.htm",
+        "published": "Tue, 08 Sep 2026 11:45:29 GMT"
+      },
+      {
         "title": "Nở rộ chứng chỉ tiền gửi dưới 6 tháng chào lãi suất  7-8%/năm",
         "link": "https://vneconomy.vn/no-ro-chung-chi-tien-gui-duoi-6-thang-chao-lai-suat-7-8nam.htm",
         "published": "Tue, 08 Sep 2026 07:37:20 GMT"
@@ -59,14 +64,14 @@
         "title": "Hải quan tịch thu hơn 15.300 tỷ đồng hàng hóa vi phạm",
         "link": "https://vneconomy.vn/hai-quan-tich-thu-hon-15300-ty-dong-hang-hoa-vi-pham.htm",
         "published": "Tue, 08 Sep 2026 00:59:36 GMT"
-      },
-      {
-        "title": "Nhiều nhà dự báo trở nên lạc quan hơn về triển vọng tăng giá của vàng",
-        "link": "https://vneconomy.vn/nhieu-nha-du-bao-tro-nen-lac-quan-hon-ve-trien-vong-tang-gia-cua-vang.htm",
-        "published": "Tue, 08 Sep 2026 00:55:28 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Vietstock Daily 09/09/2026: Hồi phục trong thận trọng",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-09092026-hoi-phuc-trong-than-trong-1636-1490061.htm",
+        "published": "Tue, 08 Sep 2026 18:09:37 +0700"
+      },
       {
         "title": "Sàn HOSE có 52 doanh nghiệp vốn hóa tỷ USD",
         "link": "http://vietstock.vn/2026/09/san-hose-co-52-doanh-nghiep-von-hoa-ty-usd-830-1489947.htm",
@@ -91,11 +96,6 @@
         "title": "“Soi” 27 cổ phiếu được vào FTSE GEIS: Mã nào phá đỉnh thời đại trong năm 2026?",
         "link": "http://vietstock.vn/2026/09/soi-27-co-phieu-duoc-vao-ftse-geis-ma-nao-pha-dinh-thoi-dai-trong-nam-2026-830-1489815.htm",
         "published": "Tue, 08 Sep 2026 10:47:47 +0700"
-      },
-      {
-        "title": "Ngày 08/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-        "link": "http://vietstock.vn/2026/09/ngay-08092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1489601.htm",
-        "published": "Tue, 08 Sep 2026 10:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
