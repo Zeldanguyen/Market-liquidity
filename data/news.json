@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T14:11:01.905339",
+  "fetched_at": "2026-09-08T14:43:11.949992",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UK airports halt departures due to air traffic control glitch",
+        "link": "https://www.investing.com/news/economy-news/uk-airports-halt-departures-due-to-air-traffic-control-glitch-93CH-4891965",
+        "published": "2026-09-08 14:28:11"
+      },
+      {
+        "title": "BoE’s Bailey says market curve shows inflation \"risk premium\"",
+        "link": "https://www.investing.com/news/economy-news/boes-bailey-says-market-curve-shows-inflation-risk-premium-4891918",
+        "published": "2026-09-08 14:18:32"
+      },
+      {
+        "title": "TSA launches Gateside program for non-flyers with PreCheck",
+        "link": "https://www.investing.com/news/economy-news/tsa-launches-gateside-program-for-nonflyers-with-precheck-93CH-4891924",
+        "published": "2026-09-08 14:16:18"
+      },
+      {
+        "title": "Macron summit to seek boost for European space despite no-shows",
+        "link": "https://www.investing.com/news/economy-news/macron-summit-to-seek-boost-for-european-space-despite-noshows-4891906",
+        "published": "2026-09-08 14:13:08"
+      },
+      {
         "title": "German exports unexpectedly fall as trade volatility bites",
         "link": "https://www.investing.com/news/economy-news/german-exports-fall-in-july-4890828",
         "published": "2026-09-08 12:49:07"
@@ -108,26 +128,6 @@
         "title": "Yen pauses after rally as dollar firms",
         "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
         "published": "2026-09-08 12:48:49"
-      },
-      {
-        "title": "UBS upgrades Lockheed Martin to Buy, sees 26% upside on missile growth",
-        "link": "https://www.investing.com/news/economy-news/ubs-upgrades-lockheed-martin-to-buy-sees-26-upside-on-missile-growth-4891693",
-        "published": "2026-09-08 12:46:39"
-      },
-      {
-        "title": "UK sells 30-year debt at record yield, showing pressure on public finances",
-        "link": "https://www.investing.com/news/economy-news/uk-sells-30year-debt-at-record-yield-showing-pressure-on-public-finances-4891674",
-        "published": "2026-09-08 12:43:53"
-      },
-      {
-        "title": "Bank of England to hold rates, show patience with war-driven inflation: Reuters poll",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-show-patience-with-wardriven-inflation-reuters-poll-4891672",
-        "published": "2026-09-08 12:42:34"
-      },
-      {
-        "title": "The yen’s sudden surge upsets the carry trade faithful",
-        "link": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
-        "published": "2026-09-08 09:24:47"
       }
     ]
   }
