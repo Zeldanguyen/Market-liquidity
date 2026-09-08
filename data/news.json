@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T16:10:33.630248",
+  "fetched_at": "2026-09-08T16:42:11.742665",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen hovers near seven-month high, dollar steadies",
+        "link": "https://www.investing.com/news/economy-news/yen-extends-rally-to-new-sevenmonth-high-dollar-subdued-ahead-of-cpi-4890756",
+        "published": "2026-09-08 16:01:02"
+      },
+      {
+        "title": "BoE’s Bailey pushes back against idea of rate hike being inevitable",
+        "link": "https://www.investing.com/news/economy-news/boes-bailey-says-market-curve-shows-inflation-risk-premium-4891918",
+        "published": "2026-09-08 16:00:45"
+      },
+      {
         "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
         "link": "https://www.investing.com/news/economy-news/consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-shows-4892029",
         "published": "2026-09-08 15:49:40"
@@ -118,16 +128,6 @@
         "title": "US consumers’ inflation outlook steady in August, Fed report shows",
         "link": "https://www.investing.com/news/economy-news/us-consumers-inflation-outlook-steady-in-august-fed-report-shows-4892027",
         "published": "2026-09-08 15:04:39"
-      },
-      {
-        "title": "UK airports halt departures due to air traffic control glitch",
-        "link": "https://www.investing.com/news/economy-news/uk-airports-halt-departures-due-to-air-traffic-control-glitch-93CH-4891965",
-        "published": "2026-09-08 14:28:11"
-      },
-      {
-        "title": "BoE’s Bailey says market curve shows inflation \"risk premium\"",
-        "link": "https://www.investing.com/news/economy-news/boes-bailey-says-market-curve-shows-inflation-risk-premium-4891918",
-        "published": "2026-09-08 14:18:32"
       }
     ]
   }
