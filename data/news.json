@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-08T08:42:44.980926",
+  "fetched_at": "2026-09-08T09:09:57.309897",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Phiên 8/9: Khối ngoại bán tiếp đà bán ròng, \"xả\" mạnh hai cổ phiếu ngân hàng",
+        "link": "https://cafef.vn/phien-8-9-khoi-ngoai-ban-tiep-da-ban-rong-xa-manh-hai-co-phieu-ngan-hang-188260908154734368.chn",
+        "published": "Tue, 08 Sep 26 15:48:00 +0700"
+      },
       {
         "title": "Ngày mai, hơn 4,1 tỷ cổ phiếu Vinhomes về tài khoản nhà đầu tư, được phép giao dịch",
         "link": "https://cafef.vn/ngay-mai-hon-41-ty-co-phieu-vinhomes-ve-tai-khoan-nha-dau-tu-duoc-phep-giao-dich-18826090815103975.chn",
@@ -27,11 +32,6 @@
         "title": "HOSE có thông báo mới đối với cổ phiếu HVN của Vietnam Airlines",
         "link": "https://cafef.vn/hose-co-thong-bao-moi-doi-voi-co-phieu-hvn-cua-vietnam-airlines-188260908114306183.chn",
         "published": "Tue, 08 Sep 26 14:05:00 +0700"
-      },
-      {
-        "title": "Một thành viên HĐQT Bệnh viện TNH muốn bán sạch cổ phiếu TNH đang có",
-        "link": "https://cafef.vn/mot-thanh-vien-hdqt-benh-vien-tnh-muon-ban-sach-co-phieu-tnh-dang-co-188260908133730789.chn",
-        "published": "Tue, 08 Sep 26 13:46:00 +0700"
       }
     ],
     "VnEconomy": [
