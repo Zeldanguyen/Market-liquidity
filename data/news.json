@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T00:13:59.801838",
+  "fetched_at": "2026-09-08T00:47:08.406269",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Mối lo lãi suất tăng \"neo\" giá vàng quanh ngưỡng 4.400 USD/oz",
+        "link": "https://vneconomy.vn/moi-lo-lai-suat-tang-neo-gia-vang-quanh-nguong-4400-usdoz.htm",
+        "published": "Tue, 08 Sep 2026 00:38:17 GMT"
+      },
+      {
+        "title": "Dự trữ ngoại hối của Nhật Bản giảm kỷ lục sau đợt can thiệp tỷ giá đồng yên tháng 8",
+        "link": "https://vneconomy.vn/du-tru-ngoai-hoi-cua-nhat-ban-giam-ky-luc-sau-dot-can-thiep-ty-gia-dong-yen-thang-8.htm",
+        "published": "Tue, 08 Sep 2026 00:21:59 GMT"
+      },
+      {
         "title": "Tổng dư nợ tín dụng của TP. Hồ Chí Minh và TP. Đồng Nai hơn 6,3 triệu tỉ đồng, tăng 9%",
         "link": "https://vneconomy.vn/tong-du-no-tin-dung-cua-tp-ho-chi-minh-va-tp-dong-nai-hon-63-trieu-ti-dong-tang-9.htm",
         "published": "Mon, 07 Sep 2026 13:24:45 GMT"
@@ -54,16 +64,6 @@
         "title": "Vàng trong nước cao hơn thế giới khoảng 6-8 triệu đồng/lượng",
         "link": "https://vneconomy.vn/vang-trong-nuoc-cao-hon-the-gioi-khoang-6-8-trieu-dongluong.htm",
         "published": "Mon, 07 Sep 2026 03:43:34 GMT"
-      },
-      {
-        "title": "Chênh lệch lợi suất trái phiếu giữa Mỹ và Trung Quốc lớn nhất 20 năm",
-        "link": "https://vneconomy.vn/chenh-lech-loi-suat-trai-phieu-giua-my-va-trung-quoc-lon-nhat-20-nam.htm",
-        "published": "Mon, 07 Sep 2026 03:20:00 GMT"
-      },
-      {
-        "title": "Doanh nghiệp Quốc gia tạo nên sức mạnh của các nền kinh tế lớn: Đâu là bài học cho Việt Nam?",
-        "link": "https://vneconomy.vn/doanh-nghiep-quoc-gia-tao-nen-suc-manh-cua-cac-nen-kinh-te-lon-dau-la-bai-hoc-cho-viet-nam.htm",
-        "published": "Mon, 07 Sep 2026 03:15:04 GMT"
       }
     ],
     "Vietstock": [
