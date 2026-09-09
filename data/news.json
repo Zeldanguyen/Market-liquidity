@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T00:14:39.956948",
+  "fetched_at": "2026-09-09T00:46:43.552778",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Vàng sụt giá vì giá dầu leo thang mạnh, SPDR Gold Trust bán ròng",
+        "link": "https://vneconomy.vn/vang-sut-gia-vi-gia-dau-leo-thang-manh-spdr-gold-trust-ban-rong.htm",
+        "published": "Wed, 09 Sep 2026 00:31:28 GMT"
+      },
+      {
         "title": "Mức lợi suất trái phiếu kho bạc Mỹ có thể đe dọa các tài sản khác",
         "link": "https://vneconomy.vn/muc-loi-suat-trai-phieu-kho-bac-my-co-the-de-doa-cac-tai-san-khac.htm",
         "published": "Tue, 08 Sep 2026 11:45:29 GMT"
@@ -59,11 +64,6 @@
         "title": "KienlongBank ra mắt hệ sinh thái số MyShop 5.0 All-in-One cho Hộ kinh doanh",
         "link": "https://vneconomy.vn/kienlongbank-ra-mat-he-sinh-thai-so-myshop-50-all-in-one-cho-ho-kinh-doanh.htm",
         "published": "Tue, 08 Sep 2026 01:00:00 GMT"
-      },
-      {
-        "title": "Hải quan tịch thu hơn 15.300 tỷ đồng hàng hóa vi phạm",
-        "link": "https://vneconomy.vn/hai-quan-tich-thu-hon-15300-ty-dong-hang-hoa-vi-pham.htm",
-        "published": "Tue, 08 Sep 2026 00:59:36 GMT"
       }
     ],
     "Vietstock": [
