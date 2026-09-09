@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-09T11:40:56.858238",
+  "fetched_at": "2026-09-09T12:11:34.692413",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VN-Index tăng 17 điểm rồi quay đầu, nhà đầu tư tiếc vì không kịp chốt lời",
+        "link": "https://cafef.vn/vn-index-tang-17-diem-roi-quay-dau-nha-dau-tu-tiec-vi-khong-kip-chot-loi-18826090918564504.chn",
+        "published": "Wed, 09 Sep 26 18:56:00 +0700"
+      },
       {
         "title": "Nhóm CII nâng sở hữu tại PC1 lên hơn 13% vốn",
         "link": "https://cafef.vn/nhom-cii-nang-so-huu-tai-pc1-len-hon-13-von-188260909161447834.chn",
@@ -27,11 +32,6 @@
         "title": "Phiên 9/9: Một cổ phiếu VN30 bị khối ngoại \"xả\" gần 300 tỷ đồng",
         "link": "https://cafef.vn/phien-9-9-mot-co-phieu-vn30-bi-khoi-ngoai-xa-gan-300-ty-dong-188260909152141288.chn",
         "published": "Wed, 09 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Một đại gia dầu khí \"chơi lớn\" trả hơn 6.000 tỷ đồng tiền cổ tức",
-        "link": "https://cafef.vn/mot-dai-gia-dau-khi-choi-lon-tra-hon-6000-ty-dong-tien-co-tuc-188260909152106874.chn",
-        "published": "Wed, 09 Sep 26 15:26:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Vietstock Daily 10/09/2026: Giằng co tiếp diễn",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-10092026-giang-co-tiep-dien-1636-1490525.htm",
+        "published": "Wed, 09 Sep 2026 18:17:00 +0700"
+      },
+      {
         "title": "Tài khoản chứng khoán tiến sát mốc 14 triệu",
         "link": "http://vietstock.vn/2026/09/tai-khoan-chung-khoan-tien-sat-moc-14-trieu-830-1490437.htm",
         "published": "Wed, 09 Sep 2026 17:16:53 +0700"
@@ -91,14 +96,29 @@
         "title": "09/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/0909-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1490191.htm",
         "published": "Wed, 09 Sep 2026 06:02:00 +0700"
-      },
-      {
-        "title": "C32 bị phạt 150 triệu đồng cho lỗi công bố sai lợi nhuận",
-        "link": "http://vietstock.vn/2026/09/c32-bi-phat-150-trieu-dong-cho-loi-cong-bo-sai-loi-nhuan-830-1490179.htm",
-        "published": "Tue, 08 Sep 2026 20:03:47 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Barclays lifts S&P 500 index’s year-end target to 7,950 on strong earnings",
+        "link": "https://www.investing.com/news/economy-news/barclays-lifts-sp-500-indexs-yearend-target-to-7950-on-strong-earnings-4893367",
+        "published": "2026-09-09 11:49:09"
+      },
+      {
+        "title": "US stock futures dip as oil breaches $100 mark for the first time since mid-year",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
+        "published": "2026-09-09 11:48:47"
+      },
+      {
+        "title": "EU proposes new rules to simplify public tenders, promotes \"Buy European\"",
+        "link": "https://www.investing.com/news/economy-news/eu-proposes-new-rules-to-simplify-public-tenders-promotes-buy-european-4893366",
+        "published": "2026-09-09 11:48:07"
+      },
+      {
+        "title": "German government says EU budget figures need reduction",
+        "link": "https://www.investing.com/news/economy-news/german-government-says-eu-budget-figures-need-reduction-93CH-4893358",
+        "published": "2026-09-09 11:42:30"
+      },
       {
         "title": "Iran declares maritime restricted zone in Gulf of Oman",
         "link": "https://www.investing.com/news/economy-news/iran-declares-maritime-restricted-zone-in-gulf-of-oman-93CH-4893217",
@@ -108,26 +128,6 @@
         "title": "How hawkish will the BoE sound as energy prices rise?",
         "link": "https://www.investing.com/news/economy-news/how-hawkish-will-the-boe-sound-as-energy-prices-rise-4893149",
         "published": "2026-09-09 10:34:27"
-      },
-      {
-        "title": "Russia says it hopes Ukraine peace talks will resume soon",
-        "link": "https://www.investing.com/news/economy-news/russia-says-it-hopes-ukraine-peace-talks-will-resume-soon-93CH-4893148",
-        "published": "2026-09-09 10:32:17"
-      },
-      {
-        "title": "Central Command denies Iranian claims of hitting U.S. Navy ships",
-        "link": "https://www.investing.com/news/economy-news/central-command-denies-iranian-claims-of-hitting-us-navy-ships-93CH-4893138",
-        "published": "2026-09-09 10:29:59"
-      },
-      {
-        "title": "Wall St futures muted as oil tops $100 for first time since July",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
-        "published": "2026-09-09 09:42:28"
-      },
-      {
-        "title": "India August consumer inflation likely hit 20-month high on food, fuel prices: Reuters poll",
-        "link": "https://www.investing.com/news/economy-news/india-august-consumer-inflation-likely-hit-20month-high-on-food-fuel-prices-reuters-poll-4892966",
-        "published": "2026-09-09 09:12:47"
       }
     ]
   }
