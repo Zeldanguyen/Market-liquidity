@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T16:10:18.064597",
+  "fetched_at": "2026-09-09T16:42:56.034567",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+        "published": "2026-09-09 16:24:52"
+      },
+      {
+        "title": "US regulator says credit scoring firm FICO increasing prices for borrowers",
+        "link": "https://www.investing.com/news/economy-news/usregulator-says-credit-scoring-firm-fico-increasing-prices-for-borrowers-4894166",
+        "published": "2026-09-09 16:12:32"
+      },
+      {
         "title": "US Treasury to buy up to $6 billion in Sept 10 buyback operation",
         "link": "https://www.investing.com/news/economy-news/us-treasury-to-buy-up-to-6-billion-in-sept-10-buyback-operation-4894098",
         "published": "2026-09-09 15:30:40"
@@ -118,16 +128,6 @@
         "title": "Mexico’s headline inflation accelerates in August, core pressures ease",
         "link": "https://www.investing.com/news/economy-news/mexicos-headline-inflation-accelerates-in-august-core-pressures-ease-4893587",
         "published": "2026-09-09 14:48:28"
-      },
-      {
-        "title": "European natural gas rises above €80",
-        "link": "https://www.investing.com/news/economy-news/european-natural-gas-rises-above-80-93CH-4894019",
-        "published": "2026-09-09 14:39:17"
-      },
-      {
-        "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
-        "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
-        "published": "2026-09-09 14:37:32"
       }
     ]
   }
