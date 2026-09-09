@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T14:43:15.816692",
+  "fetched_at": "2026-09-09T15:09:25.414628",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Germany’s 4.5 gigawatt gas power plant tender oversubscribed",
+        "link": "https://www.investing.com/news/economy-news/germanys-45-gigawatt-gas-power-plant-tender-oversubscribed-93CH-4894043",
+        "published": "2026-09-09 14:53:47"
+      },
+      {
+        "title": "Brazil allocates $1.3 billion for fuel subsidies as prices rise",
+        "link": "https://www.investing.com/news/economy-news/brazil-allocates-13-billion-for-fuel-subsidies-as-prices-rise-93CH-4894032",
+        "published": "2026-09-09 14:48:50"
+      },
+      {
+        "title": "Mexico’s headline inflation accelerates in August, core pressures ease",
+        "link": "https://www.investing.com/news/economy-news/mexicos-headline-inflation-accelerates-in-august-core-pressures-ease-4893587",
+        "published": "2026-09-09 14:48:28"
+      },
+      {
+        "title": "European natural gas rises above €80",
+        "link": "https://www.investing.com/news/economy-news/european-natural-gas-rises-above-80-93CH-4894019",
+        "published": "2026-09-09 14:39:17"
+      },
+      {
         "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
         "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
-        "published": "2026-09-09 14:25:05"
+        "published": "2026-09-09 14:37:32"
       },
       {
-        "title": "Wall St slides as oil hovers near $100 on rising Middle East tensions",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
-        "published": "2026-09-09 14:18:29"
-      },
-      {
-        "title": "Poland’s central bank cites inflation risks as reason for holding rates",
-        "link": "https://www.investing.com/news/economy-news/polands-central-bank-cites-inflation-risks-as-reason-for-holding-rates-93CH-4893942",
-        "published": "2026-09-09 14:09:05"
-      },
-      {
-        "title": "Germany and UAE to sign multi-billion dollar deals on Thursday",
-        "link": "https://www.investing.com/news/economy-news/germany-and-uae-to-sign-multibillion-dollar-deals-on-thursday-93CH-4893940",
-        "published": "2026-09-09 14:06:56"
-      },
-      {
-        "title": "National Bank of Poland holds rates at 3.75% amid inflation risks",
-        "link": "https://www.investing.com/news/economy-news/national-bank-of-poland-holds-rates-at-375-amid-inflation-risks-93CH-4893903",
-        "published": "2026-09-09 13:54:39"
-      },
-      {
-        "title": "National Bank of Poland holds rates at 3.75% amid inflation risks",
-        "link": "https://www.investing.com/news/economy-news/national-bank-of-poland-holds-rates-at-375-amid-inflation-risks-93CH-4893876",
-        "published": "2026-09-09 13:46:38"
+        "title": "Another rate hike, just for insurance: Five questions for the ECB",
+        "link": "https://www.investing.com/news/economy-news/another-rate-hike-just-for-insurance-five-questions-for-the-ecb-4894015",
+        "published": "2026-09-09 14:37:18"
       }
     ]
   }
