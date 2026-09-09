@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T01:09:22.404300",
+  "fetched_at": "2026-09-09T01:40:55.336456",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Đề xuất hạ mạnh ngưỡng miễn thuế với hàng nhập khẩu giá trị nhỏ",
+        "link": "https://vneconomy.vn/de-xuat-ha-manh-nguong-mien-thue-voi-hang-nhap-khau-gia-tri-nho.htm",
+        "published": "Wed, 09 Sep 2026 01:26:38 GMT"
+      },
+      {
+        "title": "Chiến lược thu hút FDI thế hệ mới: Việt Nam và EU hướng tới giai đoạn hợp tác đầu tư bền vững",
+        "link": "https://vneconomy.vn/chien-luoc-thu-hut-fdi-the-he-moi-viet-nam-va-eu-huong-toi-giai-doan-hop-tac-dau-tu-ben-vung.htm",
+        "published": "Wed, 09 Sep 2026 01:11:15 GMT"
+      },
+      {
         "title": "Vàng sụt giá vì giá dầu leo thang mạnh, SPDR Gold Trust bán ròng",
         "link": "https://vneconomy.vn/vang-sut-gia-vi-gia-dau-leo-thang-manh-spdr-gold-trust-ban-rong.htm",
         "published": "Wed, 09 Sep 2026 00:31:28 GMT"
@@ -54,16 +64,6 @@
         "title": "Tỷ giá đồng yên bứt tốc lên đỉnh 7 tháng, “carry trade” bắt đầu đảo chiều",
         "link": "https://vneconomy.vn/ty-gia-dong-yen-but-toc-len-dinh-7-thang-carry-trade-bat-dau-dao-chieu.htm",
         "published": "Tue, 08 Sep 2026 03:57:11 GMT"
-      },
-      {
-        "title": "Không để sản phẩm đủ điều kiện tại Trung tâm Tài chính Quốc tế tiếp tục chờ triển khai",
-        "link": "https://vneconomy.vn/khong-de-san-pham-du-dieu-kien-tai-trung-tam-tai-chinh-quoc-te-tiep-tuc-cho-trien-khai.htm",
-        "published": "Tue, 08 Sep 2026 01:19:59 GMT"
-      },
-      {
-        "title": "KienlongBank ra mắt hệ sinh thái số MyShop 5.0 All-in-One cho Hộ kinh doanh",
-        "link": "https://vneconomy.vn/kienlongbank-ra-mat-he-sinh-thai-so-myshop-50-all-in-one-cho-ho-kinh-doanh.htm",
-        "published": "Tue, 08 Sep 2026 01:00:00 GMT"
       }
     ],
     "Vietstock": [
