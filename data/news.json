@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-09T08:10:23.991880",
+  "fetched_at": "2026-09-09T08:41:14.616303",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một đại gia dầu khí \"chơi lớn\" trả hơn 6.000 tỷ đồng tiền cổ tức",
+        "link": "https://cafef.vn/mot-dai-gia-dau-khi-choi-lon-tra-hon-6000-ty-dong-tien-co-tuc-188260909152106874.chn",
+        "published": "Wed, 09 Sep 26 15:26:00 +0700"
+      },
       {
         "title": "Baf Việt Nam thành lập công ty con chế biến thực phẩm tại Gia Lai",
         "link": "https://cafef.vn/baf-viet-nam-thanh-lap-cong-ty-con-che-bien-thuc-pham-tai-gia-lai-188260909141005497.chn",
@@ -26,11 +31,6 @@
       {
         "title": "Giá vàng điều chỉnh, quỹ lớn nhất thế giới hành động gì?",
         "link": "https://cafef.vn/gia-vang-dieu-chinh-quy-lon-nhat-the-gioi-hanh-dong-gi-188260909101659331.chn",
-        "published": "Wed, 09 Sep 26 10:17:00 +0700"
-      },
-      {
-        "title": "Chuyện gì xảy ra với giá vàng sáng nay?",
-        "link": "https://cafef.vn/chuyen-gi-xay-ra-voi-gia-vang-sang-nay-188260909101611968.chn",
         "published": "Wed, 09 Sep 26 10:17:00 +0700"
       }
     ],
@@ -102,7 +102,7 @@
       {
         "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
         "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
-        "published": "2026-09-09 07:55:32"
+        "published": "2026-09-09 08:06:24"
       },
       {
         "title": "Oil prices touch $100 amid intensifying Mideast fighting - what’s moving markets",
