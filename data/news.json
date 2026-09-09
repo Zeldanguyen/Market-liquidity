@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T09:41:53.883355",
+  "fetched_at": "2026-09-09T10:10:00.600123",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Niềm tin giảm mạnh, giới liên ngân hàng dè chừng chứng khoán, bất động sản",
+        "link": "https://vneconomy.vn/niem-tin-giam-manh-gioi-lien-ngan-hang-de-chung-chung-khoan-bat-dong-san.htm",
+        "published": "Wed, 09 Sep 2026 09:44:10 GMT"
+      },
+      {
         "title": "Giá vàng miếng lao dốc, chỉ còn cao hơn vàng thế giới 5 triệu đồng/lượng",
         "link": "https://vneconomy.vn/gia-vang-mieng-lao-doc-chi-con-cao-hon-vang-the-gioi-5-trieu-dongluong.htm",
         "published": "Wed, 09 Sep 2026 06:29:31 GMT"
@@ -59,11 +64,6 @@
         "title": "Đề xuất hạ mạnh ngưỡng miễn thuế với hàng nhập khẩu giá trị nhỏ",
         "link": "https://vneconomy.vn/de-xuat-ha-manh-nguong-mien-thue-voi-hang-nhap-khau-gia-tri-nho.htm",
         "published": "Wed, 09 Sep 2026 01:26:38 GMT"
-      },
-      {
-        "title": "Chiến lược thu hút FDI thế hệ mới: Việt Nam và EU hướng tới giai đoạn hợp tác đầu tư bền vững",
-        "link": "https://vneconomy.vn/chien-luoc-thu-hut-fdi-the-he-moi-viet-nam-va-eu-huong-toi-giai-doan-hop-tac-dau-tu-ben-vung.htm",
-        "published": "Wed, 09 Sep 2026 01:11:15 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Wall St futures muted as oil tops $100 for first time since July",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
+        "published": "2026-09-09 09:42:28"
+      },
+      {
         "title": "India August consumer inflation likely hit 20-month high on food, fuel prices: Reuters poll",
         "link": "https://www.investing.com/news/economy-news/india-august-consumer-inflation-likely-hit-20month-high-on-food-fuel-prices-reuters-poll-4892966",
         "published": "2026-09-09 09:12:47"
@@ -123,11 +128,6 @@
         "title": "Oil prices touch $100 amid intensifying Mideast fighting - what’s moving markets",
         "link": "https://www.investing.com/news/economy-news/oil-prices-near-100-amid-intensifying-mideast-fighting--whats-moving-markets-4892834",
         "published": "2026-09-09 07:48:31"
-      },
-      {
-        "title": "Explainer-What is the yen carry trade?",
-        "link": "https://www.investing.com/news/economy-news/explainerwhat-is-the-yen-carry-trade-4892709",
-        "published": "2026-09-09 05:18:36"
       }
     ]
   }
