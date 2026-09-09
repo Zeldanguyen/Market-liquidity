@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T07:41:14.675530",
+  "fetched_at": "2026-09-09T08:10:23.991880",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
+        "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
+        "published": "2026-09-09 07:55:32"
+      },
+      {
+        "title": "Oil prices touch $100 amid intensifying Mideast fighting - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/oil-prices-near-100-amid-intensifying-mideast-fighting--whats-moving-markets-4892834",
+        "published": "2026-09-09 07:48:31"
+      },
+      {
         "title": "Yen stands tall as dollar drifts, oil’s run towards $100 chills sentiment",
         "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
         "published": "2026-09-09 05:48:48"
@@ -118,16 +128,6 @@
         "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
         "link": "https://www.investing.com/news/economy-news/morning-bid-100-brent-in-sight-yen-defies-gravity-4892700",
         "published": "2026-09-09 04:36:30"
-      },
-      {
-        "title": "Rising energy costs lift China’s producer, consumer inflation in August",
-        "link": "https://www.investing.com/news/economy-news/chinas-producer-inflation-regains-momentum-in-august-4892658",
-        "published": "2026-09-09 03:54:31"
-      },
-      {
-        "title": "Australia sees no threat to US ties after White House criticism of social media reforms",
-        "link": "https://www.investing.com/news/economy-news/australia-sees-no-threat-to-us-ties-after-white-house-criticism-of-social-media-reforms-4892694",
-        "published": "2026-09-09 03:36:53"
       }
     ]
   }
