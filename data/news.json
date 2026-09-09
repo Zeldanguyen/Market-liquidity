@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-09T22:09:11.297342",
+  "fetched_at": "2026-09-09T22:39:05.144791",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "SSI Research dự báo 7 doanh nghiệp có lợi nhuận tăng vọt trong quý 3/2026",
+        "link": "https://cafef.vn/ssi-research-du-bao-7-doanh-nghiep-co-loi-nhuan-tang-vot-trong-quy-3-2026-188260909222039381.chn",
+        "published": "Thu, 10 Sep 26 05:09:00 +0700"
+      },
       {
         "title": "SSI Research: Chứng khoán có thể chịu áp lực bán mạnh hơn trong nửa cuối tháng 9",
         "link": "https://cafef.vn/ssi-research-chung-khoan-co-the-chiu-ap-luc-ban-manh-hon-trong-nua-cuoi-thang-9-188260909222316033.chn",
@@ -27,11 +32,6 @@
         "title": "Đúng 11 ngày nữa, chứng khoán Việt Nam đón một thay đổi lớn",
         "link": "https://cafef.vn/dung-11-ngay-nua-chung-khoan-viet-nam-don-mot-thay-doi-lon-188260909222408601.chn",
         "published": "Thu, 10 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Trước thềm nâng hạng: Khối ngoại chỉ dừng bán 4 tháng trong suốt 3 năm rưỡi",
-        "link": "https://cafef.vn/truoc-them-nang-hang-khoi-ngoai-chi-dung-ban-4-thang-trong-suot-3-nam-ruoi-188260909224228856.chn",
-        "published": "Thu, 10 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
