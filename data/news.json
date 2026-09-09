@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T18:11:26.912397",
+  "fetched_at": "2026-09-09T18:42:53.305258",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -102,7 +102,12 @@
       {
         "title": "US Treasury chief Bessent backs using US financial power as foreign policy tool",
         "link": "https://www.investing.com/news/economy-news/us-treasury-chief-bessent-backs-using-us-financial-power-as-foreign-policy-tool-4892639",
-        "published": "2026-09-09 17:49:05"
+        "published": "2026-09-09 18:31:07"
+      },
+      {
+        "title": "S&P 500 falls as oil tops $100 per barrel",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
+        "published": "2026-09-09 18:24:32"
       },
       {
         "title": "US natural gas supply and demand to hit record highs in 2026",
@@ -123,11 +128,6 @@
         "title": "US regulator says credit scoring firm FICO increasing prices for borrowers",
         "link": "https://www.investing.com/news/economy-news/usregulator-says-credit-scoring-firm-fico-increasing-prices-for-borrowers-4894166",
         "published": "2026-09-09 16:48:32"
-      },
-      {
-        "title": "EIA raises oil price forecasts as Middle East supply drops",
-        "link": "https://www.investing.com/news/economy-news/eia-raises-oil-price-forecasts-as-middle-east-supply-drops-93CH-4894223",
-        "published": "2026-09-09 16:48:24"
       }
     ]
   }
