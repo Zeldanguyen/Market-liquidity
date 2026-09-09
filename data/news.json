@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-09T17:08:56.300529",
+  "fetched_at": "2026-09-09T17:40:34.675880",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "SSI Research: Chứng khoán có thể chịu áp lực bán mạnh hơn trong nửa cuối tháng 9",
+        "link": "https://cafef.vn/ssi-research-chung-khoan-co-the-chiu-ap-luc-ban-manh-hon-trong-nua-cuoi-thang-9-188260909222316033.chn",
+        "published": "Thu, 10 Sep 26 00:08:00 +0700"
+      },
+      {
+        "title": "Bên trong siêu đô thị 10 tỷ USD của tỷ phú Phạm Nhật Vượng đang hình thành một “bộ sưu tập” đặc biệt: 6 thương hiệu quốc tế cùng xuất hiện",
+        "link": "https://cafef.vn/ben-trong-sieu-do-thi-10-ty-usd-cua-ty-phu-pham-nhat-vuong-dang-hinh-thanh-mot-bo-suu-tap-dac-biet-6-thuong-hieu-quoc-te-cung-xuat-hien-188260909220242669.chn",
+        "published": "Thu, 10 Sep 26 00:07:00 +0700"
+      },
       {
         "title": "Dưới chân đèo Hải Vân, tỷ phú Phạm Nhật Vượng đang cho xây công trình lớn nhất Đông Nam Á, học mô hình đình đám của Mỹ và Nhật Bản",
         "link": "https://cafef.vn/duoi-chan-deo-hai-van-ty-phu-pham-nhat-vuong-dang-cho-xay-cong-trinh-lon-nhat-dong-nam-a-hoc-mo-hinh-dinh-dam-cua-my-va-nhat-ban-18826090922214882.chn",
@@ -22,16 +32,6 @@
         "title": "Trước thềm nâng hạng: Khối ngoại chỉ dừng bán 4 tháng trong suốt 3 năm rưỡi",
         "link": "https://cafef.vn/truoc-them-nang-hang-khoi-ngoai-chi-dung-ban-4-thang-trong-suot-3-nam-ruoi-188260909224228856.chn",
         "published": "Thu, 10 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu TRC bị bán tháo trước thềm chia cổ tức bằng cổ phiếu tỷ lệ 300%, VN-Index giảm hơn 3 điểm",
-        "link": "https://cafef.vn/co-phieu-trc-bi-ban-thao-truoc-them-chia-co-tuc-bang-co-phieu-ty-le-300-vn-index-giam-hon-3-diem-188260909195449285.chn",
-        "published": "Wed, 09 Sep 26 19:54:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu KAI “đảo chiều” hơn 50% ngay phiên đầu lên UPCoM",
-        "link": "https://cafef.vn/co-phieu-kai-dao-chieu-hon-50-ngay-phien-dau-len-upcom-188260909195339928.chn",
-        "published": "Wed, 09 Sep 26 19:53:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US Treasury chief Bessent backs using US financial power as foreign policy tool",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-bessent-backs-using-us-financial-power-as-foreign-policy-tool-4892639",
+        "published": "2026-09-09 17:25:23"
+      },
+      {
+        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+        "published": "2026-09-09 17:06:45"
+      },
+      {
+        "title": "OpenAI appoints Paul Christiano to foundation board",
+        "link": "https://www.investing.com/news/economy-news/openai-appoints-paul-christiano-to-foundation-board-93CH-4894242",
+        "published": "2026-09-09 17:04:39"
+      },
+      {
         "title": "US regulator says credit scoring firm FICO increasing prices for borrowers",
         "link": "https://www.investing.com/news/economy-news/usregulator-says-credit-scoring-firm-fico-increasing-prices-for-borrowers-4894166",
         "published": "2026-09-09 16:48:32"
@@ -113,21 +128,6 @@
         "title": "Wall St slides as oil tops $100, yields hit 2023 high; Apple down before Ternus’ first launch event as CEO",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
         "published": "2026-09-09 16:38:17"
-      },
-      {
-        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
-        "published": "2026-09-09 16:37:59"
-      },
-      {
-        "title": "Dollar hovers near seven-month low vs yen as oil tops $100",
-        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
-        "published": "2026-09-09 16:30:52"
-      },
-      {
-        "title": "US Treasury to buy up to $6 billion in Sept 10 buyback operation",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-to-buy-up-to-6-billion-in-sept-10-buyback-operation-4894098",
-        "published": "2026-09-09 15:30:40"
       }
     ]
   }
