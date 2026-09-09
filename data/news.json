@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T02:09:36.254722",
+  "fetched_at": "2026-09-09T02:41:36.684911",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Các nước giàu chi 2 nghìn tỷ USD trả lãi nợ công trong một năm",
+        "link": "https://vneconomy.vn/cac-nuoc-giau-chi-2-nghin-ty-usd-tra-lai-no-cong-trong-mot-nam.htm",
+        "published": "Wed, 09 Sep 2026 02:24:44 GMT"
+      },
+      {
         "title": "Đề xuất hạ mạnh ngưỡng miễn thuế với hàng nhập khẩu giá trị nhỏ",
         "link": "https://vneconomy.vn/de-xuat-ha-manh-nguong-mien-thue-voi-hang-nhap-khau-gia-tri-nho.htm",
         "published": "Wed, 09 Sep 2026 01:26:38 GMT"
@@ -59,11 +64,6 @@
         "title": "Nở rộ chứng chỉ tiền gửi dưới 6 tháng chào lãi suất  7-8%/năm",
         "link": "https://vneconomy.vn/no-ro-chung-chi-tien-gui-duoi-6-thang-chao-lai-suat-7-8nam.htm",
         "published": "Tue, 08 Sep 2026 07:37:20 GMT"
-      },
-      {
-        "title": "Tỷ giá đồng yên bứt tốc lên đỉnh 7 tháng, “carry trade” bắt đầu đảo chiều",
-        "link": "https://vneconomy.vn/ty-gia-dong-yen-but-toc-len-dinh-7-thang-carry-trade-bat-dau-dao-chieu.htm",
-        "published": "Tue, 08 Sep 2026 03:57:11 GMT"
       }
     ],
     "Vietstock": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Cognition AI raises $2 billion at $48 billion valuation",
-        "link": "https://www.investing.com/news/economy-news/cognition-ai-raises-2-billion-at-48-billion-valuation-4892546",
-        "published": "2026-09-08 21:54:27"
+        "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate",
+        "link": "https://www.investing.com/news/economy-news/oil-heads-for-100-asia-stocks-subdued-as-middle-east-tensions-escalate-4892675",
+        "published": "2026-09-09 02:30:56"
       },
       {
-        "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
-        "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
-        "published": "2026-09-08 21:37:21"
+        "title": "Rising energy costs lift China’s producer, consumer inflation in August",
+        "link": "https://www.investing.com/news/economy-news/chinas-producer-inflation-regains-momentum-in-august-4892658",
+        "published": "2026-09-09 02:13:08"
       },
       {
-        "title": "Roll out the $100 barrel",
-        "link": "https://www.investing.com/news/economy-news/roll-out-the-100-barrel-4892486",
-        "published": "2026-09-08 21:06:28"
+        "title": "Mexico sees up to 2.5% economic growth in 2027, narrower deficit in 2027 budget draft",
+        "link": "https://www.investing.com/news/economy-news/mexico-sees-up-to-25-economic-growth-in-2027-narrower-deficit-in-2027-budget-draft-4892668",
+        "published": "2026-09-09 02:07:26"
       },
       {
-        "title": "FDA names permanent leaders for drug, biologics and tobacco centers",
-        "link": "https://www.investing.com/news/economy-news/fda-names-permanent-leaders-for-drug-biologics-and-tobacco-centers-93CH-4892477",
-        "published": "2026-09-08 21:02:51"
+        "title": "The yen’s sudden surge upsets the carry trade faithful",
+        "link": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
+        "published": "2026-09-09 02:06:53"
       },
       {
-        "title": "LIV Golf files for bankruptcy, plans player ownership model",
-        "link": "https://www.investing.com/news/economy-news/liv-golf-files-for-bankruptcy-plans-player-ownership-model-93CH-4892442",
-        "published": "2026-09-08 20:39:05"
+        "title": "Yen stands tall as dollar wobbles, oil’s run towards $100 chills sentiment",
+        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
+        "published": "2026-09-09 02:06:35"
       },
       {
-        "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
-        "link": "https://www.investing.com/news/economy-news/irs-under-trump-unlawfully-shared-taxpayer-info-with-immigration-authorities-court-rules-4892276",
-        "published": "2026-09-08 19:32:21"
+        "title": "US treasury chief Bessent backs using US financial power as foreign policy tool",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-bessent-backs-using-us-financial-power-as-foreign-policy-tool-4892639",
+        "published": "2026-09-09 01:00:34"
       }
     ]
   }
