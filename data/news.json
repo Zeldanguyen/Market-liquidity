@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-09-09T16:42:56.034567",
+  "fetched_at": "2026-09-09T17:08:56.300529",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Dưới chân đèo Hải Vân, tỷ phú Phạm Nhật Vượng đang cho xây công trình lớn nhất Đông Nam Á, học mô hình đình đám của Mỹ và Nhật Bản",
+        "link": "https://cafef.vn/duoi-chan-deo-hai-van-ty-phu-pham-nhat-vuong-dang-cho-xay-cong-trinh-lon-nhat-dong-nam-a-hoc-mo-hinh-dinh-dam-cua-my-va-nhat-ban-18826090922214882.chn",
+        "published": "Thu, 10 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Ông Trần Đình Long đang xây nhà máy hơn 10.000 tỷ đồng để làm một thứ dài tới 100 mét: Phải “soi” bằng laser và siêu âm trước khi xuất xưởng",
+        "link": "https://cafef.vn/ong-tran-dinh-long-dang-xay-nha-may-hon-10000-ty-dong-de-lam-mot-thu-dai-toi-100-met-phai-soi-bang-laser-va-sieu-am-truoc-khi-xuat-xuong-188260909220159011.chn",
+        "published": "Thu, 10 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Đúng 11 ngày nữa, chứng khoán Việt Nam đón một thay đổi lớn",
+        "link": "https://cafef.vn/dung-11-ngay-nua-chung-khoan-viet-nam-don-mot-thay-doi-lon-188260909222408601.chn",
+        "published": "Thu, 10 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Trước thềm nâng hạng: Khối ngoại chỉ dừng bán 4 tháng trong suốt 3 năm rưỡi",
+        "link": "https://cafef.vn/truoc-them-nang-hang-khoi-ngoai-chi-dung-ban-4-thang-trong-suot-3-nam-ruoi-188260909224228856.chn",
+        "published": "Thu, 10 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Cổ phiếu TRC bị bán tháo trước thềm chia cổ tức bằng cổ phiếu tỷ lệ 300%, VN-Index giảm hơn 3 điểm",
         "link": "https://cafef.vn/co-phieu-trc-bi-ban-thao-truoc-them-chia-co-tuc-bang-co-phieu-ty-le-300-vn-index-giam-hon-3-diem-188260909195449285.chn",
@@ -12,26 +32,6 @@
         "title": "Cổ phiếu KAI “đảo chiều” hơn 50% ngay phiên đầu lên UPCoM",
         "link": "https://cafef.vn/co-phieu-kai-dao-chieu-hon-50-ngay-phien-dau-len-upcom-188260909195339928.chn",
         "published": "Wed, 09 Sep 26 19:53:00 +0700"
-      },
-      {
-        "title": "Báo lãi sai lệch, Tập đoàn Điện Quang (DQC) bị xử phạt 150 triệu đồng",
-        "link": "https://cafef.vn/bao-lai-sai-lech-tap-doan-dien-quang-dqc-bi-xu-phat-150-trieu-dong-188260909195208535.chn",
-        "published": "Wed, 09 Sep 26 19:51:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu DN sở hữu loạt công viên giải trí khổng lồ, rộng gấp 14 lần Disneyland Park tại Paris tăng \"bốc đầu\"",
-        "link": "https://cafef.vn/co-phieu-dn-so-huu-loat-cong-vien-giai-tri-khong-lo-rong-gap-14-lan-disneyland-park-tai-paris-tang-boc-dau-188260909195015851.chn",
-        "published": "Wed, 09 Sep 26 19:50:00 +0700"
-      },
-      {
-        "title": "VN-Index tăng 17 điểm rồi quay đầu, nhà đầu tư tiếc vì không kịp chốt lời",
-        "link": "https://cafef.vn/vn-index-tang-17-diem-roi-quay-dau-nha-dau-tu-tiec-vi-khong-kip-chot-loi-18826090918564504.chn",
-        "published": "Wed, 09 Sep 26 18:56:00 +0700"
-      },
-      {
-        "title": "Nhóm CII nâng sở hữu tại PC1 lên hơn 13% vốn",
-        "link": "https://cafef.vn/nhom-cii-nang-so-huu-tai-pc1-len-hon-13-von-188260909161447834.chn",
-        "published": "Wed, 09 Sep 26 16:14:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
-        "published": "2026-09-09 16:24:52"
-      },
-      {
         "title": "US regulator says credit scoring firm FICO increasing prices for borrowers",
         "link": "https://www.investing.com/news/economy-news/usregulator-says-credit-scoring-firm-fico-increasing-prices-for-borrowers-4894166",
-        "published": "2026-09-09 16:12:32"
+        "published": "2026-09-09 16:48:32"
+      },
+      {
+        "title": "EIA raises oil price forecasts as Middle East supply drops",
+        "link": "https://www.investing.com/news/economy-news/eia-raises-oil-price-forecasts-as-middle-east-supply-drops-93CH-4894223",
+        "published": "2026-09-09 16:48:24"
+      },
+      {
+        "title": "Wall St slides as oil tops $100, yields hit 2023 high; Apple down before Ternus’ first launch event as CEO",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
+        "published": "2026-09-09 16:38:17"
+      },
+      {
+        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+        "published": "2026-09-09 16:37:59"
+      },
+      {
+        "title": "Dollar hovers near seven-month low vs yen as oil tops $100",
+        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
+        "published": "2026-09-09 16:30:52"
       },
       {
         "title": "US Treasury to buy up to $6 billion in Sept 10 buyback operation",
         "link": "https://www.investing.com/news/economy-news/us-treasury-to-buy-up-to-6-billion-in-sept-10-buyback-operation-4894098",
         "published": "2026-09-09 15:30:40"
-      },
-      {
-        "title": "Germany’s 4.5 gigawatt gas power plant tender oversubscribed",
-        "link": "https://www.investing.com/news/economy-news/germanys-45-gigawatt-gas-power-plant-tender-oversubscribed-93CH-4894043",
-        "published": "2026-09-09 14:53:47"
-      },
-      {
-        "title": "Brazil allocates $1.3 billion for fuel subsidies as prices rise",
-        "link": "https://www.investing.com/news/economy-news/brazil-allocates-13-billion-for-fuel-subsidies-as-prices-rise-93CH-4894032",
-        "published": "2026-09-09 14:48:50"
-      },
-      {
-        "title": "Mexico’s headline inflation accelerates in August, core pressures ease",
-        "link": "https://www.investing.com/news/economy-news/mexicos-headline-inflation-accelerates-in-august-core-pressures-ease-4893587",
-        "published": "2026-09-09 14:48:28"
       }
     ]
   }
