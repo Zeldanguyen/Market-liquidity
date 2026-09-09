@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T05:09:13.161773",
+  "fetched_at": "2026-09-09T05:40:52.474204",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "750 triệu cp KAI chính thức lên UPCoM với giá 15,000 đồng/cp",
+        "link": "http://vietstock.vn/2026/09/750-trieu-cp-kai-chinh-thuc-len-upcom-voi-gia-15000-dongcp-830-1490275.htm",
+        "published": "Wed, 09 Sep 2026 11:47:00 +0700"
+      },
+      {
         "title": "Chứng khoán Mirae Asset (Việt Nam) sắp chuyển 113.5 triệu cp ưu đãi thành phổ thông?",
         "link": "http://vietstock.vn/2026/09/chung-khoan-mirae-asset-viet-nam-sap-chuyen-1135-trieu-cp-uu-dai-thanh-pho-thong-830-1490265.htm",
         "published": "Wed, 09 Sep 2026 11:01:33 +0700"
@@ -91,11 +96,6 @@
         "title": "Vietstock Daily 09/09/2026: Hồi phục trong thận trọng",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-09092026-hoi-phuc-trong-than-trong-1636-1490061.htm",
         "published": "Tue, 08 Sep 2026 18:09:37 +0700"
-      },
-      {
-        "title": "Sàn HOSE có 52 doanh nghiệp vốn hóa tỷ USD",
-        "link": "http://vietstock.vn/2026/09/san-hose-co-52-doanh-nghiep-von-hoa-ty-usd-830-1489947.htm",
-        "published": "Tue, 08 Sep 2026 16:02:40 +0700"
       }
     ],
     "Investing.com Economy": [
