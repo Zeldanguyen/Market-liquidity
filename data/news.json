@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T23:09:30.535071",
+  "fetched_at": "2026-09-09T23:38:37.162916",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "10/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1009-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1490725.htm",
+        "published": "Thu, 10 Sep 2026 06:00:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 09/09: Tự doanh, khối ngoại cùng nối dài chuỗi bán ròng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0909-tu-doanh-khoi-ngoai-cung-noi-dai-chuoi-ban-rong-830-1490612.htm",
         "published": "Wed, 09 Sep 2026 19:17:00 +0700"
@@ -91,14 +96,24 @@
         "title": "750 triệu cp KAI chính thức lên UPCoM với giá 15,000 đồng/cp",
         "link": "http://vietstock.vn/2026/09/750-trieu-cp-kai-chinh-thuc-len-upcom-voi-gia-15000-dongcp-830-1490275.htm",
         "published": "Wed, 09 Sep 2026 11:47:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Mirae Asset (Việt Nam) sắp chuyển 113.5 triệu cp ưu đãi thành phổ thông?",
-        "link": "http://vietstock.vn/2026/09/chung-khoan-mirae-asset-viet-nam-sap-chuyen-1135-trieu-cp-uu-dai-thanh-pho-thong-830-1490265.htm",
-        "published": "Wed, 09 Sep 2026 11:01:33 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Iran war could last through end of Trump’s term- WSJ citing advisers",
+        "link": "https://www.investing.com/news/economy-news/iran-war-could-last-through-end-of-trumps-term-wsj-citing-advisers-4894744",
+        "published": "2026-09-09 23:24:29"
+      },
+      {
+        "title": "S&P 500 ends down as oil tops $100 per barrel",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
+        "published": "2026-09-09 23:13:04"
+      },
+      {
+        "title": "UK housing market slowdown is bottoming out, RICS says",
+        "link": "https://www.investing.com/news/economy-news/uk-housing-market-slowdown-is-bottoming-out-rics-says-4894732",
+        "published": "2026-09-09 23:07:02"
+      },
       {
         "title": "Dollar trades near 7-month low against yen as oil settles above $100",
         "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
@@ -113,21 +128,6 @@
         "title": "BOJ to raise rates to 1.25% this month, reach 1.75% faster than expected: Reuters poll",
         "link": "https://www.investing.com/news/economy-news/boj-to-raise-rates-to-125-this-month-reach-175-faster-than-expected-reuters-poll-4894676",
         "published": "2026-09-09 22:12:33"
-      },
-      {
-        "title": "Trading Day: $100 oil bites",
-        "link": "https://www.investing.com/news/economy-news/trading-day-100-oil-bites-4894600",
-        "published": "2026-09-09 21:07:24"
-      },
-      {
-        "title": "10-year yields highest since 2023",
-        "link": "https://www.investing.com/news/economy-news/10year-yields-highest-since-2023-4894582",
-        "published": "2026-09-09 20:54:54"
-      },
-      {
-        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
-        "published": "2026-09-09 20:48:35"
       }
     ]
   }
