@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T18:42:53.305258",
+  "fetched_at": "2026-09-09T19:08:42.061093",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,24 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+        "published": "2026-09-09 18:48:53"
+      },
+      {
+        "title": "S&P 500 falls as oil tops $100 per barrel",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
+        "published": "2026-09-09 18:36:37"
+      },
+      {
         "title": "US Treasury chief Bessent backs using US financial power as foreign policy tool",
         "link": "https://www.investing.com/news/economy-news/us-treasury-chief-bessent-backs-using-us-financial-power-as-foreign-policy-tool-4892639",
         "published": "2026-09-09 18:31:07"
       },
       {
-        "title": "S&P 500 falls as oil tops $100 per barrel",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
-        "published": "2026-09-09 18:24:32"
-      },
-      {
         "title": "US natural gas supply and demand to hit record highs in 2026",
         "link": "https://www.investing.com/news/economy-news/us-natural-gas-supply-and-demand-to-hit-record-highs-in-2026-93CH-4894288",
         "published": "2026-09-09 17:48:18"
-      },
-      {
-        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
-        "published": "2026-09-09 17:06:45"
       },
       {
         "title": "OpenAI appoints Paul Christiano to foundation board",
