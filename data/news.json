@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T15:43:01.884653",
+  "fetched_at": "2026-09-09T16:10:18.064597",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US Treasury to buy up to $6 billion in Sept 10 buyback operation",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-to-buy-up-to-6-billion-in-sept-10-buyback-operation-4894098",
+        "published": "2026-09-09 15:30:40"
+      },
+      {
         "title": "Germany’s 4.5 gigawatt gas power plant tender oversubscribed",
         "link": "https://www.investing.com/news/economy-news/germanys-45-gigawatt-gas-power-plant-tender-oversubscribed-93CH-4894043",
         "published": "2026-09-09 14:53:47"
@@ -123,11 +128,6 @@
         "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
         "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
         "published": "2026-09-09 14:37:32"
-      },
-      {
-        "title": "Another rate hike, just for insurance: Five questions for the ECB",
-        "link": "https://www.investing.com/news/economy-news/another-rate-hike-just-for-insurance-five-questions-for-the-ecb-4894015",
-        "published": "2026-09-09 14:37:18"
       }
     ]
   }
