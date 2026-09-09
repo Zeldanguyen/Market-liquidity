@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T20:40:43.167787",
+  "fetched_at": "2026-09-09T21:08:57.760304",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "10-year yields highest since 2023",
+        "link": "https://www.investing.com/news/economy-news/10year-yields-highest-since-2023-4894582",
+        "published": "2026-09-09 20:54:54"
+      },
+      {
+        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+        "published": "2026-09-09 20:48:35"
+      },
+      {
+        "title": "Dollar trades near 7-month low against yen as oil settles above $100",
+        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
+        "published": "2026-09-09 20:31:15"
+      },
+      {
         "title": "S&P 500 ends down as oil tops $100 per barrel",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
         "published": "2026-09-09 20:18:34"
@@ -110,24 +125,9 @@
         "published": "2026-09-09 20:06:54"
       },
       {
-        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
-        "published": "2026-09-09 19:55:20"
-      },
-      {
         "title": "US Treasury chief Bessent backs using US financial power as foreign policy tool",
         "link": "https://www.investing.com/news/economy-news/us-treasury-chief-bessent-backs-using-us-financial-power-as-foreign-policy-tool-4892639",
         "published": "2026-09-09 18:31:07"
-      },
-      {
-        "title": "US natural gas supply and demand to hit record highs in 2026",
-        "link": "https://www.investing.com/news/economy-news/us-natural-gas-supply-and-demand-to-hit-record-highs-in-2026-93CH-4894288",
-        "published": "2026-09-09 17:48:18"
-      },
-      {
-        "title": "OpenAI appoints Paul Christiano to foundation board",
-        "link": "https://www.investing.com/news/economy-news/openai-appoints-paul-christiano-to-foundation-board-93CH-4894242",
-        "published": "2026-09-09 17:04:39"
       }
     ]
   }
