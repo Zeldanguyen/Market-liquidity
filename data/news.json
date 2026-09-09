@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:09:38.803631",
+  "fetched_at": "2026-09-09T11:40:56.858238",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Iran declares maritime restricted zone in Gulf of Oman",
+        "link": "https://www.investing.com/news/economy-news/iran-declares-maritime-restricted-zone-in-gulf-of-oman-93CH-4893217",
+        "published": "2026-09-09 10:59:55"
+      },
+      {
         "title": "How hawkish will the BoE sound as energy prices rise?",
         "link": "https://www.investing.com/news/economy-news/how-hawkish-will-the-boe-sound-as-energy-prices-rise-4893149",
         "published": "2026-09-09 10:34:27"
@@ -123,11 +128,6 @@
         "title": "India August consumer inflation likely hit 20-month high on food, fuel prices: Reuters poll",
         "link": "https://www.investing.com/news/economy-news/india-august-consumer-inflation-likely-hit-20month-high-on-food-fuel-prices-reuters-poll-4892966",
         "published": "2026-09-09 09:12:47"
-      },
-      {
-        "title": "Iran targets U.S. base in Jordan, attacks ships after tanker strikes",
-        "link": "https://www.investing.com/news/economy-news/iran-targets-us-base-in-jordan-attacks-ships-after-tanker-strikes-4892705",
-        "published": "2026-09-09 08:57:30"
       }
     ]
   }
