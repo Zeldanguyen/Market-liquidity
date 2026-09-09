@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-09T03:09:25.867162",
+  "fetched_at": "2026-09-09T03:41:59.255554",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng điều chỉnh, quỹ lớn nhất thế giới hành động gì?",
+        "link": "https://cafef.vn/gia-vang-dieu-chinh-quy-lon-nhat-the-gioi-hanh-dong-gi-188260909101659331.chn",
+        "published": "Wed, 09 Sep 26 10:17:00 +0700"
+      },
+      {
+        "title": "Chuyện gì xảy ra với giá vàng sáng nay?",
+        "link": "https://cafef.vn/chuyen-gi-xay-ra-voi-gia-vang-sang-nay-188260909101611968.chn",
+        "published": "Wed, 09 Sep 26 10:17:00 +0700"
+      },
       {
         "title": "Cổ phiếu phân hóa mạnh: Chuyên gia MBS hướng dẫn cách nhận diện \"cơ hội vàng\"",
         "link": "https://cafef.vn/co-phieu-phan-hoa-manh-chuyen-gia-mbs-huong-dan-cach-nhan-dien-co-hoi-vang-188260909085944428.chn",
@@ -22,16 +32,6 @@
         "title": "Quốc gia láng giềng Việt Nam mua vàng 22 tháng liên tiếp, nâng dự trữ lên mức kỷ lục",
         "link": "https://cafef.vn/quoc-gia-lang-gieng-viet-nam-mua-vang-22-thang-lien-tiep-nang-du-tru-len-muc-ky-luc-188260908225058013.chn",
         "published": "Wed, 09 Sep 26 00:10:00 +0700"
-      },
-      {
-        "title": "Ông Phạm Nhật Vượng đang xây một “thành phố trong lòng thành phố” rộng 228 ha giữa Tây Bắc: Gần 40% diện tích dành cho một hạng mục đặc biệt",
-        "link": "https://cafef.vn/ong-pham-nhat-vuong-dang-xay-mot-thanh-pho-trong-long-thanh-pho-rong-228-ha-giua-tay-bac-gan-40-dien-tich-danh-cho-mot-hang-muc-dac-biet-188260908224159534.chn",
-        "published": "Wed, 09 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Tỷ phú Phạm Nhật Vượng đang triển khai siêu công trình “tựa sơn, hướng hải” quy mô gần 44.000 tỷ đồng, có những thứ lần đầu xuất hiện tại Việt Nam",
-        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-dang-trien-khai-sieu-cong-trinh-tua-son-huong-hai-quy-mo-gan-44000-ty-dong-co-nhung-thu-lan-dau-xuat-hien-tai-viet-nam-188260908224241073.chn",
-        "published": "Wed, 09 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
