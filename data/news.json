@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T10:10:00.600123",
+  "fetched_at": "2026-09-09T10:41:51.281617",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "How hawkish will the BoE sound as energy prices rise?",
+        "link": "https://www.investing.com/news/economy-news/how-hawkish-will-the-boe-sound-as-energy-prices-rise-4893149",
+        "published": "2026-09-09 10:34:27"
+      },
+      {
+        "title": "Russia says it hopes Ukraine peace talks will resume soon",
+        "link": "https://www.investing.com/news/economy-news/russia-says-it-hopes-ukraine-peace-talks-will-resume-soon-93CH-4893148",
+        "published": "2026-09-09 10:32:17"
+      },
+      {
+        "title": "Central Command denies Iranian claims of hitting U.S. Navy ships",
+        "link": "https://www.investing.com/news/economy-news/central-command-denies-iranian-claims-of-hitting-us-navy-ships-93CH-4893138",
+        "published": "2026-09-09 10:29:59"
+      },
+      {
         "title": "Wall St futures muted as oil tops $100 for first time since July",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
         "published": "2026-09-09 09:42:28"
@@ -113,21 +128,6 @@
         "title": "Iran targets U.S. base in Jordan, attacks ships after tanker strikes",
         "link": "https://www.investing.com/news/economy-news/iran-targets-us-base-in-jordan-attacks-ships-after-tanker-strikes-4892705",
         "published": "2026-09-09 08:57:30"
-      },
-      {
-        "title": "Yen gains on dollar; sentiment fragile as oil breaks $100",
-        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
-        "published": "2026-09-09 08:37:27"
-      },
-      {
-        "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
-        "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
-        "published": "2026-09-09 08:06:24"
-      },
-      {
-        "title": "Oil prices touch $100 amid intensifying Mideast fighting - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/oil-prices-near-100-amid-intensifying-mideast-fighting--whats-moving-markets-4892834",
-        "published": "2026-09-09 07:48:31"
       }
     ]
   }
