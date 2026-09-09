@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T06:11:59.506688",
+  "fetched_at": "2026-09-09T06:44:33.640480",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng miếng lao dốc, chỉ còn cao hơn vàng thế giới 5 triệu đồng/lượng",
+        "link": "https://vneconomy.vn/gia-vang-mieng-lao-doc-chi-con-cao-hon-vang-the-gioi-5-trieu-dongluong.htm",
+        "published": "Wed, 09 Sep 2026 06:29:31 GMT"
+      },
+      {
         "title": "Giới “carry trade” lung lay vì cú tăng giá mạnh bất ngờ của đồng yên",
         "link": "https://vneconomy.vn/gioi-carry-trade-lung-lay-vi-cu-tang-gia-manh-bat-ngo-cua-dong-yen.htm",
         "published": "Wed, 09 Sep 2026 04:43:41 GMT"
@@ -59,14 +64,14 @@
         "title": "Chiến lược thu hút FDI thế hệ mới: Việt Nam và EU hướng tới giai đoạn hợp tác đầu tư bền vững",
         "link": "https://vneconomy.vn/chien-luoc-thu-hut-fdi-the-he-moi-viet-nam-va-eu-huong-toi-giai-doan-hop-tac-dau-tu-ben-vung.htm",
         "published": "Wed, 09 Sep 2026 01:11:15 GMT"
-      },
-      {
-        "title": "Vàng sụt giá vì giá dầu leo thang mạnh, SPDR Gold Trust bán ròng",
-        "link": "https://vneconomy.vn/vang-sut-gia-vi-gia-dau-leo-thang-manh-spdr-gold-trust-ban-rong.htm",
-        "published": "Wed, 09 Sep 2026 00:31:28 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Phân tích kỹ thuật phiên chiều 09/09: Hiện tượng phân hóa đang diễn ra",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0909-hien-tuong-phan-hoa-dang-dien-ra-585-1490315.htm",
+        "published": "Wed, 09 Sep 2026 13:07:18 +0700"
+      },
       {
         "title": "750 triệu cp KAI chính thức lên UPCoM với giá 15,000 đồng/cp",
         "link": "http://vietstock.vn/2026/09/750-trieu-cp-kai-chinh-thuc-len-upcom-voi-gia-15000-dongcp-830-1490275.htm",
@@ -91,11 +96,6 @@
         "title": "Theo dấu dòng tiền cá mập 08/09: VIX bị tự doanh bán ròng mạnh",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0809-vix-bi-tu-doanh-ban-rong-manh-830-1490177.htm",
         "published": "Tue, 08 Sep 2026 19:30:26 +0700"
-      },
-      {
-        "title": "Vietstock Daily 09/09/2026: Hồi phục trong thận trọng",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-09092026-hoi-phuc-trong-than-trong-1636-1490061.htm",
-        "published": "Tue, 08 Sep 2026 18:09:37 +0700"
       }
     ],
     "Investing.com Economy": [
