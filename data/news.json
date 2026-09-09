@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-09T09:09:44.503880",
+  "fetched_at": "2026-09-09T09:41:53.883355",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nhóm CII nâng sở hữu tại PC1 lên hơn 13% vốn",
+        "link": "https://cafef.vn/nhom-cii-nang-so-huu-tai-pc1-len-hon-13-von-188260909161447834.chn",
+        "published": "Wed, 09 Sep 26 16:14:00 +0700"
+      },
+      {
+        "title": "Việt Nam có thêm 2 triệu tài khoản chứng khoán từ đầu năm 2026",
+        "link": "https://cafef.vn/viet-nam-co-them-2-trieu-tai-khoan-chung-khoan-tu-dau-nam-2026-188260909160515862.chn",
+        "published": "Wed, 09 Sep 26 16:05:00 +0700"
+      },
       {
         "title": "Phát hiện 15 nhẫn vàng, 2 dây chuyền cùng loạt nữ trang trong bao giấy, cụ bà 78 tuổi lập tức báo công an",
         "link": "https://cafef.vn/phat-hien-15-nhan-vang-2-day-chuyen-cung-loat-nu-trang-trong-bao-giay-cu-ba-78-tuoi-lap-tuc-bao-cong-an-188260909160009466.chn",
@@ -22,16 +32,6 @@
         "title": "Một đại gia dầu khí \"chơi lớn\" trả hơn 6.000 tỷ đồng tiền cổ tức",
         "link": "https://cafef.vn/mot-dai-gia-dau-khi-choi-lon-tra-hon-6000-ty-dong-tien-co-tuc-188260909152106874.chn",
         "published": "Wed, 09 Sep 26 15:26:00 +0700"
-      },
-      {
-        "title": "Baf Việt Nam thành lập công ty con chế biến thực phẩm tại Gia Lai",
-        "link": "https://cafef.vn/baf-viet-nam-thanh-lap-cong-ty-con-che-bien-thuc-pham-tai-gia-lai-188260909141005497.chn",
-        "published": "Wed, 09 Sep 26 14:11:00 +0700"
-      },
-      {
-        "title": "Masan High-Tech Materials chốt ngày tạm ứng cổ tức tiền mặt tỷ lệ 10%",
-        "link": "https://cafef.vn/masan-high-tech-materials-chot-ngay-tam-ung-co-tuc-tien-mat-ty-le-10-188260909140908371.chn",
-        "published": "Wed, 09 Sep 26 14:10:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "India August consumer inflation likely hit 20-month high on food, fuel prices: Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/india-august-consumer-inflation-likely-hit-20month-high-on-food-fuel-prices-reuters-poll-4892966",
+        "published": "2026-09-09 09:12:47"
+      },
+      {
+        "title": "Iran targets U.S. base in Jordan, attacks ships after tanker strikes",
+        "link": "https://www.investing.com/news/economy-news/iran-targets-us-base-in-jordan-attacks-ships-after-tanker-strikes-4892705",
+        "published": "2026-09-09 08:57:30"
+      },
+      {
         "title": "Yen gains on dollar; sentiment fragile as oil breaks $100",
         "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
         "published": "2026-09-09 08:37:27"
@@ -118,16 +128,6 @@
         "title": "Explainer-What is the yen carry trade?",
         "link": "https://www.investing.com/news/economy-news/explainerwhat-is-the-yen-carry-trade-4892709",
         "published": "2026-09-09 05:18:36"
-      },
-      {
-        "title": "Iran targets U.S. base in Jordan, attacks ships after tanker strikes",
-        "link": "https://www.investing.com/news/economy-news/iran-targets-us-base-in-jordan-attacks-ships-after-tanker-strikes-4892705",
-        "published": "2026-09-09 05:12:37"
-      },
-      {
-        "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-100-brent-in-sight-yen-defies-gravity-4892700",
-        "published": "2026-09-09 04:36:30"
       }
     ]
   }
