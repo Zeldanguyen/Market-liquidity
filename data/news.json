@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T06:44:33.640480",
+  "fetched_at": "2026-09-09T07:11:20.287824",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen stands tall as dollar drifts, oil’s run towards $100 chills sentiment",
+        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
+        "published": "2026-09-09 05:48:48"
+      },
+      {
+        "title": "Explainer-What is the yen carry trade?",
+        "link": "https://www.investing.com/news/economy-news/explainerwhat-is-the-yen-carry-trade-4892709",
+        "published": "2026-09-09 05:18:36"
+      },
+      {
+        "title": "Iran targets U.S. base in Jordan, attacks ships after tanker strikes",
+        "link": "https://www.investing.com/news/economy-news/iran-targets-us-base-in-jordan-attacks-ships-after-tanker-strikes-4892705",
+        "published": "2026-09-09 05:12:37"
+      },
+      {
         "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
         "link": "https://www.investing.com/news/economy-news/morning-bid-100-brent-in-sight-yen-defies-gravity-4892700",
         "published": "2026-09-09 04:36:30"
@@ -113,21 +128,6 @@
         "title": "Australia sees no threat to US ties after White House criticism of social media reforms",
         "link": "https://www.investing.com/news/economy-news/australia-sees-no-threat-to-us-ties-after-white-house-criticism-of-social-media-reforms-4892694",
         "published": "2026-09-09 03:36:53"
-      },
-      {
-        "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate",
-        "link": "https://www.investing.com/news/economy-news/oil-heads-for-100-asia-stocks-subdued-as-middle-east-tensions-escalate-4892675",
-        "published": "2026-09-09 02:30:56"
-      },
-      {
-        "title": "Mexico sees up to 2.5% economic growth in 2027, narrower deficit in 2027 budget draft",
-        "link": "https://www.investing.com/news/economy-news/mexico-sees-up-to-25-economic-growth-in-2027-narrower-deficit-in-2027-budget-draft-4892668",
-        "published": "2026-09-09 02:07:26"
-      },
-      {
-        "title": "The yen’s sudden surge upsets the carry trade faithful",
-        "link": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
-        "published": "2026-09-09 02:06:53"
       }
     ]
   }
