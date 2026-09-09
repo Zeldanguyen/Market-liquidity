@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-09T00:46:43.552778",
+  "fetched_at": "2026-09-09T01:09:22.404300",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Hơn 2,4 triệu cổ phiếu MCH có thể được mua trong kỳ cơ cấu FTSE tháng 9",
+        "link": "https://cafef.vn/hon-24-trieu-co-phieu-mch-co-the-duoc-mua-trong-ky-co-cau-ftse-thang-9-188260908194604621.chn",
+        "published": "Wed, 09 Sep 26 08:00:00 +0700"
+      },
       {
         "title": "Đúng 9 giờ ngày 9/9, Vinhomes có một sự thay đổi lớn",
         "link": "https://cafef.vn/dung-9-gio-ngay-9-9-vinhomes-co-mot-su-thay-doi-lon-188260908232101173.chn",
@@ -27,11 +32,6 @@
         "title": "Một kim loại mang tính sống còn trong sản xuất công nghệ, công nghiệp vừa lập đỉnh mới",
         "link": "https://cafef.vn/mot-kim-loai-mang-tinh-song-con-trong-san-xuat-cong-nghe-cong-nghiep-vua-lap-dinh-moi-188260908232508808.chn",
         "published": "Wed, 09 Sep 26 00:04:00 +0700"
-      },
-      {
-        "title": "Công ty của tỷ phú Nguyễn Đăng Quang sẽ chi hơn 1.000 tỷ đồng trả cổ tức ngay trong tháng 9",
-        "link": "https://cafef.vn/cong-ty-cua-ty-phu-nguyen-dang-quang-se-chi-hon-1000-ty-dong-tra-co-tuc-ngay-trong-thang-9-188260908222523709.chn",
-        "published": "Wed, 09 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
