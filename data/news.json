@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T04:41:38.368545",
+  "fetched_at": "2026-09-09T05:09:13.161773",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giới “carry trade” lung lay vì cú tăng giá mạnh bất ngờ của đồng yên",
+        "link": "https://vneconomy.vn/gioi-carry-trade-lung-lay-vi-cu-tang-gia-manh-bat-ngo-cua-dong-yen.htm",
+        "published": "Wed, 09 Sep 2026 04:43:41 GMT"
+      },
+      {
         "title": "Thẻ VIB - Từ dẫn đầu xu thế đến chiếc thẻ phát triển cùng khách hàng",
         "link": "https://vneconomy.vn/the-vib-tu-dan-dau-xu-the-den-chiec-the-phat-trien-cung-khach-hang.htm",
         "published": "Wed, 09 Sep 2026 02:51:40 GMT"
@@ -59,11 +64,6 @@
         "title": "Vàng sụt giá vì giá dầu leo thang mạnh, SPDR Gold Trust bán ròng",
         "link": "https://vneconomy.vn/vang-sut-gia-vi-gia-dau-leo-thang-manh-spdr-gold-trust-ban-rong.htm",
         "published": "Wed, 09 Sep 2026 00:31:28 GMT"
-      },
-      {
-        "title": "Mức lợi suất trái phiếu kho bạc Mỹ có thể đe dọa các tài sản khác",
-        "link": "https://vneconomy.vn/muc-loi-suat-trai-phieu-kho-bac-my-co-the-de-doa-cac-tai-san-khac.htm",
-        "published": "Tue, 08 Sep 2026 11:45:29 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-100-brent-in-sight-yen-defies-gravity-4892700",
+        "published": "2026-09-09 04:36:30"
+      },
+      {
         "title": "Rising energy costs lift China’s producer, consumer inflation in August",
         "link": "https://www.investing.com/news/economy-news/chinas-producer-inflation-regains-momentum-in-august-4892658",
         "published": "2026-09-09 03:54:31"
@@ -123,11 +128,6 @@
         "title": "The yen’s sudden surge upsets the carry trade faithful",
         "link": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
         "published": "2026-09-09 02:06:53"
-      },
-      {
-        "title": "Yen stands tall as dollar wobbles, oil’s run towards $100 chills sentiment",
-        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
-        "published": "2026-09-09 02:06:35"
       }
     ]
   }
