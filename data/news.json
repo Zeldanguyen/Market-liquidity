@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-09T08:41:14.616303",
+  "fetched_at": "2026-09-09T09:09:44.503880",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Phát hiện 15 nhẫn vàng, 2 dây chuyền cùng loạt nữ trang trong bao giấy, cụ bà 78 tuổi lập tức báo công an",
+        "link": "https://cafef.vn/phat-hien-15-nhan-vang-2-day-chuyen-cung-loat-nu-trang-trong-bao-giay-cu-ba-78-tuoi-lap-tuc-bao-cong-an-188260909160009466.chn",
+        "published": "Wed, 09 Sep 26 16:00:00 +0700"
+      },
+      {
+        "title": "Cổ phiếu công ty chứng khoán giảm 14% ngày đầu chào sàn",
+        "link": "https://cafef.vn/co-phieu-cong-ty-chung-khoan-giam-14-ngay-dau-chao-san-18826090915535988.chn",
+        "published": "Wed, 09 Sep 26 15:53:00 +0700"
+      },
+      {
+        "title": "Phiên 9/9: Một cổ phiếu VN30 bị khối ngoại \"xả\" gần 300 tỷ đồng",
+        "link": "https://cafef.vn/phien-9-9-mot-co-phieu-vn30-bi-khoi-ngoai-xa-gan-300-ty-dong-188260909152141288.chn",
+        "published": "Wed, 09 Sep 26 15:45:00 +0700"
+      },
       {
         "title": "Một đại gia dầu khí \"chơi lớn\" trả hơn 6.000 tỷ đồng tiền cổ tức",
         "link": "https://cafef.vn/mot-dai-gia-dau-khi-choi-lon-tra-hon-6000-ty-dong-tien-co-tuc-188260909152106874.chn",
@@ -17,21 +32,6 @@
         "title": "Masan High-Tech Materials chốt ngày tạm ứng cổ tức tiền mặt tỷ lệ 10%",
         "link": "https://cafef.vn/masan-high-tech-materials-chot-ngay-tam-ung-co-tuc-tien-mat-ty-le-10-188260909140908371.chn",
         "published": "Wed, 09 Sep 26 14:10:00 +0700"
-      },
-      {
-        "title": "Con trai Chủ tịch MSB đã mua 20 triệu cổ phiếu như đăng ký",
-        "link": "https://cafef.vn/con-trai-chu-tich-msb-da-mua-20-trieu-co-phieu-nhu-dang-ky-188260909140841452.chn",
-        "published": "Wed, 09 Sep 26 14:10:00 +0700"
-      },
-      {
-        "title": "Đảng viên có hành vi trái phép về tài sản mã hóa có thể bị khai trừ Đảng",
-        "link": "https://cafef.vn/dang-vien-co-hanh-vi-trai-phep-ve-tai-san-ma-hoa-co-the-bi-khai-tru-dang-188260909112140545.chn",
-        "published": "Wed, 09 Sep 26 11:21:00 +0700"
-      },
-      {
-        "title": "Giá vàng điều chỉnh, quỹ lớn nhất thế giới hành động gì?",
-        "link": "https://cafef.vn/gia-vang-dieu-chinh-quy-lon-nhat-the-gioi-hanh-dong-gi-188260909101659331.chn",
-        "published": "Wed, 09 Sep 26 10:17:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Yen gains on dollar; sentiment fragile as oil breaks $100",
+        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
+        "published": "2026-09-09 08:37:27"
+      },
+      {
         "title": "US accuses Chinese AI firms of ’malicious’ copying of AI technology",
         "link": "https://www.investing.com/news/economy-news/us-accuses-chinese-ai-firms-of-industrialscale-theft-of-ai-technology-4892191",
         "published": "2026-09-09 08:06:24"
@@ -108,11 +113,6 @@
         "title": "Oil prices touch $100 amid intensifying Mideast fighting - what’s moving markets",
         "link": "https://www.investing.com/news/economy-news/oil-prices-near-100-amid-intensifying-mideast-fighting--whats-moving-markets-4892834",
         "published": "2026-09-09 07:48:31"
-      },
-      {
-        "title": "Yen stands tall as dollar drifts, oil’s run towards $100 chills sentiment",
-        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
-        "published": "2026-09-09 05:48:48"
       },
       {
         "title": "Explainer-What is the yen carry trade?",

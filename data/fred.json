@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-09-09T08:39:46.798177",
+  "fetched_at": "2026-09-09T09:08:15.819864",
   "series": {
     "fed_funds_rate": [
       {
@@ -162,38 +162,9 @@
         "value": "5.25"
       }
     ],
-    "dxy": [
-      {
-        "realtime_start": "2026-09-08",
-        "realtime_end": "2026-09-08",
-        "date": "2026-09-04",
-        "value": "118.0732"
-      },
-      {
-        "realtime_start": "2026-09-08",
-        "realtime_end": "2026-09-08",
-        "date": "2026-09-03",
-        "value": "118.127"
-      },
-      {
-        "realtime_start": "2026-09-08",
-        "realtime_end": "2026-09-08",
-        "date": "2026-09-02",
-        "value": "118.5296"
-      },
-      {
-        "realtime_start": "2026-09-08",
-        "realtime_end": "2026-09-08",
-        "date": "2026-09-01",
-        "value": "118.6568"
-      },
-      {
-        "realtime_start": "2026-09-08",
-        "realtime_end": "2026-09-08",
-        "date": "2026-08-31",
-        "value": "118.5679"
-      }
-    ],
+    "dxy": {
+      "error": "HTTP Error 502: Bad Gateway"
+    },
     "m2_money_supply": [
       {
         "realtime_start": "2026-08-25",
