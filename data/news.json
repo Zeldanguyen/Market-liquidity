@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T20:10:18.884995",
+  "fetched_at": "2026-09-09T20:40:43.167787",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "S&P 500 ends down as oil tops $100 per barrel",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
+        "published": "2026-09-09 20:18:34"
+      },
+      {
+        "title": "US regulator says credit scoring firm FICO increasing prices for borrowers",
+        "link": "https://www.investing.com/news/economy-news/usregulator-says-credit-scoring-firm-fico-increasing-prices-for-borrowers-4894166",
+        "published": "2026-09-09 20:06:54"
+      },
+      {
         "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
         "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
         "published": "2026-09-09 19:55:20"
-      },
-      {
-        "title": "S&P 500 falls as oil tops $100 per barrel",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
-        "published": "2026-09-09 18:36:37"
       },
       {
         "title": "US Treasury chief Bessent backs using US financial power as foreign policy tool",
@@ -123,11 +128,6 @@
         "title": "OpenAI appoints Paul Christiano to foundation board",
         "link": "https://www.investing.com/news/economy-news/openai-appoints-paul-christiano-to-foundation-board-93CH-4894242",
         "published": "2026-09-09 17:04:39"
-      },
-      {
-        "title": "US regulator says credit scoring firm FICO increasing prices for borrowers",
-        "link": "https://www.investing.com/news/economy-news/usregulator-says-credit-scoring-firm-fico-increasing-prices-for-borrowers-4894166",
-        "published": "2026-09-09 16:48:32"
       }
     ]
   }
