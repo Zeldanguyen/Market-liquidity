@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T21:08:57.760304",
+  "fetched_at": "2026-09-09T21:39:19.942413",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trading Day: $100 oil bites",
+        "link": "https://www.investing.com/news/economy-news/trading-day-100-oil-bites-4894600",
+        "published": "2026-09-09 21:07:24"
+      },
+      {
         "title": "10-year yields highest since 2023",
         "link": "https://www.investing.com/news/economy-news/10year-yields-highest-since-2023-4894582",
         "published": "2026-09-09 20:54:54"
@@ -123,11 +128,6 @@
         "title": "US regulator says credit scoring firm FICO increasing prices for borrowers",
         "link": "https://www.investing.com/news/economy-news/usregulator-says-credit-scoring-firm-fico-increasing-prices-for-borrowers-4894166",
         "published": "2026-09-09 20:06:54"
-      },
-      {
-        "title": "US Treasury chief Bessent backs using US financial power as foreign policy tool",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-bessent-backs-using-us-financial-power-as-foreign-policy-tool-4892639",
-        "published": "2026-09-09 18:31:07"
       }
     ]
   }
