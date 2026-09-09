@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T22:39:05.144791",
+  "fetched_at": "2026-09-09T23:09:30.535071",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar trades near 7-month low against yen as oil settles above $100",
+        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
+        "published": "2026-09-09 22:37:11"
+      },
+      {
+        "title": "ECB set to hike as Iran war fuels fresh inflation fears",
+        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
+        "published": "2026-09-09 22:18:44"
+      },
+      {
+        "title": "BOJ to raise rates to 1.25% this month, reach 1.75% faster than expected: Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/boj-to-raise-rates-to-125-this-month-reach-175-faster-than-expected-reuters-poll-4894676",
+        "published": "2026-09-09 22:12:33"
+      },
+      {
         "title": "Trading Day: $100 oil bites",
         "link": "https://www.investing.com/news/economy-news/trading-day-100-oil-bites-4894600",
         "published": "2026-09-09 21:07:24"
@@ -113,21 +128,6 @@
         "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
         "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
         "published": "2026-09-09 20:48:35"
-      },
-      {
-        "title": "Dollar trades near 7-month low against yen as oil settles above $100",
-        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
-        "published": "2026-09-09 20:31:15"
-      },
-      {
-        "title": "S&P 500 ends down as oil tops $100 per barrel",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-muted-as-oil-tops-100-for-first-time-since-july-4892997",
-        "published": "2026-09-09 20:18:34"
-      },
-      {
-        "title": "US regulator says credit scoring firm FICO increasing prices for borrowers",
-        "link": "https://www.investing.com/news/economy-news/usregulator-says-credit-scoring-firm-fico-increasing-prices-for-borrowers-4894166",
-        "published": "2026-09-09 20:06:54"
       }
     ]
   }
