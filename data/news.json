@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-09T07:11:20.287824",
+  "fetched_at": "2026-09-09T07:41:14.675530",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Baf Việt Nam thành lập công ty con chế biến thực phẩm tại Gia Lai",
+        "link": "https://cafef.vn/baf-viet-nam-thanh-lap-cong-ty-con-che-bien-thuc-pham-tai-gia-lai-188260909141005497.chn",
+        "published": "Wed, 09 Sep 26 14:11:00 +0700"
+      },
+      {
+        "title": "Masan High-Tech Materials chốt ngày tạm ứng cổ tức tiền mặt tỷ lệ 10%",
+        "link": "https://cafef.vn/masan-high-tech-materials-chot-ngay-tam-ung-co-tuc-tien-mat-ty-le-10-188260909140908371.chn",
+        "published": "Wed, 09 Sep 26 14:10:00 +0700"
+      },
+      {
+        "title": "Con trai Chủ tịch MSB đã mua 20 triệu cổ phiếu như đăng ký",
+        "link": "https://cafef.vn/con-trai-chu-tich-msb-da-mua-20-trieu-co-phieu-nhu-dang-ky-188260909140841452.chn",
+        "published": "Wed, 09 Sep 26 14:10:00 +0700"
+      },
       {
         "title": "Đảng viên có hành vi trái phép về tài sản mã hóa có thể bị khai trừ Đảng",
         "link": "https://cafef.vn/dang-vien-co-hanh-vi-trai-phep-ve-tai-san-ma-hoa-co-the-bi-khai-tru-dang-188260909112140545.chn",
@@ -17,21 +32,6 @@
         "title": "Chuyện gì xảy ra với giá vàng sáng nay?",
         "link": "https://cafef.vn/chuyen-gi-xay-ra-voi-gia-vang-sang-nay-188260909101611968.chn",
         "published": "Wed, 09 Sep 26 10:17:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu phân hóa mạnh: Chuyên gia MBS hướng dẫn cách nhận diện \"cơ hội vàng\"",
-        "link": "https://cafef.vn/co-phieu-phan-hoa-manh-chuyen-gia-mbs-huong-dan-cach-nhan-dien-co-hoi-vang-188260909085944428.chn",
-        "published": "Wed, 09 Sep 26 10:00:00 +0700"
-      },
-      {
-        "title": "Hơn 2,4 triệu cổ phiếu MCH có thể được mua trong kỳ cơ cấu FTSE tháng 9",
-        "link": "https://cafef.vn/hon-24-trieu-co-phieu-mch-co-the-duoc-mua-trong-ky-co-cau-ftse-thang-9-188260908194604621.chn",
-        "published": "Wed, 09 Sep 26 08:00:00 +0700"
-      },
-      {
-        "title": "Đúng 9 giờ ngày 9/9, Vinhomes có một sự thay đổi lớn",
-        "link": "https://cafef.vn/dung-9-gio-ngay-9-9-vinhomes-co-mot-su-thay-doi-lon-188260908232101173.chn",
-        "published": "Wed, 09 Sep 26 00:10:00 +0700"
       }
     ],
     "VnEconomy": [
