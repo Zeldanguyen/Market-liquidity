@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-10T14:09:01.077140",
+  "fetched_at": "2026-09-10T14:42:33.700016",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nhà cung cấp gỗ nội thất hàng đầu Việt Nam chi hơn 150 tỷ đồng trả cổ tức ngay tháng 9",
+        "link": "https://cafef.vn/nha-cung-cap-go-noi-that-hang-dau-viet-nam-chi-hon-150-ty-dong-tra-co-tuc-ngay-thang-9-188260910212759187.chn",
+        "published": "Thu, 10 Sep 26 21:27:00 +0700"
+      },
       {
         "title": "Công ty của bà Nguyễn Thanh Phượng muốn bán cổ phiếu ông Tô Hải vừa mua",
         "link": "https://cafef.vn/cong-ty-cua-ba-nguyen-thanh-phuong-muon-ban-co-phieu-ong-to-hai-vua-mua-188260910201304805.chn",
@@ -27,11 +32,6 @@
         "title": "Cổ phiếu DGW “tím lịm”, tân binh KAI “bốc hơi” gần 19% chỉ sau 2 phiên",
         "link": "https://cafef.vn/co-phieu-dgw-tim-lim-tan-binh-kai-boc-hoi-gan-19-chi-sau-2-phien-188260910170247223.chn",
         "published": "Thu, 10 Sep 26 17:02:00 +0700"
-      },
-      {
-        "title": "Người thân sếp lớn Hòa Phát đăng ký bán cổ phiếu HPG",
-        "link": "https://cafef.vn/nguoi-than-sep-lon-hoa-phat-dang-ky-ban-co-phieu-hpg-188260910164434455.chn",
-        "published": "Thu, 10 Sep 26 16:45:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "European shares near two-month lows as ECB hikes interest rates",
+        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
+        "published": "2026-09-10 14:19:25"
+      },
+      {
+        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
+        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
+        "published": "2026-09-10 14:19:05"
+      },
+      {
+        "title": "US existing home sales drop to 14-month low in August",
+        "link": "https://www.investing.com/news/economy-news/us-existing-home-sales-drop-to-14month-low-in-august-4896242",
+        "published": "2026-09-10 14:12:54"
+      },
+      {
         "title": "ECB raises interest rates as Iran war fans inflation fears",
         "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
         "published": "2026-09-10 13:43:57"
@@ -113,21 +128,6 @@
         "title": "Wall St opens lower after hotter-than-expected producer inflation data",
         "link": "https://www.investing.com/news/economy-news/wall-st-opens-lower-after-hotterthanexpected-producer-inflation-data-4896154",
         "published": "2026-09-10 13:42:58"
-      },
-      {
-        "title": "Wall St set for lower open after hotter-than-expected producer inflation data",
-        "link": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
-        "published": "2026-09-10 13:12:49"
-      },
-      {
-        "title": "ECB raises interest rates as Mideast conflict drives inflation worries",
-        "link": "https://www.investing.com/news/economy-news/ecb-raises-interest-rates-as-mideast-conflict-drives-inflation-worries-4895845",
-        "published": "2026-09-10 13:08:55"
-      },
-      {
-        "title": "US producer prices increase as expected in August",
-        "link": "https://www.investing.com/news/economy-news/us-producer-prices-increase-as-expected-in-august-4896018",
-        "published": "2026-09-10 13:06:48"
       }
     ]
   }
