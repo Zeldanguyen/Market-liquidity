@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-10T10:09:43.811113",
+  "fetched_at": "2026-09-10T10:41:41.706416",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nhóm công ty chứng khoán có động thái bất ngờ ngay trước thềm nâng hạng",
+        "link": "https://cafef.vn/nhom-cong-ty-chung-khoan-co-dong-thai-bat-ngo-ngay-truoc-them-nang-hang-188260910163350873.chn",
+        "published": "Thu, 10 Sep 26 17:13:00 +0700"
+      },
       {
         "title": "Cổ phiếu DGW “tím lịm”, tân binh KAI “bốc hơi” gần 19% chỉ sau 2 phiên",
         "link": "https://cafef.vn/co-phieu-dgw-tim-lim-tan-binh-kai-boc-hoi-gan-19-chi-sau-2-phien-188260910170247223.chn",
@@ -12,11 +17,6 @@
         "title": "Người thân sếp lớn Hòa Phát đăng ký bán cổ phiếu HPG",
         "link": "https://cafef.vn/nguoi-than-sep-lon-hoa-phat-dang-ky-ban-co-phieu-hpg-188260910164434455.chn",
         "published": "Thu, 10 Sep 26 16:45:00 +0700"
-      },
-      {
-        "title": "Một thế lực vừa \"tung\" gần 300 tỷ đồng mua ròng cổ phiếu Việt Nam phiên 10/9, đâu là tâm điểm?",
-        "link": "https://cafef.vn/mot-the-luc-vua-tung-gan-300-ty-dong-mua-rong-co-phieu-viet-nam-phien-10-9-dau-la-tam-diem-188260910163350873.chn",
-        "published": "Thu, 10 Sep 26 16:33:00 +0700"
       },
       {
         "title": "Nâng hạng thị trường chứng khoán đến gần, khi nào vốn ngoại 'đổ bộ'?",
@@ -68,6 +68,16 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 10/09: Tiếp đà tăng điểm, VN-Index đóng cửa trong sắc xanh",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-tiep-da-tang-diem-vn-index-dong-cua-trong-sac-xanh-1636-1490787.htm",
+        "published": "Thu, 10 Sep 2026 16:47:00 +0700"
+      },
+      {
+        "title": "FPT sắp phát hành 171 triệu cổ phiếu thưởng",
+        "link": "http://vietstock.vn/2026/09/fpt-sap-phat-hanh-171-trieu-co-phieu-thuong-830-1490904.htm",
+        "published": "Thu, 10 Sep 2026 16:43:00 +0700"
+      },
+      {
         "title": "Xây dựng Hòa Bình và Điện Quang bị xử phạt vi phạm công bố thông tin",
         "link": "http://vietstock.vn/2026/09/xay-dung-hoa-binh-va-dien-quang-bi-xu-phat-vi-pham-cong-bo-thong-tin-830-1490861.htm",
         "published": "Thu, 10 Sep 2026 15:30:00 +0700"
@@ -86,19 +96,19 @@
         "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/ngay-10092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1490531.htm",
         "published": "Thu, 10 Sep 2026 10:00:00 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 10/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1009-830-1490477.htm",
-        "published": "Thu, 10 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "10/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1009-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1490725.htm",
-        "published": "Thu, 10 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
+        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
+        "published": "2026-09-10 10:19:23"
+      },
+      {
+        "title": "Serbia’s central bank holds benchmark rate at 5.75%",
+        "link": "https://www.investing.com/news/economy-news/serbias-central-bank-holds-benchmark-rate-at-575-93CH-4895353",
+        "published": "2026-09-10 10:10:05"
+      },
       {
         "title": "S&P 500, Dow futures attempt recovery ahead of inflation report",
         "link": "https://www.investing.com/news/economy-news/sp-500-dow-futures-attempt-recovery-ahead-of-inflation-report-4895291",
@@ -118,16 +128,6 @@
         "title": "Houthis close in on stranglehold over key Bab al-Mandeb Strait - Reuters",
         "link": "https://www.investing.com/news/economy-news/houthis-close-in-on-stranglehold-over-key-bab-almandeb-strait--reuters-4895268",
         "published": "2026-09-10 09:40:59"
-      },
-      {
-        "title": "OpenAI faces Senate probe into Hugging Face incident, Axios reports",
-        "link": "https://www.investing.com/news/economy-news/openai-faces-senate-probe-into-hugging-face-incident-axios-reports-4895228",
-        "published": "2026-09-10 09:18:27"
-      },
-      {
-        "title": "European stocks tread water as ECB decision looms",
-        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
-        "published": "2026-09-10 09:12:33"
       }
     ]
   }
