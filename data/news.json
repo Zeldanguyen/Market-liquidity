@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-10T06:12:48.617754",
+  "fetched_at": "2026-09-10T06:44:32.666614",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
-        "title": "Điều gì khiến Sacombank vượt đỉnh lịch sử?",
+        "title": "Điều gì khiến SACOMBANK vượt đỉnh lịch sử?",
         "link": "https://cafef.vn/dieu-gi-khien-sacombank-vuot-dinh-lich-su-188260910125721467.chn",
         "published": "Thu, 10 Sep 26 12:57:00 +0700"
       },
@@ -68,9 +68,9 @@
     ],
     "Vietstock": [
       {
-        "title": "Nhịp đập Thị trường 10/09: Ngày càng phân hóa, khối ngoại hành động đáng chú ý tại VHM và FPT",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-ngay-cang-phan-hoa-khoi-ngoai-hanh-dong-dang-chu-y-tai-vhm-va-fpt-1636-1490787.htm",
-        "published": "Thu, 10 Sep 2026 11:47:00 +0700"
+        "title": "Phân tích kỹ thuật phiên chiều 10/09: Áp lực điều chỉnh vẫn hiện hữu",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1009-ap-luc-dieu-chinh-van-hien-huu-585-1490836.htm",
+        "published": "Thu, 10 Sep 2026 13:05:49 +0700"
       },
       {
         "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "German August inflation confirmed at 2.9%",
+        "link": "https://www.investing.com/news/economy-news/german-august-inflation-confirmed-at-29-4894971",
+        "published": "2026-09-10 06:12:28"
+      },
+      {
         "title": "ECB to hike rates as Iran war fuels fresh inflation fears",
         "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
         "published": "2026-09-10 05:55:30"
@@ -123,11 +128,6 @@
         "title": "Fitch eyes Japan budget for balance between growth and fiscal discipline",
         "link": "https://www.investing.com/news/economy-news/fitch-eyes-japan-budget-for-balance-between-growth-and-fiscal-discipline-4894929",
         "published": "2026-09-10 04:24:30"
-      },
-      {
-        "title": "Bank of Korea to assess conditions to determine pace and timing of tightening, says board member",
-        "link": "https://www.investing.com/news/economy-news/bank-of-korea-to-assess-conditions-to-determine-pace-and-timing-of-tightening-says-board-member-4894909",
-        "published": "2026-09-10 03:54:25"
       }
     ]
   }
