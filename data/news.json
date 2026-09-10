@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T05:09:03.526594",
+  "fetched_at": "2026-09-10T05:40:40.986388",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 10/09: Ngày càng phân hóa, khối ngoại hành động đáng chú ý tại VHM và FPT",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-ngay-cang-phan-hoa-khoi-ngoai-hanh-dong-dang-chu-y-tai-vhm-va-fpt-1636-1490787.htm",
+        "published": "Thu, 10 Sep 2026 11:47:00 +0700"
+      },
+      {
         "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/ngay-10092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1490531.htm",
         "published": "Thu, 10 Sep 2026 10:00:00 +0700"
@@ -91,14 +96,14 @@
         "title": "Vietstock Daily 10/09/2026: Giằng co tiếp diễn",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-10092026-giang-co-tiep-dien-1636-1490525.htm",
         "published": "Wed, 09 Sep 2026 18:17:00 +0700"
-      },
-      {
-        "title": "Tài khoản chứng khoán tiến sát mốc 14 triệu",
-        "link": "http://vietstock.vn/2026/09/tai-khoan-chung-khoan-tien-sat-moc-14-trieu-830-1490437.htm",
-        "published": "Wed, 09 Sep 2026 17:16:53 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Portugal debt upgrade seals PIIGS passage from pariahs to pin-ups",
+        "link": "https://www.investing.com/news/economy-news/portugal-debt-upgrade-seals-piigs-passage-from-pariahs-to-pinups-4894949",
+        "published": "2026-09-10 05:19:11"
+      },
       {
         "title": "Morning Bid: Lagarde takes the spotlight as oil sits above $100",
         "link": "https://www.investing.com/news/economy-news/morning-bid-lagarde-takes-the-spotlight-as-oil-sits-above-100-4894933",
@@ -123,11 +128,6 @@
         "title": "Exclusive-After outrunning Bolt, China’s robot champion races towards real-world work",
         "link": "https://www.investing.com/news/economy-news/exclusiveafter-outrunning-bolt-chinas-robot-champion-races-towards-realworld-work-4894812",
         "published": "2026-09-10 03:07:11"
-      },
-      {
-        "title": "Trump promises $5,000 dividend to every U.S. adult if GOP wins midterms",
-        "link": "https://www.investing.com/news/economy-news/trump-promises-5000-dividend-to-every-us-adult-if-gop-wins-midterms-4894892",
-        "published": "2026-09-10 02:40:20"
       }
     ]
   }
