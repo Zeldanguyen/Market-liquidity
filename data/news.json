@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T16:09:35.500990",
+  "fetched_at": "2026-09-10T16:40:34.110881",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UAE plans to invest $46 billion in Germany",
+        "link": "https://www.investing.com/news/economy-news/uae-plans-to-invest-46-billion-in-germany-93CH-4896512",
+        "published": "2026-09-10 16:19:15"
+      },
+      {
+        "title": "ECB governors see more tightening ahead with October in play",
+        "link": "https://www.investing.com/news/economy-news/ecb-governors-see-more-tightening-ahead-with-october-in-play-4896511",
+        "published": "2026-09-10 16:19:14"
+      },
+      {
+        "title": "Wall St slips after hotter-than-expected producer inflation data",
+        "link": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
+        "published": "2026-09-10 16:18:37"
+      },
+      {
+        "title": "Nubank launches high-yield savings account, credit cards, remittances in the US",
+        "link": "https://www.investing.com/news/economy-news/nubank-launches-highyield-savings-account-credit-cards-remittances-in-the-us-4896505",
+        "published": "2026-09-10 16:12:33"
+      },
+      {
         "title": "Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle",
         "link": "https://www.investing.com/news/economy-news/bond-yields-hit-multiyear-highs-as-traders-brace-for-new-ecb-ratehike-cycle-4896480",
         "published": "2026-09-10 16:00:51"
@@ -108,26 +128,6 @@
         "title": "ECB raises interest rates, bolstering bets for further moves",
         "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
         "published": "2026-09-10 15:49:40"
-      },
-      {
-        "title": "ECB officials expect rate hikes, next one possible next month - Bloomberg",
-        "link": "https://www.investing.com/news/economy-news/ecb-officials-expect-rate-hikes-next-one-possible-next-month--bloomberg-4896453",
-        "published": "2026-09-10 15:45:10"
-      },
-      {
-        "title": "IMF say global growth on track to reach 3% in 2026, but risks remain high",
-        "link": "https://www.investing.com/news/economy-news/imf-say-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-4896414",
-        "published": "2026-09-10 15:12:33"
-      },
-      {
-        "title": "Treasury yields climb on inflation data and oil price surge",
-        "link": "https://www.investing.com/news/economy-news/treasury-yields-climb-on-inflation-data-and-oil-price-surge-93CH-4896411",
-        "published": "2026-09-10 15:11:45"
-      },
-      {
-        "title": "Colombia raises domestic debt issuance by $8 billion for 2026",
-        "link": "https://www.investing.com/news/economy-news/colombia-raises-domestic-debt-issuance-by-8-billion-for-2026-93CH-4896407",
-        "published": "2026-09-10 15:08:19"
       }
     ]
   }
