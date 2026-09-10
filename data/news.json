@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T19:37:32.402068",
+  "fetched_at": "2026-09-10T20:09:07.486800",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US Treasury buys back $5.2bn in bonds to support liquidity",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-buys-back-52bn-in-bonds-to-support-liquidity-93CH-4896760",
+        "published": "2026-09-10 19:29:55"
+      },
+      {
         "title": "Trump’s $5,000 dividend plan draws some Republican skepticism",
         "link": "https://www.investing.com/news/economy-news/trumps-5000-dividend-plan-draws-some-republican-skepticism-4896744",
         "published": "2026-09-10 19:13:34"
@@ -123,11 +128,6 @@
         "title": "Nubank launches US high-yield savings account, credit cards, remittances",
         "link": "https://www.investing.com/news/economy-news/nubank-launches-highyield-savings-account-credit-cards-remittances-in-the-us-4896505",
         "published": "2026-09-10 17:49:12"
-      },
-      {
-        "title": "Explainer-Is Trump’s $5,000 ’dividend’ legal and how would it work?",
-        "link": "https://www.investing.com/news/economy-news/explaineris-trumps-5000-dividend-legal-and-how-would-it-work-4896629",
-        "published": "2026-09-10 17:36:49"
       }
     ]
   }
