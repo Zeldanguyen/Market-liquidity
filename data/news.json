@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-09-10T08:42:18.888053",
+  "fetched_at": "2026-09-10T09:09:26.472246",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "PV Gas sắp chi hơn 6.000 tỷ đồng trả cổ tức năm 2025",
+        "link": "https://cafef.vn/pv-gas-sap-chi-hon-6000-ty-dong-tra-co-tuc-nam-2025-188260910150319815.chn",
+        "published": "Thu, 10 Sep 26 16:03:00 +0700"
+      },
+      {
+        "title": "Đề xuất sửa đổi, bổ sung nguyên tắc thanh toán giao dịch chứng khoán phái sinh",
+        "link": "https://cafef.vn/de-xuat-sua-doi-bo-sung-nguyen-tac-thanh-toan-giao-dich-chung-khoan-phai-sinh-188260910145205046.chn",
+        "published": "Thu, 10 Sep 26 15:51:00 +0700"
+      },
+      {
+        "title": "Phiên 10/9: Khối ngoại tung gần 500 tỷ gom mạnh hai cổ phiếu \"hot\"",
+        "link": "https://cafef.vn/phien-10-9-khoi-ngoai-tung-gan-500-ty-gom-manh-hai-co-phieu-hot-188260910152731519.chn",
+        "published": "Thu, 10 Sep 26 15:45:00 +0700"
+      },
+      {
+        "title": "Đại gia Việt \"phát quà\" đúng ngày iPhone 18 ra mắt",
+        "link": "https://cafef.vn/dai-gia-viet-phat-qua-dung-ngay-iphone-18-ra-mat-188260910153905042.chn",
+        "published": "Thu, 10 Sep 26 15:39:00 +0700"
+      },
       {
         "title": "Phạt nhiều doanh nghiệp vì thông tin trái phiếu",
         "link": "https://cafef.vn/phat-nhieu-doanh-nghiep-vi-thong-tin-trai-phieu-188260910152326409.chn",
@@ -12,26 +32,6 @@
         "title": "90 công nhân của tỷ phú Phạm Nhật Vượng vượt 120 km đường đèo, “chạy đua” giữa đại ngàn làm một việc đặc biệt cho trẻ em vùng cao",
         "link": "https://cafef.vn/90-cong-nhan-cua-ty-phu-pham-nhat-vuong-vuot-120-km-duong-deo-chay-dua-giua-dai-ngan-lam-mot-viec-dac-biet-cho-tre-em-vung-cao-188260910150220567.chn",
         "published": "Thu, 10 Sep 26 15:02:00 +0700"
-      },
-      {
-        "title": "Điều gì khiến SACOMBANK vượt đỉnh lịch sử?",
-        "link": "https://cafef.vn/dieu-gi-khien-sacombank-vuot-dinh-lich-su-188260910125721467.chn",
-        "published": "Thu, 10 Sep 26 12:57:00 +0700"
-      },
-      {
-        "title": "Tiền không còn rẻ, chuyên gia chỉ ra 4 nguyên tắc để tài sản không bị “bào mòn” trong chu kỳ mới",
-        "link": "https://cafef.vn/tien-khong-con-re-chuyen-gia-chi-ra-4-nguyen-tac-de-tai-san-khong-bi-bao-mon-trong-chu-ky-moi-188260910110657401.chn",
-        "published": "Thu, 10 Sep 26 11:08:00 +0700"
-      },
-      {
-        "title": "Ngân hàng vẫn gánh vốn dài hạn, cần sự “chia lửa” của thị trường vốn",
-        "link": "https://cafef.vn/ngan-hang-van-ganh-von-dai-han-can-su-chia-lua-cua-thi-truong-von-188260910100005512.chn",
-        "published": "Thu, 10 Sep 26 10:43:00 +0700"
-      },
-      {
-        "title": "FPT công bố văn bản quan trọng, cổ phiếu lên cao nhất 3 tháng",
-        "link": "https://cafef.vn/fpt-cong-bo-van-ban-quan-trong-co-phieu-len-cao-nhat-3-thang-188260910103058955.chn",
-        "published": "Thu, 10 Sep 26 10:33:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,14 +68,14 @@
     ],
     "Vietstock": [
       {
+        "title": "Xây dựng Hòa Bình và Điện Quang bị xử phạt vi phạm công bố thông tin",
+        "link": "http://vietstock.vn/2026/09/xay-dung-hoa-binh-va-dien-quang-bi-xu-phat-vi-pham-cong-bo-thong-tin-830-1490861.htm",
+        "published": "Thu, 10 Sep 2026 15:30:00 +0700"
+      },
+      {
         "title": "Ngân hàng “toan tính” giữa room cho đối tác chiến lược và dòng tiền nâng hạng",
         "link": "http://vietstock.vn/2026/09/ngan-hang-toan-tinh-giua-room-cho-doi-tac-chien-luoc-va-dong-tien-nang-hang-830-1490863.htm",
         "published": "Thu, 10 Sep 2026 14:02:00 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 10/09: Rung lắc mạnh trong nửa cuối phiên sáng",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-rung-lac-manh-trong-nua-cuoi-phien-sang-1636-1490787.htm",
-        "published": "Thu, 10 Sep 2026 13:57:00 +0700"
       },
       {
         "title": "Phân tích kỹ thuật phiên chiều 10/09: Áp lực điều chỉnh vẫn hiện hữu",
