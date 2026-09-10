@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-10T16:40:34.110881",
+  "fetched_at": "2026-09-10T17:09:07.158283",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Công ty đại gia Đặng Thành Tâm được dự báo lãi nửa cuối năm tăng gần gấp đôi cùng kỳ",
+        "link": "https://cafef.vn/cong-ty-dai-gia-dang-thanh-tam-duoc-du-bao-lai-nua-cuoi-nam-tang-gan-gap-doi-cung-ky-188260910223638248.chn",
+        "published": "Fri, 11 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "CTCK chỉ ra 6 cổ phiếu “hưởng lợi kép\" trước ngày nâng hạng",
+        "link": "https://cafef.vn/ctck-chi-ra-6-co-phieu-huong-loi-kep-truoc-ngay-nang-hang-188260910221106269.chn",
+        "published": "Fri, 11 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Đại gia Việt có thêm hơn 200 tỷ đồng trong ngày iPhone 18 ra mắt",
+        "link": "https://cafef.vn/dai-gia-viet-co-them-hon-200-ty-dong-trong-ngay-iphone-18-ra-mat-188260910221016984.chn",
+        "published": "Fri, 11 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Vingroup (VIC) lọt Top 350 công ty tốt nhất thế giới",
         "link": "https://cafef.vn/vingroup-vic-lot-top-350-cong-ty-tot-nhat-the-gioi-18826091022132552.chn",
@@ -17,21 +32,6 @@
         "title": "Công ty của bà Nguyễn Thanh Phượng muốn bán cổ phiếu ông Tô Hải vừa mua",
         "link": "https://cafef.vn/cong-ty-cua-ba-nguyen-thanh-phuong-muon-ban-co-phieu-ong-to-hai-vua-mua-188260910201304805.chn",
         "published": "Thu, 10 Sep 26 20:12:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu KAI giảm gần 20% sau hai phiên lên UPCoM: Gần 2/3 lợi nhuận trước thuế của Kafi là chưa thực hiện",
-        "link": "https://cafef.vn/co-phieu-kai-giam-gan-20-sau-hai-phien-len-upcom-gan-2-3-loi-nhuan-truoc-thue-cua-kafi-la-chua-thuc-hien-188260910195325067.chn",
-        "published": "Thu, 10 Sep 26 19:53:00 +0700"
-      },
-      {
-        "title": "Chứng khoán có tín hiệu đáng chú ý trước thềm nâng hạng",
-        "link": "https://cafef.vn/chung-khoan-co-tin-hieu-dang-chu-y-truoc-them-nang-hang-188260910170516557.chn",
-        "published": "Thu, 10 Sep 26 17:57:00 +0700"
-      },
-      {
-        "title": "Nhóm công ty chứng khoán có động thái bất ngờ ngay trước thềm nâng hạng",
-        "link": "https://cafef.vn/nhom-cong-ty-chung-khoan-co-dong-thai-bat-ngo-ngay-truoc-them-nang-hang-188260910163350873.chn",
-        "published": "Thu, 10 Sep 26 17:13:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "UAE plans to invest $46 billion in Germany",
-        "link": "https://www.investing.com/news/economy-news/uae-plans-to-invest-46-billion-in-germany-93CH-4896512",
-        "published": "2026-09-10 16:19:15"
+        "title": "European shares close at two-month low as ECB hike fuels further tightening bets",
+        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
+        "published": "2026-09-10 17:01:13"
       },
       {
-        "title": "ECB governors see more tightening ahead with October in play",
-        "link": "https://www.investing.com/news/economy-news/ecb-governors-see-more-tightening-ahead-with-october-in-play-4896511",
-        "published": "2026-09-10 16:19:14"
+        "title": "Fed, eyeing inflation data, may lean toward a hike, traders bet",
+        "link": "https://www.investing.com/news/economy-news/fed-eyeing-inflation-data-may-lean-toward-a-hike-traders-bet-4896330",
+        "published": "2026-09-10 16:54:50"
       },
       {
-        "title": "Wall St slips after hotter-than-expected producer inflation data",
-        "link": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
-        "published": "2026-09-10 16:18:37"
+        "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul",
+        "link": "https://www.investing.com/news/economy-news/washington-nonprofit-better-markets-sues-federal-reserve-over-capital-rule-overhaul-4896543",
+        "published": "2026-09-10 16:42:28"
       },
       {
-        "title": "Nubank launches high-yield savings account, credit cards, remittances in the US",
-        "link": "https://www.investing.com/news/economy-news/nubank-launches-highyield-savings-account-credit-cards-remittances-in-the-us-4896505",
-        "published": "2026-09-10 16:12:33"
-      },
-      {
-        "title": "Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle",
-        "link": "https://www.investing.com/news/economy-news/bond-yields-hit-multiyear-highs-as-traders-brace-for-new-ecb-ratehike-cycle-4896480",
-        "published": "2026-09-10 16:00:51"
+        "title": "IMF says global growth on track to reach 3% in 2026, but risks remain high",
+        "link": "https://www.investing.com/news/economy-news/imf-say-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-4896414",
+        "published": "2026-09-10 16:31:08"
       },
       {
         "title": "ECB raises interest rates, bolstering bets for further moves",
         "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
-        "published": "2026-09-10 15:49:40"
+        "published": "2026-09-10 16:24:26"
+      },
+      {
+        "title": "UAE plans to invest $46 billion in Germany",
+        "link": "https://www.investing.com/news/economy-news/uae-plans-to-invest-46-billion-in-germany-93CH-4896512",
+        "published": "2026-09-10 16:19:15"
       }
     ]
   }
