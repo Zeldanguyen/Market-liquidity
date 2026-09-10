@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T01:39:59.770167",
+  "fetched_at": "2026-09-10T02:09:37.895231",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "UOB: Dự báo kịch bản Fed giữ nguyên lãi suất đến hết 2026",
+        "link": "https://vneconomy.vn/uob-du-bao-kich-ban-fed-giu-nguyen-lai-suat-den-het-2026.htm",
+        "published": "Thu, 10 Sep 2026 02:04:40 GMT"
+      },
+      {
+        "title": "Những ý kiến trái chiều về việc Bộ Tài chính Mỹ can thiệp thị trường trái phiếu và tỷ giá đồng yên",
+        "link": "https://vneconomy.vn/nhung-y-kien-trai-chieu-ve-viec-bo-tai-chinh-my-can-thiep-thi-truong-trai-phieu-va-ty-gia-dong-yen.htm",
+        "published": "Thu, 10 Sep 2026 02:03:50 GMT"
+      },
+      {
         "title": "Giá vàng hồi mốc 4.400 USD/oz trước thềm báo cáo lạm phát Mỹ",
         "link": "https://vneconomy.vn/gia-vang-hoi-moc-4400-usdoz-truoc-them-bao-cao-lam-phat-my.htm",
         "published": "Thu, 10 Sep 2026 00:24:36 GMT"
@@ -54,16 +64,6 @@
         "title": "Giá vàng miếng lao dốc, chỉ còn cao hơn vàng thế giới 5 triệu đồng/lượng",
         "link": "https://vneconomy.vn/gia-vang-mieng-lao-doc-chi-con-cao-hon-vang-the-gioi-5-trieu-dongluong.htm",
         "published": "Wed, 09 Sep 2026 06:29:31 GMT"
-      },
-      {
-        "title": "Giới “carry trade” lung lay vì cú tăng giá mạnh bất ngờ của đồng yên",
-        "link": "https://vneconomy.vn/gioi-carry-trade-lung-lay-vi-cu-tang-gia-manh-bat-ngo-cua-dong-yen.htm",
-        "published": "Wed, 09 Sep 2026 04:43:41 GMT"
-      },
-      {
-        "title": "Thẻ VIB - Từ dẫn đầu xu thế đến chiếc thẻ phát triển cùng khách hàng",
-        "link": "https://vneconomy.vn/the-vib-tu-dan-dau-xu-the-den-chiec-the-phat-trien-cung-khach-hang.htm",
-        "published": "Wed, 09 Sep 2026 02:51:40 GMT"
       }
     ],
     "Vietstock": [
