@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-10T09:09:26.472246",
+  "fetched_at": "2026-09-10T09:42:06.373447",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nâng hạng thị trường chứng khoán đến gần, khi nào vốn ngoại 'đổ bộ'?",
+        "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-den-gan-khi-nao-von-ngoai-do-bo-188260910163239169.chn",
+        "published": "Thu, 10 Sep 26 16:32:00 +0700"
+      },
       {
         "title": "PV Gas sắp chi hơn 6.000 tỷ đồng trả cổ tức năm 2025",
         "link": "https://cafef.vn/pv-gas-sap-chi-hon-6000-ty-dong-tra-co-tuc-nam-2025-188260910150319815.chn",
@@ -27,14 +32,14 @@
         "title": "Phạt nhiều doanh nghiệp vì thông tin trái phiếu",
         "link": "https://cafef.vn/phat-nhieu-doanh-nghiep-vi-thong-tin-trai-phieu-188260910152326409.chn",
         "published": "Thu, 10 Sep 26 15:23:00 +0700"
-      },
-      {
-        "title": "90 công nhân của tỷ phú Phạm Nhật Vượng vượt 120 km đường đèo, “chạy đua” giữa đại ngàn làm một việc đặc biệt cho trẻ em vùng cao",
-        "link": "https://cafef.vn/90-cong-nhan-cua-ty-phu-pham-nhat-vuong-vuot-120-km-duong-deo-chay-dua-giua-dai-ngan-lam-mot-viec-dac-biet-cho-tre-em-vung-cao-188260910150220567.chn",
-        "published": "Thu, 10 Sep 26 15:02:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Rủi ro từ việc Mỹ tìm cách đẩy đồng yên Nhật tăng giá",
+        "link": "https://vneconomy.vn/rui-ro-tu-viec-my-tim-cach-day-dong-yen-nhat-tang-gia.htm",
+        "published": "Thu, 10 Sep 2026 09:39:33 GMT"
+      },
       {
         "title": "Đa số chuyên gia vẫn dự báo Fed không tăng lãi suất trong năm nay",
         "link": "https://vneconomy.vn/da-so-chuyen-gia-van-du-bao-fed-khong-tang-lai-suat-trong-nam-nay.htm",
@@ -59,11 +64,6 @@
         "title": "Những ý kiến trái chiều về việc Bộ Tài chính Mỹ can thiệp thị trường trái phiếu và tỷ giá đồng yên",
         "link": "https://vneconomy.vn/nhung-y-kien-trai-chieu-ve-viec-bo-tai-chinh-my-can-thiep-thi-truong-trai-phieu-va-ty-gia-dong-yen.htm",
         "published": "Thu, 10 Sep 2026 02:03:50 GMT"
-      },
-      {
-        "title": "Giá vàng hồi mốc 4.400 USD/oz trước thềm báo cáo lạm phát Mỹ",
-        "link": "https://vneconomy.vn/gia-vang-hoi-moc-4400-usdoz-truoc-them-bao-cao-lam-phat-my.htm",
-        "published": "Thu, 10 Sep 2026 00:24:36 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "OpenAI faces Senate probe into Hugging Face incident, Axios reports",
+        "link": "https://www.investing.com/news/economy-news/openai-faces-senate-probe-into-hugging-face-incident-axios-reports-4895228",
+        "published": "2026-09-10 09:18:27"
+      },
+      {
+        "title": "European stocks tread water as ECB decision looms",
+        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
+        "published": "2026-09-10 09:12:33"
+      },
+      {
         "title": "U.S. consumer price growth seen rising 0.3% month-on-month in August - Truflation",
         "link": "https://www.investing.com/news/economy-news/us-consumer-price-growth-seen-rising-03-monthonmonth-in-august--truflation-4893960",
         "published": "2026-09-10 08:00:02"
@@ -110,11 +120,6 @@
         "published": "2026-09-10 07:47:48"
       },
       {
-        "title": "European shares edge higher as traders await ECB decision",
-        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
-        "published": "2026-09-10 07:30:30"
-      },
-      {
         "title": "BOJ policymaker warns of price risks that may trigger rapid rate hikes",
         "link": "https://www.investing.com/news/economy-news/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says-4894887",
         "published": "2026-09-10 06:55:05"
@@ -123,11 +128,6 @@
         "title": "Musk’s tunnel startup The Boring Company raises $3 billion at $23 billion valuation",
         "link": "https://www.investing.com/news/economy-news/musks-tunnel-startup-the-boring-company-raises-3-billion-at-23-billionvaluation-4894978",
         "published": "2026-09-10 06:54:45"
-      },
-      {
-        "title": "German August inflation confirmed at 2.9%",
-        "link": "https://www.investing.com/news/economy-news/german-august-inflation-confirmed-at-29-4894971",
-        "published": "2026-09-10 06:12:28"
       }
     ]
   }
