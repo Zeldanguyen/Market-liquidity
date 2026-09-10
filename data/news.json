@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-10T03:09:52.198901",
+  "fetched_at": "2026-09-10T03:42:00.791551",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "FPT công bố văn bản quan trọng, cổ phiếu lên cao nhất 3 tháng",
+        "link": "https://cafef.vn/fpt-cong-bo-van-ban-quan-trong-co-phieu-len-cao-nhat-3-thang-188260910103058955.chn",
+        "published": "Thu, 10 Sep 26 10:33:00 +0700"
+      },
+      {
+        "title": "Created Future gom thêm cổ phiếu của Digiworld",
+        "link": "https://cafef.vn/created-future-gom-them-co-phieu-cua-digiworld-18826091009210832.chn",
+        "published": "Thu, 10 Sep 26 10:10:00 +0700"
+      },
       {
         "title": "Thị trường hàng hóa ngày 10/9: Giá tiêu bật tăng mạnh, cao su bứt phá",
         "link": "https://cafef.vn/thi-truong-hang-hoa-ngay-10-9-gia-tieu-bat-tang-manh-cao-su-but-pha-188260910093823711.chn",
@@ -22,19 +32,19 @@
         "title": "Vừa lập đáy trong tuần, giá vàng bật tăng tới 1,8 triệu đồng/lượng",
         "link": "https://cafef.vn/vua-lap-day-trong-tuan-gia-vang-bat-tang-toi-18-trieu-dong-luong-188260910091813614.chn",
         "published": "Thu, 10 Sep 26 09:21:00 +0700"
-      },
-      {
-        "title": "Một công ty chuẩn bị lăn chốt trả 3.000 đồng/cp, duy trì “mưa tiền mặt\" suốt 12 năm liền",
-        "link": "https://cafef.vn/mot-cong-ty-chuan-bi-lan-chot-tra-3000-dong-cp-duy-tri-mua-tien-mat-suot-12-nam-lien-188260910091514973.chn",
-        "published": "Thu, 10 Sep 26 09:15:00 +0700"
-      },
-      {
-        "title": "Nâng hạng thị trường: Minh bạch phải trở thành “tài sản” của doanh nghiệp",
-        "link": "https://cafef.vn/nang-hang-thi-truong-minh-bach-phai-tro-thanh-tai-san-cua-doanh-nghiep-188260910083004616.chn",
-        "published": "Thu, 10 Sep 26 08:29:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Trái phiếu đô thị và trái phiếu công trình: Kênh hút vốn mới tại VIFC-HCMC",
+        "link": "https://vneconomy.vn/trai-phieu-do-thi-va-trai-phieu-cong-trinh-kenh-hut-von-moi-tai-vifc-hcmc.htm",
+        "published": "Thu, 10 Sep 2026 03:27:33 GMT"
+      },
+      {
+        "title": "Tăng mức hỗ trợ phí bảo hiểm nông nghiệp tới 95%",
+        "link": "https://vneconomy.vn/tang-muc-ho-tro-phi-bao-hiem-nong-nghiep-toi-95.htm",
+        "published": "Thu, 10 Sep 2026 03:25:37 GMT"
+      },
       {
         "title": "UOB: Dự báo kịch bản Fed giữ nguyên lãi suất đến hết 2026",
         "link": "https://vneconomy.vn/uob-du-bao-kich-ban-fed-giu-nguyen-lai-suat-den-het-2026.htm",
@@ -54,19 +64,14 @@
         "title": "Nghiên cứu của Fed: Sự dịch chuyển dự trữ khỏi đồng USD sang vàng đã bị phóng đại",
         "link": "https://vneconomy.vn/nghien-cuu-cua-fed-su-dich-chuyen-du-tru-khoi-dong-usd-sang-vang-da-bi-phong-dai.htm",
         "published": "Wed, 09 Sep 2026 12:56:47 GMT"
-      },
-      {
-        "title": "Niềm tin giảm mạnh, giới liên ngân hàng dè chừng chứng khoán, bất động sản",
-        "link": "https://vneconomy.vn/niem-tin-giam-manh-gioi-lien-ngan-hang-de-chung-chung-khoan-bat-dong-san.htm",
-        "published": "Wed, 09 Sep 2026 09:44:10 GMT"
-      },
-      {
-        "title": "Giá vàng miếng lao dốc, chỉ còn cao hơn vàng thế giới 5 triệu đồng/lượng",
-        "link": "https://vneconomy.vn/gia-vang-mieng-lao-doc-chi-con-cao-hon-vang-the-gioi-5-trieu-dongluong.htm",
-        "published": "Wed, 09 Sep 2026 06:29:31 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+        "link": "http://vietstock.vn/2026/09/ngay-10092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1490531.htm",
+        "published": "Thu, 10 Sep 2026 10:00:00 +0700"
+      },
       {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 10/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1009-830-1490477.htm",
@@ -91,28 +96,28 @@
         "title": "Tài khoản chứng khoán tiến sát mốc 14 triệu",
         "link": "http://vietstock.vn/2026/09/tai-khoan-chung-khoan-tien-sat-moc-14-trieu-830-1490437.htm",
         "published": "Wed, 09 Sep 2026 17:16:53 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 09/09: Hiện tượng phân hóa đang diễn ra",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0909-hien-tuong-phan-hoa-dang-dien-ra-585-1490315.htm",
-        "published": "Wed, 09 Sep 2026 13:07:18 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "Bank of Korea to assess conditions to determine pace and timing of tightening, says board member",
+        "link": "https://www.investing.com/news/economy-news/bank-of-korea-to-assess-conditions-to-determine-pace-and-timing-of-tightening-says-board-member-4894909",
+        "published": "2026-09-10 03:24:28"
+      },
+      {
+        "title": "BOJ policymaker warns of price risks that may trigger rapid rate hikes",
+        "link": "https://www.investing.com/news/economy-news/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says-4894887",
+        "published": "2026-09-10 03:18:54"
+      },
+      {
         "title": "Exclusive-After outrunning Bolt, China’s robot champion races towards real-world work",
         "link": "https://www.investing.com/news/economy-news/exclusiveafter-outrunning-bolt-chinas-robot-champion-races-towards-realworld-work-4894812",
-        "published": "2026-09-10 02:49:04"
+        "published": "2026-09-10 03:07:11"
       },
       {
         "title": "Trump promises $5,000 dividend to every U.S. adult if GOP wins midterms",
         "link": "https://www.investing.com/news/economy-news/trump-promises-5000-dividend-to-every-us-adult-if-gop-wins-midterms-4894892",
         "published": "2026-09-10 02:40:20"
-      },
-      {
-        "title": "BOJ may be forced to hike rates rapidly if inflation accelerates, board member Masu says",
-        "link": "https://www.investing.com/news/economy-news/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says-4894887",
-        "published": "2026-09-10 02:30:54"
       },
       {
         "title": "Asian stocks wilt as Brent holds above $100, yields near 2023 peak",
@@ -123,11 +128,6 @@
         "title": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
         "link": "https://www.investing.com/news/economy-news/currency-markets-subdued-as-oil-shock-lifts-global-yields-ecb-us-inflation-eyed-4894868",
         "published": "2026-09-10 02:12:33"
-      },
-      {
-        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
-        "published": "2026-09-10 00:48:58"
       }
     ]
   }
