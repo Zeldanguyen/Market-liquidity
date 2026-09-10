@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-10T02:41:47.154074",
+  "fetched_at": "2026-09-10T03:09:52.198901",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Thị trường hàng hóa ngày 10/9: Giá tiêu bật tăng mạnh, cao su bứt phá",
+        "link": "https://cafef.vn/thi-truong-hang-hoa-ngay-10-9-gia-tieu-bat-tang-manh-cao-su-but-pha-188260910093823711.chn",
+        "published": "Thu, 10 Sep 26 10:01:00 +0700"
+      },
+      {
+        "title": "Quỹ vàng lớn nhất thế giới có động thái “lạ” giữa lúc giá vàng bật tăng trở lại",
+        "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-co-dong-thai-la-giua-luc-gia-vang-bat-tang-tro-lai-188260910093916512.chn",
+        "published": "Thu, 10 Sep 26 09:39:00 +0700"
+      },
       {
         "title": "Quỹ mở hưởng lợi khi thị trường chứng khoán bật tăng",
         "link": "https://cafef.vn/quy-mo-huong-loi-khi-thi-truong-chung-khoan-bat-tang-188260910092353595.chn",
@@ -22,16 +32,6 @@
         "title": "Nâng hạng thị trường: Minh bạch phải trở thành “tài sản” của doanh nghiệp",
         "link": "https://cafef.vn/nang-hang-thi-truong-minh-bach-phai-tro-thanh-tai-san-cua-doanh-nghiep-188260910083004616.chn",
         "published": "Thu, 10 Sep 26 08:29:00 +0700"
-      },
-      {
-        "title": "Nâng hạng mở cửa dòng vốn, chứng khoán tháng 9 bước vào “phép thử” mới?",
-        "link": "https://cafef.vn/nang-hang-mo-cua-dong-von-chung-khoan-thang-9-buoc-vao-phep-thu-moi-188260910082815295.chn",
-        "published": "Thu, 10 Sep 26 08:28:00 +0700"
-      },
-      {
-        "title": "Signo Land, Xây dựng Hòa Bình và PAK Việt Nam bị xử phạt do vi phạm công bố thông tin",
-        "link": "https://cafef.vn/signo-land-xay-dung-hoa-binh-va-pak-viet-nam-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260910082417359.chn",
-        "published": "Thu, 10 Sep 26 08:24:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Exclusive-After outrunning Bolt, China’s robot champion races towards real-world work",
+        "link": "https://www.investing.com/news/economy-news/exclusiveafter-outrunning-bolt-chinas-robot-champion-races-towards-realworld-work-4894812",
+        "published": "2026-09-10 02:49:04"
+      },
+      {
+        "title": "Trump promises $5,000 dividend to every U.S. adult if GOP wins midterms",
+        "link": "https://www.investing.com/news/economy-news/trump-promises-5000-dividend-to-every-us-adult-if-gop-wins-midterms-4894892",
+        "published": "2026-09-10 02:40:20"
+      },
+      {
         "title": "BOJ may be forced to hike rates rapidly if inflation accelerates, board member Masu says",
         "link": "https://www.investing.com/news/economy-news/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says-4894887",
         "published": "2026-09-10 02:30:54"
@@ -115,19 +125,9 @@
         "published": "2026-09-10 02:12:33"
       },
       {
-        "title": "Exclusive-After outrunning Bolt, China’s robot champion races towards real-world work",
-        "link": "https://www.investing.com/news/economy-news/exclusiveafter-outrunning-bolt-chinas-robot-champion-races-towards-realworld-work-4894812",
-        "published": "2026-09-10 01:18:53"
-      },
-      {
         "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
         "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
         "published": "2026-09-10 00:48:58"
-      },
-      {
-        "title": "Analysis-Samsung, SK Hynix payouts test South Korea’s reform drive as investors seek more",
-        "link": "https://www.investing.com/news/economy-news/analysissamsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more-4894760",
-        "published": "2026-09-10 00:12:32"
       }
     ]
   }
