@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T11:09:23.243759",
+  "fetched_at": "2026-09-10T11:40:42.200570",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Thủ tướng yêu cầu rút gọn thủ tục giải thể, phá sản doanh nghiệp nhỏ và vừa",
+        "link": "https://vneconomy.vn/thu-tuong-yeu-cau-rut-gon-thu-tuc-giai-the-pha-san-doanh-nghiep-nho-va-vua.htm",
+        "published": "Thu, 10 Sep 2026 11:38:53 GMT"
+      },
+      {
+        "title": "Tỷ giá liên ngân hàng về sát đáy một năm, xu hướng giảm còn kéo dài?",
+        "link": "https://vneconomy.vn/ty-gia-lien-ngan-hang-ve-sat-day-mot-nam-xu-huong-giam-con-keo-dai.htm",
+        "published": "Thu, 10 Sep 2026 11:37:12 GMT"
+      },
+      {
         "title": "Rủi ro từ việc Mỹ tìm cách đẩy đồng yên Nhật tăng giá",
         "link": "https://vneconomy.vn/rui-ro-tu-viec-my-tim-cach-day-dong-yen-nhat-tang-gia.htm",
         "published": "Thu, 10 Sep 2026 09:39:33 GMT"
@@ -54,16 +64,6 @@
         "title": "Tăng mức hỗ trợ phí bảo hiểm nông nghiệp tới 95%",
         "link": "https://vneconomy.vn/tang-muc-ho-tro-phi-bao-hiem-nong-nghiep-toi-95.htm",
         "published": "Thu, 10 Sep 2026 03:25:37 GMT"
-      },
-      {
-        "title": "UOB: Dự báo kịch bản Fed giữ nguyên lãi suất đến hết 2026",
-        "link": "https://vneconomy.vn/uob-du-bao-kich-ban-fed-giu-nguyen-lai-suat-den-het-2026.htm",
-        "published": "Thu, 10 Sep 2026 02:04:40 GMT"
-      },
-      {
-        "title": "Những ý kiến trái chiều về việc Bộ Tài chính Mỹ can thiệp thị trường trái phiếu và tỷ giá đồng yên",
-        "link": "https://vneconomy.vn/nhung-y-kien-trai-chieu-ve-viec-bo-tai-chinh-my-can-thiep-thi-truong-trai-phieu-va-ty-gia-dong-yen.htm",
-        "published": "Thu, 10 Sep 2026 02:03:50 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Hungary’s central bank signals caution on rate cuts amid global risks",
+        "link": "https://www.investing.com/news/economy-news/hungarys-central-bank-signals-caution-on-rate-cuts-amid-global-risks-93CH-4895610",
+        "published": "2026-09-10 11:24:30"
+      },
+      {
+        "title": "South Africa’s factory output grows 1.1% in July",
+        "link": "https://www.investing.com/news/economy-news/south-africas-factory-output-grows-11-in-july-93CH-4895607",
+        "published": "2026-09-10 11:22:44"
+      },
+      {
+        "title": "Algeria severs diplomatic relations with UAE",
+        "link": "https://www.investing.com/news/economy-news/algeria-severs-diplomatic-relations-with-uae-93CH-4895601",
+        "published": "2026-09-10 11:19:35"
+      },
+      {
         "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
         "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
         "published": "2026-09-10 10:19:23"
@@ -113,21 +128,6 @@
         "title": "S&P 500, Dow futures attempt recovery ahead of inflation report",
         "link": "https://www.investing.com/news/economy-news/sp-500-dow-futures-attempt-recovery-ahead-of-inflation-report-4895291",
         "published": "2026-09-10 09:55:35"
-      },
-      {
-        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
-        "published": "2026-09-10 09:55:16"
-      },
-      {
-        "title": "Factbox-Major brokerages’ forecasts for S&P 500 index in 2026",
-        "link": "https://www.investing.com/news/economy-news/factboxmajor-brokerages-forecasts-for-sp-500-index-in-2026-4895277",
-        "published": "2026-09-10 09:48:49"
-      },
-      {
-        "title": "Houthis close in on stranglehold over key Bab al-Mandeb Strait - Reuters",
-        "link": "https://www.investing.com/news/economy-news/houthis-close-in-on-stranglehold-over-key-bab-almandeb-strait--reuters-4895268",
-        "published": "2026-09-10 09:40:59"
       }
     ]
   }
