@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-10T09:42:06.373447",
+  "fetched_at": "2026-09-10T10:09:43.811113",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu DGW “tím lịm”, tân binh KAI “bốc hơi” gần 19% chỉ sau 2 phiên",
+        "link": "https://cafef.vn/co-phieu-dgw-tim-lim-tan-binh-kai-boc-hoi-gan-19-chi-sau-2-phien-188260910170247223.chn",
+        "published": "Thu, 10 Sep 26 17:02:00 +0700"
+      },
+      {
+        "title": "Người thân sếp lớn Hòa Phát đăng ký bán cổ phiếu HPG",
+        "link": "https://cafef.vn/nguoi-than-sep-lon-hoa-phat-dang-ky-ban-co-phieu-hpg-188260910164434455.chn",
+        "published": "Thu, 10 Sep 26 16:45:00 +0700"
+      },
+      {
+        "title": "Một thế lực vừa \"tung\" gần 300 tỷ đồng mua ròng cổ phiếu Việt Nam phiên 10/9, đâu là tâm điểm?",
+        "link": "https://cafef.vn/mot-the-luc-vua-tung-gan-300-ty-dong-mua-rong-co-phieu-viet-nam-phien-10-9-dau-la-tam-diem-188260910163350873.chn",
+        "published": "Thu, 10 Sep 26 16:33:00 +0700"
+      },
       {
         "title": "Nâng hạng thị trường chứng khoán đến gần, khi nào vốn ngoại 'đổ bộ'?",
         "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-den-gan-khi-nao-von-ngoai-do-bo-188260910163239169.chn",
@@ -17,21 +32,6 @@
         "title": "Đề xuất sửa đổi, bổ sung nguyên tắc thanh toán giao dịch chứng khoán phái sinh",
         "link": "https://cafef.vn/de-xuat-sua-doi-bo-sung-nguyen-tac-thanh-toan-giao-dich-chung-khoan-phai-sinh-188260910145205046.chn",
         "published": "Thu, 10 Sep 26 15:51:00 +0700"
-      },
-      {
-        "title": "Phiên 10/9: Khối ngoại tung gần 500 tỷ gom mạnh hai cổ phiếu \"hot\"",
-        "link": "https://cafef.vn/phien-10-9-khoi-ngoai-tung-gan-500-ty-gom-manh-hai-co-phieu-hot-188260910152731519.chn",
-        "published": "Thu, 10 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Đại gia Việt \"phát quà\" đúng ngày iPhone 18 ra mắt",
-        "link": "https://cafef.vn/dai-gia-viet-phat-qua-dung-ngay-iphone-18-ra-mat-188260910153905042.chn",
-        "published": "Thu, 10 Sep 26 15:39:00 +0700"
-      },
-      {
-        "title": "Phạt nhiều doanh nghiệp vì thông tin trái phiếu",
-        "link": "https://cafef.vn/phat-nhieu-doanh-nghiep-vi-thong-tin-trai-phieu-188260910152326409.chn",
-        "published": "Thu, 10 Sep 26 15:23:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "S&P 500, Dow futures attempt recovery ahead of inflation report",
+        "link": "https://www.investing.com/news/economy-news/sp-500-dow-futures-attempt-recovery-ahead-of-inflation-report-4895291",
+        "published": "2026-09-10 09:55:35"
+      },
+      {
+        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+        "published": "2026-09-10 09:55:16"
+      },
+      {
+        "title": "Factbox-Major brokerages’ forecasts for S&P 500 index in 2026",
+        "link": "https://www.investing.com/news/economy-news/factboxmajor-brokerages-forecasts-for-sp-500-index-in-2026-4895277",
+        "published": "2026-09-10 09:48:49"
+      },
+      {
+        "title": "Houthis close in on stranglehold over key Bab al-Mandeb Strait - Reuters",
+        "link": "https://www.investing.com/news/economy-news/houthis-close-in-on-stranglehold-over-key-bab-almandeb-strait--reuters-4895268",
+        "published": "2026-09-10 09:40:59"
+      },
+      {
         "title": "OpenAI faces Senate probe into Hugging Face incident, Axios reports",
         "link": "https://www.investing.com/news/economy-news/openai-faces-senate-probe-into-hugging-face-incident-axios-reports-4895228",
         "published": "2026-09-10 09:18:27"
@@ -108,26 +128,6 @@
         "title": "European stocks tread water as ECB decision looms",
         "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
         "published": "2026-09-10 09:12:33"
-      },
-      {
-        "title": "U.S. consumer price growth seen rising 0.3% month-on-month in August - Truflation",
-        "link": "https://www.investing.com/news/economy-news/us-consumer-price-growth-seen-rising-03-monthonmonth-in-august--truflation-4893960",
-        "published": "2026-09-10 08:00:02"
-      },
-      {
-        "title": "Trump on Iran war; Oracle, Adobe to report - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/trump-on-iran-war-oracle-adobe-to-report--whats-moving-markets-4895065",
-        "published": "2026-09-10 07:47:48"
-      },
-      {
-        "title": "BOJ policymaker warns of price risks that may trigger rapid rate hikes",
-        "link": "https://www.investing.com/news/economy-news/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says-4894887",
-        "published": "2026-09-10 06:55:05"
-      },
-      {
-        "title": "Musk’s tunnel startup The Boring Company raises $3 billion at $23 billion valuation",
-        "link": "https://www.investing.com/news/economy-news/musks-tunnel-startup-the-boring-company-raises-3-billion-at-23-billionvaluation-4894978",
-        "published": "2026-09-10 06:54:45"
       }
     ]
   }
