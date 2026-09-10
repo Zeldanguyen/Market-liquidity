@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-10T15:09:29.553994",
+  "fetched_at": "2026-09-10T15:41:41.806054",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vingroup (VIC) lọt Top 350 công ty tốt nhất thế giới",
+        "link": "https://cafef.vn/vingroup-vic-lot-top-350-cong-ty-tot-nhat-the-gioi-18826091022132552.chn",
+        "published": "Thu, 10 Sep 26 22:16:00 +0700"
+      },
       {
         "title": "Nhà cung cấp gỗ nội thất hàng đầu Việt Nam chi hơn 150 tỷ đồng trả cổ tức ngay tháng 9",
         "link": "https://cafef.vn/nha-cung-cap-go-noi-that-hang-dau-viet-nam-chi-hon-150-ty-dong-tra-co-tuc-ngay-thang-9-188260910212759187.chn",
@@ -27,11 +32,6 @@
         "title": "Nhóm công ty chứng khoán có động thái bất ngờ ngay trước thềm nâng hạng",
         "link": "https://cafef.vn/nhom-cong-ty-chung-khoan-co-dong-thai-bat-ngo-ngay-truoc-them-nang-hang-188260910163350873.chn",
         "published": "Thu, 10 Sep 26 17:13:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu DGW “tím lịm”, tân binh KAI “bốc hơi” gần 19% chỉ sau 2 phiên",
-        "link": "https://cafef.vn/co-phieu-dgw-tim-lim-tan-binh-kai-boc-hoi-gan-19-chi-sau-2-phien-188260910170247223.chn",
-        "published": "Thu, 10 Sep 26 17:02:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "IMF say global growth on track to reach 3% in 2026, but risks remain high",
+        "link": "https://www.investing.com/news/economy-news/imf-say-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-4896414",
+        "published": "2026-09-10 15:12:33"
+      },
+      {
+        "title": "Treasury yields climb on inflation data and oil price surge",
+        "link": "https://www.investing.com/news/economy-news/treasury-yields-climb-on-inflation-data-and-oil-price-surge-93CH-4896411",
+        "published": "2026-09-10 15:11:45"
+      },
+      {
+        "title": "Colombia raises domestic debt issuance by $8 billion for 2026",
+        "link": "https://www.investing.com/news/economy-news/colombia-raises-domestic-debt-issuance-by-8-billion-for-2026-93CH-4896407",
+        "published": "2026-09-10 15:08:19"
+      },
+      {
+        "title": "Brazil services sector stalls in July, missing forecasts",
+        "link": "https://www.investing.com/news/economy-news/brazil-services-sector-stalls-in-july-missing-forecasts-93CH-4896405",
+        "published": "2026-09-10 15:07:26"
+      },
+      {
+        "title": "French economy set for only 0.4% growth this year, says INSEE",
+        "link": "https://www.investing.com/news/economy-news/french-economy-set-for-only-04-growth-this-year-says-insee-4896400",
+        "published": "2026-09-10 15:06:33"
+      },
+      {
         "title": "Trump announces $500 Obamacare refunds citing Biden overcharges",
         "link": "https://www.investing.com/news/economy-news/trump-announces-500-obamacare-refunds-citing-biden-overcharges-93CH-4896382",
         "published": "2026-09-10 14:59:12"
-      },
-      {
-        "title": "Lagarde comments at ECB press conference",
-        "link": "https://www.investing.com/news/economy-news/lagarde-comments-at-ecb-press-conference-4895975",
-        "published": "2026-09-10 14:55:30"
-      },
-      {
-        "title": "ECB raises interest rates as Iran war fans inflation fears",
-        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
-        "published": "2026-09-10 14:55:11"
-      },
-      {
-        "title": "US to issue $500 Obamacare refunds to nearly a million Americans",
-        "link": "https://www.investing.com/news/economy-news/us-to-issue-500-obamacare-refunds-to-nearly-a-million-americans-4896374",
-        "published": "2026-09-10 14:54:54"
-      },
-      {
-        "title": "European shares near two-month lows as ECB hikes interest rates",
-        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
-        "published": "2026-09-10 14:54:38"
-      },
-      {
-        "title": "Wall St slips after hotter-than-expected producer inflation data",
-        "link": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
-        "published": "2026-09-10 14:42:51"
       }
     ]
   }
