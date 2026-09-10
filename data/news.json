@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T07:11:08.802063",
+  "fetched_at": "2026-09-10T07:41:26.679952",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,16 @@
     ],
     "Vietstock": [
       {
+        "title": "Ngân hàng “toan tính” giữa room cho đối tác chiến lược và dòng tiền nâng hạng",
+        "link": "http://vietstock.vn/2026/09/ngan-hang-toan-tinh-giua-room-cho-doi-tac-chien-luoc-va-dong-tien-nang-hang-830-1490863.htm",
+        "published": "Thu, 10 Sep 2026 14:02:00 +0700"
+      },
+      {
+        "title": "Nhịp đập Thị trường 10/09: Rung lắc mạnh trong nửa cuối phiên sáng",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-rung-lac-manh-trong-nua-cuoi-phien-sang-1636-1490787.htm",
+        "published": "Thu, 10 Sep 2026 13:57:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 10/09: Áp lực điều chỉnh vẫn hiện hữu",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1009-ap-luc-dieu-chinh-van-hien-huu-585-1490836.htm",
         "published": "Thu, 10 Sep 2026 13:05:49 +0700"
@@ -86,23 +96,23 @@
         "title": "10/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1009-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1490725.htm",
         "published": "Thu, 10 Sep 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 09/09: Tự doanh, khối ngoại cùng nối dài chuỗi bán ròng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0909-tu-doanh-khoi-ngoai-cung-noi-dai-chuoi-ban-rong-830-1490612.htm",
-        "published": "Wed, 09 Sep 2026 19:17:00 +0700"
-      },
-      {
-        "title": "Vietstock Daily 10/09/2026: Giằng co tiếp diễn",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-10092026-giang-co-tiep-dien-1636-1490525.htm",
-        "published": "Wed, 09 Sep 2026 18:17:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "European shares edge higher as traders await ECB decision",
+        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
+        "published": "2026-09-10 07:30:30"
+      },
+      {
+        "title": "BOJ policymaker warns of price risks that may trigger rapid rate hikes",
+        "link": "https://www.investing.com/news/economy-news/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says-4894887",
+        "published": "2026-09-10 06:55:05"
+      },
+      {
         "title": "Musk’s tunnel startup The Boring Company raises $3 billion at $23 billion valuation",
         "link": "https://www.investing.com/news/economy-news/musks-tunnel-startup-the-boring-company-raises-3-billion-at-23-billionvaluation-4894978",
-        "published": "2026-09-10 06:24:27"
+        "published": "2026-09-10 06:54:45"
       },
       {
         "title": "German August inflation confirmed at 2.9%",
@@ -118,16 +128,6 @@
         "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
         "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
         "published": "2026-09-10 05:55:16"
-      },
-      {
-        "title": "Portugal debt upgrade seals PIIGS passage from pariahs to pin-ups",
-        "link": "https://www.investing.com/news/economy-news/portugal-debt-upgrade-seals-piigs-passage-from-pariahs-to-pinups-4894949",
-        "published": "2026-09-10 05:19:11"
-      },
-      {
-        "title": "Morning Bid: Lagarde takes the spotlight as oil sits above $100",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-lagarde-takes-the-spotlight-as-oil-sits-above-100-4894933",
-        "published": "2026-09-10 04:36:26"
       }
     ]
   }
