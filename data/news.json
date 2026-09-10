@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-10T05:40:40.986388",
+  "fetched_at": "2026-09-10T06:12:48.617754",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Điều gì khiến Sacombank vượt đỉnh lịch sử?",
+        "link": "https://cafef.vn/dieu-gi-khien-sacombank-vuot-dinh-lich-su-188260910125721467.chn",
+        "published": "Thu, 10 Sep 26 12:57:00 +0700"
+      },
       {
         "title": "Tiền không còn rẻ, chuyên gia chỉ ra 4 nguyên tắc để tài sản không bị “bào mòn” trong chu kỳ mới",
         "link": "https://cafef.vn/tien-khong-con-re-chuyen-gia-chi-ra-4-nguyen-tac-de-tai-san-khong-bi-bao-mon-trong-chu-ky-moi-188260910110657401.chn",
@@ -27,11 +32,6 @@
         "title": "Thị trường hàng hóa ngày 10/9: Giá tiêu bật tăng mạnh, cao su bứt phá",
         "link": "https://cafef.vn/thi-truong-hang-hoa-ngay-10-9-gia-tieu-bat-tang-manh-cao-su-but-pha-188260910093823711.chn",
         "published": "Thu, 10 Sep 26 10:01:00 +0700"
-      },
-      {
-        "title": "Quỹ vàng lớn nhất thế giới có động thái “lạ” giữa lúc giá vàng bật tăng trở lại",
-        "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-co-dong-thai-la-giua-luc-gia-vang-bat-tang-tro-lai-188260910093916512.chn",
-        "published": "Thu, 10 Sep 26 09:39:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "ECB to hike rates as Iran war fuels fresh inflation fears",
+        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
+        "published": "2026-09-10 05:55:30"
+      },
+      {
+        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+        "published": "2026-09-10 05:55:16"
+      },
+      {
         "title": "Portugal debt upgrade seals PIIGS passage from pariahs to pin-ups",
         "link": "https://www.investing.com/news/economy-news/portugal-debt-upgrade-seals-piigs-passage-from-pariahs-to-pinups-4894949",
         "published": "2026-09-10 05:19:11"
@@ -118,16 +128,6 @@
         "title": "Bank of Korea to assess conditions to determine pace and timing of tightening, says board member",
         "link": "https://www.investing.com/news/economy-news/bank-of-korea-to-assess-conditions-to-determine-pace-and-timing-of-tightening-says-board-member-4894909",
         "published": "2026-09-10 03:54:25"
-      },
-      {
-        "title": "BOJ policymaker warns of price risks that may trigger rapid rate hikes",
-        "link": "https://www.investing.com/news/economy-news/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says-4894887",
-        "published": "2026-09-10 03:18:54"
-      },
-      {
-        "title": "Exclusive-After outrunning Bolt, China’s robot champion races towards real-world work",
-        "link": "https://www.investing.com/news/economy-news/exclusiveafter-outrunning-bolt-chinas-robot-champion-races-towards-realworld-work-4894812",
-        "published": "2026-09-10 03:07:11"
       }
     ]
   }
