@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-10T01:09:25.207400",
+  "fetched_at": "2026-09-10T01:39:59.770167",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nâng hạng thị trường: Minh bạch phải trở thành “tài sản” của doanh nghiệp",
+        "link": "https://cafef.vn/nang-hang-thi-truong-minh-bach-phai-tro-thanh-tai-san-cua-doanh-nghiep-188260910083004616.chn",
+        "published": "Thu, 10 Sep 26 08:29:00 +0700"
+      },
+      {
+        "title": "Nâng hạng mở cửa dòng vốn, chứng khoán tháng 9 bước vào “phép thử” mới?",
+        "link": "https://cafef.vn/nang-hang-mo-cua-dong-von-chung-khoan-thang-9-buoc-vao-phep-thu-moi-188260910082815295.chn",
+        "published": "Thu, 10 Sep 26 08:28:00 +0700"
+      },
+      {
+        "title": "Signo Land, Xây dựng Hòa Bình và PAK Việt Nam bị xử phạt do vi phạm công bố thông tin",
+        "link": "https://cafef.vn/signo-land-xay-dung-hoa-binh-va-pak-viet-nam-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260910082417359.chn",
+        "published": "Thu, 10 Sep 26 08:24:00 +0700"
+      },
       {
         "title": "SSI Research dự báo 7 doanh nghiệp có lợi nhuận tăng vọt trong quý 3/2026",
         "link": "https://cafef.vn/ssi-research-du-bao-7-doanh-nghiep-co-loi-nhuan-tang-vot-trong-quy-3-2026-188260909222039381.chn",
@@ -17,21 +32,6 @@
         "title": "Bên trong siêu đô thị 10 tỷ USD của tỷ phú Phạm Nhật Vượng đang hình thành một “bộ sưu tập” đặc biệt: 6 thương hiệu quốc tế cùng xuất hiện",
         "link": "https://cafef.vn/ben-trong-sieu-do-thi-10-ty-usd-cua-ty-phu-pham-nhat-vuong-dang-hinh-thanh-mot-bo-suu-tap-dac-biet-6-thuong-hieu-quoc-te-cung-xuat-hien-188260909220242669.chn",
         "published": "Thu, 10 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Dưới chân đèo Hải Vân, tỷ phú Phạm Nhật Vượng đang cho xây công trình lớn nhất Đông Nam Á, học mô hình đình đám của Mỹ và Nhật Bản",
-        "link": "https://cafef.vn/duoi-chan-deo-hai-van-ty-phu-pham-nhat-vuong-dang-cho-xay-cong-trinh-lon-nhat-dong-nam-a-hoc-mo-hinh-dinh-dam-cua-my-va-nhat-ban-18826090922214882.chn",
-        "published": "Thu, 10 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Ông Trần Đình Long đang xây nhà máy hơn 10.000 tỷ đồng để làm một thứ dài tới 100 mét: Phải “soi” bằng laser và siêu âm trước khi xuất xưởng",
-        "link": "https://cafef.vn/ong-tran-dinh-long-dang-xay-nha-may-hon-10000-ty-dong-de-lam-mot-thu-dai-toi-100-met-phai-soi-bang-laser-va-sieu-am-truoc-khi-xuat-xuong-188260909220159011.chn",
-        "published": "Thu, 10 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Đúng 11 ngày nữa, chứng khoán Việt Nam đón một thay đổi lớn",
-        "link": "https://cafef.vn/dung-11-ngay-nua-chung-khoan-viet-nam-don-mot-thay-doi-lon-188260909222408601.chn",
-        "published": "Thu, 10 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 10/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1009-830-1490477.htm",
+        "published": "Thu, 10 Sep 2026 08:00:00 +0700"
+      },
+      {
         "title": "10/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1009-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1490725.htm",
         "published": "Thu, 10 Sep 2026 06:00:00 +0700"
@@ -91,18 +96,13 @@
         "title": "Phân tích kỹ thuật phiên chiều 09/09: Hiện tượng phân hóa đang diễn ra",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0909-hien-tuong-phan-hoa-dang-dien-ra-585-1490315.htm",
         "published": "Wed, 09 Sep 2026 13:07:18 +0700"
-      },
-      {
-        "title": "750 triệu cp KAI chính thức lên UPCoM với giá 15,000 đồng/cp",
-        "link": "http://vietstock.vn/2026/09/750-trieu-cp-kai-chinh-thuc-len-upcom-voi-gia-15000-dongcp-830-1490275.htm",
-        "published": "Wed, 09 Sep 2026 11:47:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
         "title": "Exclusive-After outrunning Bolt, China’s robot champion races towards real-world work",
         "link": "https://www.investing.com/news/economy-news/exclusiveafter-outrunning-bolt-chinas-robot-champion-races-towards-realworld-work-4894812",
-        "published": "2026-09-10 00:50:57"
+        "published": "2026-09-10 01:18:53"
       },
       {
         "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
