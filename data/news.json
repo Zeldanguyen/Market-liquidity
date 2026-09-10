@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T00:12:28.207975",
+  "fetched_at": "2026-09-10T00:44:11.129311",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng hồi mốc 4.400 USD/oz trước thềm báo cáo lạm phát Mỹ",
+        "link": "https://vneconomy.vn/gia-vang-hoi-moc-4400-usdoz-truoc-them-bao-cao-lam-phat-my.htm",
+        "published": "Thu, 10 Sep 2026 00:24:36 GMT"
+      },
+      {
         "title": "Nghiên cứu của Fed: Sự dịch chuyển dự trữ khỏi đồng USD sang vàng đã bị phóng đại",
         "link": "https://vneconomy.vn/nghien-cuu-cua-fed-su-dich-chuyen-du-tru-khoi-dong-usd-sang-vang-da-bi-phong-dai.htm",
         "published": "Wed, 09 Sep 2026 12:56:47 GMT"
@@ -59,11 +64,6 @@
         "title": "Thẻ VIB - Từ dẫn đầu xu thế đến chiếc thẻ phát triển cùng khách hàng",
         "link": "https://vneconomy.vn/the-vib-tu-dan-dau-xu-the-den-chiec-the-phat-trien-cung-khach-hang.htm",
         "published": "Wed, 09 Sep 2026 02:51:40 GMT"
-      },
-      {
-        "title": "Các nước giàu chi 2 nghìn tỷ USD trả lãi nợ công trong một năm",
-        "link": "https://vneconomy.vn/cac-nuoc-giau-chi-2-nghin-ty-usd-tra-lai-no-cong-trong-mot-nam.htm",
-        "published": "Wed, 09 Sep 2026 02:24:44 GMT"
       }
     ],
     "Vietstock": [
@@ -102,7 +102,7 @@
       {
         "title": "Analysis-Samsung, SK Hynix payouts test South Korea’s reform drive as investors seek more",
         "link": "https://www.investing.com/news/economy-news/analysissamsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more-4894760",
-        "published": "2026-09-09 23:43:16"
+        "published": "2026-09-10 00:12:32"
       },
       {
         "title": "Iran war could last through end of Trump’s term- WSJ citing advisers",
