@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-10T04:09:46.505301",
+  "fetched_at": "2026-09-10T04:42:00.997393",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tiền không còn rẻ, chuyên gia chỉ ra 4 nguyên tắc để tài sản không bị “bào mòn” trong chu kỳ mới",
+        "link": "https://cafef.vn/tien-khong-con-re-chuyen-gia-chi-ra-4-nguyen-tac-de-tai-san-khong-bi-bao-mon-trong-chu-ky-moi-188260910110657401.chn",
+        "published": "Thu, 10 Sep 26 11:08:00 +0700"
+      },
       {
         "title": "Ngân hàng vẫn gánh vốn dài hạn, cần sự “chia lửa” của thị trường vốn",
         "link": "https://cafef.vn/ngan-hang-van-ganh-von-dai-han-can-su-chia-lua-cua-thi-truong-von-188260910100005512.chn",
@@ -27,11 +32,6 @@
         "title": "Quỹ vàng lớn nhất thế giới có động thái “lạ” giữa lúc giá vàng bật tăng trở lại",
         "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-co-dong-thai-la-giua-luc-gia-vang-bat-tang-tro-lai-188260910093916512.chn",
         "published": "Thu, 10 Sep 26 09:39:00 +0700"
-      },
-      {
-        "title": "Quỹ mở hưởng lợi khi thị trường chứng khoán bật tăng",
-        "link": "https://cafef.vn/quy-mo-huong-loi-khi-thi-truong-chung-khoan-bat-tang-188260910092353595.chn",
-        "published": "Thu, 10 Sep 26 09:24:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fitch eyes Japan budget for balance between growth and fiscal discipline",
+        "link": "https://www.investing.com/news/economy-news/fitch-eyes-japan-budget-for-balance-between-growth-and-fiscal-discipline-4894929",
+        "published": "2026-09-10 04:24:30"
+      },
+      {
         "title": "Bank of Korea to assess conditions to determine pace and timing of tightening, says board member",
         "link": "https://www.investing.com/news/economy-news/bank-of-korea-to-assess-conditions-to-determine-pace-and-timing-of-tightening-says-board-member-4894909",
         "published": "2026-09-10 03:54:25"
@@ -123,11 +128,6 @@
         "title": "Asian stocks wilt as Brent holds above $100, yields near 2023 peak",
         "link": "https://www.investing.com/news/economy-news/asian-stocks-wilt-as-brent-holds-above-100-yields-near-2023-peak-4894870",
         "published": "2026-09-10 02:13:10"
-      },
-      {
-        "title": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
-        "link": "https://www.investing.com/news/economy-news/currency-markets-subdued-as-oil-shock-lifts-global-yields-ecb-us-inflation-eyed-4894868",
-        "published": "2026-09-10 02:12:33"
       }
     ]
   }
