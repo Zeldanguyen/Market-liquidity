@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-10T12:45:36.194191",
+  "fetched_at": "2026-09-10T13:10:09.355189",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu KAI giảm gần 20% sau hai phiên lên UPCoM: Gần 2/3 lợi nhuận trước thuế của Kafi là chưa thực hiện",
+        "link": "https://cafef.vn/co-phieu-kai-giam-gan-20-sau-hai-phien-len-upcom-gan-2-3-loi-nhuan-truoc-thue-cua-kafi-la-chua-thuc-hien-188260910195325067.chn",
+        "published": "Thu, 10 Sep 26 19:53:00 +0700"
+      },
       {
         "title": "Chứng khoán có tín hiệu đáng chú ý trước thềm nâng hạng",
         "link": "https://cafef.vn/chung-khoan-co-tin-hieu-dang-chu-y-truoc-them-nang-hang-188260910170516557.chn",
@@ -27,11 +32,6 @@
         "title": "Nâng hạng thị trường chứng khoán đến gần, khi nào vốn ngoại 'đổ bộ'?",
         "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-den-gan-khi-nao-von-ngoai-do-bo-188260910163239169.chn",
         "published": "Thu, 10 Sep 26 16:32:00 +0700"
-      },
-      {
-        "title": "PV Gas sắp chi hơn 6.000 tỷ đồng trả cổ tức năm 2025",
-        "link": "https://cafef.vn/pv-gas-sap-chi-hon-6000-ty-dong-tra-co-tuc-nam-2025-188260910150319815.chn",
-        "published": "Thu, 10 Sep 26 16:03:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Góc nhìn 11/09: Giao dịch theo vùng hỗ trợ 1,820 - 1,830",
+        "link": "http://vietstock.vn/2026/09/goc-nhin-1109-giao-dich-theo-vung-ho-tro-1820-1830-145-1491127.htm",
+        "published": "Thu, 10 Sep 2026 19:26:14 +0700"
+      },
+      {
         "title": "Vietstock Daily 11/09/2026: Phân hóa với thanh khoản thấp",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-11092026-phan-hoa-voi-thanh-khoan-thap-1636-1490984.htm",
         "published": "Thu, 10 Sep 2026 18:11:15 +0700"
@@ -91,28 +96,23 @@
         "title": "Ngân hàng “toan tính” giữa room cho đối tác chiến lược và dòng tiền nâng hạng",
         "link": "http://vietstock.vn/2026/09/ngan-hang-toan-tinh-giua-room-cho-doi-tac-chien-luoc-va-dong-tien-nang-hang-830-1490863.htm",
         "published": "Thu, 10 Sep 2026 14:02:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 10/09: Áp lực điều chỉnh vẫn hiện hữu",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1009-ap-luc-dieu-chinh-van-hien-huu-585-1490836.htm",
-        "published": "Thu, 10 Sep 2026 13:05:49 +0700"
       }
     ],
     "Investing.com Economy": [
       {
         "title": "ECB hikes rates as Iran war adds to inflation angst",
         "link": "https://www.investing.com/news/economy-news/ecb-hikes-rates-as-iran-war-adds-to-inflation-angst-4895902",
-        "published": "2026-09-10 12:37:12"
+        "published": "2026-09-10 12:54:34"
+      },
+      {
+        "title": "ECB raises interest rates as Iran war fuels inflation fears",
+        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
+        "published": "2026-09-10 12:43:42"
       },
       {
         "title": "ECB lifts growth, inflation projections",
         "link": "https://www.investing.com/news/economy-news/ecb-lifts-growth-inflation-projections-4895870",
         "published": "2026-09-10 12:31:06"
-      },
-      {
-        "title": "ECB raises interest rates as Iran war fuels inflation fears",
-        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
-        "published": "2026-09-10 12:30:46"
       },
       {
         "title": "ECB raises interest rates to fight off inflation jump",
