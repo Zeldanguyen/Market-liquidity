@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T15:41:41.806054",
+  "fetched_at": "2026-09-10T16:09:35.500990",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle",
+        "link": "https://www.investing.com/news/economy-news/bond-yields-hit-multiyear-highs-as-traders-brace-for-new-ecb-ratehike-cycle-4896480",
+        "published": "2026-09-10 16:00:51"
+      },
+      {
+        "title": "ECB raises interest rates, bolstering bets for further moves",
+        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
+        "published": "2026-09-10 15:49:40"
+      },
+      {
+        "title": "ECB officials expect rate hikes, next one possible next month - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/ecb-officials-expect-rate-hikes-next-one-possible-next-month--bloomberg-4896453",
+        "published": "2026-09-10 15:45:10"
+      },
+      {
         "title": "IMF say global growth on track to reach 3% in 2026, but risks remain high",
         "link": "https://www.investing.com/news/economy-news/imf-say-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-4896414",
         "published": "2026-09-10 15:12:33"
@@ -113,21 +128,6 @@
         "title": "Colombia raises domestic debt issuance by $8 billion for 2026",
         "link": "https://www.investing.com/news/economy-news/colombia-raises-domestic-debt-issuance-by-8-billion-for-2026-93CH-4896407",
         "published": "2026-09-10 15:08:19"
-      },
-      {
-        "title": "Brazil services sector stalls in July, missing forecasts",
-        "link": "https://www.investing.com/news/economy-news/brazil-services-sector-stalls-in-july-missing-forecasts-93CH-4896405",
-        "published": "2026-09-10 15:07:26"
-      },
-      {
-        "title": "French economy set for only 0.4% growth this year, says INSEE",
-        "link": "https://www.investing.com/news/economy-news/french-economy-set-for-only-04-growth-this-year-says-insee-4896400",
-        "published": "2026-09-10 15:06:33"
-      },
-      {
-        "title": "Trump announces $500 Obamacare refunds citing Biden overcharges",
-        "link": "https://www.investing.com/news/economy-news/trump-announces-500-obamacare-refunds-citing-biden-overcharges-93CH-4896382",
-        "published": "2026-09-10 14:59:12"
       }
     ]
   }
