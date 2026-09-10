@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T04:42:00.997393",
+  "fetched_at": "2026-09-10T05:09:03.526594",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Morning Bid: Lagarde takes the spotlight as oil sits above $100",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-lagarde-takes-the-spotlight-as-oil-sits-above-100-4894933",
+        "published": "2026-09-10 04:36:26"
+      },
+      {
         "title": "Fitch eyes Japan budget for balance between growth and fiscal discipline",
         "link": "https://www.investing.com/news/economy-news/fitch-eyes-japan-budget-for-balance-between-growth-and-fiscal-discipline-4894929",
         "published": "2026-09-10 04:24:30"
@@ -123,11 +128,6 @@
         "title": "Trump promises $5,000 dividend to every U.S. adult if GOP wins midterms",
         "link": "https://www.investing.com/news/economy-news/trump-promises-5000-dividend-to-every-us-adult-if-gop-wins-midterms-4894892",
         "published": "2026-09-10 02:40:20"
-      },
-      {
-        "title": "Asian stocks wilt as Brent holds above $100, yields near 2023 peak",
-        "link": "https://www.investing.com/news/economy-news/asian-stocks-wilt-as-brent-holds-above-100-yields-near-2023-peak-4894870",
-        "published": "2026-09-10 02:13:10"
       }
     ]
   }
