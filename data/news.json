@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T06:44:32.666614",
+  "fetched_at": "2026-09-10T07:11:08.802063",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Musk’s tunnel startup The Boring Company raises $3 billion at $23 billion valuation",
+        "link": "https://www.investing.com/news/economy-news/musks-tunnel-startup-the-boring-company-raises-3-billion-at-23-billionvaluation-4894978",
+        "published": "2026-09-10 06:24:27"
+      },
+      {
         "title": "German August inflation confirmed at 2.9%",
         "link": "https://www.investing.com/news/economy-news/german-august-inflation-confirmed-at-29-4894971",
         "published": "2026-09-10 06:12:28"
@@ -123,11 +128,6 @@
         "title": "Morning Bid: Lagarde takes the spotlight as oil sits above $100",
         "link": "https://www.investing.com/news/economy-news/morning-bid-lagarde-takes-the-spotlight-as-oil-sits-above-100-4894933",
         "published": "2026-09-10 04:36:26"
-      },
-      {
-        "title": "Fitch eyes Japan budget for balance between growth and fiscal discipline",
-        "link": "https://www.investing.com/news/economy-news/fitch-eyes-japan-budget-for-balance-between-growth-and-fiscal-discipline-4894929",
-        "published": "2026-09-10 04:24:30"
       }
     ]
   }
