@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T03:40:25.154510",
+  "fetched_at": "2026-09-10T04:08:14.905705",
   "status": "ok",
   "vnindex_history": [
     {
@@ -38,9 +38,9 @@
       "time": "2026-09-10 00:00:00",
       "open": 1825.79,
       "high": 1826.6,
-      "low": 1818.24,
-      "close": 1818.77,
-      "volume": 146351167
+      "low": 1812.98,
+      "close": 1814.63,
+      "volume": 201440540
     }
   ],
   "top_stocks": [
@@ -50,7 +50,7 @@
       "high": 59.0,
       "low": 58.5,
       "close": 58.8,
-      "volume": 542800,
+      "volume": 698200,
       "symbol": "VCB",
       "status": "ok"
     },
@@ -59,8 +59,8 @@
       "open": 247.7,
       "high": 248.0,
       "low": 244.4,
-      "close": 246.4,
-      "volume": 306000,
+      "close": 245.0,
+      "volume": 492000,
       "symbol": "VIC",
       "status": "ok"
     },
@@ -68,9 +68,9 @@
       "time": "2026-09-10 00:00:00",
       "open": 71.8,
       "high": 71.8,
-      "low": 70.2,
-      "close": 70.2,
-      "volume": 5424500,
+      "low": 69.8,
+      "close": 70.1,
+      "volume": 7956000,
       "symbol": "VHM",
       "status": "ok"
     },
@@ -80,7 +80,7 @@
       "high": 22.05,
       "low": 21.8,
       "close": 21.95,
-      "volume": 3229500,
+      "volume": 4053800,
       "symbol": "HPG",
       "status": "ok"
     },
@@ -89,8 +89,8 @@
       "open": 72.3,
       "high": 74.2,
       "low": 72.2,
-      "close": 73.6,
-      "volume": 4103800,
+      "close": 73.5,
+      "volume": 4561400,
       "symbol": "FPT",
       "status": "ok"
     },
@@ -99,8 +99,8 @@
       "open": 86.4,
       "high": 87.5,
       "low": 85.5,
-      "close": 86.2,
-      "volume": 390800,
+      "close": 86.3,
+      "volume": 462600,
       "symbol": "GAS",
       "status": "ok"
     },
@@ -110,7 +110,7 @@
       "high": 68.9,
       "low": 68.0,
       "close": 68.6,
-      "volume": 827900,
+      "volume": 1014400,
       "symbol": "MSN",
       "status": "ok"
     },
@@ -119,8 +119,8 @@
       "open": 71.6,
       "high": 72.0,
       "low": 71.2,
-      "close": 71.7,
-      "volume": 570300,
+      "close": 71.5,
+      "volume": 686900,
       "symbol": "MWG",
       "status": "ok"
     },
@@ -129,8 +129,8 @@
       "open": 32.2,
       "high": 32.45,
       "low": 32.15,
-      "close": 32.25,
-      "volume": 1532900,
+      "close": 32.2,
+      "volume": 1868400,
       "symbol": "TCB",
       "status": "ok"
     },
@@ -140,7 +140,7 @@
       "high": 27.4,
       "low": 27.15,
       "close": 27.3,
-      "volume": 3260200,
+      "volume": 4917700,
       "symbol": "VPB",
       "status": "ok"
     }
