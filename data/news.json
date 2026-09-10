@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T23:38:37.162916",
+  "fetched_at": "2026-09-10T00:12:28.207975",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Analysis-Samsung, SK Hynix payouts test South Korea’s reform drive as investors seek more",
+        "link": "https://www.investing.com/news/economy-news/analysissamsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more-4894760",
+        "published": "2026-09-09 23:43:16"
+      },
+      {
         "title": "Iran war could last through end of Trump’s term- WSJ citing advisers",
         "link": "https://www.investing.com/news/economy-news/iran-war-could-last-through-end-of-trumps-term-wsj-citing-advisers-4894744",
         "published": "2026-09-09 23:24:29"
@@ -123,11 +128,6 @@
         "title": "ECB set to hike as Iran war fuels fresh inflation fears",
         "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
         "published": "2026-09-09 22:18:44"
-      },
-      {
-        "title": "BOJ to raise rates to 1.25% this month, reach 1.75% faster than expected: Reuters poll",
-        "link": "https://www.investing.com/news/economy-news/boj-to-raise-rates-to-125-this-month-reach-175-faster-than-expected-reuters-poll-4894676",
-        "published": "2026-09-09 22:12:33"
       }
     ]
   }
