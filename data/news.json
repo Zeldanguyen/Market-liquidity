@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T23:08:34.304894",
+  "fetched_at": "2026-09-10T23:37:11.908726",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "11/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1109-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491147.htm",
+        "published": "Fri, 11 Sep 2026 06:00:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 10/09: Khối ngoại và tự doanh gom mạnh VIC và FPT, nhưng trái chiều tại VHM",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1009-khoi-ngoai-va-tu-doanh-gom-manh-vic-va-fpt-nhung-trai-chieu-tai-vhm-830-1491131.htm",
         "published": "Thu, 10 Sep 2026 19:41:44 +0700"
@@ -91,11 +96,6 @@
         "title": "FPT sắp phát hành 171 triệu cổ phiếu thưởng",
         "link": "http://vietstock.vn/2026/09/fpt-sap-phat-hanh-171-trieu-co-phieu-thuong-830-1490904.htm",
         "published": "Thu, 10 Sep 2026 16:43:00 +0700"
-      },
-      {
-        "title": "Xây dựng Hòa Bình và Điện Quang bị xử phạt vi phạm công bố thông tin",
-        "link": "http://vietstock.vn/2026/09/xay-dung-hoa-binh-va-dien-quang-bi-xu-phat-vi-pham-cong-bo-thong-tin-830-1490861.htm",
-        "published": "Thu, 10 Sep 2026 15:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
