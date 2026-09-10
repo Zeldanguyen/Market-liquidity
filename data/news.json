@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-10T17:09:07.158283",
+  "fetched_at": "2026-09-10T17:38:48.542836",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng chưa về đỉnh, các quỹ ETF đã tăng nắm giữ vàng lên cao nhất mọi thời đại",
+        "link": "https://cafef.vn/gia-vang-chua-ve-dinh-cac-quy-etf-da-tang-nam-giu-vang-len-cao-nhat-moi-thoi-dai-188260910224016274.chn",
+        "published": "Fri, 11 Sep 26 00:10:00 +0700"
+      },
+      {
+        "title": "Dự báo rung lắc sắp xuất hiện, Vietcap chỉ tên 2 cổ phiếu phù hợp để \"lướt sóng\"",
+        "link": "https://cafef.vn/du-bao-rung-lac-sap-xuat-hien-vietcap-chi-ten-2-co-phieu-phu-hop-de-luot-song-188260910223743101.chn",
+        "published": "Fri, 11 Sep 26 00:07:00 +0700"
+      },
       {
         "title": "Công ty đại gia Đặng Thành Tâm được dự báo lãi nửa cuối năm tăng gần gấp đôi cùng kỳ",
         "link": "https://cafef.vn/cong-ty-dai-gia-dang-thanh-tam-duoc-du-bao-lai-nua-cuoi-nam-tang-gan-gap-doi-cung-ky-188260910223638248.chn",
@@ -22,16 +32,6 @@
         "title": "Vingroup (VIC) lọt Top 350 công ty tốt nhất thế giới",
         "link": "https://cafef.vn/vingroup-vic-lot-top-350-cong-ty-tot-nhat-the-gioi-18826091022132552.chn",
         "published": "Thu, 10 Sep 26 22:16:00 +0700"
-      },
-      {
-        "title": "Nhà cung cấp gỗ nội thất hàng đầu Việt Nam chi hơn 150 tỷ đồng trả cổ tức ngay tháng 9",
-        "link": "https://cafef.vn/nha-cung-cap-go-noi-that-hang-dau-viet-nam-chi-hon-150-ty-dong-tra-co-tuc-ngay-thang-9-188260910212759187.chn",
-        "published": "Thu, 10 Sep 26 21:27:00 +0700"
-      },
-      {
-        "title": "Công ty của bà Nguyễn Thanh Phượng muốn bán cổ phiếu ông Tô Hải vừa mua",
-        "link": "https://cafef.vn/cong-ty-cua-ba-nguyen-thanh-phuong-muon-ban-co-phieu-ong-to-hai-vua-mua-188260910201304805.chn",
-        "published": "Thu, 10 Sep 26 20:12:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Italy moves to increase domestic oil and gas output",
+        "link": "https://www.investing.com/news/economy-news/italy-moves-to-increase-domestic-oil-and-gas-output-93CH-4896588",
+        "published": "2026-09-10 17:12:59"
+      },
+      {
+        "title": "Nubank launches US high-yield savings account, credit cards, remittances",
+        "link": "https://www.investing.com/news/economy-news/nubank-launches-highyield-savings-account-credit-cards-remittances-in-the-us-4896505",
+        "published": "2026-09-10 17:06:55"
+      },
+      {
         "title": "European shares close at two-month low as ECB hike fuels further tightening bets",
         "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
         "published": "2026-09-10 17:01:13"
@@ -118,16 +128,6 @@
         "title": "IMF says global growth on track to reach 3% in 2026, but risks remain high",
         "link": "https://www.investing.com/news/economy-news/imf-say-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-4896414",
         "published": "2026-09-10 16:31:08"
-      },
-      {
-        "title": "ECB raises interest rates, bolstering bets for further moves",
-        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
-        "published": "2026-09-10 16:24:26"
-      },
-      {
-        "title": "UAE plans to invest $46 billion in Germany",
-        "link": "https://www.investing.com/news/economy-news/uae-plans-to-invest-46-billion-in-germany-93CH-4896512",
-        "published": "2026-09-10 16:19:15"
       }
     ]
   }
