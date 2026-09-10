@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T17:38:48.542836",
+  "fetched_at": "2026-09-10T18:10:36.735347",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
+        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
+        "published": "2026-09-10 17:55:03"
+      },
+      {
+        "title": "Nubank launches US high-yield savings account, credit cards, remittances",
+        "link": "https://www.investing.com/news/economy-news/nubank-launches-highyield-savings-account-credit-cards-remittances-in-the-us-4896505",
+        "published": "2026-09-10 17:49:12"
+      },
+      {
+        "title": "Explainer-Is Trump’s $5,000 ’dividend’ legal and how would it work?",
+        "link": "https://www.investing.com/news/economy-news/explaineris-trumps-5000-dividend-legal-and-how-would-it-work-4896629",
+        "published": "2026-09-10 17:36:49"
+      },
+      {
+        "title": "IMF says global growth on track to reach 3% in 2026, but risks remain high",
+        "link": "https://www.investing.com/news/economy-news/imf-say-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-4896414",
+        "published": "2026-09-10 17:31:06"
+      },
+      {
         "title": "Italy moves to increase domestic oil and gas output",
         "link": "https://www.investing.com/news/economy-news/italy-moves-to-increase-domestic-oil-and-gas-output-93CH-4896588",
         "published": "2026-09-10 17:12:59"
       },
       {
-        "title": "Nubank launches US high-yield savings account, credit cards, remittances",
-        "link": "https://www.investing.com/news/economy-news/nubank-launches-highyield-savings-account-credit-cards-remittances-in-the-us-4896505",
-        "published": "2026-09-10 17:06:55"
-      },
-      {
         "title": "European shares close at two-month low as ECB hike fuels further tightening bets",
         "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
         "published": "2026-09-10 17:01:13"
-      },
-      {
-        "title": "Fed, eyeing inflation data, may lean toward a hike, traders bet",
-        "link": "https://www.investing.com/news/economy-news/fed-eyeing-inflation-data-may-lean-toward-a-hike-traders-bet-4896330",
-        "published": "2026-09-10 16:54:50"
-      },
-      {
-        "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul",
-        "link": "https://www.investing.com/news/economy-news/washington-nonprofit-better-markets-sues-federal-reserve-over-capital-rule-overhaul-4896543",
-        "published": "2026-09-10 16:42:28"
-      },
-      {
-        "title": "IMF says global growth on track to reach 3% in 2026, but risks remain high",
-        "link": "https://www.investing.com/news/economy-news/imf-say-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-4896414",
-        "published": "2026-09-10 16:31:08"
       }
     ]
   }
