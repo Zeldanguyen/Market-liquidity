@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-10T10:41:41.706416",
+  "fetched_at": "2026-09-10T11:09:23.243759",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán có tín hiệu đáng chú ý trước thềm nâng hạng",
+        "link": "https://cafef.vn/chung-khoan-co-tin-hieu-dang-chu-y-truoc-them-nang-hang-188260910170516557.chn",
+        "published": "Thu, 10 Sep 26 17:57:00 +0700"
+      },
       {
         "title": "Nhóm công ty chứng khoán có động thái bất ngờ ngay trước thềm nâng hạng",
         "link": "https://cafef.vn/nhom-cong-ty-chung-khoan-co-dong-thai-bat-ngo-ngay-truoc-them-nang-hang-188260910163350873.chn",
@@ -27,11 +32,6 @@
         "title": "PV Gas sắp chi hơn 6.000 tỷ đồng trả cổ tức năm 2025",
         "link": "https://cafef.vn/pv-gas-sap-chi-hon-6000-ty-dong-tra-co-tuc-nam-2025-188260910150319815.chn",
         "published": "Thu, 10 Sep 26 16:03:00 +0700"
-      },
-      {
-        "title": "Đề xuất sửa đổi, bổ sung nguyên tắc thanh toán giao dịch chứng khoán phái sinh",
-        "link": "https://cafef.vn/de-xuat-sua-doi-bo-sung-nguyen-tac-thanh-toan-giao-dich-chung-khoan-phai-sinh-188260910145205046.chn",
-        "published": "Thu, 10 Sep 26 15:51:00 +0700"
       }
     ],
     "VnEconomy": [
