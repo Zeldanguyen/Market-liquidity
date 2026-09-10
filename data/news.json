@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T14:42:33.700016",
+  "fetched_at": "2026-09-10T15:09:29.553994",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "European shares near two-month lows as ECB hikes interest rates",
-        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
-        "published": "2026-09-10 14:19:25"
-      },
-      {
-        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
-        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
-        "published": "2026-09-10 14:19:05"
-      },
-      {
-        "title": "US existing home sales drop to 14-month low in August",
-        "link": "https://www.investing.com/news/economy-news/us-existing-home-sales-drop-to-14month-low-in-august-4896242",
-        "published": "2026-09-10 14:12:54"
-      },
-      {
-        "title": "ECB raises interest rates as Iran war fans inflation fears",
-        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
-        "published": "2026-09-10 13:43:57"
+        "title": "Trump announces $500 Obamacare refunds citing Biden overcharges",
+        "link": "https://www.investing.com/news/economy-news/trump-announces-500-obamacare-refunds-citing-biden-overcharges-93CH-4896382",
+        "published": "2026-09-10 14:59:12"
       },
       {
         "title": "Lagarde comments at ECB press conference",
         "link": "https://www.investing.com/news/economy-news/lagarde-comments-at-ecb-press-conference-4895975",
-        "published": "2026-09-10 13:43:15"
+        "published": "2026-09-10 14:55:30"
       },
       {
-        "title": "Wall St opens lower after hotter-than-expected producer inflation data",
-        "link": "https://www.investing.com/news/economy-news/wall-st-opens-lower-after-hotterthanexpected-producer-inflation-data-4896154",
-        "published": "2026-09-10 13:42:58"
+        "title": "ECB raises interest rates as Iran war fans inflation fears",
+        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
+        "published": "2026-09-10 14:55:11"
+      },
+      {
+        "title": "US to issue $500 Obamacare refunds to nearly a million Americans",
+        "link": "https://www.investing.com/news/economy-news/us-to-issue-500-obamacare-refunds-to-nearly-a-million-americans-4896374",
+        "published": "2026-09-10 14:54:54"
+      },
+      {
+        "title": "European shares near two-month lows as ECB hikes interest rates",
+        "link": "https://www.investing.com/news/economy-news/european-shares-edge-higher-as-traders-await-ecb-decision-4895044",
+        "published": "2026-09-10 14:54:38"
+      },
+      {
+        "title": "Wall St slips after hotter-than-expected producer inflation data",
+        "link": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
+        "published": "2026-09-10 14:42:51"
       }
     ]
   }
