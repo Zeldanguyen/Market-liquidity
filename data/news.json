@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T13:41:09.163791",
+  "fetched_at": "2026-09-10T14:09:01.077140",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,19 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "ECB raises interest rates as Iran war fuels inflation fears",
+        "title": "ECB raises interest rates as Iran war fans inflation fears",
         "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
-        "published": "2026-09-10 13:31:32"
+        "published": "2026-09-10 13:43:57"
+      },
+      {
+        "title": "Lagarde comments at ECB press conference",
+        "link": "https://www.investing.com/news/economy-news/lagarde-comments-at-ecb-press-conference-4895975",
+        "published": "2026-09-10 13:43:15"
+      },
+      {
+        "title": "Wall St opens lower after hotter-than-expected producer inflation data",
+        "link": "https://www.investing.com/news/economy-news/wall-st-opens-lower-after-hotterthanexpected-producer-inflation-data-4896154",
+        "published": "2026-09-10 13:42:58"
       },
       {
         "title": "Wall St set for lower open after hotter-than-expected producer inflation data",
@@ -118,16 +128,6 @@
         "title": "US producer prices increase as expected in August",
         "link": "https://www.investing.com/news/economy-news/us-producer-prices-increase-as-expected-in-august-4896018",
         "published": "2026-09-10 13:06:48"
-      },
-      {
-        "title": "Lagarde comments at ECB press conference",
-        "link": "https://www.investing.com/news/economy-news/lagarde-comments-at-ecb-press-conference-4895975",
-        "published": "2026-09-10 13:00:35"
-      },
-      {
-        "title": "ECB hikes rates as Iran war adds to inflation angst",
-        "link": "https://www.investing.com/news/economy-news/ecb-hikes-rates-as-iran-war-adds-to-inflation-angst-4895902",
-        "published": "2026-09-10 12:54:34"
       }
     ]
   }
