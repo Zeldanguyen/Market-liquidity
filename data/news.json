@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T00:44:11.129311",
+  "fetched_at": "2026-09-10T01:09:25.207400",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Exclusive-After outrunning Bolt, China’s robot champion races towards real-world work",
+        "link": "https://www.investing.com/news/economy-news/exclusiveafter-outrunning-bolt-chinas-robot-champion-races-towards-realworld-work-4894812",
+        "published": "2026-09-10 00:50:57"
+      },
+      {
+        "title": "Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "link": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+        "published": "2026-09-10 00:48:58"
+      },
+      {
         "title": "Analysis-Samsung, SK Hynix payouts test South Korea’s reform drive as investors seek more",
         "link": "https://www.investing.com/news/economy-news/analysissamsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more-4894760",
         "published": "2026-09-10 00:12:32"
@@ -118,16 +128,6 @@
         "title": "UK housing market slowdown is bottoming out, RICS says",
         "link": "https://www.investing.com/news/economy-news/uk-housing-market-slowdown-is-bottoming-out-rics-says-4894732",
         "published": "2026-09-09 23:07:02"
-      },
-      {
-        "title": "Dollar trades near 7-month low against yen as oil settles above $100",
-        "link": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
-        "published": "2026-09-09 22:37:11"
-      },
-      {
-        "title": "ECB set to hike as Iran war fuels fresh inflation fears",
-        "link": "https://www.investing.com/news/economy-news/ecb-set-to-hike-as-iran-war-fuels-fresh-inflation-fears-4894677",
-        "published": "2026-09-09 22:18:44"
       }
     ]
   }
