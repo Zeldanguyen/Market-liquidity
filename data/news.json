@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T11:40:42.200570",
+  "fetched_at": "2026-09-10T12:11:57.956335",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Những điều cần biết về giao dịch “carry trade” đồng yên",
+        "link": "https://vneconomy.vn/nhung-dieu-can-biet-ve-giao-dich-carry-trade-dong-yen.htm",
+        "published": "Thu, 10 Sep 2026 11:50:39 GMT"
+      },
+      {
         "title": "Thủ tướng yêu cầu rút gọn thủ tục giải thể, phá sản doanh nghiệp nhỏ và vừa",
         "link": "https://vneconomy.vn/thu-tuong-yeu-cau-rut-gon-thu-tuc-giai-the-pha-san-doanh-nghiep-nho-va-vua.htm",
         "published": "Thu, 10 Sep 2026 11:38:53 GMT"
@@ -59,14 +64,14 @@
         "title": "Trái phiếu đô thị và trái phiếu công trình: Kênh hút vốn mới tại VIFC-HCMC",
         "link": "https://vneconomy.vn/trai-phieu-do-thi-va-trai-phieu-cong-trinh-kenh-hut-von-moi-tai-vifc-hcmc.htm",
         "published": "Thu, 10 Sep 2026 03:27:33 GMT"
-      },
-      {
-        "title": "Tăng mức hỗ trợ phí bảo hiểm nông nghiệp tới 95%",
-        "link": "https://vneconomy.vn/tang-muc-ho-tro-phi-bao-hiem-nong-nghiep-toi-95.htm",
-        "published": "Thu, 10 Sep 2026 03:25:37 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Vietstock Daily 11/09/2026: Phân hóa với thanh khoản thấp",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-11092026-phan-hoa-voi-thanh-khoan-thap-1636-1490984.htm",
+        "published": "Thu, 10 Sep 2026 18:11:15 +0700"
+      },
       {
         "title": "Nhịp đập Thị trường 10/09: Tiếp đà tăng điểm, VN-Index đóng cửa trong sắc xanh",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-tiep-da-tang-diem-vn-index-dong-cua-trong-sac-xanh-1636-1490787.htm",
@@ -91,11 +96,6 @@
         "title": "Phân tích kỹ thuật phiên chiều 10/09: Áp lực điều chỉnh vẫn hiện hữu",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1009-ap-luc-dieu-chinh-van-hien-huu-585-1490836.htm",
         "published": "Thu, 10 Sep 2026 13:05:49 +0700"
-      },
-      {
-        "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-        "link": "http://vietstock.vn/2026/09/ngay-10092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1490531.htm",
-        "published": "Thu, 10 Sep 2026 10:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
