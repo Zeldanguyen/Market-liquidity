@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-11T11:40:01.900101",
+  "fetched_at": "2026-09-11T12:11:56.478719",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Gặp Phó Thủ tướng, DN Thái Lan muốn tăng sản xuất mặt hàng như “xương sống” của ngành xây dựng ở Việt Nam",
+        "link": "https://cafef.vn/gap-pho-thu-tuong-dn-thai-lan-muon-tang-san-xuat-mat-hang-nhu-xuong-song-cua-nganh-xay-dung-o-viet-nam-188260911174414743.chn",
+        "published": "Fri, 11 Sep 26 19:05:00 +0700"
+      },
       {
         "title": "Chia tay bạn gái, CEO một công ty niêm yết đòi lại 10 tỷ đồng từng chi trong lúc yêu",
         "link": "https://cafef.vn/chia-tay-ban-gai-ceo-mot-cong-ty-niem-yet-doi-lai-10-ty-dong-tung-chi-trong-luc-yeu-188260911172532762.chn",
@@ -27,11 +32,6 @@
         "title": "Tin vui: Tập đoàn của tỷ phú Phạm Nhật Vượng lập kỳ tích mới, là đại diện duy nhất của VN trong top TG",
         "link": "https://cafef.vn/tin-vui-tap-doan-cua-ty-phu-pham-nhat-vuong-lap-ky-tich-moi-la-dai-dien-duy-nhat-cua-vn-trong-top-tg-188260911145614473.chn",
         "published": "Fri, 11 Sep 26 16:00:00 +0700"
-      },
-      {
-        "title": "Khối ngoại thẳng tay bán ròng gần 900 tỷ đồng trong ngày VN-Index giảm sâu 34 điểm, loạt cổ phiếu ngân hàng bị \"xả\" mạnh",
-        "link": "https://cafef.vn/khoi-ngoai-thang-tay-ban-rong-gan-900-ty-dong-trong-ngay-vn-index-giam-sau-34-diem-loat-co-phieu-ngan-hang-bi-xa-manh-188260911153443211.chn",
-        "published": "Fri, 11 Sep 26 15:45:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Chứng khoán Tuần 07-11/09/2026: Rủi ro gia tăng",
+        "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-07-11092026-rui-ro-gia-tang-1636-1491467.htm",
+        "published": "Fri, 11 Sep 2026 18:17:00 +0700"
+      },
+      {
         "title": "Nhịp đập Thị trường 11/09: VN-Index rơi khỏi mốc 1,800 điểm, nhóm dầu khí lội ngược dòng",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1109-vn-index-roi-khoi-moc-1800-diem-nhom-dau-khi-loi-nguoc-dong-1636-1491240.htm",
         "published": "Fri, 11 Sep 2026 16:52:00 +0700"
@@ -91,43 +96,38 @@
         "title": "Theo dấu dòng tiền cá mập 10/09: Khối ngoại và tự doanh gom mạnh VIC và FPT, nhưng trái chiều tại VHM",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1009-khoi-ngoai-va-tu-doanh-gom-manh-vic-va-fpt-nhung-trai-chieu-tai-vhm-830-1491131.htm",
         "published": "Thu, 10 Sep 2026 19:41:44 +0700"
-      },
-      {
-        "title": "Góc nhìn 11/09: Giao dịch theo vùng hỗ trợ 1,820 - 1,830",
-        "link": "http://vietstock.vn/2026/09/goc-nhin-1109-giao-dich-theo-vung-ho-tro-1820-1830-145-1491127.htm",
-        "published": "Thu, 10 Sep 2026 19:26:14 +0700"
       }
     ],
     "Investing.com Economy": [
       {
         "title": "Bonds, stocks selloff pauses as oil falls; pivotal CPI report due",
         "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
-        "published": "2026-09-11 11:24:40"
+        "published": "2026-09-11 12:07:31"
+      },
+      {
+        "title": "ECB’s Makhlouf says further rate hikes could hurt economic growth",
+        "link": "https://www.investing.com/news/economy-news/ecbs-makhlouf-says-further-rate-hikes-could-hurt-economic-growth-4897804",
+        "published": "2026-09-11 12:07:11"
+      },
+      {
+        "title": "Brazilian top court unseals probe into multibillion-dollar bank fraud",
+        "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
+        "published": "2026-09-11 12:06:36"
+      },
+      {
+        "title": "Citi says geopolitical risks are rising for EUR",
+        "link": "https://www.investing.com/news/economy-news/citi-says-geopolitical-risks-are-rising-for-eur-4897743",
+        "published": "2026-09-11 11:50:00"
+      },
+      {
+        "title": "How much has UK fiscal headroom narrowed ahead of autumn budget?",
+        "link": "https://www.investing.com/news/economy-news/how-much-has-uk-fiscal-headroom-narrowed-ahead-of-autumn-budget-4897694",
+        "published": "2026-09-11 11:28:23"
       },
       {
         "title": "US equity funds record nine-month high outflows as oil stokes inflation fears",
         "link": "https://www.investing.com/news/economy-news/us-equity-funds-record-ninemonth-high-outflows-as-oil-stokes-inflation-fears-4897684",
         "published": "2026-09-11 11:19:00"
-      },
-      {
-        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-        "published": "2026-09-11 11:13:13"
-      },
-      {
-        "title": "What is driving the move in rates and how much higher will yields go?",
-        "link": "https://www.investing.com/news/economy-news/what-is-driving-the-move-in-rates-and-how-much-higher-will-yields-go-4897655",
-        "published": "2026-09-11 11:04:51"
-      },
-      {
-        "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
-        "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
-        "published": "2026-09-11 10:36:58"
-      },
-      {
-        "title": "Russia’s central bank holds key rate at 14%",
-        "link": "https://www.investing.com/news/economy-news/russias-central-bank-holds-key-rate-at-14-93CH-4897568",
-        "published": "2026-09-11 10:36:39"
       }
     ]
   }
