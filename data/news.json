@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T11:09:44.977263",
+  "fetched_at": "2026-09-11T11:40:01.900101",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,9 +36,14 @@
     ],
     "VnEconomy": [
       {
+        "title": "Việt Nam - Pháp hợp tác ứng dụng AI trong quản lý thuế",
+        "link": "https://vneconomy.vn/viet-nam-phap-hop-tac-ung-dung-ai-trong-quan-ly-thue.htm",
+        "published": "Fri, 11 Sep 2026 11:19:23 GMT"
+      },
+      {
         "title": "Thông tin tín dụng doanh nghiệp: Báo cáo tài chính phải là bản đã nộp cơ quan thuế hoặc đã kiểm toán",
         "link": "https://vneconomy.vn/thong-tin-tin-dung-doanh-nghiep-bao-cao-tai-chinh-phai-la-ban-da-nop-co-quan-thue-hoac-da-kiem-toan.htm",
-        "published": "Fri, 11 Sep 2026 10:58:13 GMT"
+        "published": "Fri, 11 Sep 2026 11:11:45 GMT"
       },
       {
         "title": "Thương mại Việt - Trung mở rộng, doanh nghiệp có thêm lựa chọn giao dịch CNY xuyên biên giới từ Techcombank",
@@ -59,11 +64,6 @@
         "title": "MB đồng hành cùng “Hoa và Rác” 2026, lan tỏa lối sống xanh qua nghệ thuật tái chế",
         "link": "https://vneconomy.vn/mb-dong-hanh-cung-hoa-va-rac-2026-lan-toa-loi-song-xanh-qua-nghe-thuat-tai-che.htm",
         "published": "Fri, 11 Sep 2026 08:56:55 GMT"
-      },
-      {
-        "title": "Doanh nghiệp Việt Nam cần chuẩn bị gì để lọt vào \"radar\" của các quỹ thị trường mới nổi?",
-        "link": "https://vneconomy.vn/doanh-nghiep-viet-nam-can-chuan-bi-gi-de-lot-vao-radar-cua-cac-quy-thi-truong-moi-noi.htm",
-        "published": "Fri, 11 Sep 2026 08:26:18 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bonds, stocks selloff pauses as oil falls; pivotal CPI report due",
+        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+        "published": "2026-09-11 11:24:40"
+      },
+      {
+        "title": "US equity funds record nine-month high outflows as oil stokes inflation fears",
+        "link": "https://www.investing.com/news/economy-news/us-equity-funds-record-ninemonth-high-outflows-as-oil-stokes-inflation-fears-4897684",
+        "published": "2026-09-11 11:19:00"
+      },
+      {
+        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+        "published": "2026-09-11 11:13:13"
+      },
+      {
+        "title": "What is driving the move in rates and how much higher will yields go?",
+        "link": "https://www.investing.com/news/economy-news/what-is-driving-the-move-in-rates-and-how-much-higher-will-yields-go-4897655",
+        "published": "2026-09-11 11:04:51"
+      },
+      {
         "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
         "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
         "published": "2026-09-11 10:36:58"
@@ -108,26 +128,6 @@
         "title": "Russia’s central bank holds key rate at 14%",
         "link": "https://www.investing.com/news/economy-news/russias-central-bank-holds-key-rate-at-14-93CH-4897568",
         "published": "2026-09-11 10:36:39"
-      },
-      {
-        "title": "Investors pull money from equity funds as rising oil prices fuel inflation fears",
-        "link": "https://www.investing.com/news/economy-news/investors-pull-money-from-equity-funds-as-rising-oil-prices-fuel-inflation-fears-4897534",
-        "published": "2026-09-11 10:24:28"
-      },
-      {
-        "title": "Iran, Gulf states to meet in push for Hormuz deal, FT reports",
-        "link": "https://www.investing.com/news/economy-news/iran-gulf-states-to-meet-in-push-for-hormuz-deal-ft-reports-4897222",
-        "published": "2026-09-11 10:20:39"
-      },
-      {
-        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-        "published": "2026-09-11 10:06:39"
-      },
-      {
-        "title": "Wall St futures recover as oil slides ahead of inflation test",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-recover-as-oil-slides-ahead-of-inflation-test-4897485",
-        "published": "2026-09-11 10:01:58"
       }
     ]
   }
