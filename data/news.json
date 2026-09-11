@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T13:41:18.478184",
+  "fetched_at": "2026-09-11T14:09:31.617229",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
-        "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
-        "published": "2026-09-11 13:19:33"
+        "title": "Fed seen likely to raise rates next week after inflation report",
+        "link": "https://www.investing.com/news/economy-news/fed-seen-likely-to-raise-rates-next-week-after-inflation-report-4898077",
+        "published": "2026-09-11 13:49:31"
       },
       {
         "title": "Bond yields near multi-year peaks after accelerating U.S. inflation, traders add to Fed hike bets",
         "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
-        "published": "2026-09-11 13:19:16"
+        "published": "2026-09-11 13:42:52"
+      },
+      {
+        "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
+        "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
+        "published": "2026-09-11 13:19:33"
       },
       {
         "title": "Brazil inflation slows more than expected in August",
@@ -123,11 +128,6 @@
         "title": "Cooling inflation strengthens bets on another Brazil rate cut",
         "link": "https://www.investing.com/news/economy-news/cooling-inflation-strengthens-bets-on-another-brazil-rate-cut-4897977",
         "published": "2026-09-11 13:06:42"
-      },
-      {
-        "title": "Can the BoE afford to stay on hold while the ECB and Fed raise rates?",
-        "link": "https://www.investing.com/news/economy-news/can-the-boe-afford-to-stay-on-hold-while-the-ecb-and-fed-raise-rates-4897940",
-        "published": "2026-09-11 12:59:58"
       }
     ]
   }
