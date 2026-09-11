@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T10:09:57.913500",
+  "fetched_at": "2026-09-11T10:41:02.209822",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 11/09: VN-Index rơi khỏi mốc 1,800 điểm, nhóm dầu khí lội ngược dòng",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1109-vn-index-roi-khoi-moc-1800-diem-nhom-dau-khi-loi-nguoc-dong-1636-1491240.htm",
+        "published": "Fri, 11 Sep 2026 16:52:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 11/09: Triển vọng ngắn hạn đang xấu đi",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1109-trien-vong-ngan-han-dang-xau-di-585-1491273.htm",
         "published": "Fri, 11 Sep 2026 13:04:00 +0700"
@@ -91,43 +96,38 @@
         "title": "Góc nhìn 11/09: Giao dịch theo vùng hỗ trợ 1,820 - 1,830",
         "link": "http://vietstock.vn/2026/09/goc-nhin-1109-giao-dich-theo-vung-ho-tro-1820-1830-145-1491127.htm",
         "published": "Thu, 10 Sep 2026 19:26:14 +0700"
-      },
-      {
-        "title": "Vietstock Daily 11/09/2026: Phân hóa với thanh khoản thấp",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-11092026-phan-hoa-voi-thanh-khoan-thap-1636-1490984.htm",
-        "published": "Thu, 10 Sep 2026 18:11:15 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Take Five: Rates, risks and rivalries",
-        "link": "https://www.investing.com/news/economy-news/take-five-rates-risks-and-rivalries-4897421",
-        "published": "2026-09-11 09:24:32"
+        "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
+        "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
+        "published": "2026-09-11 10:36:58"
       },
       {
-        "title": "European stocks rise but head for sharp weekly declines",
-        "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
-        "published": "2026-09-11 09:06:56"
+        "title": "Russia’s central bank holds key rate at 14%",
+        "link": "https://www.investing.com/news/economy-news/russias-central-bank-holds-key-rate-at-14-93CH-4897568",
+        "published": "2026-09-11 10:36:39"
       },
       {
-        "title": "UK inflation expectations fall after Bank of England changes survey provider",
-        "link": "https://www.investing.com/news/economy-news/uk-inflation-expectations-fall-after-bank-of-england-changes-survey-provider-4897399",
-        "published": "2026-09-11 09:01:04"
+        "title": "Investors pull money from equity funds as rising oil prices fuel inflation fears",
+        "link": "https://www.investing.com/news/economy-news/investors-pull-money-from-equity-funds-as-rising-oil-prices-fuel-inflation-fears-4897534",
+        "published": "2026-09-11 10:24:28"
       },
       {
-        "title": "Bonds, stocks selloff pauses as oil retreats from multi-month high",
-        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
-        "published": "2026-09-11 08:54:28"
+        "title": "Iran, Gulf states to meet in push for Hormuz deal, FT reports",
+        "link": "https://www.investing.com/news/economy-news/iran-gulf-states-to-meet-in-push-for-hormuz-deal-ft-reports-4897222",
+        "published": "2026-09-11 10:20:39"
       },
       {
-        "title": "ECB policymakers open door to more rate hikes on energy risk",
-        "link": "https://www.investing.com/news/economy-news/ecb-might-need-mildly-restrictive-policy-nagel-says-4897301",
-        "published": "2026-09-11 08:12:27"
+        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+        "published": "2026-09-11 10:06:39"
       },
       {
-        "title": "U.S. CPI looms large; Oracle, Adobe report - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/us-cpi-looms-large-oracle-adobe-report--whats-moving-markets-4897338",
-        "published": "2026-09-11 07:56:33"
+        "title": "Wall St futures recover as oil slides ahead of inflation test",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-recover-as-oil-slides-ahead-of-inflation-test-4897485",
+        "published": "2026-09-11 10:01:58"
       }
     ]
   }
