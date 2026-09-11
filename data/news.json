@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T14:41:57.752706",
+  "fetched_at": "2026-09-11T15:09:18.634437",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,19 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
+        "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
+        "published": "2026-09-11 14:54:30"
+      },
+      {
         "title": "US consumer inflation picks up in August",
         "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-        "published": "2026-09-11 14:07:13"
+        "published": "2026-09-11 14:30:33"
+      },
+      {
+        "title": "Bond yields near multi-year peaks, Wall Street surges on accelerating US prices",
+        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+        "published": "2026-09-11 14:25:05"
       },
       {
         "title": "Fed seen likely to raise rates next week after inflation report",
         "link": "https://www.investing.com/news/economy-news/fed-seen-likely-to-raise-rates-next-week-after-inflation-report-4898077",
         "published": "2026-09-11 13:49:31"
-      },
-      {
-        "title": "Bond yields near multi-year peaks after accelerating U.S. inflation, traders add to Fed hike bets",
-        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
-        "published": "2026-09-11 13:42:52"
       },
       {
         "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
@@ -123,11 +128,6 @@
         "title": "Brazil inflation slows more than expected in August",
         "link": "https://www.investing.com/news/economy-news/brazil-inflation-slows-more-than-expected-in-august-93CH-4897985",
         "published": "2026-09-11 13:11:41"
-      },
-      {
-        "title": "Norway’s Princess Astrid dies at age 94, two days after King’s funeral",
-        "link": "https://www.investing.com/news/economy-news/norways-princess-astrid-dies-at-age-94-two-days-after-kings-funeral-93CH-4897979",
-        "published": "2026-09-11 13:09:14"
       }
     ]
   }
