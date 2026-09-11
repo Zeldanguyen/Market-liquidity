@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T01:08:59.381207",
+  "fetched_at": "2026-09-11T01:39:43.547078",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "FDI tiến nhanh, doanh nghiệp Việt tụt lại trong cuộc đua xuất khẩu",
+        "link": "https://vneconomy.vn/fdi-tien-nhanh-doanh-nghiep-viet-tut-lai-trong-cuoc-dua-xuat-khau.htm",
+        "published": "Fri, 11 Sep 2026 01:25:16 GMT"
+      },
+      {
+        "title": "ECB tăng lãi suất, cảnh báo lạm phát cao kéo dài",
+        "link": "https://vneconomy.vn/ecb-tang-lai-suat-canh-bao-lam-phat-cao-keo-dai.htm",
+        "published": "Fri, 11 Sep 2026 01:18:42 GMT"
+      },
+      {
         "title": "Giá vàng lao dốc sau báo cáo PPI Mỹ",
         "link": "https://vneconomy.vn/gia-vang-lao-doc-sau-bao-cao-ppi-my.htm",
         "published": "Fri, 11 Sep 2026 00:10:43 GMT"
@@ -54,19 +64,14 @@
         "title": "Tỷ giá liên ngân hàng về sát đáy một năm, xu hướng giảm còn kéo dài?",
         "link": "https://vneconomy.vn/ty-gia-lien-ngan-hang-ve-sat-day-mot-nam-xu-huong-giam-con-keo-dai.htm",
         "published": "Thu, 10 Sep 2026 11:37:12 GMT"
-      },
-      {
-        "title": "Rủi ro từ việc Mỹ tìm cách đẩy đồng yên Nhật tăng giá",
-        "link": "https://vneconomy.vn/rui-ro-tu-viec-my-tim-cach-day-dong-yen-nhat-tang-gia.htm",
-        "published": "Thu, 10 Sep 2026 09:39:33 GMT"
-      },
-      {
-        "title": "Đa số chuyên gia vẫn dự báo Fed không tăng lãi suất trong năm nay",
-        "link": "https://vneconomy.vn/da-so-chuyen-gia-van-du-bao-fed-khong-tang-lai-suat-trong-nam-nay.htm",
-        "published": "Thu, 10 Sep 2026 08:35:08 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 11/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1109-830-1490917.htm",
+        "published": "Fri, 11 Sep 2026 08:00:00 +0700"
+      },
       {
         "title": "11/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1109-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491147.htm",
@@ -91,14 +96,19 @@
         "title": "Nhịp đập Thị trường 10/09: Tiếp đà tăng điểm, VN-Index đóng cửa trong sắc xanh",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-tiep-da-tang-diem-vn-index-dong-cua-trong-sac-xanh-1636-1490787.htm",
         "published": "Thu, 10 Sep 2026 16:47:00 +0700"
-      },
-      {
-        "title": "FPT sắp phát hành 171 triệu cổ phiếu thưởng",
-        "link": "http://vietstock.vn/2026/09/fpt-sap-phat-hanh-171-trieu-co-phieu-thuong-830-1490904.htm",
-        "published": "Thu, 10 Sep 2026 16:43:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Dollar holds gains, yen slips as Mideast energy shock deepens",
+        "link": "https://www.investing.com/news/economy-news/dollar-holds-gains-yen-slips-as-mideast-energy-shock-deepens-4897147",
+        "published": "2026-09-11 01:12:28"
+      },
+      {
+        "title": "Global bonds fall as surging oil prices inflame inflation risks",
+        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+        "published": "2026-09-11 01:00:29"
+      },
       {
         "title": "Japan’s wholesale inflation stays elevated in August, boosts case for rate hike",
         "link": "https://www.investing.com/news/economy-news/japans-wholesale-inflation-stays-elevated-in-august-boosts-case-for-rate-hike-4897117",
@@ -118,16 +128,6 @@
         "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
         "link": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
         "published": "2026-09-10 23:01:17"
-      },
-      {
-        "title": "Trump administration to sanction unnamed ’large’ bank on Monday, Bessent says",
-        "link": "https://www.investing.com/news/economy-news/trump-administration-to-sanction-unnamed-large-bank-on-mondaybessent-says-4897040",
-        "published": "2026-09-10 22:48:46"
-      },
-      {
-        "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-        "link": "https://www.investing.com/news/economy-news/pentagon-in-talks-to-lend-5-billion-to-ai-cloud-startup-fluidstack-wsj-reports-4897014",
-        "published": "2026-09-10 22:07:45"
       }
     ]
   }
