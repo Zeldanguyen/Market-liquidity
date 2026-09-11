@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T14:09:31.617229",
+  "fetched_at": "2026-09-11T14:41:57.752706",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US consumer inflation picks up in August",
+        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
+        "published": "2026-09-11 14:07:13"
+      },
+      {
         "title": "Fed seen likely to raise rates next week after inflation report",
         "link": "https://www.investing.com/news/economy-news/fed-seen-likely-to-raise-rates-next-week-after-inflation-report-4898077",
         "published": "2026-09-11 13:49:31"
@@ -123,11 +128,6 @@
         "title": "Norway’s Princess Astrid dies at age 94, two days after King’s funeral",
         "link": "https://www.investing.com/news/economy-news/norways-princess-astrid-dies-at-age-94-two-days-after-kings-funeral-93CH-4897979",
         "published": "2026-09-11 13:09:14"
-      },
-      {
-        "title": "Cooling inflation strengthens bets on another Brazil rate cut",
-        "link": "https://www.investing.com/news/economy-news/cooling-inflation-strengthens-bets-on-another-brazil-rate-cut-4897977",
-        "published": "2026-09-11 13:06:42"
       }
     ]
   }
