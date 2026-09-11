@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T07:10:27.674376",
+  "fetched_at": "2026-09-11T07:41:30.248342",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -29,8 +29,8 @@
         "published": "Fri, 11 Sep 26 11:36:00 +0700"
       },
       {
-        "title": "Áp lực đáo hạn 253.000 tỷ đồng trái phiếu trong 12 tháng tới: Bất động sản tiếp tục là “điểm nóng”",
-        "link": "https://cafef.vn/ap-luc-dao-han-253000-ty-dong-trai-phieu-trong-12-thang-toi-bat-dong-san-tiep-tuc-la-diem-nong-188260911111814125.chn",
+        "title": "Áp lực đáo hạn 253.000 tỷ đồng trái phiếu trong 12 tháng tới",
+        "link": "https://cafef.vn/ap-luc-dao-han-253000-ty-dong-trai-phieu-trong-12-thang-toi-188260911111814125.chn",
         "published": "Fri, 11 Sep 26 11:31:00 +0700"
       }
     ],
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "European stocks rise but head for sharp weekly declines",
+        "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
+        "published": "2026-09-11 07:30:50"
+      },
+      {
+        "title": "ECB might need mildly restrictive policy, Nagel says",
+        "link": "https://www.investing.com/news/economy-news/ecb-might-need-mildly-restrictive-policy-nagel-says-4897301",
+        "published": "2026-09-11 07:18:51"
+      },
+      {
+        "title": "Hong Kong court jails two Tiananmen vigil group leaders for 7 years",
+        "link": "https://www.investing.com/news/economy-news/hong-kong-court-jails-two-tiananmen-vigil-group-leaders-for-7-years-4897191",
+        "published": "2026-09-11 07:07:04"
+      },
+      {
+        "title": "France’s economy not a catastrophe but deficit must be reduced, France’s Moulin says",
+        "link": "https://www.investing.com/news/economy-news/frances-economy-not-a-catastrophe-but-deficit-must-be-reduced-frances-moulin-says-4897276",
+        "published": "2026-09-11 06:54:50"
+      },
+      {
         "title": "ECB may need to raise rates to curb economy, Nagel says",
         "link": "https://www.investing.com/news/economy-news/ecb-may-need-to-raise-rates-to-curb-economy-nagel-says-93CH-4897274",
         "published": "2026-09-11 06:50:55"
@@ -108,26 +128,6 @@
         "title": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks",
         "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
         "published": "2026-09-11 06:12:34"
-      },
-      {
-        "title": "Japan to maintain close communication with US on currency markets, Katayama says",
-        "link": "https://www.investing.com/news/economy-news/japan-to-maintain-close-communication-with-us-on-currency-markets-katayama-says-4897184",
-        "published": "2026-09-11 06:00:47"
-      },
-      {
-        "title": "Major central banks strike a more hawkish tone as energy costs jump",
-        "link": "https://www.investing.com/news/economy-news/major-central-banks-strike-a-more-hawkish-tone-as-energy-costs-jump-4896297",
-        "published": "2026-09-11 05:56:04"
-      },
-      {
-        "title": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
-        "link": "https://www.investing.com/news/economy-news/boj-set-to-lift-rates-next-week-but-offer-few-clues-on-terminal-sources-say-4897189",
-        "published": "2026-09-11 05:55:26"
-      },
-      {
-        "title": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
-        "link": "https://www.investing.com/news/economy-news/global-bond-selloff-pushes-10year-us-yield-toward-5-on-oil-ratehike-fears-4897226",
-        "published": "2026-09-11 05:54:37"
       }
     ]
   }
