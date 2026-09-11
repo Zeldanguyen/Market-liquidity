@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-11T08:10:22.610206",
+  "fetched_at": "2026-09-11T08:42:11.222300",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "iPhone 18 vừa ra mắt, hơn 100.000 người Việt đã làm một việc chỉ sau hơn 24 giờ",
+        "link": "https://cafef.vn/iphone-18-vua-ra-mat-hon-100000-nguoi-viet-da-lam-mot-viec-chi-sau-hon-24-gio-188260911152850494.chn",
+        "published": "Fri, 11 Sep 26 15:29:00 +0700"
+      },
       {
         "title": "Giá vàng bạc hôm nay 11/9: Vàng miếng lao dốc, Phú Quý, Bảo Tín Minh Châu, SJC đồng loạt hạ nhiệt",
         "link": "https://cafef.vn/gia-vang-bac-hom-nay-11-9-vang-mieng-lao-doc-phu-quy-bao-tin-minh-chau-sjc-dong-loat-ha-nhiet-188260911112036957.chn",
@@ -27,14 +32,14 @@
         "title": "Đề xuất quy định về kiểm toán độc lập đối với đơn vị có lợi ích công chúng",
         "link": "https://cafef.vn/de-xuat-quy-dinh-ve-kiem-toan-doc-lap-doi-voi-don-vi-co-loi-ich-cong-chung-188260911111935879.chn",
         "published": "Fri, 11 Sep 26 11:36:00 +0700"
-      },
-      {
-        "title": "Áp lực đáo hạn 253.000 tỷ đồng trái phiếu trong 12 tháng tới",
-        "link": "https://cafef.vn/ap-luc-dao-han-253000-ty-dong-trai-phieu-trong-12-thang-toi-188260911111814125.chn",
-        "published": "Fri, 11 Sep 26 11:31:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Doanh nghiệp Việt Nam cần chuẩn bị gì để lọt vào \"radar\" của các quỹ thị trường mới nổi?",
+        "link": "https://vneconomy.vn/doanh-nghiep-viet-nam-can-chuan-bi-gi-de-lot-vao-radar-cua-cac-quy-thi-truong-moi-noi.htm",
+        "published": "Fri, 11 Sep 2026 08:26:18 GMT"
+      },
       {
         "title": "FDI tiến nhanh, doanh nghiệp Việt tụt lại trong cuộc đua xuất khẩu",
         "link": "https://vneconomy.vn/fdi-tien-nhanh-doanh-nghiep-viet-tut-lai-trong-cuoc-dua-xuat-khau.htm",
@@ -59,11 +64,6 @@
         "title": "Thủ tướng yêu cầu rút gọn thủ tục giải thể, phá sản doanh nghiệp nhỏ và vừa",
         "link": "https://vneconomy.vn/thu-tuong-yeu-cau-rut-gon-thu-tuc-giai-the-pha-san-doanh-nghiep-nho-va-vua.htm",
         "published": "Thu, 10 Sep 2026 11:38:53 GMT"
-      },
-      {
-        "title": "Tỷ giá liên ngân hàng về sát đáy một năm, xu hướng giảm còn kéo dài?",
-        "link": "https://vneconomy.vn/ty-gia-lien-ngan-hang-ve-sat-day-mot-nam-xu-huong-giam-con-keo-dai.htm",
-        "published": "Thu, 10 Sep 2026 11:37:12 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bonds, stocks selloff pauses as oil retreats from multi-month high",
+        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+        "published": "2026-09-11 08:18:41"
+      },
+      {
+        "title": "ECB policymakers open door to more rate hikes on energy risk",
+        "link": "https://www.investing.com/news/economy-news/ecb-might-need-mildly-restrictive-policy-nagel-says-4897301",
+        "published": "2026-09-11 08:12:27"
+      },
+      {
         "title": "U.S. CPI looms large; Oracle, Adobe report - what’s moving markets",
         "link": "https://www.investing.com/news/economy-news/us-cpi-looms-large-oracle-adobe-report--whats-moving-markets-4897338",
         "published": "2026-09-11 07:56:33"
@@ -110,11 +120,6 @@
         "published": "2026-09-11 07:56:05"
       },
       {
-        "title": "ECB policymakers open door to more rate hikes on energy risk",
-        "link": "https://www.investing.com/news/economy-news/ecb-might-need-mildly-restrictive-policy-nagel-says-4897301",
-        "published": "2026-09-11 07:54:37"
-      },
-      {
         "title": "Austrian central bank says economic outlook improving, to be felt next year",
         "link": "https://www.investing.com/news/economy-news/austrian-central-bank-says-economic-outlook-improving-to-be-felt-next-year-4897318",
         "published": "2026-09-11 07:36:50"
@@ -123,11 +128,6 @@
         "title": "French economy not in danger but deficit must be cut, central bank chief says",
         "link": "https://www.investing.com/news/economy-news/frances-economy-not-a-catastrophe-but-deficit-must-be-reduced-frances-moulin-says-4897276",
         "published": "2026-09-11 07:36:33"
-      },
-      {
-        "title": "European stocks rise but head for sharp weekly declines",
-        "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
-        "published": "2026-09-11 07:30:50"
       }
     ]
   }
