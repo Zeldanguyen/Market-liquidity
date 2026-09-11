@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T19:37:55.103224",
+  "fetched_at": "2026-09-11T20:09:31.677082",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Factbox-How Anthropic says Claude was used for weapons, spying and cyber operations",
+        "link": "https://www.investing.com/news/economy-news/factboxhow-anthropic-says-claude-was-used-for-weapons-spying-and-cyber-operations-4898365",
+        "published": "2026-09-11 19:30:51"
+      },
+      {
         "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
         "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
         "published": "2026-09-11 19:18:32"
@@ -123,11 +128,6 @@
         "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
         "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
         "published": "2026-09-11 17:48:33"
-      },
-      {
-        "title": "BRICS finance chiefs urge reform of global development financial institutions",
-        "link": "https://www.investing.com/news/economy-news/brics-finance-chiefs-urge-reform-of-global-development-financial-institutions-4898277",
-        "published": "2026-09-11 17:12:45"
       }
     ]
   }
