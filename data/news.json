@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T06:44:14.370727",
+  "fetched_at": "2026-09-11T07:10:27.674376",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "ECB may need to raise rates to curb economy, Nagel says",
+        "link": "https://www.investing.com/news/economy-news/ecb-may-need-to-raise-rates-to-curb-economy-nagel-says-93CH-4897274",
+        "published": "2026-09-11 06:50:55"
+      },
+      {
         "title": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks",
         "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
         "published": "2026-09-11 06:12:34"
@@ -123,11 +128,6 @@
         "title": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
         "link": "https://www.investing.com/news/economy-news/global-bond-selloff-pushes-10year-us-yield-toward-5-on-oil-ratehike-fears-4897226",
         "published": "2026-09-11 05:54:37"
-      },
-      {
-        "title": "Saudi Crown Prince urged Trump to strike Houthis, but Trump declined: Axios",
-        "link": "https://www.investing.com/news/economy-news/saudi-crown-prince-urged-trump-to-strike-houthis-but-trump-declined-axios-4897223",
-        "published": "2026-09-11 05:28:31"
       }
     ]
   }
