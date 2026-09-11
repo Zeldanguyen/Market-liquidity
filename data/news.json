@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-11T15:40:52.593642",
+  "fetched_at": "2026-09-11T16:09:57.323870",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Bản Việt sắp bán sạch cổ phiếu Vietcap?",
+        "link": "https://cafef.vn/ban-viet-sap-ban-sach-co-phieu-vietcap-18826091122464051.chn",
+        "published": "Fri, 11 Sep 26 23:03:00 +0700"
+      },
       {
         "title": "Gặp Phó Thủ tướng, DN Thái Lan muốn tăng sản xuất mặt hàng như “xương sống” của ngành xây dựng ở Việt Nam",
         "link": "https://cafef.vn/gap-pho-thu-tuong-dn-thai-lan-muon-tang-san-xuat-mat-hang-nhu-xuong-song-cua-nganh-xay-dung-o-viet-nam-188260911174414743.chn",
@@ -27,11 +32,6 @@
         "title": "Một cổ phiếu \"bốc đầu\" tăng 40% giữa lúc VN-Index thủng 1.800 điểm, thị giá chỉ ngang cốc trà đá",
         "link": "https://cafef.vn/mot-co-phieu-boc-dau-tang-40-giua-luc-vn-index-thung-1800-diem-thi-gia-chi-ngang-coc-tra-da-188260911155549893.chn",
         "published": "Fri, 11 Sep 26 16:03:00 +0700"
-      },
-      {
-        "title": "Tin vui: Tập đoàn của tỷ phú Phạm Nhật Vượng lập kỳ tích mới, là đại diện duy nhất của VN trong top TG",
-        "link": "https://cafef.vn/tin-vui-tap-doan-cua-ty-phu-pham-nhat-vuong-lap-ky-tich-moi-la-dai-dien-duy-nhat-cua-vn-trong-top-tg-188260911145614473.chn",
-        "published": "Fri, 11 Sep 26 16:00:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+        "published": "2026-09-11 15:48:47"
+      },
+      {
+        "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
+        "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
+        "published": "2026-09-11 15:42:24"
+      },
+      {
         "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
         "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4898196",
         "published": "2026-09-11 15:18:55"
@@ -118,16 +128,6 @@
         "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
         "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
         "published": "2026-09-11 14:54:30"
-      },
-      {
-        "title": "US consumer inflation picks up in August",
-        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-        "published": "2026-09-11 14:30:33"
-      },
-      {
-        "title": "Bond yields near multi-year peaks, Wall Street surges on accelerating US prices",
-        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
-        "published": "2026-09-11 14:25:05"
       }
     ]
   }
