@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T12:44:16.128070",
+  "fetched_at": "2026-09-11T13:08:58.018080",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Phạt hơn 340 triệu đồng ba doanh nghiệp do lỗi công bố thông tin",
+        "link": "http://vietstock.vn/2026/09/phat-hon-340-trieu-dong-ba-doanh-nghiep-do-loi-cong-bo-thong-tin-830-1491516.htm",
+        "published": "Fri, 11 Sep 2026 19:12:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 11/09: Khối ngoại xả nhóm ngân hàng, tự doanh trở lại bán ròng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1109-khoi-ngoai-xa-nhom-ngan-hang-tu-doanh-tro-lai-ban-rong-830-1491515.htm",
         "published": "Fri, 11 Sep 2026 18:42:00 +0700"
@@ -91,14 +96,14 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 11/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1109-830-1490917.htm",
         "published": "Fri, 11 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "11/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1109-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491147.htm",
-        "published": "Fri, 11 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "US consumer inflation picks up in August",
+        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
+        "published": "2026-09-11 12:54:33"
+      },
       {
         "title": "Investors brace for possible rate hike at uncertain Fed meeting",
         "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
@@ -123,11 +128,6 @@
         "title": "Brazilian top court unseals probe into multibillion-dollar bank fraud",
         "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
         "published": "2026-09-11 12:06:36"
-      },
-      {
-        "title": "Citi says geopolitical risks are rising for EUR",
-        "link": "https://www.investing.com/news/economy-news/citi-says-geopolitical-risks-are-rising-for-eur-4897743",
-        "published": "2026-09-11 11:50:00"
       }
     ]
   }
