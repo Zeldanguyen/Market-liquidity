@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-11T03:41:41.055154",
+  "fetched_at": "2026-09-11T04:10:32.981281",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lời cảm ơn của ông Trịnh Văn Quyết",
+        "link": "https://cafef.vn/loi-cam-on-cua-ong-trinh-van-quyet-188260911110235554.chn",
+        "published": "Fri, 11 Sep 26 11:03:00 +0700"
+      },
+      {
+        "title": "Công ty Y tế Việt Mỹ cung cấp thiết bị gần 600 tỷ đồng cho Bệnh viện Ung bướu Nghệ An",
+        "link": "https://cafef.vn/cong-ty-y-te-viet-my-cung-cap-thiet-bi-gan-600-ty-dong-cho-benh-vien-ung-buou-nghe-an-188260911105809487.chn",
+        "published": "Fri, 11 Sep 26 10:58:00 +0700"
+      },
       {
         "title": "Cổ đông một doanh nghiệp thép sắp \"bỏ túi\" hơn 200 tỷ đồng",
         "link": "https://cafef.vn/co-dong-mot-doanh-nghiep-thep-sap-bo-tui-hon-200-ty-dong-188260911100255226.chn",
@@ -22,16 +32,6 @@
         "title": "Giá vàng xuống mức thấp nhất trong 3 tuần",
         "link": "https://cafef.vn/gia-vang-xuong-muc-thap-nhat-trong-3-tuan-188260911092844446.chn",
         "published": "Fri, 11 Sep 26 09:29:00 +0700"
-      },
-      {
-        "title": "Gần 10.000 tỷ đồng cổ tức sắp chảy về Viettel từ mảng kinh doanh quốc tế",
-        "link": "https://cafef.vn/gan-10000-ty-dong-co-tuc-sap-chay-ve-viettel-tu-mang-kinh-doanh-quoc-te-188260911092435899.chn",
-        "published": "Fri, 11 Sep 26 09:25:00 +0700"
-      },
-      {
-        "title": "Vidipha bị phạt và truy thu thuế hơn 800 triệu đồng",
-        "link": "https://cafef.vn/vidipha-bi-phat-va-truy-thu-thue-hon-800-trieu-dong-188260911090332927.chn",
-        "published": "Fri, 11 Sep 26 09:03:00 +0700"
       }
     ],
     "VnEconomy": [
