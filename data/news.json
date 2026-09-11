@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T23:37:11.908726",
+  "fetched_at": "2026-09-11T00:13:12.415388",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng lao dốc sau báo cáo PPI Mỹ",
+        "link": "https://vneconomy.vn/gia-vang-lao-doc-sau-bao-cao-ppi-my.htm",
+        "published": "Fri, 11 Sep 2026 00:10:43 GMT"
+      },
+      {
         "title": "Những điều cần biết về giao dịch “carry trade” đồng yên",
         "link": "https://vneconomy.vn/nhung-dieu-can-biet-ve-giao-dich-carry-trade-dong-yen.htm",
         "published": "Thu, 10 Sep 2026 11:50:39 GMT"
@@ -59,11 +64,6 @@
         "title": "Đa số chuyên gia vẫn dự báo Fed không tăng lãi suất trong năm nay",
         "link": "https://vneconomy.vn/da-so-chuyen-gia-van-du-bao-fed-khong-tang-lai-suat-trong-nam-nay.htm",
         "published": "Thu, 10 Sep 2026 08:35:08 GMT"
-      },
-      {
-        "title": "Trái phiếu đô thị và trái phiếu công trình: Kênh hút vốn mới tại VIFC-HCMC",
-        "link": "https://vneconomy.vn/trai-phieu-do-thi-va-trai-phieu-cong-trinh-kenh-hut-von-moi-tai-vifc-hcmc.htm",
-        "published": "Thu, 10 Sep 2026 03:27:33 GMT"
       }
     ],
     "Vietstock": [
