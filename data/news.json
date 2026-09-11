@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T18:10:12.192148",
+  "fetched_at": "2026-09-11T18:42:09.743068",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US budget deficit shrinks in August, year-to-date flat at $1.97 trillion",
+        "link": "https://www.investing.com/news/economy-news/us-budget-deficit-shrinks-in-august-yeartodate-flat-at-197-trillion-4898315",
+        "published": "2026-09-11 18:06:31"
+      },
+      {
+        "title": "US budget deficit falls to $167 billion in August",
+        "link": "https://www.investing.com/news/economy-news/us-budget-deficit-falls-to-167-billion-in-august-93CH-4898314",
+        "published": "2026-09-11 18:06:02"
+      },
+      {
         "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
         "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
         "published": "2026-09-11 17:48:33"
@@ -118,16 +128,6 @@
         "title": "European stocks rise, but log sharp weekly loss as inflation fears linger",
         "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
         "published": "2026-09-11 17:00:48"
-      },
-      {
-        "title": "Reaction roundup: Experts, analysts weigh in on August CPI report",
-        "link": "https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-august-cpi-report-4898262",
-        "published": "2026-09-11 16:53:07"
-      },
-      {
-        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-        "published": "2026-09-11 15:48:47"
       }
     ]
   }
