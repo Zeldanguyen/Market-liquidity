@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-11T02:41:17.488486",
+  "fetched_at": "2026-09-11T03:09:46.758814",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ đông một doanh nghiệp thép sắp \"bỏ túi\" hơn 200 tỷ đồng",
+        "link": "https://cafef.vn/co-dong-mot-doanh-nghiep-thep-sap-bo-tui-hon-200-ty-dong-188260911100255226.chn",
+        "published": "Fri, 11 Sep 26 10:03:00 +0700"
+      },
+      {
+        "title": "Cổ phiếu VMD bị chuyển sang diện hạn chế giao dịch",
+        "link": "https://cafef.vn/co-phieu-vmd-bi-chuyen-sang-dien-han-che-giao-dich-188260911090601525.chn",
+        "published": "Fri, 11 Sep 26 09:59:00 +0700"
+      },
+      {
+        "title": "AgriS giảm sở hữu tại nhiều công ty con, công ty liên kết",
+        "link": "https://cafef.vn/agris-giam-so-huu-tai-nhieu-cong-ty-con-cong-ty-lien-ket-188260911090441875.chn",
+        "published": "Fri, 11 Sep 26 09:59:00 +0700"
+      },
       {
         "title": "Giá vàng xuống mức thấp nhất trong 3 tuần",
         "link": "https://cafef.vn/gia-vang-xuong-muc-thap-nhat-trong-3-tuan-188260911092844446.chn",
@@ -17,21 +32,6 @@
         "title": "Vidipha bị phạt và truy thu thuế hơn 800 triệu đồng",
         "link": "https://cafef.vn/vidipha-bi-phat-va-truy-thu-thue-hon-800-trieu-dong-188260911090332927.chn",
         "published": "Fri, 11 Sep 26 09:03:00 +0700"
-      },
-      {
-        "title": "Giá vàng chưa về đỉnh, các quỹ ETF đã tăng nắm giữ vàng lên cao nhất mọi thời đại",
-        "link": "https://cafef.vn/gia-vang-chua-ve-dinh-cac-quy-etf-da-tang-nam-giu-vang-len-cao-nhat-moi-thoi-dai-188260910224016274.chn",
-        "published": "Fri, 11 Sep 26 00:10:00 +0700"
-      },
-      {
-        "title": "Dự báo rung lắc sắp xuất hiện, Vietcap chỉ tên 2 cổ phiếu phù hợp để \"lướt sóng\"",
-        "link": "https://cafef.vn/du-bao-rung-lac-sap-xuat-hien-vietcap-chi-ten-2-co-phieu-phu-hop-de-luot-song-188260910223743101.chn",
-        "published": "Fri, 11 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Công ty đại gia Đặng Thành Tâm được dự báo lãi nửa cuối năm tăng gần gấp đôi cùng kỳ",
-        "link": "https://cafef.vn/cong-ty-dai-gia-dang-thanh-tam-duoc-du-bao-lai-nua-cuoi-nam-tang-gan-gap-doi-cung-ky-188260910223638248.chn",
-        "published": "Fri, 11 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
