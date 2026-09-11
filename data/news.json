@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T17:40:18.702794",
+  "fetched_at": "2026-09-11T18:10:12.192148",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
+        "published": "2026-09-11 17:48:33"
+      },
+      {
         "title": "BRICS finance chiefs urge reform of global development financial institutions",
         "link": "https://www.investing.com/news/economy-news/brics-finance-chiefs-urge-reform-of-global-development-financial-institutions-4898277",
         "published": "2026-09-11 17:12:45"
@@ -113,11 +118,6 @@
         "title": "European stocks rise, but log sharp weekly loss as inflation fears linger",
         "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
         "published": "2026-09-11 17:00:48"
-      },
-      {
-        "title": "US consumer inflation picks up in August",
-        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-        "published": "2026-09-11 17:00:31"
       },
       {
         "title": "Reaction roundup: Experts, analysts weigh in on August CPI report",
