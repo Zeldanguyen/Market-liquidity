@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T06:11:37.920175",
+  "fetched_at": "2026-09-11T06:44:14.370727",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,9 +68,9 @@
     ],
     "Vietstock": [
       {
-        "title": "Nhịp đập Thị trường 11/09: Sắc đỏ lan rộng, nhóm dầu khí gồng mình chống đỡ VN-Index",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1109-sac-do-lan-rong-nhom-dau-khi-gong-minh-chong-do-vn-index-1636-1491240.htm",
-        "published": "Fri, 11 Sep 2026 11:42:00 +0700"
+        "title": "Phân tích kỹ thuật phiên chiều 11/09: Triển vọng ngắn hạn đang xấu đi",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1109-trien-vong-ngan-han-dang-xau-di-585-1491273.htm",
+        "published": "Fri, 11 Sep 2026 13:04:00 +0700"
       },
       {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 11/09",
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks",
+        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+        "published": "2026-09-11 06:12:34"
+      },
+      {
         "title": "Japan to maintain close communication with US on currency markets, Katayama says",
         "link": "https://www.investing.com/news/economy-news/japan-to-maintain-close-communication-with-us-on-currency-markets-katayama-says-4897184",
         "published": "2026-09-11 06:00:47"
@@ -123,11 +128,6 @@
         "title": "Saudi Crown Prince urged Trump to strike Houthis, but Trump declined: Axios",
         "link": "https://www.investing.com/news/economy-news/saudi-crown-prince-urged-trump-to-strike-houthis-but-trump-declined-axios-4897223",
         "published": "2026-09-11 05:28:31"
-      },
-      {
-        "title": "Iran, Gulf states to meet in push for Hormuz deal, FT reports",
-        "link": "https://www.investing.com/news/economy-news/iran-gulf-states-to-meet-in-push-for-hormuz-deal-ft-reports-4897222",
-        "published": "2026-09-11 05:23:28"
       }
     ]
   }
