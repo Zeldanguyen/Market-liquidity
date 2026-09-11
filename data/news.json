@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T07:41:30.248342",
+  "fetched_at": "2026-09-11T08:10:22.610206",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 11/09: Sức ép chưa hạ nhiệt",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1109-suc-ep-chua-ha-nhiet-1636-1491240.htm",
+        "published": "Fri, 11 Sep 2026 14:12:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 11/09: Triển vọng ngắn hạn đang xấu đi",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1109-trien-vong-ngan-han-dang-xau-di-585-1491273.htm",
         "published": "Fri, 11 Sep 2026 13:04:00 +0700"
@@ -91,43 +96,38 @@
         "title": "Góc nhìn 11/09: Giao dịch theo vùng hỗ trợ 1,820 - 1,830",
         "link": "http://vietstock.vn/2026/09/goc-nhin-1109-giao-dich-theo-vung-ho-tro-1820-1830-145-1491127.htm",
         "published": "Thu, 10 Sep 2026 19:26:14 +0700"
-      },
-      {
-        "title": "Vietstock Daily 11/09/2026: Phân hóa với thanh khoản thấp",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-11092026-phan-hoa-voi-thanh-khoan-thap-1636-1490984.htm",
-        "published": "Thu, 10 Sep 2026 18:11:15 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "U.S. CPI looms large; Oracle, Adobe report - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/us-cpi-looms-large-oracle-adobe-report--whats-moving-markets-4897338",
+        "published": "2026-09-11 07:56:33"
+      },
+      {
+        "title": "Australian shares slump to two-month low as miners fall",
+        "link": "https://www.investing.com/news/economy-news/australian-shares-slump-to-twomonth-low-as-miners-fall-4897337",
+        "published": "2026-09-11 07:56:05"
+      },
+      {
+        "title": "ECB policymakers open door to more rate hikes on energy risk",
+        "link": "https://www.investing.com/news/economy-news/ecb-might-need-mildly-restrictive-policy-nagel-says-4897301",
+        "published": "2026-09-11 07:54:37"
+      },
+      {
+        "title": "Austrian central bank says economic outlook improving, to be felt next year",
+        "link": "https://www.investing.com/news/economy-news/austrian-central-bank-says-economic-outlook-improving-to-be-felt-next-year-4897318",
+        "published": "2026-09-11 07:36:50"
+      },
+      {
+        "title": "French economy not in danger but deficit must be cut, central bank chief says",
+        "link": "https://www.investing.com/news/economy-news/frances-economy-not-a-catastrophe-but-deficit-must-be-reduced-frances-moulin-says-4897276",
+        "published": "2026-09-11 07:36:33"
+      },
+      {
         "title": "European stocks rise but head for sharp weekly declines",
         "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
         "published": "2026-09-11 07:30:50"
-      },
-      {
-        "title": "ECB might need mildly restrictive policy, Nagel says",
-        "link": "https://www.investing.com/news/economy-news/ecb-might-need-mildly-restrictive-policy-nagel-says-4897301",
-        "published": "2026-09-11 07:18:51"
-      },
-      {
-        "title": "Hong Kong court jails two Tiananmen vigil group leaders for 7 years",
-        "link": "https://www.investing.com/news/economy-news/hong-kong-court-jails-two-tiananmen-vigil-group-leaders-for-7-years-4897191",
-        "published": "2026-09-11 07:07:04"
-      },
-      {
-        "title": "France’s economy not a catastrophe but deficit must be reduced, France’s Moulin says",
-        "link": "https://www.investing.com/news/economy-news/frances-economy-not-a-catastrophe-but-deficit-must-be-reduced-frances-moulin-says-4897276",
-        "published": "2026-09-11 06:54:50"
-      },
-      {
-        "title": "ECB may need to raise rates to curb economy, Nagel says",
-        "link": "https://www.investing.com/news/economy-news/ecb-may-need-to-raise-rates-to-curb-economy-nagel-says-93CH-4897274",
-        "published": "2026-09-11 06:50:55"
-      },
-      {
-        "title": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks",
-        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
-        "published": "2026-09-11 06:12:34"
       }
     ]
   }
