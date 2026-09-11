@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-11T17:08:22.321690",
+  "fetched_at": "2026-09-11T17:40:18.702794",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Khối ngoại thẳng tay bán ròng 1.600 tỷ đồng cổ phiếu Việt Nam tuần 7-11/9, cổ phiếu nào bị \"xả\" mạnh nhất?",
+        "link": "https://cafef.vn/khoi-ngoai-thang-tay-ban-rong-1600-ty-dong-co-phieu-viet-nam-tuan-7-11-9-co-phieu-nao-bi-xa-manh-nhat-188260911234916741.chn",
+        "published": "Sat, 12 Sep 26 00:08:00 +0700"
+      },
       {
         "title": "Một biến số từng gây sức ép lên thị trường có thể trở lại vào cuối năm",
         "link": "https://cafef.vn/mot-bien-so-tung-gay-suc-ep-len-thi-truong-co-the-tro-lai-vao-cuoi-nam-188260911222217529.chn",
@@ -27,11 +32,6 @@
         "title": "Bản Việt sắp bán sạch cổ phiếu Vietcap?",
         "link": "https://cafef.vn/ban-viet-sap-ban-sach-co-phieu-vietcap-18826091122464051.chn",
         "published": "Fri, 11 Sep 26 23:03:00 +0700"
-      },
-      {
-        "title": "Gặp Phó Thủ tướng, DN Thái Lan muốn tăng sản xuất mặt hàng như “xương sống” của ngành xây dựng ở Việt Nam",
-        "link": "https://cafef.vn/gap-pho-thu-tuong-dn-thai-lan-muon-tang-san-xuat-mat-hang-nhu-xuong-song-cua-nganh-xay-dung-o-viet-nam-188260911174414743.chn",
-        "published": "Fri, 11 Sep 26 19:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-        "published": "2026-09-11 15:48:47"
-      },
-      {
-        "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
-        "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
-        "published": "2026-09-11 15:42:24"
-      },
-      {
-        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
-        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4898196",
-        "published": "2026-09-11 15:18:55"
-      },
-      {
-        "title": "US regulators propose third-party risk management guidance for banks",
-        "link": "https://www.investing.com/news/economy-news/us-regulators-propose-thirdparty-risk-management-guidance-for-banks-93CH-4898188",
-        "published": "2026-09-11 15:11:30"
-      },
-      {
-        "title": "White House official defends Trump’s $5,000 check proposal",
-        "link": "https://www.investing.com/news/economy-news/white-house-official-defends-trumps-5000-check-proposal-93CH-4898174",
-        "published": "2026-09-11 14:59:13"
+        "title": "BRICS finance chiefs urge reform of global development financial institutions",
+        "link": "https://www.investing.com/news/economy-news/brics-finance-chiefs-urge-reform-of-global-development-financial-institutions-4898277",
+        "published": "2026-09-11 17:12:45"
       },
       {
         "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
         "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
-        "published": "2026-09-11 14:54:30"
+        "published": "2026-09-11 17:06:29"
+      },
+      {
+        "title": "European stocks rise, but log sharp weekly loss as inflation fears linger",
+        "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
+        "published": "2026-09-11 17:00:48"
+      },
+      {
+        "title": "US consumer inflation picks up in August",
+        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
+        "published": "2026-09-11 17:00:31"
+      },
+      {
+        "title": "Reaction roundup: Experts, analysts weigh in on August CPI report",
+        "link": "https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-august-cpi-report-4898262",
+        "published": "2026-09-11 16:53:07"
+      },
+      {
+        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+        "published": "2026-09-11 15:48:47"
       }
     ]
   }
