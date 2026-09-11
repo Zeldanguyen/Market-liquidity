@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T20:09:31.677082",
+  "fetched_at": "2026-09-11T20:40:11.031690",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
+        "published": "2026-09-11 20:12:50"
+      },
+      {
+        "title": "Brazil’s Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
+        "link": "https://www.investing.com/news/economy-news/brazils-eduardo-bolsonaro-to-push-for-us-sanctions-against-supreme-court-justice-during-washington-visit-4898398",
+        "published": "2026-09-11 20:12:30"
+      },
+      {
         "title": "Factbox-How Anthropic says Claude was used for weapons, spying and cyber operations",
         "link": "https://www.investing.com/news/economy-news/factboxhow-anthropic-says-claude-was-used-for-weapons-spying-and-cyber-operations-4898365",
         "published": "2026-09-11 19:30:51"
@@ -118,16 +128,6 @@
         "title": "US budget deficit shrinks in August, year-to-date flat at $1.97 trillion",
         "link": "https://www.investing.com/news/economy-news/us-budget-deficit-shrinks-in-august-yeartodate-flat-at-197-trillion-4898315",
         "published": "2026-09-11 18:48:27"
-      },
-      {
-        "title": "US budget deficit falls to $167 billion in August",
-        "link": "https://www.investing.com/news/economy-news/us-budget-deficit-falls-to-167-billion-in-august-93CH-4898314",
-        "published": "2026-09-11 18:06:02"
-      },
-      {
-        "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
-        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-        "published": "2026-09-11 17:48:33"
       }
     ]
   }
