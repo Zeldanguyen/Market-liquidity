@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T15:09:18.634437",
+  "fetched_at": "2026-09-11T15:40:52.593642",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
+        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4898196",
+        "published": "2026-09-11 15:18:55"
+      },
+      {
+        "title": "US regulators propose third-party risk management guidance for banks",
+        "link": "https://www.investing.com/news/economy-news/us-regulators-propose-thirdparty-risk-management-guidance-for-banks-93CH-4898188",
+        "published": "2026-09-11 15:11:30"
+      },
+      {
+        "title": "White House official defends Trump’s $5,000 check proposal",
+        "link": "https://www.investing.com/news/economy-news/white-house-official-defends-trumps-5000-check-proposal-93CH-4898174",
+        "published": "2026-09-11 14:59:13"
+      },
+      {
         "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
         "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
         "published": "2026-09-11 14:54:30"
@@ -113,21 +128,6 @@
         "title": "Bond yields near multi-year peaks, Wall Street surges on accelerating US prices",
         "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
         "published": "2026-09-11 14:25:05"
-      },
-      {
-        "title": "Fed seen likely to raise rates next week after inflation report",
-        "link": "https://www.investing.com/news/economy-news/fed-seen-likely-to-raise-rates-next-week-after-inflation-report-4898077",
-        "published": "2026-09-11 13:49:31"
-      },
-      {
-        "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
-        "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
-        "published": "2026-09-11 13:19:33"
-      },
-      {
-        "title": "Brazil inflation slows more than expected in August",
-        "link": "https://www.investing.com/news/economy-news/brazil-inflation-slows-more-than-expected-in-august-93CH-4897985",
-        "published": "2026-09-11 13:11:41"
       }
     ]
   }
