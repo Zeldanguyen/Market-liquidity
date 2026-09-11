@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T20:40:11.031690",
+  "fetched_at": "2026-09-11T21:08:34.724753",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+        "published": "2026-09-11 20:54:30"
+      },
+      {
         "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
         "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
         "published": "2026-09-11 20:12:50"
@@ -123,11 +128,6 @@
         "title": "Wall Street jumps, oil lower ahead of Fed vote next week",
         "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
         "published": "2026-09-11 19:12:27"
-      },
-      {
-        "title": "US budget deficit shrinks in August, year-to-date flat at $1.97 trillion",
-        "link": "https://www.investing.com/news/economy-news/us-budget-deficit-shrinks-in-august-yeartodate-flat-at-197-trillion-4898315",
-        "published": "2026-09-11 18:48:27"
       }
     ]
   }
