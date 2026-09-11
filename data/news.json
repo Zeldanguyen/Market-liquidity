@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T05:09:03.761195",
+  "fetched_at": "2026-09-11T05:40:01.985631",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 11/09: Sắc đỏ lan rộng, nhóm dầu khí gồng mình chống đỡ VN-Index",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1109-sac-do-lan-rong-nhom-dau-khi-gong-minh-chong-do-vn-index-1636-1491240.htm",
+        "published": "Fri, 11 Sep 2026 11:42:00 +0700"
+      },
+      {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 11/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1109-830-1490917.htm",
         "published": "Fri, 11 Sep 2026 08:00:00 +0700"
@@ -91,14 +96,19 @@
         "title": "Vietstock Daily 11/09/2026: Phân hóa với thanh khoản thấp",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-11092026-phan-hoa-voi-thanh-khoan-thap-1636-1490984.htm",
         "published": "Thu, 10 Sep 2026 18:11:15 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 10/09: Tiếp đà tăng điểm, VN-Index đóng cửa trong sắc xanh",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-tiep-da-tang-diem-vn-index-dong-cua-trong-sac-xanh-1636-1490787.htm",
-        "published": "Thu, 10 Sep 2026 16:47:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Iran, Gulf states to meet in push for Hormuz deal, FT reports",
+        "link": "https://www.investing.com/news/economy-news/iran-gulf-states-to-meet-in-push-for-hormuz-deal-ft-reports-4897222",
+        "published": "2026-09-11 05:23:28"
+      },
+      {
+        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
+        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
+        "published": "2026-09-11 05:19:42"
+      },
       {
         "title": "Hong Kong court jails two Tiananmen vigil group leaders for 7 years",
         "link": "https://www.investing.com/news/economy-news/hong-kong-court-jails-two-tiananmen-vigil-group-leaders-for-7-years-4897191",
@@ -118,16 +128,6 @@
         "title": "Gasoline likely to boost US consumer prices in August",
         "link": "https://www.investing.com/news/economy-news/gasoline-likely-to-boost-us-consumer-prices-in-august-4897206",
         "published": "2026-09-11 04:06:40"
-      },
-      {
-        "title": "BOJ to hike rates by 25 bps next week- Reuters",
-        "link": "https://www.investing.com/news/economy-news/boj-to-hike-rates-by-25-bps-next-week-reuters-4897203",
-        "published": "2026-09-11 04:04:49"
-      },
-      {
-        "title": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
-        "link": "https://www.investing.com/news/economy-news/boj-set-to-lift-rates-next-week-but-offer-few-clues-on-terminal-sources-say-4897189",
-        "published": "2026-09-11 03:00:27"
       }
     ]
   }
