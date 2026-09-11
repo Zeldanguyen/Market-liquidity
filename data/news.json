@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-11T02:09:31.231556",
+  "fetched_at": "2026-09-11T02:41:17.488486",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng xuống mức thấp nhất trong 3 tuần",
+        "link": "https://cafef.vn/gia-vang-xuong-muc-thap-nhat-trong-3-tuan-188260911092844446.chn",
+        "published": "Fri, 11 Sep 26 09:29:00 +0700"
+      },
+      {
+        "title": "Gần 10.000 tỷ đồng cổ tức sắp chảy về Viettel từ mảng kinh doanh quốc tế",
+        "link": "https://cafef.vn/gan-10000-ty-dong-co-tuc-sap-chay-ve-viettel-tu-mang-kinh-doanh-quoc-te-188260911092435899.chn",
+        "published": "Fri, 11 Sep 26 09:25:00 +0700"
+      },
       {
         "title": "Vidipha bị phạt và truy thu thuế hơn 800 triệu đồng",
         "link": "https://cafef.vn/vidipha-bi-phat-va-truy-thu-thue-hon-800-trieu-dong-188260911090332927.chn",
@@ -22,16 +32,6 @@
         "title": "Công ty đại gia Đặng Thành Tâm được dự báo lãi nửa cuối năm tăng gần gấp đôi cùng kỳ",
         "link": "https://cafef.vn/cong-ty-dai-gia-dang-thanh-tam-duoc-du-bao-lai-nua-cuoi-nam-tang-gan-gap-doi-cung-ky-188260910223638248.chn",
         "published": "Fri, 11 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "CTCK chỉ ra 6 cổ phiếu “hưởng lợi kép\" trước ngày nâng hạng",
-        "link": "https://cafef.vn/ctck-chi-ra-6-co-phieu-huong-loi-kep-truoc-ngay-nang-hang-188260910221106269.chn",
-        "published": "Fri, 11 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Đại gia Việt có thêm hơn 200 tỷ đồng trong ngày iPhone 18 ra mắt",
-        "link": "https://cafef.vn/dai-gia-viet-co-them-hon-200-ty-dong-trong-ngay-iphone-18-ra-mat-188260910221016984.chn",
-        "published": "Fri, 11 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
