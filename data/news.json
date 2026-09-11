@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T05:40:01.985631",
+  "fetched_at": "2026-09-11T06:11:37.920175",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan to maintain close communication with US on currency markets, Katayama says",
+        "link": "https://www.investing.com/news/economy-news/japan-to-maintain-close-communication-with-us-on-currency-markets-katayama-says-4897184",
+        "published": "2026-09-11 06:00:47"
+      },
+      {
+        "title": "Major central banks strike a more hawkish tone as energy costs jump",
+        "link": "https://www.investing.com/news/economy-news/major-central-banks-strike-a-more-hawkish-tone-as-energy-costs-jump-4896297",
+        "published": "2026-09-11 05:56:04"
+      },
+      {
+        "title": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
+        "link": "https://www.investing.com/news/economy-news/boj-set-to-lift-rates-next-week-but-offer-few-clues-on-terminal-sources-say-4897189",
+        "published": "2026-09-11 05:55:26"
+      },
+      {
+        "title": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
+        "link": "https://www.investing.com/news/economy-news/global-bond-selloff-pushes-10year-us-yield-toward-5-on-oil-ratehike-fears-4897226",
+        "published": "2026-09-11 05:54:37"
+      },
+      {
+        "title": "Saudi Crown Prince urged Trump to strike Houthis, but Trump declined: Axios",
+        "link": "https://www.investing.com/news/economy-news/saudi-crown-prince-urged-trump-to-strike-houthis-but-trump-declined-axios-4897223",
+        "published": "2026-09-11 05:28:31"
+      },
+      {
         "title": "Iran, Gulf states to meet in push for Hormuz deal, FT reports",
         "link": "https://www.investing.com/news/economy-news/iran-gulf-states-to-meet-in-push-for-hormuz-deal-ft-reports-4897222",
         "published": "2026-09-11 05:23:28"
-      },
-      {
-        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
-        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
-        "published": "2026-09-11 05:19:42"
-      },
-      {
-        "title": "Hong Kong court jails two Tiananmen vigil group leaders for 7 years",
-        "link": "https://www.investing.com/news/economy-news/hong-kong-court-jails-two-tiananmen-vigil-group-leaders-for-7-years-4897191",
-        "published": "2026-09-11 05:00:31"
-      },
-      {
-        "title": "Morning Bid: Lenders say show me the money as bond carnage spreads",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-lenders-say-show-me-the-money-as-bond-carnage-spreads-4897216",
-        "published": "2026-09-11 04:48:27"
-      },
-      {
-        "title": "Barclays expects ECB to deliver another rate hike in December as inflation pressures persist",
-        "link": "https://www.investing.com/news/economy-news/barclays-expects-ecb-to-deliver-another-rate-hike-in-december-as-inflation-pressures-persist-4897209",
-        "published": "2026-09-11 04:07:59"
-      },
-      {
-        "title": "Gasoline likely to boost US consumer prices in August",
-        "link": "https://www.investing.com/news/economy-news/gasoline-likely-to-boost-us-consumer-prices-in-august-4897206",
-        "published": "2026-09-11 04:06:40"
       }
     ]
   }
