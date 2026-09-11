@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T00:13:12.415388",
+  "fetched_at": "2026-09-11T00:43:31.353268",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Trading Day: Inflation palpitations",
-        "link": "https://www.investing.com/news/economy-news/trading-day-inflation-palpitations-4896968",
-        "published": "2026-09-10 21:06:37"
+        "title": "Japan’s wholesale inflation stays elevated in August, boosts case for rate hike",
+        "link": "https://www.investing.com/news/economy-news/japans-wholesale-inflation-stays-elevated-in-august-boosts-case-for-rate-hike-4897117",
+        "published": "2026-09-11 00:30:32"
+      },
+      {
+        "title": "Brazil’s Lula says he supports discussion setting terms for Supreme Court justices",
+        "link": "https://www.investing.com/news/economy-news/brazils-lula-says-he-supports-discussion-setting-terms-for-supreme-court-justices-4897092",
+        "published": "2026-09-10 23:54:48"
       },
       {
         "title": "Trump’s $5,000 dividend plan draws some Republican skepticism",
         "link": "https://www.investing.com/news/economy-news/trumps-5000-dividend-plan-draws-some-republican-skepticism-4896744",
-        "published": "2026-09-10 20:42:34"
+        "published": "2026-09-10 23:06:33"
       },
       {
         "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
         "link": "https://www.investing.com/news/economy-news/wall-st-set-for-lower-open-after-hotterthanexpected-producer-inflation-data-4896053",
-        "published": "2026-09-10 20:18:50"
+        "published": "2026-09-10 23:01:17"
       },
       {
-        "title": "US Treasury buys back $5.2bn in bonds to support liquidity",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-buys-back-52bn-in-bonds-to-support-liquidity-93CH-4896760",
-        "published": "2026-09-10 19:29:55"
+        "title": "Trump administration to sanction unnamed ’large’ bank on Monday, Bessent says",
+        "link": "https://www.investing.com/news/economy-news/trump-administration-to-sanction-unnamed-large-bank-on-mondaybessent-says-4897040",
+        "published": "2026-09-10 22:48:46"
       },
       {
-        "title": "Druckenmiller says US interest rates too low, criticizes Fed - FT",
-        "link": "https://www.investing.com/news/economy-news/druckenmiller-says-us-interest-rates-too-low-criticizes-fed--ft-93CH-4896700",
-        "published": "2026-09-10 18:30:34"
-      },
-      {
-        "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
-        "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4895338",
-        "published": "2026-09-10 18:01:05"
+        "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+        "link": "https://www.investing.com/news/economy-news/pentagon-in-talks-to-lend-5-billion-to-ai-cloud-startup-fluidstack-wsj-reports-4897014",
+        "published": "2026-09-10 22:07:45"
       }
     ]
   }
