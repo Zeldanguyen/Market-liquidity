@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T12:11:56.478719",
+  "fetched_at": "2026-09-11T12:44:16.128070",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Theo dấu dòng tiền cá mập 11/09: Khối ngoại xả nhóm ngân hàng, tự doanh trở lại bán ròng",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1109-khoi-ngoai-xa-nhom-ngan-hang-tu-doanh-tro-lai-ban-rong-830-1491515.htm",
+        "published": "Fri, 11 Sep 2026 18:42:00 +0700"
+      },
+      {
         "title": "Chứng khoán Tuần 07-11/09/2026: Rủi ro gia tăng",
         "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-07-11092026-rui-ro-gia-tang-1636-1491467.htm",
         "published": "Fri, 11 Sep 2026 18:17:00 +0700"
@@ -91,14 +96,19 @@
         "title": "11/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1109-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491147.htm",
         "published": "Fri, 11 Sep 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 10/09: Khối ngoại và tự doanh gom mạnh VIC và FPT, nhưng trái chiều tại VHM",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1009-khoi-ngoai-va-tu-doanh-gom-manh-vic-va-fpt-nhung-trai-chieu-tai-vhm-830-1491131.htm",
-        "published": "Thu, 10 Sep 2026 19:41:44 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+        "published": "2026-09-11 12:25:35"
+      },
+      {
+        "title": "ChatGPT invented fake police testimony in murder appeal, New Mexico high court says",
+        "link": "https://www.investing.com/news/economy-news/chatgpt-invented-fake-police-testimony-in-murder-appeal-new-mexico-high-court-says-4897839",
+        "published": "2026-09-11 12:13:09"
+      },
       {
         "title": "Bonds, stocks selloff pauses as oil falls; pivotal CPI report due",
         "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
@@ -118,16 +128,6 @@
         "title": "Citi says geopolitical risks are rising for EUR",
         "link": "https://www.investing.com/news/economy-news/citi-says-geopolitical-risks-are-rising-for-eur-4897743",
         "published": "2026-09-11 11:50:00"
-      },
-      {
-        "title": "How much has UK fiscal headroom narrowed ahead of autumn budget?",
-        "link": "https://www.investing.com/news/economy-news/how-much-has-uk-fiscal-headroom-narrowed-ahead-of-autumn-budget-4897694",
-        "published": "2026-09-11 11:28:23"
-      },
-      {
-        "title": "US equity funds record nine-month high outflows as oil stokes inflation fears",
-        "link": "https://www.investing.com/news/economy-news/us-equity-funds-record-ninemonth-high-outflows-as-oil-stokes-inflation-fears-4897684",
-        "published": "2026-09-11 11:19:00"
       }
     ]
   }
