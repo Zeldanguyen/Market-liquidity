@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T19:08:45.402964",
+  "fetched_at": "2026-09-11T19:37:55.103224",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
+        "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
+        "published": "2026-09-11 19:18:32"
+      },
+      {
+        "title": "Wall Street jumps, oil lower ahead of Fed vote next week",
+        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+        "published": "2026-09-11 19:12:27"
+      },
+      {
         "title": "US budget deficit shrinks in August, year-to-date flat at $1.97 trillion",
         "link": "https://www.investing.com/news/economy-news/us-budget-deficit-shrinks-in-august-yeartodate-flat-at-197-trillion-4898315",
         "published": "2026-09-11 18:48:27"
@@ -118,16 +128,6 @@
         "title": "BRICS finance chiefs urge reform of global development financial institutions",
         "link": "https://www.investing.com/news/economy-news/brics-finance-chiefs-urge-reform-of-global-development-financial-institutions-4898277",
         "published": "2026-09-11 17:12:45"
-      },
-      {
-        "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
-        "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
-        "published": "2026-09-11 17:06:29"
-      },
-      {
-        "title": "European stocks rise, but log sharp weekly loss as inflation fears linger",
-        "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
-        "published": "2026-09-11 17:00:48"
       }
     ]
   }
