@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T13:08:58.018080",
+  "fetched_at": "2026-09-11T13:41:18.478184",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "US consumer inflation picks up in August",
-        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-        "published": "2026-09-11 12:54:33"
+        "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
+        "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
+        "published": "2026-09-11 13:19:33"
       },
       {
-        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-        "published": "2026-09-11 12:25:35"
-      },
-      {
-        "title": "ChatGPT invented fake police testimony in murder appeal, New Mexico high court says",
-        "link": "https://www.investing.com/news/economy-news/chatgpt-invented-fake-police-testimony-in-murder-appeal-new-mexico-high-court-says-4897839",
-        "published": "2026-09-11 12:13:09"
-      },
-      {
-        "title": "Bonds, stocks selloff pauses as oil falls; pivotal CPI report due",
+        "title": "Bond yields near multi-year peaks after accelerating U.S. inflation, traders add to Fed hike bets",
         "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
-        "published": "2026-09-11 12:07:31"
+        "published": "2026-09-11 13:19:16"
       },
       {
-        "title": "ECB’s Makhlouf says further rate hikes could hurt economic growth",
-        "link": "https://www.investing.com/news/economy-news/ecbs-makhlouf-says-further-rate-hikes-could-hurt-economic-growth-4897804",
-        "published": "2026-09-11 12:07:11"
+        "title": "Brazil inflation slows more than expected in August",
+        "link": "https://www.investing.com/news/economy-news/brazil-inflation-slows-more-than-expected-in-august-93CH-4897985",
+        "published": "2026-09-11 13:11:41"
       },
       {
-        "title": "Brazilian top court unseals probe into multibillion-dollar bank fraud",
-        "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
-        "published": "2026-09-11 12:06:36"
+        "title": "Norway’s Princess Astrid dies at age 94, two days after King’s funeral",
+        "link": "https://www.investing.com/news/economy-news/norways-princess-astrid-dies-at-age-94-two-days-after-kings-funeral-93CH-4897979",
+        "published": "2026-09-11 13:09:14"
+      },
+      {
+        "title": "Cooling inflation strengthens bets on another Brazil rate cut",
+        "link": "https://www.investing.com/news/economy-news/cooling-inflation-strengthens-bets-on-another-brazil-rate-cut-4897977",
+        "published": "2026-09-11 13:06:42"
+      },
+      {
+        "title": "Can the BoE afford to stay on hold while the ECB and Fed raise rates?",
+        "link": "https://www.investing.com/news/economy-news/can-the-boe-afford-to-stay-on-hold-while-the-ecb-and-fed-raise-rates-4897940",
+        "published": "2026-09-11 12:59:58"
       }
     ]
   }
