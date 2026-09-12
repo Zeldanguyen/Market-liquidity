@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-12T10:09:21.246757",
+  "fetched_at": "2026-09-12T10:38:07.291704",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Con gái Chủ tịch PNJ bán xong 7 triệu cổ phiếu",
+        "link": "https://cafef.vn/con-gai-chu-tich-pnj-ban-xong-7-trieu-co-phieu-188260912171341719.chn",
+        "published": "Sat, 12 Sep 26 17:13:00 +0700"
+      },
       {
         "title": "Hoá chất Đức Giang đề cử 2 ứng viên vào HĐQT Ắc quy Tia Sáng",
         "link": "https://cafef.vn/hoa-chat-duc-giang-de-cu-2-ung-vien-vao-hdqt-ac-quy-tia-sang-188260912153729858.chn",
@@ -27,11 +32,6 @@
         "title": "Những 'người thừa kế' kín tiếng nhà tỷ phú Phạm Nhật Vượng",
         "link": "https://cafef.vn/nhung-nguoi-thua-ke-kin-tieng-nha-ty-phu-pham-nhat-vuong-188260912121648853.chn",
         "published": "Sat, 12 Sep 26 12:27:00 +0700"
-      },
-      {
-        "title": "Một doanh nghiệp sắp trả cổ tức 5.000 đồng/cp, đều đặn \"mưa tiền mặt\" suốt 17 năm",
-        "link": "https://cafef.vn/mot-doanh-nghiep-sap-tra-co-tuc-5000-dong-cp-deu-dan-mua-tien-mat-suot-17-nam-188260912120944476.chn",
-        "published": "Sat, 12 Sep 26 12:09:00 +0700"
       }
     ],
     "VnEconomy": [
