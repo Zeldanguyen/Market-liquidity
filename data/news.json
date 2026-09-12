@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-12T08:40:37.995743",
+  "fetched_at": "2026-09-12T09:09:16.325221",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Xác định số phận cổ phiếu LDG",
+        "link": "https://cafef.vn/xac-dinh-so-phan-co-phieu-ldg-188260912153556575.chn",
+        "published": "Sat, 12 Sep 26 15:59:00 +0700"
+      },
       {
         "title": "Chứng khoán APG hủy kế hoạch chào bán 50 triệu cổ phiếu riêng lẻ",
         "link": "https://cafef.vn/chung-khoan-apg-huy-ke-hoach-chao-ban-50-trieu-co-phieu-rieng-le-188260912130355322.chn",
@@ -27,11 +32,6 @@
         "title": "Chân dung ông Phạm Nhật Minh Hoàng, 26 tuổi, vừa ngồi ghế Tổng giám đốc GSM toàn cầu",
         "link": "https://cafef.vn/chan-dung-ong-pham-nhat-minh-hoang-26-tuoi-vua-ngoi-ghe-tong-giam-doc-gsm-toan-cau-188260912092618435.chn",
         "published": "Sat, 12 Sep 26 09:32:00 +0700"
-      },
-      {
-        "title": "Con trai thứ của ông Phạm Nhật Vượng được bổ nhiệm làm Tổng giám đốc GSM toàn cầu kiêm Tổng giám đốc GSM Việt Nam",
-        "link": "https://cafef.vn/con-trai-thu-cua-ong-pham-nhat-vuong-duoc-bo-nhiem-lam-tong-giam-doc-gsm-toan-cau-kiem-tong-giam-doc-gsm-viet-nam-188260912090407814.chn",
-        "published": "Sat, 12 Sep 26 09:05:00 +0700"
       }
     ],
     "VnEconomy": [
