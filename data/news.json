@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-12T01:38:15.373250",
+  "fetched_at": "2026-09-12T02:09:32.063556",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Con trai thứ của ông Phạm Nhật Vượng được bổ nhiệm làm Tổng giám đốc GSM toàn cầu kiêm Tổng giám đốc GSM Việt Nam",
+        "link": "https://cafef.vn/con-trai-thu-cua-ong-pham-nhat-vuong-duoc-bo-nhiem-lam-tong-giam-doc-gsm-toan-cau-kiem-tong-giam-doc-gsm-viet-nam-188260912090407814.chn",
+        "published": "Sat, 12 Sep 26 09:05:00 +0700"
+      },
       {
         "title": "Quỹ ETF quy mô hơn 500 triệu USD thêm mới cổ phiếu SSB, dự kiến bán mạnh VIC, SSI",
         "link": "https://cafef.vn/quy-etf-quy-mo-hon-500-trieu-usd-them-moi-co-phieu-ssb-du-kien-ban-manh-vic-ssi-188260912064322227.chn",
@@ -27,11 +32,6 @@
         "title": "Cơ hội hiếm có trong nhiều năm sắp xuất hiện trên TTCK",
         "link": "https://cafef.vn/co-hoi-hiem-co-trong-nhieu-nam-sap-xuat-hien-tren-ttck-188260911222313875.chn",
         "published": "Sat, 12 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "HOSE công bố 72 mã cổ phiếu bị cắt margin tháng 9",
-        "link": "https://cafef.vn/hose-cong-bo-72-ma-co-phieu-bi-cat-margin-thang-9-18826091116435351.chn",
-        "published": "Sat, 12 Sep 26 00:04:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Australia’s Optus apologises for outage that disrupted emergency calls",
+        "link": "https://www.investing.com/news/economy-news/australias-optus-apologises-for-outage-that-disrupted-emergency-calls-4898603",
+        "published": "2026-09-12 02:00:29"
+      },
+      {
+        "title": "How much more gold could central banks buy?",
+        "link": "https://www.investing.com/news/economy-news/how-much-more-gold-could-central-banks-buy-4898602",
+        "published": "2026-09-12 02:00:13"
+      },
+      {
         "title": "US judge blocks Trump administration’s ’loyalty’ question for job applicants",
         "link": "https://www.investing.com/news/economy-news/us-judge-blocks-trump-administrations-loyalty-question-for-job-applicants-4898574",
         "published": "2026-09-12 00:36:24"
@@ -118,16 +128,6 @@
         "title": "Investors brace for possible rate hike at uncertain Fed meeting",
         "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
         "published": "2026-09-11 22:12:43"
-      },
-      {
-        "title": "Brazil’s Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
-        "link": "https://www.investing.com/news/economy-news/brazils-eduardo-bolsonaro-to-push-for-us-sanctions-against-supreme-court-justice-during-washington-visit-4898398",
-        "published": "2026-09-11 20:12:30"
-      },
-      {
-        "title": "Factbox-How Anthropic says Claude was used for weapons, spying and cyber operations",
-        "link": "https://www.investing.com/news/economy-news/factboxhow-anthropic-says-claude-was-used-for-weapons-spying-and-cyber-operations-4898365",
-        "published": "2026-09-11 19:30:51"
       }
     ]
   }
