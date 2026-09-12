@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T17:36:58.818029",
+  "fetched_at": "2026-09-12T18:10:06.113916",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Iran says Hormuz reopening depends on U.S. meeting its conditions",
+        "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
+        "published": "2026-09-12 17:04:09"
+      },
+      {
         "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "link": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
         "published": "2026-09-12 15:24:53"
@@ -108,11 +113,6 @@
         "title": "Anthropic CEO urges AI companies to slow model development",
         "link": "https://www.investing.com/news/economy-news/anthropic-ceo-urges-ai-companies-to-slow-model-development-4898663",
         "published": "2026-09-12 14:24:36"
-      },
-      {
-        "title": "Trump says Iran war likely to end after midterms as Yemen fighting escalates",
-        "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
-        "published": "2026-09-12 13:38:14"
       },
       {
         "title": "Citi sees Fed delivering \"a dovish hike\" next week",
