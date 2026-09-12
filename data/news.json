@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T06:42:29.371879",
+  "fetched_at": "2026-09-12T07:08:27.693398",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Houthis seize Red Sea coast as Saudi pipeline shutdown deepens oil risks",
+        "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
+        "published": "2026-09-12 06:39:08"
+      },
+      {
+        "title": "Burnham faces UK economic test as budget day approaches",
+        "link": "https://www.investing.com/news/economy-news/burnham-faces-uk-economic-test-as-budget-day-approaches-4898629",
+        "published": "2026-09-12 06:01:48"
+      },
+      {
+        "title": "Saudi Arabia shuts key oil pipeline after Houthi’s drone attack - Reuters",
+        "link": "https://www.investing.com/news/economy-news/saudi-arabia-shuts-key-oil-pipeline-after-houthis-drone-attack--reuters-4898625",
+        "published": "2026-09-12 04:35:54"
+      },
+      {
         "title": "UBS sees Chinese carmakers reach 37% globally by 2030",
         "link": "https://www.investing.com/news/economy-news/ubs-sees-chinese-carmakers-reach-37-globally-by-2030-4898622",
         "published": "2026-09-12 03:57:46"
@@ -113,21 +128,6 @@
         "title": "Trump says he’s open to Chinese automakers building cars in the U.S.",
         "link": "https://www.investing.com/news/economy-news/trump-says-hes-open-to-chinese-automakers-building-cars-in-the-us-4898613",
         "published": "2026-09-12 02:41:32"
-      },
-      {
-        "title": "Australia’s Optus apologises for outage that disrupted emergency calls",
-        "link": "https://www.investing.com/news/economy-news/australias-optus-apologises-for-outage-that-disrupted-emergency-calls-4898603",
-        "published": "2026-09-12 02:00:29"
-      },
-      {
-        "title": "How much more gold could central banks buy?",
-        "link": "https://www.investing.com/news/economy-news/how-much-more-gold-could-central-banks-buy-4898602",
-        "published": "2026-09-12 02:00:13"
-      },
-      {
-        "title": "US judge blocks Trump administration’s ’loyalty’ question for job applicants",
-        "link": "https://www.investing.com/news/economy-news/us-judge-blocks-trump-administrations-loyalty-question-for-job-applicants-4898574",
-        "published": "2026-09-12 00:36:24"
       }
     ]
   }
