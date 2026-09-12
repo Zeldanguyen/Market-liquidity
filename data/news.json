@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T13:37:43.766549",
+  "fetched_at": "2026-09-12T14:08:38.960959",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "VIC, VHM cùng loạt cổ phiếu ngân hàng kéo VN-Index về dưới 1,800 điểm",
+        "link": "http://vietstock.vn/2026/09/vic-vhm-cung-loat-co-phieu-ngan-hang-keo-vn-index-ve-duoi-1800-diem-830-1491730.htm",
+        "published": "Sat, 12 Sep 2026 20:30:00 +0700"
+      },
+      {
         "title": "Cổ phiếu Camimex rời diện cảnh báo",
         "link": "http://vietstock.vn/2026/09/co-phieu-camimex-roi-dien-canh-bao-830-1491278.htm",
         "published": "Sat, 12 Sep 2026 09:32:00 +0700"
@@ -91,23 +96,18 @@
         "title": "Nhịp đập Thị trường 11/09: VN-Index rơi khỏi mốc 1,800 điểm, nhóm dầu khí lội ngược dòng",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1109-vn-index-roi-khoi-moc-1800-diem-nhom-dau-khi-loi-nguoc-dong-1636-1491240.htm",
         "published": "Fri, 11 Sep 2026 16:52:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 11/09: Triển vọng ngắn hạn đang xấu đi",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1109-trien-vong-ngan-han-dang-xau-di-585-1491273.htm",
-        "published": "Fri, 11 Sep 2026 13:04:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump says Iran war likely to end after midterms as Yemen fighting escalates",
+        "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
+        "published": "2026-09-12 13:38:14"
+      },
+      {
         "title": "Citi sees Fed delivering \"a dovish hike\" next week",
         "link": "https://www.investing.com/news/economy-news/citi-sees-fed-delivering-a-dovish-hike-next-week-4898646",
         "published": "2026-09-12 10:57:57"
-      },
-      {
-        "title": "Trump says Iran war likely to end after midterms as Yemen fighting escalates",
-        "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
-        "published": "2026-09-12 10:34:38"
       },
       {
         "title": "How Europeans save — and why it matters for the economy",
