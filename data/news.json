@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-12T10:38:07.291704",
+  "fetched_at": "2026-09-12T11:08:34.367078",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Thành viên HĐQT SSI mua thành công 5 triệu cổ phiếu",
+        "link": "https://cafef.vn/thanh-vien-hdqt-ssi-mua-thanh-cong-5-trieu-co-phieu-188260912174803709.chn",
+        "published": "Sat, 12 Sep 26 17:47:00 +0700"
+      },
       {
         "title": "Con gái Chủ tịch PNJ bán xong 7 triệu cổ phiếu",
         "link": "https://cafef.vn/con-gai-chu-tich-pnj-ban-xong-7-trieu-co-phieu-188260912171341719.chn",
@@ -27,11 +32,6 @@
         "title": "Chứng khoán APG hủy kế hoạch chào bán 50 triệu cổ phiếu riêng lẻ",
         "link": "https://cafef.vn/chung-khoan-apg-huy-ke-hoach-chao-ban-50-trieu-co-phieu-rieng-le-188260912130355322.chn",
         "published": "Sat, 12 Sep 26 13:03:00 +0700"
-      },
-      {
-        "title": "Những 'người thừa kế' kín tiếng nhà tỷ phú Phạm Nhật Vượng",
-        "link": "https://cafef.vn/nhung-nguoi-thua-ke-kin-tieng-nha-ty-phu-pham-nhat-vuong-188260912121648853.chn",
-        "published": "Sat, 12 Sep 26 12:27:00 +0700"
       }
     ],
     "VnEconomy": [
