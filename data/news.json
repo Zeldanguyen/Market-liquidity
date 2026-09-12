@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T04:09:23.159133",
+  "fetched_at": "2026-09-12T04:40:39.580818",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UBS sees Chinese carmakers reach 37% globally by 2030",
+        "link": "https://www.investing.com/news/economy-news/ubs-sees-chinese-carmakers-reach-37-globally-by-2030-4898622",
+        "published": "2026-09-12 03:57:46"
+      },
+      {
+        "title": "U.S. links Chinese satellite imagery to deadly Iranian strike - WSJ",
+        "link": "https://www.investing.com/news/economy-news/us-links-chinese-satellite-imagery-to-deadly-iranian-strike--wsj-4898616",
+        "published": "2026-09-12 03:16:44"
+      },
+      {
+        "title": "Trump says he’s open to Chinese automakers building cars in the U.S.",
+        "link": "https://www.investing.com/news/economy-news/trump-says-hes-open-to-chinese-automakers-building-cars-in-the-us-4898613",
+        "published": "2026-09-12 02:41:32"
+      },
+      {
         "title": "Australia’s Optus apologises for outage that disrupted emergency calls",
         "link": "https://www.investing.com/news/economy-news/australias-optus-apologises-for-outage-that-disrupted-emergency-calls-4898603",
         "published": "2026-09-12 02:00:29"
@@ -113,21 +128,6 @@
         "title": "US judge blocks Trump administration’s ’loyalty’ question for job applicants",
         "link": "https://www.investing.com/news/economy-news/us-judge-blocks-trump-administrations-loyalty-question-for-job-applicants-4898574",
         "published": "2026-09-12 00:36:24"
-      },
-      {
-        "title": "Why AfD victory raises fiscal and demographic questions for Germany",
-        "link": "https://www.investing.com/news/economy-news/why-afd-victory-raises-fiscal-and-demographic-questions-for-germany-4898578",
-        "published": "2026-09-12 00:31:04"
-      },
-      {
-        "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
-        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-        "published": "2026-09-12 00:30:25"
-      },
-      {
-        "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-        "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-        "published": "2026-09-11 22:12:43"
       }
     ]
   }
