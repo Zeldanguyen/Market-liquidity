@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T00:12:07.536000",
+  "fetched_at": "2026-09-12T00:43:17.011209",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US judge blocks Trump administration’s ’loyalty’ question for job applicants",
+        "link": "https://www.investing.com/news/economy-news/us-judge-blocks-trump-administrations-loyalty-question-for-job-applicants-4898574",
+        "published": "2026-09-12 00:18:30"
+      },
+      {
         "title": "Investors brace for possible rate hike at uncertain Fed meeting",
         "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
         "published": "2026-09-11 22:12:43"
@@ -123,11 +128,6 @@
         "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
         "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
         "published": "2026-09-11 19:18:32"
-      },
-      {
-        "title": "Wall Street jumps, oil lower ahead of Fed vote next week",
-        "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
-        "published": "2026-09-11 19:12:27"
       }
     ]
   }
