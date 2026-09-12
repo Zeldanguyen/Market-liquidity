@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T15:09:07.792876",
+  "fetched_at": "2026-09-12T15:37:30.213706",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
+        "link": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
+        "published": "2026-09-12 15:24:53"
+      },
+      {
         "title": "Anthropic CEO urges AI companies to slow model development",
         "link": "https://www.investing.com/news/economy-news/anthropic-ceo-urges-ai-companies-to-slow-model-development-4898663",
         "published": "2026-09-12 14:24:36"
@@ -123,11 +128,6 @@
         "title": "Lagarde enters French election debate as ECB exit speculation grows",
         "link": "https://www.investing.com/news/economy-news/lagarde-enters-french-election-debate-as-ecb-exit-speculation-grows-4898633",
         "published": "2026-09-12 07:58:03"
-      },
-      {
-        "title": "Burnham faces UK economic test as budget day approaches",
-        "link": "https://www.investing.com/news/economy-news/burnham-faces-uk-economic-test-as-budget-day-approaches-4898629",
-        "published": "2026-09-12 06:01:48"
       }
     ]
   }
