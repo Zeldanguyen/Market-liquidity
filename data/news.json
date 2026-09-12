@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T14:40:10.806360",
+  "fetched_at": "2026-09-12T15:09:07.792876",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Anthropic CEO urges AI companies to slow model development",
+        "link": "https://www.investing.com/news/economy-news/anthropic-ceo-urges-ai-companies-to-slow-model-development-4898663",
+        "published": "2026-09-12 14:24:36"
+      },
+      {
         "title": "Trump says Iran war likely to end after midterms as Yemen fighting escalates",
         "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
         "published": "2026-09-12 13:38:14"
@@ -123,11 +128,6 @@
         "title": "Burnham faces UK economic test as budget day approaches",
         "link": "https://www.investing.com/news/economy-news/burnham-faces-uk-economic-test-as-budget-day-approaches-4898629",
         "published": "2026-09-12 06:01:48"
-      },
-      {
-        "title": "Saudi Arabia shuts key oil pipeline after Houthi’s drone attack - Reuters",
-        "link": "https://www.investing.com/news/economy-news/saudi-arabia-shuts-key-oil-pipeline-after-houthis-drone-attack--reuters-4898625",
-        "published": "2026-09-12 04:35:54"
       }
     ]
   }
