@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T00:43:17.011209",
+  "fetched_at": "2026-09-12T01:08:15.990045",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng hồi phục dù khả năng Fed tăng lãi suất đã lên gần 90%, SPDR Gold Trust bán ròng",
+        "link": "https://vneconomy.vn/gia-vang-hoi-phuc-du-kha-nang-fed-tang-lai-suat-da-len-gan-90-spdr-gold-trust-ban-rong.htm",
+        "published": "Sat, 12 Sep 2026 00:59:19 GMT"
+      },
+      {
         "title": "Việt Nam - Pháp hợp tác ứng dụng AI trong quản lý thuế",
         "link": "https://vneconomy.vn/viet-nam-phap-hop-tac-ung-dung-ai-trong-quan-ly-thue.htm",
         "published": "Fri, 11 Sep 2026 11:19:23 GMT"
@@ -59,11 +64,6 @@
         "title": "BIZ MBBank ứng dụng AI và dữ liệu, rút ngắn hành trình vốn cho doanh nghiệp",
         "link": "https://vneconomy.vn/biz-mbbank-ung-dung-ai-va-du-lieu-rut-ngan-hanh-trinh-von-cho-doanh-nghiep.htm",
         "published": "Fri, 11 Sep 2026 09:02:30 GMT"
-      },
-      {
-        "title": "MB đồng hành cùng “Hoa và Rác” 2026, lan tỏa lối sống xanh qua nghệ thuật tái chế",
-        "link": "https://vneconomy.vn/mb-dong-hanh-cung-hoa-va-rac-2026-lan-toa-loi-song-xanh-qua-nghe-thuat-tai-che.htm",
-        "published": "Fri, 11 Sep 2026 08:56:55 GMT"
       }
     ],
     "Vietstock": [
@@ -102,17 +102,22 @@
       {
         "title": "US judge blocks Trump administration’s ’loyalty’ question for job applicants",
         "link": "https://www.investing.com/news/economy-news/us-judge-blocks-trump-administrations-loyalty-question-for-job-applicants-4898574",
-        "published": "2026-09-12 00:18:30"
+        "published": "2026-09-12 00:36:24"
+      },
+      {
+        "title": "Why AfD victory raises fiscal and demographic questions for Germany",
+        "link": "https://www.investing.com/news/economy-news/why-afd-victory-raises-fiscal-and-demographic-questions-for-germany-4898578",
+        "published": "2026-09-12 00:31:04"
+      },
+      {
+        "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
+        "published": "2026-09-12 00:30:25"
       },
       {
         "title": "Investors brace for possible rate hike at uncertain Fed meeting",
         "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
         "published": "2026-09-11 22:12:43"
-      },
-      {
-        "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
-        "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
-        "published": "2026-09-11 20:12:50"
       },
       {
         "title": "Brazil’s Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
@@ -123,11 +128,6 @@
         "title": "Factbox-How Anthropic says Claude was used for weapons, spying and cyber operations",
         "link": "https://www.investing.com/news/economy-news/factboxhow-anthropic-says-claude-was-used-for-weapons-spying-and-cyber-operations-4898365",
         "published": "2026-09-11 19:30:51"
-      },
-      {
-        "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
-        "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
-        "published": "2026-09-11 19:18:32"
       }
     ]
   }
