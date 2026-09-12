@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T07:37:46.369526",
+  "fetched_at": "2026-09-12T08:09:17.625742",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Lagarde enters French election debate as ECB exit speculation grows",
+        "link": "https://www.investing.com/news/economy-news/lagarde-enters-french-election-debate-as-ecb-exit-speculation-grows-4898633",
+        "published": "2026-09-12 07:58:03"
+      },
+      {
         "title": "Houthis seize Red Sea coast as Saudi pipeline shutdown deepens oil risks",
         "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
         "published": "2026-09-12 06:39:08"
@@ -123,11 +128,6 @@
         "title": "U.S. links Chinese satellite imagery to deadly Iranian strike - WSJ",
         "link": "https://www.investing.com/news/economy-news/us-links-chinese-satellite-imagery-to-deadly-iranian-strike--wsj-4898616",
         "published": "2026-09-12 03:16:44"
-      },
-      {
-        "title": "Trump says he’s open to Chinese automakers building cars in the U.S.",
-        "link": "https://www.investing.com/news/economy-news/trump-says-hes-open-to-chinese-automakers-building-cars-in-the-us-4898613",
-        "published": "2026-09-12 02:41:32"
       }
     ]
   }
