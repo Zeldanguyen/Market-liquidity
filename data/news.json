@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-12T05:38:40.456126",
+  "fetched_at": "2026-09-12T06:11:13.782694",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán APG hủy kế hoạch chào bán 50 triệu cổ phiếu riêng lẻ",
+        "link": "https://cafef.vn/chung-khoan-apg-huy-ke-hoach-chao-ban-50-trieu-co-phieu-rieng-le-188260912130355322.chn",
+        "published": "Sat, 12 Sep 26 13:03:00 +0700"
+      },
       {
         "title": "Những 'người thừa kế' kín tiếng nhà tỷ phú Phạm Nhật Vượng",
         "link": "https://cafef.vn/nhung-nguoi-thua-ke-kin-tieng-nha-ty-phu-pham-nhat-vuong-188260912121648853.chn",
@@ -27,11 +32,6 @@
         "title": "Con trai thứ của ông Phạm Nhật Vượng được bổ nhiệm làm Tổng giám đốc GSM toàn cầu kiêm Tổng giám đốc GSM Việt Nam",
         "link": "https://cafef.vn/con-trai-thu-cua-ong-pham-nhat-vuong-duoc-bo-nhiem-lam-tong-giam-doc-gsm-toan-cau-kiem-tong-giam-doc-gsm-viet-nam-188260912090407814.chn",
         "published": "Sat, 12 Sep 26 09:05:00 +0700"
-      },
-      {
-        "title": "Quỹ ETF quy mô hơn 500 triệu USD thêm mới cổ phiếu SSB, dự kiến bán mạnh VIC, SSI",
-        "link": "https://cafef.vn/quy-etf-quy-mo-hon-500-trieu-usd-them-moi-co-phieu-ssb-du-kien-ban-manh-vic-ssi-188260912064322227.chn",
-        "published": "Sat, 12 Sep 26 06:43:00 +0700"
       }
     ],
     "VnEconomy": [
