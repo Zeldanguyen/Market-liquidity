@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-12T17:08:29.139382",
+  "fetched_at": "2026-09-12T17:36:58.818029",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Hai con trai ông Phạm Nhật Vượng đang nắm những vị trí nào trong hệ sinh thái Vingroup?",
+        "link": "https://cafef.vn/hai-con-trai-ong-pham-nhat-vuong-dang-nam-nhung-vi-tri-nao-trong-he-sinh-thai-vingroup-188260912224520937.chn",
+        "published": "Sun, 13 Sep 26 00:06:00 +0700"
+      },
       {
         "title": "Một doanh nhân Việt vừa \"rớt\" khỏi danh sách tỷ phú USD",
         "link": "https://cafef.vn/mot-doanh-nhan-viet-vua-rot-khoi-danh-sach-ty-phu-usd-188260912224650071.chn",
@@ -27,11 +32,6 @@
         "title": "Thành viên HĐQT SSI mua thành công 5 triệu cổ phiếu",
         "link": "https://cafef.vn/thanh-vien-hdqt-ssi-mua-thanh-cong-5-trieu-co-phieu-188260912174803709.chn",
         "published": "Sat, 12 Sep 26 17:47:00 +0700"
-      },
-      {
-        "title": "Con gái Chủ tịch PNJ bán xong 7 triệu cổ phiếu",
-        "link": "https://cafef.vn/con-gai-chu-tich-pnj-ban-xong-7-trieu-co-phieu-188260912171341719.chn",
-        "published": "Sat, 12 Sep 26 17:13:00 +0700"
       }
     ],
     "VnEconomy": [
