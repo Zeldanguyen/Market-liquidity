@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T14:08:38.960959",
+  "fetched_at": "2026-09-12T14:40:10.806360",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Fed đứng trước khả năng tăng lãi suất",
+        "link": "http://vietstock.vn/2026/09/fed-dung-truoc-kha-nang-tang-lai-suat-830-1491731.htm",
+        "published": "Sat, 12 Sep 2026 21:02:00 +0700"
+      },
+      {
         "title": "VIC, VHM cùng loạt cổ phiếu ngân hàng kéo VN-Index về dưới 1,800 điểm",
         "link": "http://vietstock.vn/2026/09/vic-vhm-cung-loat-co-phieu-ngan-hang-keo-vn-index-ve-duoi-1800-diem-830-1491730.htm",
         "published": "Sat, 12 Sep 2026 20:30:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Chứng khoán Tuần 07-11/09/2026: Rủi ro gia tăng",
         "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-07-11092026-rui-ro-gia-tang-1636-1491467.htm",
         "published": "Fri, 11 Sep 2026 18:17:00 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 11/09: VN-Index rơi khỏi mốc 1,800 điểm, nhóm dầu khí lội ngược dòng",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1109-vn-index-roi-khoi-moc-1800-diem-nhom-dau-khi-loi-nguoc-dong-1636-1491240.htm",
-        "published": "Fri, 11 Sep 2026 16:52:00 +0700"
       }
     ],
     "Investing.com Economy": [
