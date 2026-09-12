@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-12T12:11:00.649380",
+  "fetched_at": "2026-09-12T12:42:33.515977",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Sếp lớn ngân hàng vừa trở thành Chủ tịch công ty chứng khoán",
+        "link": "https://cafef.vn/sep-lon-ngan-hang-vua-tro-thanh-chu-tich-cong-ty-chung-khoan-18826091219320842.chn",
+        "published": "Sat, 12 Sep 26 19:31:00 +0700"
+      },
       {
         "title": "Thành viên HĐQT SSI mua thành công 5 triệu cổ phiếu",
         "link": "https://cafef.vn/thanh-vien-hdqt-ssi-mua-thanh-cong-5-trieu-co-phieu-188260912174803709.chn",
@@ -27,11 +32,6 @@
         "title": "Xác định số phận cổ phiếu LDG",
         "link": "https://cafef.vn/xac-dinh-so-phan-co-phieu-ldg-188260912153556575.chn",
         "published": "Sat, 12 Sep 26 15:59:00 +0700"
-      },
-      {
-        "title": "Chứng khoán APG hủy kế hoạch chào bán 50 triệu cổ phiếu riêng lẻ",
-        "link": "https://cafef.vn/chung-khoan-apg-huy-ke-hoach-chao-ban-50-trieu-co-phieu-rieng-le-188260912130355322.chn",
-        "published": "Sat, 12 Sep 26 13:03:00 +0700"
       }
     ],
     "VnEconomy": [
