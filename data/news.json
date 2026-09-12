@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-12T05:08:33.578805",
+  "fetched_at": "2026-09-12T05:38:40.456126",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Những 'người thừa kế' kín tiếng nhà tỷ phú Phạm Nhật Vượng",
+        "link": "https://cafef.vn/nhung-nguoi-thua-ke-kin-tieng-nha-ty-phu-pham-nhat-vuong-188260912121648853.chn",
+        "published": "Sat, 12 Sep 26 12:27:00 +0700"
+      },
+      {
+        "title": "Một doanh nghiệp sắp trả cổ tức 5.000 đồng/cp, đều đặn \"mưa tiền mặt\" suốt 17 năm",
+        "link": "https://cafef.vn/mot-doanh-nghiep-sap-tra-co-tuc-5000-dong-cp-deu-dan-mua-tien-mat-suot-17-nam-188260912120944476.chn",
+        "published": "Sat, 12 Sep 26 12:09:00 +0700"
+      },
       {
         "title": "Chân dung tân Tổng giám đốc VinFast toàn cầu Phạm Nhật Quân Anh",
         "link": "https://cafef.vn/chan-dung-tan-tong-giam-doc-vinfast-toan-cau-pham-nhat-quan-anh-18826091209272952.chn",
@@ -22,16 +32,6 @@
         "title": "Quỹ ETF quy mô hơn 500 triệu USD thêm mới cổ phiếu SSB, dự kiến bán mạnh VIC, SSI",
         "link": "https://cafef.vn/quy-etf-quy-mo-hon-500-trieu-usd-them-moi-co-phieu-ssb-du-kien-ban-manh-vic-ssi-188260912064322227.chn",
         "published": "Sat, 12 Sep 26 06:43:00 +0700"
-      },
-      {
-        "title": "Khối ngoại thẳng tay bán ròng 1.600 tỷ đồng cổ phiếu Việt Nam tuần 7-11/9, cổ phiếu nào bị \"xả\" mạnh nhất?",
-        "link": "https://cafef.vn/khoi-ngoai-thang-tay-ban-rong-1600-ty-dong-co-phieu-viet-nam-tuan-7-11-9-co-phieu-nao-bi-xa-manh-nhat-188260911234916741.chn",
-        "published": "Sat, 12 Sep 26 00:08:00 +0700"
-      },
-      {
-        "title": "Một biến số từng gây sức ép lên thị trường có thể trở lại vào cuối năm",
-        "link": "https://cafef.vn/mot-bien-so-tung-gay-suc-ep-len-thi-truong-co-the-tro-lai-vao-cuoi-nam-188260911222217529.chn",
-        "published": "Sat, 12 Sep 26 00:06:00 +0700"
       }
     ],
     "VnEconomy": [
