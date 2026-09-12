@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-12T16:38:50.844751",
+  "fetched_at": "2026-09-12T17:08:29.139382",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một doanh nhân Việt vừa \"rớt\" khỏi danh sách tỷ phú USD",
+        "link": "https://cafef.vn/mot-doanh-nhan-viet-vua-rot-khoi-danh-sach-ty-phu-usd-188260912224650071.chn",
+        "published": "Sun, 13 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Lịch chốt quyền cổ tức tuần 14-18/9: Cổ tức tiền mặt cao nhất 12.000 đồng/cp",
+        "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-14-18-9-co-tuc-tien-mat-cao-nhat-12000-dong-cp-188260912224337931.chn",
+        "published": "Sun, 13 Sep 26 00:02:00 +0700"
+      },
+      {
+        "title": "Chỉ có Elon Musk giàu hơn ông Phạm Nhật Vượng trong lĩnh vực này",
+        "link": "https://cafef.vn/chi-co-elon-musk-giau-hon-ong-pham-nhat-vuong-trong-linh-vuc-nay-188260912224243349.chn",
+        "published": "Sun, 13 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Sếp lớn ngân hàng vừa trở thành Chủ tịch công ty chứng khoán",
         "link": "https://cafef.vn/sep-lon-ngan-hang-vua-tro-thanh-chu-tich-cong-ty-chung-khoan-18826091219320842.chn",
@@ -17,21 +32,6 @@
         "title": "Con gái Chủ tịch PNJ bán xong 7 triệu cổ phiếu",
         "link": "https://cafef.vn/con-gai-chu-tich-pnj-ban-xong-7-trieu-co-phieu-188260912171341719.chn",
         "published": "Sat, 12 Sep 26 17:13:00 +0700"
-      },
-      {
-        "title": "Hoá chất Đức Giang đề cử 2 ứng viên vào HĐQT Ắc quy Tia Sáng",
-        "link": "https://cafef.vn/hoa-chat-duc-giang-de-cu-2-ung-vien-vao-hdqt-ac-quy-tia-sang-188260912153729858.chn",
-        "published": "Sat, 12 Sep 26 16:36:00 +0700"
-      },
-      {
-        "title": "Người mua vàng lỗ hơn 6 triệu đồng/lượng chỉ sau 1 tuần",
-        "link": "https://cafef.vn/nguoi-mua-vang-lo-hon-6-trieu-dong-luong-chi-sau-1-tuan-188260912162309982.chn",
-        "published": "Sat, 12 Sep 26 16:23:00 +0700"
-      },
-      {
-        "title": "Xác định số phận cổ phiếu LDG",
-        "link": "https://cafef.vn/xac-dinh-so-phan-co-phieu-ldg-188260912153556575.chn",
-        "published": "Sat, 12 Sep 26 15:59:00 +0700"
       }
     ],
     "VnEconomy": [
