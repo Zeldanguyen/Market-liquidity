@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T02:40:30.388845",
+  "fetched_at": "2026-09-12T03:09:31.828212",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Cổ phiếu Camimex rời diện cảnh báo",
+        "link": "http://vietstock.vn/2026/09/co-phieu-camimex-roi-dien-canh-bao-830-1491278.htm",
+        "published": "Sat, 12 Sep 2026 09:32:00 +0700"
+      },
+      {
         "title": "Phạt hơn 340 triệu đồng ba doanh nghiệp do lỗi công bố thông tin",
         "link": "http://vietstock.vn/2026/09/phat-hon-340-trieu-dong-ba-doanh-nghiep-do-loi-cong-bo-thong-tin-830-1491516.htm",
         "published": "Fri, 11 Sep 2026 19:12:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Phân tích kỹ thuật phiên chiều 11/09: Triển vọng ngắn hạn đang xấu đi",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1109-trien-vong-ngan-han-dang-xau-di-585-1491273.htm",
         "published": "Fri, 11 Sep 2026 13:04:00 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 11/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1109-830-1490917.htm",
-        "published": "Fri, 11 Sep 2026 08:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
