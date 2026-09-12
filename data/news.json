@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T13:08:38.956488",
+  "fetched_at": "2026-09-12T13:37:43.766549",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Citi sees Fed delivering \"a dovish hike\" next week",
+        "link": "https://www.investing.com/news/economy-news/citi-sees-fed-delivering-a-dovish-hike-next-week-4898646",
+        "published": "2026-09-12 10:57:57"
+      },
+      {
+        "title": "Trump says Iran war likely to end after midterms as Yemen fighting escalates",
+        "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
+        "published": "2026-09-12 10:34:38"
+      },
+      {
         "title": "How Europeans save — and why it matters for the economy",
         "link": "https://www.investing.com/news/economy-news/how-europeans-save-matters-for-the-broader-economy-4898637",
         "published": "2026-09-12 08:43:19"
@@ -110,11 +120,6 @@
         "published": "2026-09-12 07:58:03"
       },
       {
-        "title": "Houthis seize Red Sea coast as Saudi pipeline shutdown deepens oil risks",
-        "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
-        "published": "2026-09-12 06:39:08"
-      },
-      {
         "title": "Burnham faces UK economic test as budget day approaches",
         "link": "https://www.investing.com/news/economy-news/burnham-faces-uk-economic-test-as-budget-day-approaches-4898629",
         "published": "2026-09-12 06:01:48"
@@ -123,11 +128,6 @@
         "title": "Saudi Arabia shuts key oil pipeline after Houthi’s drone attack - Reuters",
         "link": "https://www.investing.com/news/economy-news/saudi-arabia-shuts-key-oil-pipeline-after-houthis-drone-attack--reuters-4898625",
         "published": "2026-09-12 04:35:54"
-      },
-      {
-        "title": "UBS sees Chinese carmakers reach 37% globally by 2030",
-        "link": "https://www.investing.com/news/economy-news/ubs-sees-chinese-carmakers-reach-37-globally-by-2030-4898622",
-        "published": "2026-09-12 03:57:46"
       }
     ]
   }
