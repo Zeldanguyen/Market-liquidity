@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-13T17:08:58.625089",
+  "fetched_at": "2026-09-13T17:38:17.117088",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Sau cột mốc nâng hạng, một \"hiệu ứng\" đặc biệt có thể xuất hiện trên TTCK Việt Nam",
+        "link": "https://cafef.vn/sau-cot-moc-nang-hang-mot-hieu-ung-dac-biet-co-the-xuat-hien-tren-ttck-viet-nam-188260913144915237.chn",
+        "published": "Mon, 14 Sep 26 00:10:00 +0700"
+      },
       {
         "title": "Đón tin cực vui, cổ phiếu DN liên quan \"kho báu\" chứa 1.500 kg vàng ở Lai Châu tăng bốc 30% chỉ sau 1 tuần",
         "link": "https://cafef.vn/don-tin-cuc-vui-co-phieu-dn-lien-quan-kho-bau-chua-1500-kg-vang-o-lai-chau-tang-boc-30-chi-sau-1-tuan-188260913224631813.chn",
@@ -27,11 +32,6 @@
         "title": "Ngày Thị trường vốn Việt Nam tại Vương quốc Anh: Động lực cho kỷ nguyên tăng trưởng mới",
         "link": "https://cafef.vn/ngay-thi-truong-von-viet-nam-tai-vuong-quoc-anh-dong-luc-cho-ky-nguyen-tang-truong-moi-188260913212247688.chn",
         "published": "Sun, 13 Sep 26 21:22:00 +0700"
-      },
-      {
-        "title": "Sau cuộc họp FED, chứng khoán Việt Nam sẽ ra sao?",
-        "link": "https://cafef.vn/sau-cuoc-hop-fed-chung-khoan-viet-nam-se-ra-sao-188260913190708731.chn",
-        "published": "Sun, 13 Sep 26 20:43:00 +0700"
       }
     ],
     "VnEconomy": [
