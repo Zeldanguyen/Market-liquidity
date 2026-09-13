@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T00:44:09.044773",
+  "fetched_at": "2026-09-13T01:08:12.539572",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 14-18/09/2026",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-14-18092026-585-1491686.htm",
+        "published": "Sun, 13 Sep 2026 07:30:00 +0700"
+      },
+      {
         "title": "Fed đứng trước khả năng tăng lãi suất",
         "link": "http://vietstock.vn/2026/09/fed-dung-truoc-kha-nang-tang-lai-suat-830-1491731.htm",
         "published": "Sat, 12 Sep 2026 21:02:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Theo dấu dòng tiền cá mập 11/09: Khối ngoại xả nhóm ngân hàng, tự doanh trở lại bán ròng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1109-khoi-ngoai-xa-nhom-ngan-hang-tu-doanh-tro-lai-ban-rong-830-1491515.htm",
         "published": "Fri, 11 Sep 2026 18:42:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Tuần 07-11/09/2026: Rủi ro gia tăng",
-        "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-07-11092026-rui-ro-gia-tang-1636-1491467.htm",
-        "published": "Fri, 11 Sep 2026 18:17:00 +0700"
       }
     ],
     "Investing.com Economy": [
