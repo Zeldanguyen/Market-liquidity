@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-13T03:09:34.618316",
+  "fetched_at": "2026-09-13T03:40:25.843948",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "EEMC công bố thông tin về ông Đặng Phan Tường",
+        "link": "https://cafef.vn/eemc-cong-bo-thong-tin-ve-ong-dang-phan-tuong-188260913103017077.chn",
+        "published": "Sun, 13 Sep 26 10:30:00 +0700"
+      },
       {
         "title": "Chứng khoán tuần qua: VN-Index mất 58 điểm, áp lực bán phủ bóng thị trường",
         "link": "https://cafef.vn/chung-khoan-tuan-qua-vn-index-mat-58-diem-ap-luc-ban-phu-bong-thi-truong-188260913084852777.chn",
@@ -27,11 +32,6 @@
         "title": "Một doanh nhân Việt vừa \"rớt\" khỏi danh sách tỷ phú USD",
         "link": "https://cafef.vn/mot-doanh-nhan-viet-vua-rot-khoi-danh-sach-ty-phu-usd-188260912224650071.chn",
         "published": "Sun, 13 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Lịch chốt quyền cổ tức tuần 14-18/9: Cổ tức tiền mặt cao nhất 12.000 đồng/cp",
-        "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-14-18-9-co-tuc-tien-mat-cao-nhat-12000-dong-cp-188260912224337931.chn",
-        "published": "Sun, 13 Sep 26 00:02:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "IR thực chất: Đừng lấy biến động giá ngắn hạn làm thước đo hiệu quả",
+        "link": "http://vietstock.vn/2026/09/ir-thuc-chat-dung-lay-bien-dong-gia-ngan-han-lam-thuoc-do-hieu-qua-830-1490068.htm",
+        "published": "Sun, 13 Sep 2026 10:02:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 14-18/09/2026",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-14-18092026-585-1491686.htm",
         "published": "Sun, 13 Sep 2026 07:30:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Phạt hơn 340 triệu đồng ba doanh nghiệp do lỗi công bố thông tin",
         "link": "http://vietstock.vn/2026/09/phat-hon-340-trieu-dong-ba-doanh-nghiep-do-loi-cong-bo-thong-tin-830-1491516.htm",
         "published": "Fri, 11 Sep 2026 19:12:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 11/09: Khối ngoại xả nhóm ngân hàng, tự doanh trở lại bán ròng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1109-khoi-ngoai-xa-nhom-ngan-hang-tu-doanh-tro-lai-ban-rong-830-1491515.htm",
-        "published": "Fri, 11 Sep 2026 18:42:00 +0700"
       }
     ],
     "Investing.com Economy": [
