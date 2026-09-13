@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T11:09:21.184388",
+  "fetched_at": "2026-09-13T11:38:32.846241",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Vietstock Weekly 14-18/09/2026: Rung lắc trở lại",
+        "link": "http://vietstock.vn/2026/09/vietstock-weekly-14-18092026-rung-lac-tro-lai-1636-1491685.htm",
+        "published": "Sun, 13 Sep 2026 18:00:00 +0700"
+      },
+      {
         "title": "IR thực chất: Đừng lấy biến động giá ngắn hạn làm thước đo hiệu quả",
         "link": "http://vietstock.vn/2026/09/ir-thuc-chat-dung-lay-bien-dong-gia-ngan-han-lam-thuoc-do-hieu-qua-830-1490068.htm",
         "published": "Sun, 13 Sep 2026 10:02:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Cổ phiếu Camimex rời diện cảnh báo",
         "link": "http://vietstock.vn/2026/09/co-phieu-camimex-roi-dien-canh-bao-830-1491278.htm",
         "published": "Sat, 12 Sep 2026 09:32:00 +0700"
-      },
-      {
-        "title": "Phạt hơn 340 triệu đồng ba doanh nghiệp do lỗi công bố thông tin",
-        "link": "http://vietstock.vn/2026/09/phat-hon-340-trieu-dong-ba-doanh-nghiep-do-loi-cong-bo-thong-tin-830-1491516.htm",
-        "published": "Fri, 11 Sep 2026 19:12:00 +0700"
       }
     ],
     "Investing.com Economy": [
