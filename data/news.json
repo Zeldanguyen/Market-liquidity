@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-13T13:37:45.814384",
+  "fetched_at": "2026-09-13T14:09:01.840669",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Sau cuộc họp FED, chứng khoán Việt Nam sẽ ra sao?",
+        "link": "https://cafef.vn/sau-cuoc-hop-fed-chung-khoan-viet-nam-se-ra-sao-188260913190708731.chn",
+        "published": "Sun, 13 Sep 26 20:43:00 +0700"
+      },
       {
         "title": "Em trai Chủ tịch SSI chi trăm tỷ gom cổ phiếu, Quản lý quỹ Chứng khoán Bản Việt muốn thoái hết vốn tại VCI",
         "link": "https://cafef.vn/em-trai-chu-tich-ssi-chi-tram-ty-gom-co-phieu-quan-ly-quy-chung-khoan-ban-viet-muon-thoai-het-von-tai-vci-188260913202046279.chn",
@@ -27,11 +32,6 @@
         "title": "Lý do phiên đấu giá 79 triệu cổ phiếu Seaprodex gây chú ý",
         "link": "https://cafef.vn/ly-do-phien-dau-gia-79-trieu-co-phieu-seaprodex-gay-chu-y-188260913153333054.chn",
         "published": "Sun, 13 Sep 26 15:33:00 +0700"
-      },
-      {
-        "title": "UBCKNN xử phạt loạt doanh nghiệp",
-        "link": "https://cafef.vn/ubcknn-xu-phat-loat-doanh-nghiep-188260913135037459.chn",
-        "published": "Sun, 13 Sep 26 13:50:00 +0700"
       }
     ],
     "VnEconomy": [
