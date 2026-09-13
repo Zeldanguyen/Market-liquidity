@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T23:36:53.850687",
+  "fetched_at": "2026-09-13T00:12:46.231946",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 37-2026",
+        "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-37-2026.htm",
+        "published": "Sat, 12 Sep 2026 23:53:04 GMT"
+      },
+      {
         "title": "Giá vàng hồi phục dù khả năng Fed tăng lãi suất đã lên gần 90%, SPDR Gold Trust bán ròng",
         "link": "https://vneconomy.vn/gia-vang-hoi-phuc-du-kha-nang-fed-tang-lai-suat-da-len-gan-90-spdr-gold-trust-ban-rong.htm",
         "published": "Sat, 12 Sep 2026 00:59:19 GMT"
@@ -59,11 +64,6 @@
         "title": "TP.HCM và UNFPA hợp tác phát triển kinh tế bạc",
         "link": "https://vneconomy.vn/tphcm-va-unfpa-hop-tac-phat-trien-kinh-te-bac.htm",
         "published": "Fri, 11 Sep 2026 09:03:57 GMT"
-      },
-      {
-        "title": "BIZ MBBank ứng dụng AI và dữ liệu, rút ngắn hành trình vốn cho doanh nghiệp",
-        "link": "https://vneconomy.vn/biz-mbbank-ung-dung-ai-va-du-lieu-rut-ngan-hanh-trinh-von-cho-doanh-nghiep.htm",
-        "published": "Fri, 11 Sep 2026 09:02:30 GMT"
       }
     ],
     "Vietstock": [
