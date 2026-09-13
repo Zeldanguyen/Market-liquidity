@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T10:06:15.659378",
+  "fetched_at": "2026-09-13T10:39:19.730398",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Xi pushes China’s open-source AI vision at BRICS summit",
+        "link": "https://www.investing.com/news/economy-news/xi-pushes-chinas-opensource-ai-vision-at-brics-summit-4898725",
+        "published": "2026-09-13 09:57:11"
+      },
+      {
+        "title": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
+        "link": "https://www.investing.com/news/economy-news/russia-accuses-ukraine-of-zaporizhzhia-fuel-attack-as-odesa-strikes-continue-4898718",
+        "published": "2026-09-13 08:37:55"
+      },
+      {
+        "title": "French election: Where things stand",
+        "link": "https://www.investing.com/news/economy-news/french-election-where-things-stand-4898716",
+        "published": "2026-09-13 08:00:40"
+      },
+      {
         "title": "How vulnerable are European stocks to natural gas price shocks?",
         "link": "https://www.investing.com/news/economy-news/how-vulnerable-are-european-stocks-to-natural-gas-price-shocks-4898709",
         "published": "2026-09-13 05:45:38"
@@ -113,21 +128,6 @@
         "title": "Speculators turn net long on yen for first time since February",
         "link": "https://www.investing.com/news/economy-news/speculators-turn-net-long-on-yen-for-first-time-since-february-4898706",
         "published": "2026-09-13 03:12:32"
-      },
-      {
-        "title": "New Strait of Hormuz ship attack raises oil supply fears as Iran war widens",
-        "link": "https://www.investing.com/news/economy-news/new-strait-of-hormuz-ship-attack-raises-oil-supply-fears-as-iran-war-widens-4898703",
-        "published": "2026-09-13 02:50:29"
-      },
-      {
-        "title": "ECB’s Lagarde says Eurozone inflation shock will last longer",
-        "link": "https://www.investing.com/news/economy-news/ecbs-lagarde-says-eurozone-inflation-shock-will-last-longer-4898702",
-        "published": "2026-09-13 02:35:55"
-      },
-      {
-        "title": "What happens if Bombardier jets are not sold in the U.S.?",
-        "link": "https://www.investing.com/news/economy-news/what-happens-if-bombardier-jets-are-not-sold-in-the-us-4898699",
-        "published": "2026-09-13 00:40:12"
       }
     ]
   }
