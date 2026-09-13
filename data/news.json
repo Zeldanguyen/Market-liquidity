@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-13T10:39:19.730398",
+  "fetched_at": "2026-09-13T11:09:21.184388",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán trước giờ nâng hạng: Nhà đầu tư có nên xuống tiền?",
+        "link": "https://cafef.vn/chung-khoan-truoc-gio-nang-hang-nha-dau-tu-co-nen-xuong-tien-188260913174818998.chn",
+        "published": "Sun, 13 Sep 26 17:48:00 +0700"
+      },
       {
         "title": "Góc nhìn chuyên gia: Xác suất FED tăng lãi suất lên cao, chứng khoán sẽ phản ứng ra sao?",
         "link": "https://cafef.vn/goc-nhin-chuyen-gia-xac-suat-fed-tang-lai-suat-len-cao-chung-khoan-se-phan-ung-ra-sao-188260913160231773.chn",
@@ -27,11 +32,6 @@
         "title": "EEMC công bố thông tin về ông Đặng Phan Tường",
         "link": "https://cafef.vn/eemc-cong-bo-thong-tin-ve-ong-dang-phan-tuong-188260913103017077.chn",
         "published": "Sun, 13 Sep 26 10:30:00 +0700"
-      },
-      {
-        "title": "Chứng khoán tuần qua: VN-Index mất 58 điểm, áp lực bán phủ bóng thị trường",
-        "link": "https://cafef.vn/chung-khoan-tuan-qua-vn-index-mat-58-diem-ap-luc-ban-phu-bong-thi-truong-188260913084852777.chn",
-        "published": "Sun, 13 Sep 26 09:18:00 +0700"
       }
     ],
     "VnEconomy": [
