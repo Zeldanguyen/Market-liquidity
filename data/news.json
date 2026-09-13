@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-13T01:39:35.368514",
+  "fetched_at": "2026-09-13T02:09:24.982739",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "FPTS muốn vay 2.300 tỷ đồng tại ACB",
+        "link": "https://cafef.vn/fpts-muon-vay-2300-ty-dong-tai-acb-188260913084719091.chn",
+        "published": "Sun, 13 Sep 26 08:47:00 +0700"
+      },
+      {
+        "title": "Giá vàng hôm nay 13/9: Đi ngang chờ động thái mới từ Fed",
+        "link": "https://cafef.vn/gia-vang-hom-nay-13-9-di-ngang-cho-dong-thai-moi-tu-fed-188260913084537911.chn",
+        "published": "Sun, 13 Sep 26 08:45:00 +0700"
+      },
       {
         "title": "Hai con trai ông Phạm Nhật Vượng đang nắm những vị trí nào trong hệ sinh thái Vingroup?",
         "link": "https://cafef.vn/hai-con-trai-ong-pham-nhat-vuong-dang-nam-nhung-vi-tri-nao-trong-he-sinh-thai-vingroup-188260912224520937.chn",
@@ -22,16 +32,6 @@
         "title": "Chỉ có Elon Musk giàu hơn ông Phạm Nhật Vượng trong lĩnh vực này",
         "link": "https://cafef.vn/chi-co-elon-musk-giau-hon-ong-pham-nhat-vuong-trong-linh-vuc-nay-188260912224243349.chn",
         "published": "Sun, 13 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Sếp lớn ngân hàng vừa trở thành Chủ tịch công ty chứng khoán",
-        "link": "https://cafef.vn/sep-lon-ngan-hang-vua-tro-thanh-chu-tich-cong-ty-chung-khoan-18826091219320842.chn",
-        "published": "Sat, 12 Sep 26 19:31:00 +0700"
-      },
-      {
-        "title": "Thành viên HĐQT SSI mua thành công 5 triệu cổ phiếu",
-        "link": "https://cafef.vn/thanh-vien-hdqt-ssi-mua-thanh-cong-5-trieu-co-phieu-188260912174803709.chn",
-        "published": "Sat, 12 Sep 26 17:47:00 +0700"
       }
     ],
     "VnEconomy": [
