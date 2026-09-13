@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-13T08:41:01.329157",
+  "fetched_at": "2026-09-13T10:06:15.659378",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Góc nhìn chuyên gia: Xác suất FED tăng lãi suất lên cao, chứng khoán sẽ phản ứng ra sao?",
+        "link": "https://cafef.vn/goc-nhin-chuyen-gia-xac-suat-fed-tang-lai-suat-len-cao-chung-khoan-se-phan-ung-ra-sao-188260913160231773.chn",
+        "published": "Sun, 13 Sep 26 16:05:00 +0700"
+      },
       {
         "title": "Lý do phiên đấu giá 79 triệu cổ phiếu Seaprodex gây chú ý",
         "link": "https://cafef.vn/ly-do-phien-dau-gia-79-trieu-co-phieu-seaprodex-gay-chu-y-188260913153333054.chn",
@@ -27,11 +32,6 @@
         "title": "Chứng khoán tuần qua: VN-Index mất 58 điểm, áp lực bán phủ bóng thị trường",
         "link": "https://cafef.vn/chung-khoan-tuan-qua-vn-index-mat-58-diem-ap-luc-ban-phu-bong-thi-truong-188260913084852777.chn",
         "published": "Sun, 13 Sep 26 09:18:00 +0700"
-      },
-      {
-        "title": "FPTS muốn vay 2.300 tỷ đồng tại ACB",
-        "link": "https://cafef.vn/fpts-muon-vay-2300-ty-dong-tai-acb-188260913084719091.chn",
-        "published": "Sun, 13 Sep 26 08:47:00 +0700"
       }
     ],
     "VnEconomy": [
