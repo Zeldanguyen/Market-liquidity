@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-13T06:44:36.448197",
+  "fetched_at": "2026-09-13T07:09:00.401648",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "UBCKNN xử phạt loạt doanh nghiệp",
+        "link": "https://cafef.vn/ubcknn-xu-phat-loat-doanh-nghiep-188260913135037459.chn",
+        "published": "Sun, 13 Sep 26 13:50:00 +0700"
+      },
+      {
+        "title": "Chuyện gì đây: Một công ty chứng khoán bất ngờ huỷ phương án phát hành riêng lẻ chỉ sau hơn 1 tháng công bố",
+        "link": "https://cafef.vn/chuyen-gi-day-mot-cong-ty-chung-khoan-bat-ngo-huy-phuong-an-phat-hanh-rieng-le-chi-sau-hon-1-thang-cong-bo-188260913134403888.chn",
+        "published": "Sun, 13 Sep 26 13:46:00 +0700"
+      },
       {
         "title": "EEMC công bố thông tin về ông Đặng Phan Tường",
         "link": "https://cafef.vn/eemc-cong-bo-thong-tin-ve-ong-dang-phan-tuong-188260913103017077.chn",
@@ -22,16 +32,6 @@
         "title": "Giá vàng hôm nay 13/9: Đi ngang chờ động thái mới từ Fed",
         "link": "https://cafef.vn/gia-vang-hom-nay-13-9-di-ngang-cho-dong-thai-moi-tu-fed-188260913084537911.chn",
         "published": "Sun, 13 Sep 26 08:45:00 +0700"
-      },
-      {
-        "title": "Hai con trai ông Phạm Nhật Vượng đang nắm những vị trí nào trong hệ sinh thái Vingroup?",
-        "link": "https://cafef.vn/hai-con-trai-ong-pham-nhat-vuong-dang-nam-nhung-vi-tri-nao-trong-he-sinh-thai-vingroup-188260912224520937.chn",
-        "published": "Sun, 13 Sep 26 00:06:00 +0700"
-      },
-      {
-        "title": "Một doanh nhân Việt vừa \"rớt\" khỏi danh sách tỷ phú USD",
-        "link": "https://cafef.vn/mot-doanh-nhan-viet-vua-rot-khoi-danh-sach-ty-phu-usd-188260912224650071.chn",
-        "published": "Sun, 13 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
