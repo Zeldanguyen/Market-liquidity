@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T23:08:50.487205",
+  "fetched_at": "2026-09-13T23:38:04.783927",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "14/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491794.htm",
+        "published": "Mon, 14 Sep 2026 06:02:00 +0700"
+      },
+      {
         "title": "Vietstock Weekly 14-18/09/2026: Rung lắc trở lại",
         "link": "http://vietstock.vn/2026/09/vietstock-weekly-14-18092026-rung-lac-tro-lai-1636-1491685.htm",
         "published": "Sun, 13 Sep 2026 18:00:00 +0700"
@@ -91,11 +96,6 @@
         "title": "VIC, VHM cùng loạt cổ phiếu ngân hàng kéo VN-Index về dưới 1,800 điểm",
         "link": "http://vietstock.vn/2026/09/vic-vhm-cung-loat-co-phieu-ngan-hang-keo-vn-index-ve-duoi-1800-diem-830-1491730.htm",
         "published": "Sat, 12 Sep 2026 20:30:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu Camimex rời diện cảnh báo",
-        "link": "http://vietstock.vn/2026/09/co-phieu-camimex-roi-dien-canh-bao-830-1491278.htm",
-        "published": "Sat, 12 Sep 2026 09:32:00 +0700"
       }
     ],
     "Investing.com Economy": [
