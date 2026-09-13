@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-13T13:08:38.243598",
+  "fetched_at": "2026-09-13T13:37:45.814384",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Em trai Chủ tịch SSI chi trăm tỷ gom cổ phiếu, Quản lý quỹ Chứng khoán Bản Việt muốn thoái hết vốn tại VCI",
+        "link": "https://cafef.vn/em-trai-chu-tich-ssi-chi-tram-ty-gom-co-phieu-quan-ly-quy-chung-khoan-ban-viet-muon-thoai-het-von-tai-vci-188260913202046279.chn",
+        "published": "Sun, 13 Sep 26 20:20:00 +0700"
+      },
+      {
+        "title": "Chứng khoán vẫn có thể chịu áp lực bán trong ngắn hạn",
+        "link": "https://cafef.vn/chung-khoan-van-co-the-chiu-ap-luc-ban-trong-ngan-han-188260913200817422.chn",
+        "published": "Sun, 13 Sep 26 20:17:00 +0700"
+      },
       {
         "title": "Chứng khoán trước giờ nâng hạng: Nhà đầu tư có nên xuống tiền?",
         "link": "https://cafef.vn/chung-khoan-truoc-gio-nang-hang-nha-dau-tu-co-nen-xuong-tien-188260913174818998.chn",
@@ -22,16 +32,6 @@
         "title": "UBCKNN xử phạt loạt doanh nghiệp",
         "link": "https://cafef.vn/ubcknn-xu-phat-loat-doanh-nghiep-188260913135037459.chn",
         "published": "Sun, 13 Sep 26 13:50:00 +0700"
-      },
-      {
-        "title": "Chuyện gì đây: Một công ty chứng khoán bất ngờ huỷ phương án phát hành riêng lẻ chỉ sau hơn 1 tháng công bố",
-        "link": "https://cafef.vn/chuyen-gi-day-mot-cong-ty-chung-khoan-bat-ngo-huy-phuong-an-phat-hanh-rieng-le-chi-sau-hon-1-thang-cong-bo-188260913134403888.chn",
-        "published": "Sun, 13 Sep 26 13:46:00 +0700"
-      },
-      {
-        "title": "EEMC công bố thông tin về ông Đặng Phan Tường",
-        "link": "https://cafef.vn/eemc-cong-bo-thong-tin-ve-ong-dang-phan-tuong-188260913103017077.chn",
-        "published": "Sun, 13 Sep 26 10:30:00 +0700"
       }
     ],
     "VnEconomy": [
