@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T05:38:34.807779",
+  "fetched_at": "2026-09-13T06:15:38.273491",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -46,6 +46,11 @@
         "published": "Sun, 13 Sep 2026 02:00:00 GMT"
       },
       {
+        "title": "Nam A Bank: Kết nối nguồn lực xanh cho phát triển bền vững",
+        "link": "https://vneconomy.vn/nam-a-bank-ket-noi-nguon-luc-xanh-cho-phat-trien-ben-vung.htm",
+        "published": "Sun, 13 Sep 2026 01:00:00 GMT"
+      },
+      {
         "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 37-2026",
         "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-37-2026.htm",
         "published": "Sat, 12 Sep 2026 23:53:04 GMT"
@@ -59,11 +64,6 @@
         "title": "Việt Nam - Pháp hợp tác ứng dụng AI trong quản lý thuế",
         "link": "https://vneconomy.vn/viet-nam-phap-hop-tac-ung-dung-ai-trong-quan-ly-thue.htm",
         "published": "Fri, 11 Sep 2026 11:19:23 GMT"
-      },
-      {
-        "title": "Thông tin tín dụng doanh nghiệp: Báo cáo tài chính phải là bản đã nộp cơ quan thuế hoặc đã kiểm toán",
-        "link": "https://vneconomy.vn/thong-tin-tin-dung-doanh-nghiep-bao-cao-tai-chinh-phai-la-ban-da-nop-co-quan-thue-hoac-da-kiem-toan.htm",
-        "published": "Fri, 11 Sep 2026 11:11:45 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "How vulnerable are European stocks to natural gas price shocks?",
+        "link": "https://www.investing.com/news/economy-news/how-vulnerable-are-european-stocks-to-natural-gas-price-shocks-4898709",
+        "published": "2026-09-13 05:45:38"
+      },
+      {
+        "title": "South Korea expands espionage law to protect chip technology",
+        "link": "https://www.investing.com/news/economy-news/south-korea-expands-espionage-law-to-protect-chip-technology-4898708",
+        "published": "2026-09-13 05:32:57"
+      },
+      {
         "title": "Speculators turn net long on yen for first time since February",
         "link": "https://www.investing.com/news/economy-news/speculators-turn-net-long-on-yen-for-first-time-since-february-4898706",
         "published": "2026-09-13 03:12:32"
@@ -118,16 +128,6 @@
         "title": "What happens if Bombardier jets are not sold in the U.S.?",
         "link": "https://www.investing.com/news/economy-news/what-happens-if-bombardier-jets-are-not-sold-in-the-us-4898699",
         "published": "2026-09-13 00:40:12"
-      },
-      {
-        "title": "Iran says Hormuz reopening depends on U.S. meeting its conditions",
-        "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
-        "published": "2026-09-12 21:07:33"
-      },
-      {
-        "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
-        "link": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
-        "published": "2026-09-12 19:18:46"
       }
     ]
   }
