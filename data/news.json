@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-13T14:09:01.840669",
+  "fetched_at": "2026-09-13T14:38:51.832724",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ngày Thị trường vốn Việt Nam tại Vương quốc Anh: Động lực cho kỷ nguyên tăng trưởng mới",
+        "link": "https://cafef.vn/ngay-thi-truong-von-viet-nam-tai-vuong-quoc-anh-dong-luc-cho-ky-nguyen-tang-truong-moi-188260913212247688.chn",
+        "published": "Sun, 13 Sep 26 21:22:00 +0700"
+      },
       {
         "title": "Sau cuộc họp FED, chứng khoán Việt Nam sẽ ra sao?",
         "link": "https://cafef.vn/sau-cuoc-hop-fed-chung-khoan-viet-nam-se-ra-sao-188260913190708731.chn",
@@ -27,11 +32,6 @@
         "title": "Góc nhìn chuyên gia: Xác suất FED tăng lãi suất lên cao, chứng khoán sẽ phản ứng ra sao?",
         "link": "https://cafef.vn/goc-nhin-chuyen-gia-xac-suat-fed-tang-lai-suat-len-cao-chung-khoan-se-phan-ung-ra-sao-188260913160231773.chn",
         "published": "Sun, 13 Sep 26 16:05:00 +0700"
-      },
-      {
-        "title": "Lý do phiên đấu giá 79 triệu cổ phiếu Seaprodex gây chú ý",
-        "link": "https://cafef.vn/ly-do-phien-dau-gia-79-trieu-co-phieu-seaprodex-gay-chu-y-188260913153333054.chn",
-        "published": "Sun, 13 Sep 26 15:33:00 +0700"
       }
     ],
     "VnEconomy": [
