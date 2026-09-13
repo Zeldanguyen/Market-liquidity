@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-13T02:09:24.982739",
+  "fetched_at": "2026-09-13T02:39:30.754995",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán tuần qua: VN-Index mất 58 điểm, áp lực bán phủ bóng thị trường",
+        "link": "https://cafef.vn/chung-khoan-tuan-qua-vn-index-mat-58-diem-ap-luc-ban-phu-bong-thi-truong-188260913084852777.chn",
+        "published": "Sun, 13 Sep 26 09:18:00 +0700"
+      },
       {
         "title": "FPTS muốn vay 2.300 tỷ đồng tại ACB",
         "link": "https://cafef.vn/fpts-muon-vay-2300-ty-dong-tai-acb-188260913084719091.chn",
@@ -27,14 +32,19 @@
         "title": "Lịch chốt quyền cổ tức tuần 14-18/9: Cổ tức tiền mặt cao nhất 12.000 đồng/cp",
         "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-14-18-9-co-tuc-tien-mat-cao-nhat-12000-dong-cp-188260912224337931.chn",
         "published": "Sun, 13 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Chỉ có Elon Musk giàu hơn ông Phạm Nhật Vượng trong lĩnh vực này",
-        "link": "https://cafef.vn/chi-co-elon-musk-giau-hon-ong-pham-nhat-vuong-trong-linh-vuc-nay-188260912224243349.chn",
-        "published": "Sun, 13 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Khuyến nghị từ cơ quan Bảo hiểm xã hội với người tham gia Bảo hiểm y tế",
+        "link": "https://vneconomy.vn/khuyen-nghi-tu-co-quan-bao-hiem-xa-hoi-voi-nguoi-tham-gia-bao-hiem-y-te.htm",
+        "published": "Sun, 13 Sep 2026 02:12:05 GMT"
+      },
+      {
+        "title": "Ngân hàng SeABank đón nhận Huân chương Lao động hạng Nhất và Bằng khen của Bộ Công an",
+        "link": "https://vneconomy.vn/ngan-hang-seabank-don-nhan-huan-chuong-lao-dong-hang-nhat-va-bang-khen-cua-bo-cong-an.htm",
+        "published": "Sun, 13 Sep 2026 02:00:00 GMT"
+      },
       {
         "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 37-2026",
         "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-37-2026.htm",
@@ -54,16 +64,6 @@
         "title": "Thông tin tín dụng doanh nghiệp: Báo cáo tài chính phải là bản đã nộp cơ quan thuế hoặc đã kiểm toán",
         "link": "https://vneconomy.vn/thong-tin-tin-dung-doanh-nghiep-bao-cao-tai-chinh-phai-la-ban-da-nop-co-quan-thue-hoac-da-kiem-toan.htm",
         "published": "Fri, 11 Sep 2026 11:11:45 GMT"
-      },
-      {
-        "title": "Thương mại Việt - Trung mở rộng, doanh nghiệp có thêm lựa chọn giao dịch CNY xuyên biên giới từ Techcombank",
-        "link": "https://vneconomy.vn/thuong-mai-viet-trung-mo-rong-doanh-nghiep-co-them-lua-chon-giao-dich-cny-xuyen-bien-gioi-tu-techcombank.htm",
-        "published": "Fri, 11 Sep 2026 10:50:27 GMT"
-      },
-      {
-        "title": "TP.HCM và UNFPA hợp tác phát triển kinh tế bạc",
-        "link": "https://vneconomy.vn/tphcm-va-unfpa-hop-tac-phat-trien-kinh-te-bac.htm",
-        "published": "Fri, 11 Sep 2026 09:03:57 GMT"
       }
     ],
     "Vietstock": [
