@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-14T09:11:20.049820",
+  "fetched_at": "2026-09-14T09:42:09.320963",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Hai kỹ thuật viên Viễn thông FPT nhanh trí, kịp thời khống chế đối tượng trộm xe",
+        "link": "https://cafef.vn/hai-ky-thuat-vien-vien-thong-fpt-nhanh-tri-kip-thoi-khong-che-doi-tuong-trom-xe-188260914163612882.chn",
+        "published": "Mon, 14 Sep 26 16:36:00 +0700"
+      },
+      {
+        "title": "Ông Nguyễn Đăng Quang 'rời' danh sách tỷ phú USD của Forbes",
+        "link": "https://cafef.vn/ong-nguyen-dang-quang-roi-danh-sach-ty-phu-usd-cua-forbes-188260914154457651.chn",
+        "published": "Mon, 14 Sep 26 16:15:00 +0700"
+      },
+      {
+        "title": "Bách Hoá Xanh tăng tốc: Doanh thu 8 tháng vượt 40.000 tỷ đồng, mở mới hơn 1.000 cửa hàng",
+        "link": "https://cafef.vn/bach-hoa-xanh-tang-toc-doanh-thu-8-thang-vuot-40000-ty-dong-mo-moi-hon-1000-cua-hang-188260914152707272.chn",
+        "published": "Mon, 14 Sep 26 16:15:00 +0700"
+      },
       {
         "title": "Một cặp vợ chồng sắp nhận về 15 tỷ đồng",
         "link": "https://cafef.vn/mot-cap-vo-chong-sap-nhan-ve-15-ty-dong-188260914145346339.chn",
@@ -17,21 +32,6 @@
         "title": "Làn sóng tăng vốn ngân hàng: Cuộc tái định vị năng lực tài chính",
         "link": "https://cafef.vn/lan-song-tang-von-ngan-hang-cuoc-tai-dinh-vi-nang-luc-tai-chinh-188260914151542481.chn",
         "published": "Mon, 14 Sep 26 15:27:00 +0700"
-      },
-      {
-        "title": "Giờ G nâng hạng: Dòng vốn ngoại kích hoạt sóng",
-        "link": "https://cafef.vn/gio-g-nang-hang-dong-von-ngoai-kich-hoat-song-188260914151750185.chn",
-        "published": "Mon, 14 Sep 26 15:17:00 +0700"
-      },
-      {
-        "title": "Bán lẻ Việt Nam chuyển từ tăng “lượng” sang tăng “chất”",
-        "link": "https://cafef.vn/ban-le-viet-nam-chuyen-tu-tang-luong-sang-tang-chat-18826091415164903.chn",
-        "published": "Mon, 14 Sep 26 15:16:00 +0700"
-      },
-      {
-        "title": "Một công ty nông nghiệp nghìn tỷ bị nghi ngờ khả năng hoạt động liên tục",
-        "link": "https://cafef.vn/mot-cong-ty-nong-nghiep-nghin-ty-bi-nghi-ngo-kha-nang-hoat-dong-lien-tuc-188260914144255909.chn",
-        "published": "Mon, 14 Sep 26 14:44:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,16 @@
     ],
     "Vietstock": [
       {
+        "title": "Hơn 240 triệu USD có thể chảy vào chứng khoán Việt Nam trong tuần đầu nâng hạng FTSE",
+        "link": "http://vietstock.vn/2026/09/hon-240-trieu-usd-co-the-chay-vao-chung-khoan-viet-nam-trong-tuan-dau-nang-hang-ftse-3358-1492014.htm",
+        "published": "Mon, 14 Sep 2026 16:03:57 +0700"
+      },
+      {
+        "title": "Chủ dự án Six Senses Ninh Van Bay bị phạt vì công bố thông tin sai lệch, cổ phiếu kẹt trong diện cảnh báo",
+        "link": "http://vietstock.vn/2026/09/chu-du-an-six-senses-ninh-van-bay-bi-phat-vi-cong-bo-thong-tin-sai-lech-co-phieu-ket-trong-dien-canh-bao-830-1491988.htm",
+        "published": "Mon, 14 Sep 2026 16:00:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 14/09: Áp lực điều chỉnh gia tăng",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1409-ap-luc-dieu-chinh-gia-tang-585-1491964.htm",
         "published": "Mon, 14 Sep 2026 13:03:21 +0700"
@@ -86,19 +96,29 @@
         "title": "Tuần 14-18/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/tuan-14-18092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1491687.htm",
         "published": "Mon, 14 Sep 2026 10:00:00 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 14/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1409-830-1491477.htm",
-        "published": "Mon, 14 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "14/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491794.htm",
-        "published": "Mon, 14 Sep 2026 06:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "AI warnings knock Nasdaq futures, pressure tech stocks",
+        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+        "published": "2026-09-14 09:24:24"
+      },
+      {
+        "title": "China bank loans rise less than expected in August after July slump",
+        "link": "https://www.investing.com/news/economy-news/china-bank-loans-rise-less-than-expected-in-august-after-july-slump-4898988",
+        "published": "2026-09-14 09:19:17"
+      },
+      {
+        "title": "Five things to watch in markets in the week ahead",
+        "link": "https://www.investing.com/news/economy-news/five-things-to-watch-in-markets-in-the-week-ahead-4898973",
+        "published": "2026-09-14 09:01:13"
+      },
+      {
+        "title": "Goldman Sachs predicts Bank of England rate hike in November",
+        "link": "https://www.investing.com/news/economy-news/goldman-sachs-predicts-bank-of-england-rate-hike-in-november-93CH-4898970",
+        "published": "2026-09-14 08:58:56"
+      },
       {
         "title": "Sweden election results show centre-left bloc with slim lead",
         "link": "https://www.investing.com/news/economy-news/sweden-election-results-show-centreleft-bloc-with-slim-lead-93CH-4898945",
@@ -108,26 +128,6 @@
         "title": "ECB’s Kazimir shifts focus to gas prices, sees upside inflation risk",
         "link": "https://www.investing.com/news/economy-news/ecbs-kazimir-shifts-focus-to-gas-prices-sees-upside-inflation-risk-4898922",
         "published": "2026-09-14 08:06:33"
-      },
-      {
-        "title": "AI leaders raise safety concerns; Hormuz talks delayed - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/ai-leaders-raise-safety-concerns-hormuz-talks-delayed--whats-moving-markets-4898912",
-        "published": "2026-09-14 07:56:29"
-      },
-      {
-        "title": "Companies left China to dodge tariffs. Now some are heading back",
-        "link": "https://www.investing.com/news/economy-news/companies-left-china-to-dodge-tariffs-now-some-are-heading-back-4898910",
-        "published": "2026-09-14 07:54:56"
-      },
-      {
-        "title": "European shares muted as tech slides, oil surge weighs",
-        "link": "https://www.investing.com/news/economy-news/european-shares-muted-as-tech-slides-oil-surge-weighs-4898881",
-        "published": "2026-09-14 07:30:37"
-      },
-      {
-        "title": "Anthropic wants AI to slow down. Its $517 billion spending plan says otherwise",
-        "link": "https://www.investing.com/news/economy-news/anthropic-wants-ai-to-slow-down-its-517-billion-spending-plan-says-otherwise-4898857",
-        "published": "2026-09-14 06:59:27"
       }
     ]
   }
