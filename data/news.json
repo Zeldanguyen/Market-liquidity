@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T15:42:53.633352",
+  "fetched_at": "2026-09-14T16:09:45.114152",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Explainer-US Treasury yields are rising - why does it matter?",
-        "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4899965",
-        "published": "2026-09-14 14:55:07"
+        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
+        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
+        "published": "2026-09-14 15:42:31"
+      },
+      {
+        "title": "Europe facing unprecedented risk of being cut off from AI, Lagarde warns",
+        "link": "https://www.investing.com/news/economy-news/europe-facing-unprecedented-risk-of-being-cut-off-from-ai-lagarde-warns-4900001",
+        "published": "2026-09-14 15:30:48"
+      },
+      {
+        "title": "Canada inflation holds steady as oil surge raises Bank of Canada rate risks",
+        "link": "https://www.investing.com/news/economy-news/canada-inflation-holds-steady-as-oil-surge-raises-bank-of-canada-rate-risks-4900015",
+        "published": "2026-09-14 15:28:08"
       },
       {
         "title": "US 10-year yields reach 5%, highest since 2023",
         "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
-        "published": "2026-09-14 14:54:27"
+        "published": "2026-09-14 15:18:46"
       },
       {
-        "title": "FAA needs more funds to finish air traffic control overhaul",
-        "link": "https://www.investing.com/news/economy-news/faa-needs-more-funds-to-finish-air-traffic-control-overhaul-93CH-4899949",
-        "published": "2026-09-14 14:43:56"
+        "title": "Iran proposes $10 billion BRICS reinsurance company",
+        "link": "https://www.investing.com/news/economy-news/iran-proposes-10-billion-brics-reinsurance-company-93CH-4899998",
+        "published": "2026-09-14 15:16:28"
       },
       {
-        "title": "US data centers to use more natural gas than most countries - report",
-        "link": "https://www.investing.com/news/economy-news/us-data-centers-to-use-more-natural-gas-than-most-countries--report-4899947",
-        "published": "2026-09-14 14:41:46"
-      },
-      {
-        "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
-        "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
-        "published": "2026-09-14 14:26:59"
-      },
-      {
-        "title": "Novo Nordisk rebrands as ’Novo’, announces cultural reset",
-        "link": "https://www.investing.com/news/economy-news/novo-nordisk-rebrands-asnovo-announces-cultural-reset-4899853",
-        "published": "2026-09-14 14:24:44"
+        "title": "Explainer-US Treasury yields are rising - why does it matter?",
+        "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4899965",
+        "published": "2026-09-14 14:55:07"
       }
     ]
   }
