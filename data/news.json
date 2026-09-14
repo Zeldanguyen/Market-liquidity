@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T05:09:09.977937",
+  "fetched_at": "2026-09-14T05:40:28.663604",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 14/09: VIC đè chỉ số, VN-Index mắc kẹt trong sắc đỏ",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-vic-de-chi-so-vn-index-mac-ket-trong-sac-do-1636-1491878.htm",
+        "published": "Mon, 14 Sep 2026 11:47:00 +0700"
+      },
+      {
         "title": "Tuần 14-18/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/tuan-14-18092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1491687.htm",
         "published": "Mon, 14 Sep 2026 10:00:00 +0700"
@@ -91,18 +96,18 @@
         "title": "IR thực chất: Đừng lấy biến động giá ngắn hạn làm thước đo hiệu quả",
         "link": "http://vietstock.vn/2026/09/ir-thuc-chat-dung-lay-bien-dong-gia-ngan-han-lam-thuoc-do-hieu-qua-830-1490068.htm",
         "published": "Sun, 13 Sep 2026 10:02:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 14-18/09/2026",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-14-18092026-585-1491686.htm",
-        "published": "Sun, 13 Sep 2026 07:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "BOJ executive saw need for vigilance to ’non-linear’ inflation spikes",
+        "link": "https://www.investing.com/news/economy-news/boj-executive-saw-need-for-vigilance-to-nonlinear-inflation-spikes-4898820",
+        "published": "2026-09-14 05:18:26"
+      },
+      {
         "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
         "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
-        "published": "2026-09-14 05:00:29"
+        "published": "2026-09-14 05:06:29"
       },
       {
         "title": "Trump says he would be OK with China building cars in US",
@@ -123,11 +128,6 @@
         "title": "’Musk’ director wants viewers to reclaim power from ’tech oligarchs’",
         "link": "https://www.investing.com/news/economy-news/musk-director-wants-viewers-to-reclaim-power-from-tech-oligarchs-4898782",
         "published": "2026-09-14 00:48:32"
-      },
-      {
-        "title": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings",
-        "link": "https://www.investing.com/news/economy-news/dollar-steady-yen-near-7month-high-ahead-of-fed-boj-meetings-4898780",
-        "published": "2026-09-14 00:30:24"
       }
     ]
   }
