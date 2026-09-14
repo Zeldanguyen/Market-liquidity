@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T23:38:04.783927",
+  "fetched_at": "2026-09-14T00:13:16.019571",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Vàng tụt giá trước thềm cuộc họp Fed",
+        "link": "https://vneconomy.vn/vang-tut-gia-truoc-them-cuoc-hop-fed.htm",
+        "published": "Mon, 14 Sep 2026 00:04:42 GMT"
+      },
+      {
         "title": "Khuyến nghị từ cơ quan Bảo hiểm xã hội với người tham gia Bảo hiểm y tế",
         "link": "https://vneconomy.vn/khuyen-nghi-tu-co-quan-bao-hiem-xa-hoi-voi-nguoi-tham-gia-bao-hiem-y-te.htm",
         "published": "Sun, 13 Sep 2026 02:12:05 GMT"
@@ -59,11 +64,6 @@
         "title": "Giá vàng hồi phục dù khả năng Fed tăng lãi suất đã lên gần 90%, SPDR Gold Trust bán ròng",
         "link": "https://vneconomy.vn/gia-vang-hoi-phuc-du-kha-nang-fed-tang-lai-suat-da-len-gan-90-spdr-gold-trust-ban-rong.htm",
         "published": "Sat, 12 Sep 2026 00:59:19 GMT"
-      },
-      {
-        "title": "Việt Nam - Pháp hợp tác ứng dụng AI trong quản lý thuế",
-        "link": "https://vneconomy.vn/viet-nam-phap-hop-tac-ung-dung-ai-trong-quan-ly-thue.htm",
-        "published": "Fri, 11 Sep 2026 11:19:23 GMT"
       }
     ],
     "Vietstock": [
