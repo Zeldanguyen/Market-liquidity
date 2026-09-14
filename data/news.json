@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T21:09:02.993335",
+  "fetched_at": "2026-09-14T21:40:56.552038",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trading Day: AI-pocalypse now",
+        "link": "https://www.investing.com/news/economy-news/trading-day-aipocalypse-now-4900547",
+        "published": "2026-09-14 21:13:06"
+      },
+      {
+        "title": "French labor strike takes 6.5 gigawatts of power offline",
+        "link": "https://www.investing.com/news/economy-news/french-labor-strike-takes-65-gigawatts-of-power-offline-93CH-4900535",
+        "published": "2026-09-14 21:06:47"
+      },
+      {
         "title": "US export ban unlikely to lower energy prices, Burgum says",
         "link": "https://www.investing.com/news/economy-news/us-export-ban-unlikely-to-lower-energy-prices-burgum-says-93CH-4900530",
         "published": "2026-09-14 21:04:20"
@@ -118,16 +128,6 @@
         "title": "Trump’s mail-in voting restrictions blocked by a second judge",
         "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
         "published": "2026-09-14 20:37:04"
-      },
-      {
-        "title": "Canada inflation holds steady as oil surge raises Bank of Canada rate risks",
-        "link": "https://www.investing.com/news/economy-news/canada-inflation-holds-steady-as-oil-surge-raises-bank-of-canada-rate-risks-4900015",
-        "published": "2026-09-14 20:34:08"
-      },
-      {
-        "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
-        "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
-        "published": "2026-09-14 20:00:29"
       }
     ]
   }
