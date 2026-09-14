@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T15:11:22.171153",
+  "fetched_at": "2026-09-14T15:42:53.633352",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Explainer-US Treasury yields are rising - why does it matter?",
+        "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4899965",
+        "published": "2026-09-14 14:55:07"
+      },
+      {
+        "title": "US 10-year yields reach 5%, highest since 2023",
+        "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
+        "published": "2026-09-14 14:54:27"
+      },
+      {
         "title": "FAA needs more funds to finish air traffic control overhaul",
         "link": "https://www.investing.com/news/economy-news/faa-needs-more-funds-to-finish-air-traffic-control-overhaul-93CH-4899949",
         "published": "2026-09-14 14:43:56"
@@ -110,11 +120,6 @@
         "published": "2026-09-14 14:41:46"
       },
       {
-        "title": "US 10-year yields reach 5%, highest since 2023",
-        "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
-        "published": "2026-09-14 14:30:40"
-      },
-      {
         "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
         "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
         "published": "2026-09-14 14:26:59"
@@ -123,11 +128,6 @@
         "title": "Novo Nordisk rebrands as ’Novo’, announces cultural reset",
         "link": "https://www.investing.com/news/economy-news/novo-nordisk-rebrands-asnovo-announces-cultural-reset-4899853",
         "published": "2026-09-14 14:24:44"
-      },
-      {
-        "title": "Lula and Bolsonaro tied in Brazil election polls ahead of October vote",
-        "link": "https://www.investing.com/news/economy-news/lula-and-bolsonaro-tied-in-brazil-election-polls-ahead-of-october-vote-93CH-4899905",
-        "published": "2026-09-14 14:22:23"
       }
     ]
   }
