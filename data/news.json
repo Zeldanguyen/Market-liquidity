@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-14T10:09:57.472085",
+  "fetched_at": "2026-09-14T10:41:01.283482",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "PC1 tất toán sớm lô trái phiếu 900 tỷ đồng",
+        "link": "https://cafef.vn/pc1-tat-toan-som-lo-trai-phieu-900-ty-dong-188260914163212218.chn",
+        "published": "Mon, 14 Sep 26 17:31:00 +0700"
+      },
+      {
+        "title": "HSC tiếp tục chào bán 1,8 triệu cổ phiếu chưa được phân phối hết",
+        "link": "https://cafef.vn/hsc-tiep-tuc-chao-ban-18-trieu-co-phieu-chua-duoc-phan-phoi-het-188260914163104019.chn",
+        "published": "Mon, 14 Sep 26 17:21:00 +0700"
+      },
+      {
+        "title": "Nợ hơn 536 tỷ đồng liên quan đến thuế, một công ty có Phó Tổng giám đốc đang bị điều tra về tội lừa đảo",
+        "link": "https://cafef.vn/no-hon-536-ty-dong-lien-quan-den-thue-mot-cong-ty-co-pho-tong-giam-doc-dang-bi-dieu-tra-ve-toi-lua-dao-188260914171804893.chn",
+        "published": "Mon, 14 Sep 26 17:17:00 +0700"
+      },
       {
         "title": "Một DN Việt tạo kỳ tích vô tiền khoáng hậu ở \"trái tim của châu Phi\", Thủ tướng đề nghị gì với nước chủ nhà?",
         "link": "https://cafef.vn/mot-dn-viet-tao-ky-tich-vo-tien-khoang-hau-o-trai-tim-cua-chau-phi-thu-tuong-de-nghi-gi-voi-nuoc-chu-nha-188260914144339595.chn",
@@ -17,21 +32,6 @@
         "title": "Hai kỹ thuật viên Viễn thông FPT nhanh trí, kịp thời khống chế đối tượng trộm xe",
         "link": "https://cafef.vn/hai-ky-thuat-vien-vien-thong-fpt-nhanh-tri-kip-thoi-khong-che-doi-tuong-trom-xe-188260914163612882.chn",
         "published": "Mon, 14 Sep 26 16:36:00 +0700"
-      },
-      {
-        "title": "Ông Nguyễn Đăng Quang 'rời' danh sách tỷ phú USD của Forbes",
-        "link": "https://cafef.vn/ong-nguyen-dang-quang-roi-danh-sach-ty-phu-usd-cua-forbes-188260914154457651.chn",
-        "published": "Mon, 14 Sep 26 16:15:00 +0700"
-      },
-      {
-        "title": "Bách Hoá Xanh tăng tốc: Doanh thu 8 tháng vượt 40.000 tỷ đồng, mở mới hơn 1.000 cửa hàng",
-        "link": "https://cafef.vn/bach-hoa-xanh-tang-toc-doanh-thu-8-thang-vuot-40000-ty-dong-mo-moi-hon-1000-cua-hang-188260914152707272.chn",
-        "published": "Mon, 14 Sep 26 16:15:00 +0700"
-      },
-      {
-        "title": "Một cặp vợ chồng sắp nhận về 15 tỷ đồng",
-        "link": "https://cafef.vn/mot-cap-vo-chong-sap-nhan-ve-15-ty-dong-188260914145346339.chn",
-        "published": "Mon, 14 Sep 26 16:01:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 14/09: Cổ phiếu GEX, GEE và GEL giảm sàn, khối ngoại quay lại mua ròng nhóm bluechip",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-co-phieu-gex-gee-va-gel-giam-san-khoi-ngoai-quay-lai-mua-rong-nhom-bluechip-1636-1491878.htm",
+        "published": "Mon, 14 Sep 2026 16:47:00 +0700"
+      },
+      {
         "title": "Hơn 240 triệu USD có thể chảy vào chứng khoán Việt Nam trong tuần đầu nâng hạng FTSE",
         "link": "http://vietstock.vn/2026/09/hon-240-trieu-usd-co-the-chay-vao-chung-khoan-viet-nam-trong-tuan-dau-nang-hang-ftse-3358-1492014.htm",
         "published": "Mon, 14 Sep 2026 16:03:57 +0700"
@@ -91,43 +96,38 @@
         "title": "VPG bị HOSE nhắc chậm công bố BCTC soát xét, loạt sức ép tài chính phía sau",
         "link": "http://vietstock.vn/2026/09/vpg-bi-hose-nhac-cham-cong-bo-bctc-soat-xet-loat-suc-ep-tai-chinh-phia-sau-830-1491952.htm",
         "published": "Mon, 14 Sep 2026 12:17:00 +0700"
-      },
-      {
-        "title": "Tuần 14-18/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-        "link": "http://vietstock.vn/2026/09/tuan-14-18092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1491687.htm",
-        "published": "Mon, 14 Sep 2026 10:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow",
-        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-on-wednesday-now-likely-say-economists-and-at-least-one-more-to-follow-4899032",
-        "published": "2026-09-14 09:54:32"
+        "title": "India’s August retail inflation at 4.82% on-year",
+        "link": "https://www.investing.com/news/economy-news/indias-august-retail-inflation-at-482-onyear-4899140",
+        "published": "2026-09-14 10:36:35"
       },
       {
-        "title": "Yemen’s Houthis seize more islands in southern Red Sea - AP",
-        "link": "https://www.investing.com/news/economy-news/yemens-houthis-seize-more-islands-in-southern-red-sea--ap-4899031",
-        "published": "2026-09-14 09:53:32"
+        "title": "Fed’s table is set for a rate hike, a first under Warsh",
+        "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
+        "published": "2026-09-14 10:30:52"
       },
       {
-        "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
-        "link": "https://www.investing.com/news/economy-news/china-urges-more-fx-hedging-as-strong-yuan-hits-exporters-sources-say-4899029",
-        "published": "2026-09-14 09:49:25"
+        "title": "China bank loans rise less than expected in August after July slump",
+        "link": "https://www.investing.com/news/economy-news/china-bank-loans-rise-less-than-expected-in-august-after-july-slump-4898988",
+        "published": "2026-09-14 10:25:50"
       },
       {
-        "title": "AI warnings knock Nasdaq futures, pressure tech stocks",
-        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 09:49:05"
+        "title": "China central bank plans new metrics to rein in banks’ long-dated bonds holdings, sources say",
+        "link": "https://www.investing.com/news/economy-news/china-central-bank-plans-new-metrics-to-rein-in-banks-longdated-bonds-holdings-sources-say-4899114",
+        "published": "2026-09-14 10:25:27"
       },
       {
-        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
-        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
-        "published": "2026-09-14 09:48:33"
+        "title": "Analysis-Bitcoin’s late summer rally set to face off against the Fed, Congress",
+        "link": "https://www.investing.com/news/economy-news/analysisbitcoins-late-summer-rally-set-to-face-off-against-the-fed-congress-4899060",
+        "published": "2026-09-14 10:24:36"
       },
       {
-        "title": "European shares slip as AI slowdown call hits tech, oil surge weighs",
-        "link": "https://www.investing.com/news/economy-news/european-shares-muted-as-tech-slides-oil-surge-weighs-4898881",
-        "published": "2026-09-14 09:36:26"
+        "title": "China August bank lending disappoints as credit demand stays weak",
+        "link": "https://www.investing.com/news/economy-news/china-august-bank-lending-disappoints-as-credit-demand-stays-weak-4899093",
+        "published": "2026-09-14 10:19:08"
       }
     ]
   }
