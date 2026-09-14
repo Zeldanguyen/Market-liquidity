@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T22:41:29.107340",
+  "fetched_at": "2026-09-14T23:09:09.069198",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -102,7 +102,17 @@
       {
         "title": "Trump’s mail-in voting restrictions blocked by a second judge",
         "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
-        "published": "2026-09-14 22:24:35"
+        "published": "2026-09-14 22:36:29"
+      },
+      {
+        "title": "Explainer-US Treasury yields are rising - why does it matter?",
+        "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4899965",
+        "published": "2026-09-14 22:25:32"
+      },
+      {
+        "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
+        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+        "published": "2026-09-14 22:24:49"
       },
       {
         "title": "Five spots to watch as the bond market hits 5%",
@@ -118,16 +128,6 @@
         "title": "Canada’s inflation picture is getting complicated — what analysts see ahead",
         "link": "https://www.investing.com/news/economy-news/canadas-inflation-picture-is-getting-complicated--what-analysts-see-ahead-4900630",
         "published": "2026-09-14 21:54:10"
-      },
-      {
-        "title": "Trading Day: AI-pocalypse now",
-        "link": "https://www.investing.com/news/economy-news/trading-day-aipocalypse-now-4900547",
-        "published": "2026-09-14 21:13:06"
-      },
-      {
-        "title": "French labor strike takes 6.5 gigawatts of power offline",
-        "link": "https://www.investing.com/news/economy-news/french-labor-strike-takes-65-gigawatts-of-power-offline-93CH-4900535",
-        "published": "2026-09-14 21:06:47"
       }
     ]
   }
