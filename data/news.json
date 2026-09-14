@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T01:40:06.167733",
+  "fetched_at": "2026-09-14T02:10:09.786305",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 14/9-18/9, tỷ lệ cao nhất 80%",
+        "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-14-9-18-9-ty-le-cao-nhat-80-188260914090358639.chn",
+        "published": "Mon, 14 Sep 26 09:03:00 +0700"
+      },
       {
         "title": "Vốn ngoại tạo dư địa tăng trưởng cho ngân hàng Việt",
         "link": "https://cafef.vn/von-ngoai-tao-du-dia-tang-truong-cho-ngan-hang-viet-188260914081139859.chn",
@@ -27,14 +32,14 @@
         "title": "Đón tin cực vui, cổ phiếu DN liên quan \"kho báu\" chứa 1.500 kg vàng ở Lai Châu tăng bốc 30% chỉ sau 1 tuần",
         "link": "https://cafef.vn/don-tin-cuc-vui-co-phieu-dn-lien-quan-kho-bau-chua-1500-kg-vang-o-lai-chau-tang-boc-30-chi-sau-1-tuan-188260913224631813.chn",
         "published": "Mon, 14 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "SSI Research chỉ ra loạt cổ phiếu \"hút tiền\" mạnh trong tuần đầu nâng hạng",
-        "link": "https://cafef.vn/ssi-research-chi-ra-loat-co-phieu-hut-tien-manh-trong-tuan-dau-nang-hang-188260913221635111.chn",
-        "published": "Mon, 14 Sep 26 00:04:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Bộ Tài chính làm rõ đề xuất “nới lỏng điều kiện cho nhà đầu tư nước ngoài”",
+        "link": "https://vneconomy.vn/bo-tai-chinh-lam-ro-de-xuat-noi-long-dieu-kien-cho-nha-dau-tu-nuoc-ngoai.htm",
+        "published": "Mon, 14 Sep 2026 01:41:12 GMT"
+      },
       {
         "title": "Vàng tụt giá trước thềm cuộc họp Fed",
         "link": "https://vneconomy.vn/vang-tut-gia-truoc-them-cuoc-hop-fed.htm",
@@ -59,11 +64,6 @@
         "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 37-2026",
         "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-37-2026.htm",
         "published": "Sat, 12 Sep 2026 23:53:04 GMT"
-      },
-      {
-        "title": "Giá vàng hồi phục dù khả năng Fed tăng lãi suất đã lên gần 90%, SPDR Gold Trust bán ròng",
-        "link": "https://vneconomy.vn/gia-vang-hoi-phuc-du-kha-nang-fed-tang-lai-suat-da-len-gan-90-spdr-gold-trust-ban-rong.htm",
-        "published": "Sat, 12 Sep 2026 00:59:19 GMT"
       }
     ],
     "Vietstock": [
