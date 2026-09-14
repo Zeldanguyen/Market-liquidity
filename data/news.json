@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T05:40:28.663604",
+  "fetched_at": "2026-09-14T06:13:22.448138",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Người thân Chủ tịch Hải Phát Invest đăng ký mua 15 triệu cổ phiếu HPX",
+        "link": "https://cafef.vn/nguoi-than-chu-tich-hai-phat-invest-dang-ky-mua-15-trieu-co-phieu-hpx-188260914124535628.chn",
+        "published": "Mon, 14 Sep 26 12:48:00 +0700"
+      },
       {
         "title": "Chủ tịch VSDC: Nâng hạng thị trường chứng khoán không phải đích đến cuối cùng, mà là động lực cải cách toàn diện",
         "link": "https://cafef.vn/chu-tich-vsdc-nang-hang-thi-truong-chung-khoan-khong-phai-dich-den-cuoi-cung-ma-la-dong-luc-cai-cach-toan-dien-1882609141109512.chn",
@@ -27,11 +32,6 @@
         "title": "Thừa kế doanh nghiệp gia đình: Áp lực của F1 và 'cái bóng' của F0",
         "link": "https://cafef.vn/thua-ke-doanh-nghiep-gia-dinh-ap-luc-cua-f1-va-cai-bong-cua-f0-188260914093735186.chn",
         "published": "Mon, 14 Sep 26 10:37:00 +0700"
-      },
-      {
-        "title": "Ông Đặng Phan Tường vừa bị khởi tố, công ty hé lộ khoản thù lao trong nửa đầu năm",
-        "link": "https://cafef.vn/ong-dang-phan-tuong-vua-bi-khoi-to-cong-ty-he-lo-khoan-thu-lao-trong-nua-dau-nam-188260914102511888.chn",
-        "published": "Mon, 14 Sep 26 10:30:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "VPG bị HOSE nhắc chậm công bố BCTC soát xét, loạt sức ép tài chính phía sau",
+        "link": "http://vietstock.vn/2026/09/vpg-bi-hose-nhac-cham-cong-bo-bctc-soat-xet-loat-suc-ep-tai-chinh-phia-sau-830-1491952.htm",
+        "published": "Mon, 14 Sep 2026 12:17:00 +0700"
+      },
+      {
         "title": "Nhịp đập Thị trường 14/09: VIC đè chỉ số, VN-Index mắc kẹt trong sắc đỏ",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-vic-de-chi-so-vn-index-mac-ket-trong-sac-do-1636-1491878.htm",
         "published": "Mon, 14 Sep 2026 11:47:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Vietstock Weekly 14-18/09/2026: Rung lắc trở lại",
         "link": "http://vietstock.vn/2026/09/vietstock-weekly-14-18092026-rung-lac-tro-lai-1636-1491685.htm",
         "published": "Sun, 13 Sep 2026 18:00:00 +0700"
-      },
-      {
-        "title": "IR thực chất: Đừng lấy biến động giá ngắn hạn làm thước đo hiệu quả",
-        "link": "http://vietstock.vn/2026/09/ir-thuc-chat-dung-lay-bien-dong-gia-ngan-han-lam-thuoc-do-hieu-qua-830-1490068.htm",
-        "published": "Sun, 13 Sep 2026 10:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
