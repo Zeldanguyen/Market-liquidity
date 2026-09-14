@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T12:12:40.219136",
+  "fetched_at": "2026-09-14T12:46:04.465497",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá dầu tăng mạnh thử thách khả năng hỗ trợ tăng trưởng của chính sách tiền tệ",
+        "link": "https://vneconomy.vn/gia-dau-tang-manh-thu-thach-kha-nang-ho-tro-tang-truong-cua-chinh-sach-tien-te.htm",
+        "published": "Mon, 14 Sep 2026 12:43:26 GMT"
+      },
+      {
         "title": "BIDV tiếp dòng tài chính, cùng khách hàng tiếp nối thành tựu",
         "link": "https://vneconomy.vn/bidv-tiep-dong-tai-chinh-cung-khach-hang-tiep-noi-thanh-tuu.htm",
         "published": "Mon, 14 Sep 2026 11:43:26 GMT"
@@ -59,14 +64,14 @@
         "title": "Sắp diễn ra Techcombank Investment Summit 2026 - Hội nghị đầu tư quốc tế thường niên",
         "link": "https://vneconomy.vn/sap-dien-ra-techcombank-investment-summit-2026-hoi-nghi-dau-tu-quoc-te-thuong-nien.htm",
         "published": "Mon, 14 Sep 2026 02:21:53 GMT"
-      },
-      {
-        "title": "Bộ Tài chính làm rõ đề xuất “nới lỏng điều kiện cho nhà đầu tư nước ngoài”",
-        "link": "https://vneconomy.vn/bo-tai-chinh-lam-ro-de-xuat-noi-long-dieu-kien-cho-nha-dau-tu-nuoc-ngoai.htm",
-        "published": "Mon, 14 Sep 2026 01:41:12 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Theo dấu dòng tiền cá mập 14/09: Khối ngoại mua ròng trên 800 tỷ, tự doanh giao dịch cân bằng",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1409-khoi-ngoai-mua-rong-tren-800-ty-tu-doanh-giao-dich-can-bang-830-1492261.htm",
+        "published": "Mon, 14 Sep 2026 19:14:53 +0700"
+      },
       {
         "title": "Vietstock Daily 15/09/2026: Áp lực gia tăng",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-15092026-ap-luc-gia-tang-1636-1492120.htm",
@@ -91,14 +96,19 @@
         "title": "Phân tích kỹ thuật phiên chiều 14/09: Áp lực điều chỉnh gia tăng",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1409-ap-luc-dieu-chinh-gia-tang-585-1491964.htm",
         "published": "Mon, 14 Sep 2026 13:03:21 +0700"
-      },
-      {
-        "title": "Quan hệ nhà đầu tư (IR) tại Việt Nam: Từ công bố thông tin đến năng lực thu hút vốn quốc tế",
-        "link": "http://vietstock.vn/2026/09/quan-he-nha-dau-tu-ir-tai-viet-nam-tu-cong-bo-thong-tin-den-nang-luc-thu-hut-von-quoc-te-830-1489883.htm",
-        "published": "Mon, 14 Sep 2026 13:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
+        "link": "https://www.investing.com/news/economy-news/etihad-airways-sees-strong-demand-higher-passenger-capacitydespite-iran-war-ceo-says-4899505",
+        "published": "2026-09-14 12:18:26"
+      },
+      {
+        "title": "Commodities are breaking out. Is this a genuine inflationary threat to equities?",
+        "link": "https://www.investing.com/news/economy-news/commodities-are-breaking-out-is-this-a-genuine-inflationary-threat-to-equities-4899480",
+        "published": "2026-09-14 12:12:01"
+      },
       {
         "title": "India inflation rises to 4.82% in August, strengthening case for rate hike",
         "link": "https://www.investing.com/news/economy-news/indias-august-retail-inflation-at-482-onyear-4899140",
@@ -118,16 +128,6 @@
         "title": "Analysis-Bitcoin’s late summer rally set to face off against the Fed, Congress",
         "link": "https://www.investing.com/news/economy-news/analysisbitcoins-late-summer-rally-set-to-face-off-against-the-fed-congress-4899060",
         "published": "2026-09-14 11:18:44"
-      },
-      {
-        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
-        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
-        "published": "2026-09-14 11:13:10"
-      },
-      {
-        "title": "Analysis-US rail fuel surcharges on grain hit record highs, squeezing farmers in harvest season",
-        "link": "https://www.investing.com/news/economy-news/analysisus-rail-fuel-surcharges-on-grain-hit-record-highs-squeezing-farmers-in-harvest-season-4899075",
-        "published": "2026-09-14 11:12:51"
       }
     ]
   }
