@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T16:09:45.114152",
+  "fetched_at": "2026-09-14T16:42:22.745963",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một cổ phiếu thép bị tự doanh CTCK \"xả\" mạnh phiên đầu tuần, ngược chiều hai mã ngân hàng hút tiền",
+        "link": "https://cafef.vn/mot-co-phieu-thep-bi-tu-doanh-ctck-xa-manh-phien-dau-tuan-nguoc-chieu-hai-ma-ngan-hang-hut-tien-188260914232437925.chn",
+        "published": "Mon, 14 Sep 26 23:24:00 +0700"
+      },
       {
         "title": "Cựu HLV bóng đá nổi tiếng của Việt Nam được đề cử vào HĐQT một doanh nghiệp",
         "link": "https://cafef.vn/cuu-hlv-bong-da-noi-tieng-cua-viet-nam-duoc-de-cu-vao-hdqt-mot-doanh-nghiep-188260914215650621.chn",
@@ -27,14 +32,14 @@
         "title": "Nhóm Gelex đồng loạt giảm sàn, VN-Index rời xa mốc 1.800 điểm",
         "link": "https://cafef.vn/nhom-gelex-dong-loat-giam-san-vn-index-roi-xa-moc-1800-diem-188260914175656997.chn",
         "published": "Mon, 14 Sep 26 18:39:00 +0700"
-      },
-      {
-        "title": "GELEX: Vụ việc ông Đặng Phan Tường không ảnh hưởng tới hoạt động của tập đoàn và các công ty con",
-        "link": "https://cafef.vn/gelex-vu-viec-ong-dang-phan-tuong-khong-anh-huong-toi-hoat-dong-cua-tap-doan-va-cac-cong-ty-con-18826091418341079.chn",
-        "published": "Mon, 14 Sep 26 18:34:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Rủi ro đối với thị trường trái phiếu kho bạc Mỹ nếu Fed không tăng lãi suất",
+        "link": "https://vneconomy.vn/rui-ro-doi-voi-thi-truong-trai-phieu-kho-bac-my-neu-fed-khong-tang-lai-suat.htm",
+        "published": "Mon, 14 Sep 2026 13:20:44 GMT"
+      },
       {
         "title": "Giá dầu tăng mạnh thử thách khả năng hỗ trợ tăng trưởng của chính sách tiền tệ",
         "link": "https://vneconomy.vn/gia-dau-tang-manh-thu-thach-kha-nang-ho-tro-tang-truong-cua-chinh-sach-tien-te.htm",
@@ -59,11 +64,6 @@
         "title": "Hai câu hỏi lớn về cuộc họp tuần này của Fed",
         "link": "https://vneconomy.vn/hai-cau-hoi-lon-ve-cuoc-hop-tuan-nay-cua-fed.htm",
         "published": "Mon, 14 Sep 2026 03:55:37 GMT"
-      },
-      {
-        "title": "Sắp diễn ra Techcombank Investment Summit 2026 - Hội nghị đầu tư quốc tế thường niên",
-        "link": "https://vneconomy.vn/sap-dien-ra-techcombank-investment-summit-2026-hoi-nghi-dau-tu-quoc-te-thuong-nien.htm",
-        "published": "Mon, 14 Sep 2026 02:21:53 GMT"
       }
     ],
     "Vietstock": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
-        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
-        "published": "2026-09-14 15:42:31"
+        "title": "Five spots to watch as the bond market hits 5%",
+        "link": "https://www.investing.com/news/economy-news/five-spots-to-watch-as-the-bond-market-hits-5-4900109",
+        "published": "2026-09-14 16:37:09"
       },
       {
-        "title": "Europe facing unprecedented risk of being cut off from AI, Lagarde warns",
-        "link": "https://www.investing.com/news/economy-news/europe-facing-unprecedented-risk-of-being-cut-off-from-ai-lagarde-warns-4900001",
-        "published": "2026-09-14 15:30:48"
+        "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers",
+        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+        "published": "2026-09-14 16:25:08"
       },
       {
-        "title": "Canada inflation holds steady as oil surge raises Bank of Canada rate risks",
-        "link": "https://www.investing.com/news/economy-news/canada-inflation-holds-steady-as-oil-surge-raises-bank-of-canada-rate-risks-4900015",
-        "published": "2026-09-14 15:28:08"
+        "title": "Ukraine proposes deal to halt strikes on key infrastructure",
+        "link": "https://www.investing.com/news/economy-news/ukraine-proposes-deal-to-halt-strikes-on-key-infrastructure-93CH-4900079",
+        "published": "2026-09-14 16:12:39"
       },
       {
         "title": "US 10-year yields reach 5%, highest since 2023",
         "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
-        "published": "2026-09-14 15:18:46"
+        "published": "2026-09-14 16:08:32"
       },
       {
-        "title": "Iran proposes $10 billion BRICS reinsurance company",
-        "link": "https://www.investing.com/news/economy-news/iran-proposes-10-billion-brics-reinsurance-company-93CH-4899998",
-        "published": "2026-09-14 15:16:28"
+        "title": "US Senate Republicans release new crypto bill text ahead of critical vote",
+        "link": "https://www.investing.com/news/economy-news/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-4899651",
+        "published": "2026-09-14 15:49:28"
       },
       {
-        "title": "Explainer-US Treasury yields are rising - why does it matter?",
-        "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4899965",
-        "published": "2026-09-14 14:55:07"
+        "title": "Analysis-Bitcoin’s late summer rally set to face off against the Fed, Congress",
+        "link": "https://www.investing.com/news/economy-news/analysisbitcoins-late-summer-rally-set-to-face-off-against-the-fed-congress-4899060",
+        "published": "2026-09-14 15:49:06"
       }
     ]
   }
