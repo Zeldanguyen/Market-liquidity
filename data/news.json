@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-14T11:09:36.531217",
+  "fetched_at": "2026-09-14T11:42:10.487289",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nhóm Gelex đồng loạt giảm sàn, VN-Index rời xa mốc 1.800 điểm",
+        "link": "https://cafef.vn/nhom-gelex-dong-loat-giam-san-vn-index-roi-xa-moc-1800-diem-188260914175656997.chn",
+        "published": "Mon, 14 Sep 26 18:39:00 +0700"
+      },
+      {
+        "title": "GELEX: Vụ việc ông Đặng Phan Tường không ảnh hưởng tới hoạt động của tập đoàn và các công ty con",
+        "link": "https://cafef.vn/gelex-vu-viec-ong-dang-phan-tuong-khong-anh-huong-toi-hoat-dong-cua-tap-doan-va-cac-cong-ty-con-18826091418341079.chn",
+        "published": "Mon, 14 Sep 26 18:34:00 +0700"
+      },
       {
         "title": "Cổ phiếu SSB tăng trần, “cháy hàng” trong phiên đầu tuần \"rực lửa\"",
         "link": "https://cafef.vn/co-phieu-ssb-tang-tran-chay-hang-trong-phien-dau-tuan-ruc-lua-188260914171556086.chn",
@@ -22,16 +32,6 @@
         "title": "Nợ hơn 536 tỷ đồng liên quan đến thuế, một công ty có Phó Tổng giám đốc đang bị điều tra về tội lừa đảo",
         "link": "https://cafef.vn/no-hon-536-ty-dong-lien-quan-den-thue-mot-cong-ty-co-pho-tong-giam-doc-dang-bi-dieu-tra-ve-toi-lua-dao-188260914171804893.chn",
         "published": "Mon, 14 Sep 26 17:17:00 +0700"
-      },
-      {
-        "title": "Một DN Việt tạo kỳ tích vô tiền khoáng hậu ở \"trái tim của châu Phi\", Thủ tướng đề nghị gì với nước chủ nhà?",
-        "link": "https://cafef.vn/mot-dn-viet-tao-ky-tich-vo-tien-khoang-hau-o-trai-tim-cua-chau-phi-thu-tuong-de-nghi-gi-voi-nuoc-chu-nha-188260914144339595.chn",
-        "published": "Mon, 14 Sep 26 16:59:00 +0700"
-      },
-      {
-        "title": "Loạt cổ phiếu “họ\" Gelex giảm sàn, điều gì đang diễn ra?",
-        "link": "https://cafef.vn/loat-co-phieu-ho-gelex-giam-san-dieu-gi-dang-dien-ra-188260914165233201.chn",
-        "published": "Mon, 14 Sep 26 16:53:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Fed’s table is set for a rate hike, a first under Warsh",
-        "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
-        "published": "2026-09-14 10:56:17"
-      },
-      {
         "title": "AI warnings knock Nasdaq futures, pressure tech stocks",
         "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 10:55:13"
+        "published": "2026-09-14 11:24:51"
       },
       {
-        "title": "Analysis-US rail fuel surcharges on grain hit record highs, squeezing farmers in harvest season",
-        "link": "https://www.investing.com/news/economy-news/analysisus-rail-fuel-surcharges-on-grain-hit-record-highs-squeezing-farmers-in-harvest-season-4899075",
-        "published": "2026-09-14 10:54:54"
-      },
-      {
-        "title": "Analysis-Biggest risk for sinking bond market is Fed standing pat",
-        "link": "https://www.investing.com/news/economy-news/analysisbiggest-risk-for-sinking-bond-market-is-fed-standing-pat-4899063",
-        "published": "2026-09-14 10:54:40"
+        "title": "India inflation jumps to 4.82% in August as price pressures broaden",
+        "link": "https://www.investing.com/news/economy-news/indias-august-retail-inflation-at-482-onyear-4899140",
+        "published": "2026-09-14 11:24:28"
       },
       {
         "title": "Analysis-Bitcoin’s late summer rally set to face off against the Fed, Congress",
         "link": "https://www.investing.com/news/economy-news/analysisbitcoins-late-summer-rally-set-to-face-off-against-the-fed-congress-4899060",
-        "published": "2026-09-14 10:49:14"
+        "published": "2026-09-14 11:18:44"
       },
       {
-        "title": "India’s August retail inflation at 4.82% on-year",
-        "link": "https://www.investing.com/news/economy-news/indias-august-retail-inflation-at-482-onyear-4899140",
-        "published": "2026-09-14 10:42:30"
+        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
+        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
+        "published": "2026-09-14 11:13:10"
+      },
+      {
+        "title": "Analysis-US rail fuel surcharges on grain hit record highs, squeezing farmers in harvest season",
+        "link": "https://www.investing.com/news/economy-news/analysisus-rail-fuel-surcharges-on-grain-hit-record-highs-squeezing-farmers-in-harvest-season-4899075",
+        "published": "2026-09-14 11:12:51"
+      },
+      {
+        "title": "BIS says global market AI momentum showing signs of vulnerability",
+        "link": "https://www.investing.com/news/economy-news/bis-says-global-market-ai-momentum-showing-signs-of-vulnerability-4899226",
+        "published": "2026-09-14 11:06:28"
       }
     ]
   }
