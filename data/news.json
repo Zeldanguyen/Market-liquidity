@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-14T01:10:14.912846",
+  "fetched_at": "2026-09-14T01:40:06.167733",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vốn ngoại tạo dư địa tăng trưởng cho ngân hàng Việt",
+        "link": "https://cafef.vn/von-ngoai-tao-du-dia-tang-truong-cho-ngan-hang-viet-188260914081139859.chn",
+        "published": "Mon, 14 Sep 26 08:16:00 +0700"
+      },
+      {
+        "title": "Nhịp cầu Luân Đôn: Nâng tầm thị trường vốn Việt",
+        "link": "https://cafef.vn/nhip-cau-luan-don-nang-tam-thi-truong-von-viet-188260914080952945.chn",
+        "published": "Mon, 14 Sep 26 08:09:00 +0700"
+      },
       {
         "title": "KIS khởi động “Bản Lĩnh Chứng Trường” mùa 7, giải thưởng 330 triệu đồng",
         "link": "https://cafef.vn/kis-khoi-dong-ban-linh-chung-truong-mua-7-giai-thuong-330-trieu-dong-188260913111823749.chn",
@@ -22,16 +32,6 @@
         "title": "SSI Research chỉ ra loạt cổ phiếu \"hút tiền\" mạnh trong tuần đầu nâng hạng",
         "link": "https://cafef.vn/ssi-research-chi-ra-loat-co-phieu-hut-tien-manh-trong-tuan-dau-nang-hang-188260913221635111.chn",
         "published": "Mon, 14 Sep 26 00:04:00 +0700"
-      },
-      {
-        "title": "Một loại cây quá quen, được ví như nhân sâm của người nghèo, giúp doanh nghiệp trên sàn chứng khoán thu hàng trăm tỷ mỗi năm",
-        "link": "https://cafef.vn/mot-loai-cay-qua-quen-duoc-vi-nhu-nhan-sam-cua-nguoi-ngheo-giup-doanh-nghiep-tren-san-chung-khoan-thu-hang-tram-ty-moi-nam-188260913224425147.chn",
-        "published": "Mon, 14 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Ông Phạm Nhật Minh Hoàng phát biểu sau khi trở thành Tổng giám đốc hãng taxi Green SM",
-        "link": "https://cafef.vn/ong-pham-nhat-minh-hoang-phat-bieu-sau-khi-tro-thanh-tong-giam-doc-gsm-toan-cau-18826091323254985.chn",
-        "published": "Mon, 14 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 14/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1409-830-1491477.htm",
+        "published": "Mon, 14 Sep 2026 08:00:00 +0700"
+      },
+      {
         "title": "14/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491794.htm",
         "published": "Mon, 14 Sep 2026 06:02:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Fed đứng trước khả năng tăng lãi suất",
         "link": "http://vietstock.vn/2026/09/fed-dung-truoc-kha-nang-tang-lai-suat-830-1491731.htm",
         "published": "Sat, 12 Sep 2026 21:02:00 +0700"
-      },
-      {
-        "title": "VIC, VHM cùng loạt cổ phiếu ngân hàng kéo VN-Index về dưới 1,800 điểm",
-        "link": "http://vietstock.vn/2026/09/vic-vhm-cung-loat-co-phieu-ngan-hang-keo-vn-index-ve-duoi-1800-diem-830-1491730.htm",
-        "published": "Sat, 12 Sep 2026 20:30:00 +0700"
       }
     ],
     "Investing.com Economy": [
