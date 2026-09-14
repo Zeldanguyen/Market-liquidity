@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-14T16:42:22.745963",
+  "fetched_at": "2026-09-14T17:09:16.010222",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Các quỹ ngoại sẽ mua mạnh cổ phiếu nào trước thềm nâng hạng?",
+        "link": "https://cafef.vn/cac-quy-ngoai-se-mua-manh-co-phieu-nao-truoc-them-nang-hang-188260914195904956.chn",
+        "published": "Tue, 15 Sep 26 00:04:00 +0700"
+      },
+      {
+        "title": "Loạt tổ chức lớn đưa ra dự báo bất ngờ về giá vàng cuối năm",
+        "link": "https://cafef.vn/loat-to-chuc-lon-dua-ra-du-bao-bat-ngo-ve-gia-vang-cuoi-nam-188260914222530003.chn",
+        "published": "Tue, 15 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Hơn chục nghìn tỷ đổ dồn giao dịch vào 1 thời điểm, những cổ phiếu nào trong tầm ngắm?",
+        "link": "https://cafef.vn/hon-chuc-nghin-ty-do-don-giao-dich-vao-1-thoi-diem-nhung-co-phieu-nao-trong-tam-ngam-188260914222437425.chn",
+        "published": "Tue, 15 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Một cổ phiếu thép bị tự doanh CTCK \"xả\" mạnh phiên đầu tuần, ngược chiều hai mã ngân hàng hút tiền",
         "link": "https://cafef.vn/mot-co-phieu-thep-bi-tu-doanh-ctck-xa-manh-phien-dau-tuan-nguoc-chieu-hai-ma-ngan-hang-hut-tien-188260914232437925.chn",
@@ -17,21 +32,6 @@
         "title": "Loạt cổ phiếu hệ sinh thái GELEX bất ngờ lao dốc, nguyên nhân từ đâu?",
         "link": "https://cafef.vn/loat-co-phieu-he-sinh-thai-gelex-bat-ngo-lao-doc-nguyen-nhan-tu-dau-188260914165047454.chn",
         "published": "Mon, 14 Sep 26 20:42:00 +0700"
-      },
-      {
-        "title": "Bảo hiểm Bảo Minh chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 10%",
-        "link": "https://cafef.vn/bao-hiem-bao-minh-chuan-bi-chia-co-tuc-bang-co-phieu-ty-le-10-188260914200053136.chn",
-        "published": "Mon, 14 Sep 26 20:00:00 +0700"
-      },
-      {
-        "title": "Bách Hóa Xanh lần đầu thu hơn 6.000 tỷ trong 1 tháng",
-        "link": "https://cafef.vn/bach-hoa-xanh-lan-dau-thu-hon-6000-ty-trong-1-thang-188260914194833194.chn",
-        "published": "Mon, 14 Sep 26 19:48:00 +0700"
-      },
-      {
-        "title": "Nhóm Gelex đồng loạt giảm sàn, VN-Index rời xa mốc 1.800 điểm",
-        "link": "https://cafef.vn/nhom-gelex-dong-loat-giam-san-vn-index-roi-xa-moc-1800-diem-188260914175656997.chn",
-        "published": "Mon, 14 Sep 26 18:39:00 +0700"
       }
     ],
     "VnEconomy": [
