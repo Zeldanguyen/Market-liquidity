@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T04:42:51.454184",
+  "fetched_at": "2026-09-14T05:09:09.977937",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
+        "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
+        "published": "2026-09-14 05:00:29"
+      },
+      {
+        "title": "Trump says he would be OK with China building cars in US",
+        "link": "https://www.investing.com/news/economy-news/trump-says-he-would-be-ok-with-china-building-cars-in-us-4898818",
+        "published": "2026-09-14 04:54:28"
+      },
+      {
+        "title": "Morning Bid: Shipping oil gets ever harder, costlier",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-shipping-oil-gets-ever-harder-costlier-4898817",
+        "published": "2026-09-14 04:36:43"
+      },
+      {
         "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
         "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-expects-fed-to-hike-rates-in-september-4898799",
         "published": "2026-09-14 04:24:26"
-      },
-      {
-        "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
-        "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
-        "published": "2026-09-14 01:00:57"
       },
       {
         "title": "’Musk’ director wants viewers to reclaim power from ’tech oligarchs’",
@@ -118,16 +128,6 @@
         "title": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings",
         "link": "https://www.investing.com/news/economy-news/dollar-steady-yen-near-7month-high-ahead-of-fed-boj-meetings-4898780",
         "published": "2026-09-14 00:30:24"
-      },
-      {
-        "title": "Trump reiterates support for united Ireland, says won’t talk about Scotland ’yet’",
-        "link": "https://www.investing.com/news/economy-news/trump-reiterates-support-for-united-ireland-says-wont-talk-about-scotland-yet-4898746",
-        "published": "2026-09-13 17:24:29"
-      },
-      {
-        "title": "Will Secretary Scott Bessent fire his bazooka to avert yields climbing above 5%?",
-        "link": "https://www.investing.com/news/economy-news/will-secretary-scott-bessent-fire-his-bazooka-to-avert-yields-climbing-above-5-4898743",
-        "published": "2026-09-13 16:19:42"
       }
     ]
   }
