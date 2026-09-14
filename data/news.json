@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T02:10:09.786305",
+  "fetched_at": "2026-09-14T02:41:14.810665",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Sắp diễn ra Techcombank Investment Summit 2026 - Hội nghị đầu tư quốc tế thường niên",
+        "link": "https://vneconomy.vn/sap-dien-ra-techcombank-investment-summit-2026-hoi-nghi-dau-tu-quoc-te-thuong-nien.htm",
+        "published": "Mon, 14 Sep 2026 02:21:53 GMT"
+      },
+      {
         "title": "Bộ Tài chính làm rõ đề xuất “nới lỏng điều kiện cho nhà đầu tư nước ngoài”",
         "link": "https://vneconomy.vn/bo-tai-chinh-lam-ro-de-xuat-noi-long-dieu-kien-cho-nha-dau-tu-nuoc-ngoai.htm",
         "published": "Mon, 14 Sep 2026 01:41:12 GMT"
@@ -59,11 +64,6 @@
         "title": "Nam A Bank: Kết nối nguồn lực xanh cho phát triển bền vững",
         "link": "https://vneconomy.vn/nam-a-bank-ket-noi-nguon-luc-xanh-cho-phat-trien-ben-vung.htm",
         "published": "Sun, 13 Sep 2026 01:00:00 GMT"
-      },
-      {
-        "title": "Đón đọc Tạp chí Kinh tế Việt Nam số 37-2026",
-        "link": "https://vneconomy.vn/don-doc-tap-chi-kinh-te-viet-nam-so-37-2026.htm",
-        "published": "Sat, 12 Sep 2026 23:53:04 GMT"
       }
     ],
     "Vietstock": [
