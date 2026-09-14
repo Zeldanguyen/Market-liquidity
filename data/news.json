@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T00:13:16.019571",
+  "fetched_at": "2026-09-14T00:45:31.588368",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings",
+        "link": "https://www.investing.com/news/economy-news/dollar-steady-yen-near-7month-high-ahead-of-fed-boj-meetings-4898780",
+        "published": "2026-09-14 00:30:24"
+      },
+      {
         "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
         "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
         "published": "2026-09-13 17:48:28"
@@ -123,11 +128,6 @@
         "title": "Trump says ’very negative forces’ raising exaggerated concerns over AI",
         "link": "https://www.investing.com/news/economy-news/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-4898739",
         "published": "2026-09-13 14:30:28"
-      },
-      {
-        "title": "Trump’s ’Liberation Day 2.0’ risks drastic policy change in 2028 - BCA Research",
-        "link": "https://www.investing.com/news/economy-news/trumps-liberation-day-20-risks-drastic-policy-change-in-2028--bca-research-4898734",
-        "published": "2026-09-13 13:34:14"
       }
     ]
   }
