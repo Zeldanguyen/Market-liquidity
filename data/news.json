@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T03:42:39.404906",
+  "fetched_at": "2026-09-14T04:09:35.167321",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Giá vàng bạc hôm nay 14/9: Phú Quý, SJC bứt phá, Bảo Tín Minh Châu niêm yết chênh lệch rất cao",
+        "link": "https://cafef.vn/gia-vang-bac-hom-nay-14-9-phu-quy-sjc-but-pha-bao-tin-minh-chau-niem-yet-chenh-lech-rat-cao-188260914110721924.chn",
+        "published": "Mon, 14 Sep 26 11:07:00 +0700"
+      },
       {
         "title": "Thừa kế doanh nghiệp gia đình: Áp lực của F1 và 'cái bóng' của F0",
         "link": "https://cafef.vn/thua-ke-doanh-nghiep-gia-dinh-ap-luc-cua-f1-va-cai-bong-cua-f0-188260914093735186.chn",
@@ -27,14 +32,14 @@
         "title": "Tập đoàn lớn nhất thế giới tìm đến Hòa Phát, tỷ phú Trần Đình Long chốt thỏa thuận hợp tác quan trọng",
         "link": "https://cafef.vn/tap-doan-lon-nhat-the-gioi-tim-den-hoa-phat-ty-phu-tran-dinh-long-chot-thoa-thuan-hop-tac-quan-trong-188260914101259847.chn",
         "published": "Mon, 14 Sep 26 10:12:00 +0700"
-      },
-      {
-        "title": "Thiếu gia Bùi Cao Nhật Quân đứng ra bảo lãnh khoản vay 360 tỷ cho Novaland",
-        "link": "https://cafef.vn/thieu-gia-bui-cao-nhat-quan-dung-ra-bao-lanh-khoan-vay-360-ty-cho-novaland-188260914095007284.chn",
-        "published": "Mon, 14 Sep 26 09:49:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Hai câu hỏi lớn về cuộc họp tuần này của Fed",
+        "link": "https://vneconomy.vn/hai-cau-hoi-lon-ve-cuoc-hop-tuan-nay-cua-fed.htm",
+        "published": "Mon, 14 Sep 2026 03:55:37 GMT"
+      },
       {
         "title": "Sắp diễn ra Techcombank Investment Summit 2026 - Hội nghị đầu tư quốc tế thường niên",
         "link": "https://vneconomy.vn/sap-dien-ra-techcombank-investment-summit-2026-hoi-nghi-dau-tu-quoc-te-thuong-nien.htm",
@@ -59,11 +64,6 @@
         "title": "Ngân hàng SeABank đón nhận Huân chương Lao động hạng Nhất và Bằng khen của Bộ Công an",
         "link": "https://vneconomy.vn/ngan-hang-seabank-don-nhan-huan-chuong-lao-dong-hang-nhat-va-bang-khen-cua-bo-cong-an.htm",
         "published": "Sun, 13 Sep 2026 02:00:00 GMT"
-      },
-      {
-        "title": "Nam A Bank: Kết nối nguồn lực xanh cho phát triển bền vững",
-        "link": "https://vneconomy.vn/nam-a-bank-ket-noi-nguon-luc-xanh-cho-phat-trien-ben-vung.htm",
-        "published": "Sun, 13 Sep 2026 01:00:00 GMT"
       }
     ],
     "Vietstock": [
@@ -100,9 +100,9 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Goldman Sachs now expects Fed to hike rates in September",
+        "title": "Goldman Sachs flips forecast, now sees September Fed rate hike",
         "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-expects-fed-to-hike-rates-in-september-4898799",
-        "published": "2026-09-14 03:06:55"
+        "published": "2026-09-14 03:36:29"
       },
       {
         "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
