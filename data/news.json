@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T18:44:46.574713",
+  "fetched_at": "2026-09-14T19:10:01.546403",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed’s table is set for a rate hike, a first under Warsh",
+        "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
+        "published": "2026-09-14 18:30:51"
+      },
+      {
         "title": "Wall Street drops as AI worries pummel chipmakers",
         "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
         "published": "2026-09-14 18:24:34"
@@ -123,11 +128,6 @@
         "title": "Ukraine proposes deal to halt strikes on key infrastructure",
         "link": "https://www.investing.com/news/economy-news/ukraine-proposes-deal-to-halt-strikes-on-key-infrastructure-93CH-4900079",
         "published": "2026-09-14 16:12:39"
-      },
-      {
-        "title": "US 10-year yields reach 5%, highest since 2023",
-        "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
-        "published": "2026-09-14 16:08:32"
       }
     ]
   }
