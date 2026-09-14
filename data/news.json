@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T07:10:58.077999",
+  "fetched_at": "2026-09-14T07:41:55.650639",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Công ty từng bán khóa học làm giàu, “tuyệt chiêu” bán bất động sản... báo doanh thu \"bốc hơi\" 90%, đầu tư chứng khoán tạm thua lỗ",
+        "link": "https://cafef.vn/cong-ty-tung-ban-khoa-hoc-lam-giau-tuyet-chieu-ban-bat-dong-san-bao-doanh-thu-boc-hoi-90-dau-tu-chung-khoan-tam-thua-lo-188260914143326878.chn",
+        "published": "Mon, 14 Sep 26 14:33:00 +0700"
+      },
       {
         "title": "Người thân Chủ tịch Hải Phát Invest đăng ký mua 15 triệu cổ phiếu HPX",
         "link": "https://cafef.vn/nguoi-than-chu-tich-hai-phat-invest-dang-ky-mua-15-trieu-co-phieu-hpx-188260914124535628.chn",
@@ -27,11 +32,6 @@
         "title": "Giá vàng bạc hôm nay 14/9: Phú Quý, SJC bứt phá, Bảo Tín Minh Châu niêm yết chênh lệch rất cao",
         "link": "https://cafef.vn/gia-vang-bac-hom-nay-14-9-phu-quy-sjc-but-pha-bao-tin-minh-chau-niem-yet-chenh-lech-rat-cao-188260914110721924.chn",
         "published": "Mon, 14 Sep 26 11:07:00 +0700"
-      },
-      {
-        "title": "Thừa kế doanh nghiệp gia đình: Áp lực của F1 và 'cái bóng' của F0",
-        "link": "https://cafef.vn/thua-ke-doanh-nghiep-gia-dinh-ap-luc-cua-f1-va-cai-bong-cua-f0-188260914093735186.chn",
-        "published": "Mon, 14 Sep 26 10:37:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "European shares muted as tech slides, oil surge weighs",
+        "link": "https://www.investing.com/news/economy-news/european-shares-muted-as-tech-slides-oil-surge-weighs-4898881",
+        "published": "2026-09-14 07:30:37"
+      },
+      {
+        "title": "Anthropic wants AI to slow down. Its $517 billion spending plan says otherwise",
+        "link": "https://www.investing.com/news/economy-news/anthropic-wants-ai-to-slow-down-its-517-billion-spending-plan-says-otherwise-4898857",
+        "published": "2026-09-14 06:59:27"
+      },
+      {
         "title": "ECB’s Kazaks sees growing case for more tightening",
         "link": "https://www.investing.com/news/economy-news/ecbs-kazaks-sees-growing-case-for-more-tightening-4898835",
         "published": "2026-09-14 06:06:28"
@@ -118,16 +128,6 @@
         "title": "Trump says he would be OK with China building cars in US",
         "link": "https://www.investing.com/news/economy-news/trump-says-he-would-be-ok-with-china-building-cars-in-us-4898818",
         "published": "2026-09-14 04:54:28"
-      },
-      {
-        "title": "Morning Bid: Shipping oil gets ever harder, costlier",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-shipping-oil-gets-ever-harder-costlier-4898817",
-        "published": "2026-09-14 04:36:43"
-      },
-      {
-        "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-        "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-expects-fed-to-hike-rates-in-september-4898799",
-        "published": "2026-09-14 04:24:26"
       }
     ]
   }
