@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T14:43:51.414037",
+  "fetched_at": "2026-09-14T15:11:22.171153",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cựu HLV bóng đá nổi tiếng của Việt Nam được đề cử vào HĐQT một doanh nghiệp",
+        "link": "https://cafef.vn/cuu-hlv-bong-da-noi-tieng-cua-viet-nam-duoc-de-cu-vao-hdqt-mot-doanh-nghiep-188260914215650621.chn",
+        "published": "Mon, 14 Sep 26 21:56:00 +0700"
+      },
       {
         "title": "Loạt cổ phiếu hệ sinh thái GELEX bất ngờ lao dốc, nguyên nhân từ đâu?",
         "link": "https://cafef.vn/loat-co-phieu-he-sinh-thai-gelex-bat-ngo-lao-doc-nguyen-nhan-tu-dau-188260914165047454.chn",
@@ -27,11 +32,6 @@
         "title": "GELEX: Vụ việc ông Đặng Phan Tường không ảnh hưởng tới hoạt động của tập đoàn và các công ty con",
         "link": "https://cafef.vn/gelex-vu-viec-ong-dang-phan-tuong-khong-anh-huong-toi-hoat-dong-cua-tap-doan-va-cac-cong-ty-con-18826091418341079.chn",
         "published": "Mon, 14 Sep 26 18:34:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu SSB tăng trần, “cháy hàng” trong phiên đầu tuần \"rực lửa\"",
-        "link": "https://cafef.vn/co-phieu-ssb-tang-tran-chay-hang-trong-phien-dau-tuan-ruc-lua-188260914171556086.chn",
-        "published": "Mon, 14 Sep 26 17:43:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "FAA needs more funds to finish air traffic control overhaul",
+        "link": "https://www.investing.com/news/economy-news/faa-needs-more-funds-to-finish-air-traffic-control-overhaul-93CH-4899949",
+        "published": "2026-09-14 14:43:56"
+      },
+      {
+        "title": "US data centers to use more natural gas than most countries - report",
+        "link": "https://www.investing.com/news/economy-news/us-data-centers-to-use-more-natural-gas-than-most-countries--report-4899947",
+        "published": "2026-09-14 14:41:46"
+      },
+      {
+        "title": "US 10-year yields reach 5%, highest since 2023",
+        "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
+        "published": "2026-09-14 14:30:40"
+      },
+      {
+        "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
+        "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
+        "published": "2026-09-14 14:26:59"
+      },
+      {
         "title": "Novo Nordisk rebrands as ’Novo’, announces cultural reset",
         "link": "https://www.investing.com/news/economy-news/novo-nordisk-rebrands-asnovo-announces-cultural-reset-4899853",
         "published": "2026-09-14 14:24:44"
@@ -108,26 +128,6 @@
         "title": "Lula and Bolsonaro tied in Brazil election polls ahead of October vote",
         "link": "https://www.investing.com/news/economy-news/lula-and-bolsonaro-tied-in-brazil-election-polls-ahead-of-october-vote-93CH-4899905",
         "published": "2026-09-14 14:22:23"
-      },
-      {
-        "title": "China urges France to help ease EU trade tensions",
-        "link": "https://www.investing.com/news/economy-news/china-urges-france-to-help-ease-eu-trade-tensions-93CH-4899899",
-        "published": "2026-09-14 14:19:57"
-      },
-      {
-        "title": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers",
-        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 14:19:46"
-      },
-      {
-        "title": "Analysis-’Good move’: Indonesia’s finance minister switch will ease investor jitters",
-        "link": "https://www.investing.com/news/economy-news/analysisgood-move-indonesias-finance-minister-switch-willease-investor-jitters-4899774",
-        "published": "2026-09-14 13:30:30"
-      },
-      {
-        "title": "India gets steel export quota to EU under trade deal",
-        "link": "https://www.investing.com/news/economy-news/india-gets-steel-export-quota-to-eu-under-trade-deal-93CH-4899751",
-        "published": "2026-09-14 13:21:08"
       }
     ]
   }
