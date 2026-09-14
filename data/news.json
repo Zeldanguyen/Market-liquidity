@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-14T12:46:04.465497",
+  "fetched_at": "2026-09-14T13:15:26.714384",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Bảo hiểm Bảo Minh chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 10%",
+        "link": "https://cafef.vn/bao-hiem-bao-minh-chuan-bi-chia-co-tuc-bang-co-phieu-ty-le-10-188260914200053136.chn",
+        "published": "Mon, 14 Sep 26 20:00:00 +0700"
+      },
+      {
+        "title": "Bách Hóa Xanh lần đầu thu hơn 6.000 tỷ trong 1 tháng",
+        "link": "https://cafef.vn/bach-hoa-xanh-lan-dau-thu-hon-6000-ty-trong-1-thang-188260914194833194.chn",
+        "published": "Mon, 14 Sep 26 19:48:00 +0700"
+      },
       {
         "title": "Nhóm Gelex đồng loạt giảm sàn, VN-Index rời xa mốc 1.800 điểm",
         "link": "https://cafef.vn/nhom-gelex-dong-loat-giam-san-vn-index-roi-xa-moc-1800-diem-188260914175656997.chn",
@@ -22,16 +32,6 @@
         "title": "PC1 tất toán sớm lô trái phiếu 900 tỷ đồng",
         "link": "https://cafef.vn/pc1-tat-toan-som-lo-trai-phieu-900-ty-dong-188260914163212218.chn",
         "published": "Mon, 14 Sep 26 17:31:00 +0700"
-      },
-      {
-        "title": "HSC tiếp tục chào bán 1,8 triệu cổ phiếu chưa được phân phối hết",
-        "link": "https://cafef.vn/hsc-tiep-tuc-chao-ban-18-trieu-co-phieu-chua-duoc-phan-phoi-het-188260914163104019.chn",
-        "published": "Mon, 14 Sep 26 17:21:00 +0700"
-      },
-      {
-        "title": "Nợ hơn 536 tỷ đồng liên quan đến thuế, một công ty có Phó Tổng giám đốc đang bị điều tra về tội lừa đảo",
-        "link": "https://cafef.vn/no-hon-536-ty-dong-lien-quan-den-thue-mot-cong-ty-co-pho-tong-giam-doc-dang-bi-dieu-tra-ve-toi-lua-dao-188260914171804893.chn",
-        "published": "Mon, 14 Sep 26 17:17:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Citigroup, Goldman forecast BoE rate hikes amid rising inflation",
+        "link": "https://www.investing.com/news/economy-news/citigroup-goldman-forecast-boe-rate-hikes-amid-rising-inflation-4899653",
+        "published": "2026-09-14 12:55:34"
+      },
+      {
+        "title": "US stocks on course for lower open as AI jitters hit Nvidia, chipmakers",
+        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+        "published": "2026-09-14 12:55:12"
+      },
+      {
+        "title": "Senate Republicans’ new crypto bill text adds new ethics language",
+        "link": "https://www.investing.com/news/economy-news/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-4899651",
+        "published": "2026-09-14 12:54:52"
+      },
+      {
+        "title": "Canada’s August inflation holds steady at 3% as crude stays firm; food prices ease",
+        "link": "https://www.investing.com/news/economy-news/canadas-august-inflation-holds-steady-at-3-as-crude-stays-firm-food-prices-ease-4899595",
+        "published": "2026-09-14 12:37:07"
+      },
+      {
         "title": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
         "link": "https://www.investing.com/news/economy-news/etihad-airways-sees-strong-demand-higher-passenger-capacitydespite-iran-war-ceo-says-4899505",
         "published": "2026-09-14 12:18:26"
@@ -108,26 +128,6 @@
         "title": "Commodities are breaking out. Is this a genuine inflationary threat to equities?",
         "link": "https://www.investing.com/news/economy-news/commodities-are-breaking-out-is-this-a-genuine-inflationary-threat-to-equities-4899480",
         "published": "2026-09-14 12:12:01"
-      },
-      {
-        "title": "India inflation rises to 4.82% in August, strengthening case for rate hike",
-        "link": "https://www.investing.com/news/economy-news/indias-august-retail-inflation-at-482-onyear-4899140",
-        "published": "2026-09-14 12:06:35"
-      },
-      {
-        "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
-        "link": "https://www.investing.com/news/economy-news/china-urges-more-fx-hedging-as-strong-yuan-hits-exporters-sources-say-4899029",
-        "published": "2026-09-14 11:49:09"
-      },
-      {
-        "title": "Nasdaq futures slide as AI warnings rattle markets; Nvidia, other chip stocks retreat",
-        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 11:37:09"
-      },
-      {
-        "title": "Analysis-Bitcoin’s late summer rally set to face off against the Fed, Congress",
-        "link": "https://www.investing.com/news/economy-news/analysisbitcoins-late-summer-rally-set-to-face-off-against-the-fed-congress-4899060",
-        "published": "2026-09-14 11:18:44"
       }
     ]
   }
