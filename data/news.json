@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T00:45:31.588368",
+  "fetched_at": "2026-09-14T01:10:14.912846",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "KIS khởi động “Bản Lĩnh Chứng Trường” mùa 7, giải thưởng 330 triệu đồng",
+        "link": "https://cafef.vn/kis-khoi-dong-ban-linh-chung-truong-mua-7-giai-thuong-330-trieu-dong-188260913111823749.chn",
+        "published": "Mon, 14 Sep 26 08:00:00 +0700"
+      },
       {
         "title": "Sau cột mốc nâng hạng, một \"hiệu ứng\" đặc biệt có thể xuất hiện trên TTCK Việt Nam",
         "link": "https://cafef.vn/sau-cot-moc-nang-hang-mot-hieu-ung-dac-biet-co-the-xuat-hien-tren-ttck-viet-nam-188260913144915237.chn",
@@ -27,11 +32,6 @@
         "title": "Ông Phạm Nhật Minh Hoàng phát biểu sau khi trở thành Tổng giám đốc hãng taxi Green SM",
         "link": "https://cafef.vn/ong-pham-nhat-minh-hoang-phat-bieu-sau-khi-tro-thanh-tong-giam-doc-gsm-toan-cau-18826091323254985.chn",
         "published": "Mon, 14 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Ngày Thị trường vốn Việt Nam tại Vương quốc Anh: Động lực cho kỷ nguyên tăng trưởng mới",
-        "link": "https://cafef.vn/ngay-thi-truong-von-viet-nam-tai-vuong-quoc-anh-dong-luc-cho-ky-nguyen-tang-truong-moi-188260913212247688.chn",
-        "published": "Sun, 13 Sep 26 21:22:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
+        "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
+        "published": "2026-09-14 01:00:57"
+      },
+      {
+        "title": "’Musk’ director wants viewers to reclaim power from ’tech oligarchs’",
+        "link": "https://www.investing.com/news/economy-news/musk-director-wants-viewers-to-reclaim-power-from-tech-oligarchs-4898782",
+        "published": "2026-09-14 00:48:32"
+      },
+      {
         "title": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings",
         "link": "https://www.investing.com/news/economy-news/dollar-steady-yen-near-7month-high-ahead-of-fed-boj-meetings-4898780",
         "published": "2026-09-14 00:30:24"
-      },
-      {
-        "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
-        "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
-        "published": "2026-09-13 17:48:28"
       },
       {
         "title": "Trump reiterates support for united Ireland, says won’t talk about Scotland ’yet’",
@@ -123,11 +128,6 @@
         "title": "Central banks should favor market inflation expectations when setting policy - UBS",
         "link": "https://www.investing.com/news/economy-news/central-banks-should-favor-market-inflation-expectations-when-setting-policy--ubs-4898740",
         "published": "2026-09-13 15:05:33"
-      },
-      {
-        "title": "Trump says ’very negative forces’ raising exaggerated concerns over AI",
-        "link": "https://www.investing.com/news/economy-news/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-4898739",
-        "published": "2026-09-13 14:30:28"
       }
     ]
   }
