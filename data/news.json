@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T23:09:09.069198",
+  "fetched_at": "2026-09-14T23:37:36.926333",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "15/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1509-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492300.htm",
+        "published": "Tue, 15 Sep 2026 06:00:00 +0700"
+      },
+      {
         "title": "Cổ phiếu dầu khí, nhựa có tuần hút tiền",
         "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-nhua-co-tuan-hut-tien-830-1492048.htm",
         "published": "Mon, 14 Sep 2026 20:30:00 +0700"
@@ -91,14 +96,14 @@
         "title": "Hơn 240 triệu USD có thể chảy vào chứng khoán Việt Nam trong tuần đầu nâng hạng FTSE",
         "link": "http://vietstock.vn/2026/09/hon-240-trieu-usd-co-the-chay-vao-chung-khoan-viet-nam-trong-tuan-dau-nang-hang-ftse-3358-1492014.htm",
         "published": "Mon, 14 Sep 2026 16:03:57 +0700"
-      },
-      {
-        "title": "Chủ dự án Six Senses Ninh Van Bay bị phạt vì công bố thông tin sai lệch, cổ phiếu kẹt trong diện cảnh báo",
-        "link": "http://vietstock.vn/2026/09/chu-du-an-six-senses-ninh-van-bay-bi-phat-vi-cong-bo-thong-tin-sai-lech-co-phieu-ket-trong-dien-canh-bao-830-1491988.htm",
-        "published": "Mon, 14 Sep 2026 16:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
+        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+        "published": "2026-09-14 23:18:49"
+      },
       {
         "title": "Trump’s mail-in voting restrictions blocked by a second judge",
         "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
@@ -108,11 +113,6 @@
         "title": "Explainer-US Treasury yields are rising - why does it matter?",
         "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4899965",
         "published": "2026-09-14 22:25:32"
-      },
-      {
-        "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
-        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 22:24:49"
       },
       {
         "title": "Five spots to watch as the bond market hits 5%",
