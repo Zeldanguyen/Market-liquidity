@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-14T08:10:33.733701",
+  "fetched_at": "2026-09-14T08:42:34.666856",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Làn sóng tăng vốn ngân hàng: Cuộc tái định vị năng lực tài chính",
+        "link": "https://cafef.vn/lan-song-tang-von-ngan-hang-cuoc-tai-dinh-vi-nang-luc-tai-chinh-188260914151542481.chn",
+        "published": "Mon, 14 Sep 26 15:27:00 +0700"
+      },
+      {
+        "title": "Giờ G nâng hạng: Dòng vốn ngoại kích hoạt sóng",
+        "link": "https://cafef.vn/gio-g-nang-hang-dong-von-ngoai-kich-hoat-song-188260914151750185.chn",
+        "published": "Mon, 14 Sep 26 15:17:00 +0700"
+      },
+      {
+        "title": "Bán lẻ Việt Nam chuyển từ tăng “lượng” sang tăng “chất”",
+        "link": "https://cafef.vn/ban-le-viet-nam-chuyen-tu-tang-luong-sang-tang-chat-18826091415164903.chn",
+        "published": "Mon, 14 Sep 26 15:16:00 +0700"
+      },
       {
         "title": "Doanh nghiệp của ông Trần Bá Dương bị nghi ngờ khả năng hoạt động liên tục",
         "link": "https://cafef.vn/doanh-nghiep-cua-ong-tran-ba-duong-bi-nghi-ngo-kha-nang-hoat-dong-lien-tuc-188260914144255909.chn",
@@ -17,24 +32,14 @@
         "title": "Người thân Chủ tịch Hải Phát Invest đăng ký mua 15 triệu cổ phiếu HPX",
         "link": "https://cafef.vn/nguoi-than-chu-tich-hai-phat-invest-dang-ky-mua-15-trieu-co-phieu-hpx-188260914124535628.chn",
         "published": "Mon, 14 Sep 26 12:48:00 +0700"
-      },
-      {
-        "title": "Chủ tịch VSDC: Nâng hạng thị trường chứng khoán không phải đích đến cuối cùng, mà là động lực cải cách toàn diện",
-        "link": "https://cafef.vn/chu-tich-vsdc-nang-hang-thi-truong-chung-khoan-khong-phai-dich-den-cuoi-cung-ma-la-dong-luc-cai-cach-toan-dien-1882609141109512.chn",
-        "published": "Mon, 14 Sep 26 11:29:00 +0700"
-      },
-      {
-        "title": "Đón loạt tin vui, một cổ phiếu ngân hàng “bốc đầu” lên đỉnh 3 năm",
-        "link": "https://cafef.vn/don-loat-tin-vui-mot-co-phieu-ngan-hang-boc-dau-len-dinh-3-nam-188260914112643909.chn",
-        "published": "Mon, 14 Sep 26 11:27:00 +0700"
-      },
-      {
-        "title": "Giá vàng vừa hồi phục đã quay đầu giảm",
-        "link": "https://cafef.vn/gia-vang-vua-hoi-phuc-da-quay-dau-giam-188260914112548257.chn",
-        "published": "Mon, 14 Sep 26 11:26:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giá USD ngân hàng rục rịch tăng từ vùng thấp",
+        "link": "https://vneconomy.vn/gia-usd-ngan-hang-ruc-rich-tang-tu-vung-thap.htm",
+        "published": "Mon, 14 Sep 2026 08:36:47 GMT"
+      },
       {
         "title": "Hai câu hỏi lớn về cuộc họp tuần này của Fed",
         "link": "https://vneconomy.vn/hai-cau-hoi-lon-ve-cuoc-hop-tuan-nay-cua-fed.htm",
@@ -59,11 +64,6 @@
         "title": "Khuyến nghị từ cơ quan Bảo hiểm xã hội với người tham gia Bảo hiểm y tế",
         "link": "https://vneconomy.vn/khuyen-nghi-tu-co-quan-bao-hiem-xa-hoi-voi-nguoi-tham-gia-bao-hiem-y-te.htm",
         "published": "Sun, 13 Sep 2026 02:12:05 GMT"
-      },
-      {
-        "title": "Ngân hàng SeABank đón nhận Huân chương Lao động hạng Nhất và Bằng khen của Bộ Công an",
-        "link": "https://vneconomy.vn/ngan-hang-seabank-don-nhan-huan-chuong-lao-dong-hang-nhat-va-bang-khen-cua-bo-cong-an.htm",
-        "published": "Sun, 13 Sep 2026 02:00:00 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Sweden election results show centre-left bloc with slim lead",
+        "link": "https://www.investing.com/news/economy-news/sweden-election-results-show-centreleft-bloc-with-slim-lead-93CH-4898945",
+        "published": "2026-09-14 08:36:40"
+      },
+      {
+        "title": "ECB’s Kazimir shifts focus to gas prices, sees upside inflation risk",
+        "link": "https://www.investing.com/news/economy-news/ecbs-kazimir-shifts-focus-to-gas-prices-sees-upside-inflation-risk-4898922",
+        "published": "2026-09-14 08:06:33"
+      },
+      {
+        "title": "AI leaders raise safety concerns; Hormuz talks delayed - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/ai-leaders-raise-safety-concerns-hormuz-talks-delayed--whats-moving-markets-4898912",
+        "published": "2026-09-14 07:56:29"
+      },
+      {
         "title": "Companies left China to dodge tariffs. Now some are heading back",
         "link": "https://www.investing.com/news/economy-news/companies-left-china-to-dodge-tariffs-now-some-are-heading-back-4898910",
         "published": "2026-09-14 07:54:56"
@@ -113,21 +128,6 @@
         "title": "Anthropic wants AI to slow down. Its $517 billion spending plan says otherwise",
         "link": "https://www.investing.com/news/economy-news/anthropic-wants-ai-to-slow-down-its-517-billion-spending-plan-says-otherwise-4898857",
         "published": "2026-09-14 06:59:27"
-      },
-      {
-        "title": "ECB’s Kazaks sees growing case for more tightening",
-        "link": "https://www.investing.com/news/economy-news/ecbs-kazaks-sees-growing-case-for-more-tightening-4898835",
-        "published": "2026-09-14 06:06:28"
-      },
-      {
-        "title": "BOJ executive saw need for vigilance to ’non-linear’ inflation spikes",
-        "link": "https://www.investing.com/news/economy-news/boj-executive-saw-need-for-vigilance-to-nonlinear-inflation-spikes-4898820",
-        "published": "2026-09-14 05:18:26"
-      },
-      {
-        "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
-        "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
-        "published": "2026-09-14 05:06:29"
       }
     ]
   }
