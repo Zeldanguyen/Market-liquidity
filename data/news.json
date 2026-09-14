@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-14T09:42:09.320963",
+  "fetched_at": "2026-09-14T10:09:57.472085",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một DN Việt tạo kỳ tích vô tiền khoáng hậu ở \"trái tim của châu Phi\", Thủ tướng đề nghị gì với nước chủ nhà?",
+        "link": "https://cafef.vn/mot-dn-viet-tao-ky-tich-vo-tien-khoang-hau-o-trai-tim-cua-chau-phi-thu-tuong-de-nghi-gi-voi-nuoc-chu-nha-188260914144339595.chn",
+        "published": "Mon, 14 Sep 26 16:59:00 +0700"
+      },
+      {
+        "title": "Loạt cổ phiếu “họ\" Gelex giảm sàn, điều gì đang diễn ra?",
+        "link": "https://cafef.vn/loat-co-phieu-ho-gelex-giam-san-dieu-gi-dang-dien-ra-188260914165233201.chn",
+        "published": "Mon, 14 Sep 26 16:53:00 +0700"
+      },
       {
         "title": "Hai kỹ thuật viên Viễn thông FPT nhanh trí, kịp thời khống chế đối tượng trộm xe",
         "link": "https://cafef.vn/hai-ky-thuat-vien-vien-thong-fpt-nhanh-tri-kip-thoi-khong-che-doi-tuong-trom-xe-188260914163612882.chn",
@@ -22,16 +32,6 @@
         "title": "Một cặp vợ chồng sắp nhận về 15 tỷ đồng",
         "link": "https://cafef.vn/mot-cap-vo-chong-sap-nhan-ve-15-ty-dong-188260914145346339.chn",
         "published": "Mon, 14 Sep 26 16:01:00 +0700"
-      },
-      {
-        "title": "Phiên 14/8: Khối ngoại mua ròng hơn 800 tỷ đồng, gom mạnh loạt cổ phiếu ngân hàng",
-        "link": "https://cafef.vn/phien-14-8-khoi-ngoai-mua-rong-hon-800-ty-dong-gom-manh-loat-co-phieu-ngan-hang-188260914152120969.chn",
-        "published": "Mon, 14 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Làn sóng tăng vốn ngân hàng: Cuộc tái định vị năng lực tài chính",
-        "link": "https://cafef.vn/lan-song-tang-von-ngan-hang-cuoc-tai-dinh-vi-nang-luc-tai-chinh-188260914151542481.chn",
-        "published": "Mon, 14 Sep 26 15:27:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow",
+        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-on-wednesday-now-likely-say-economists-and-at-least-one-more-to-follow-4899032",
+        "published": "2026-09-14 09:54:32"
+      },
+      {
+        "title": "Yemen’s Houthis seize more islands in southern Red Sea - AP",
+        "link": "https://www.investing.com/news/economy-news/yemens-houthis-seize-more-islands-in-southern-red-sea--ap-4899031",
+        "published": "2026-09-14 09:53:32"
+      },
+      {
+        "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
+        "link": "https://www.investing.com/news/economy-news/china-urges-more-fx-hedging-as-strong-yuan-hits-exporters-sources-say-4899029",
+        "published": "2026-09-14 09:49:25"
+      },
+      {
         "title": "AI warnings knock Nasdaq futures, pressure tech stocks",
         "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 09:24:24"
+        "published": "2026-09-14 09:49:05"
       },
       {
-        "title": "China bank loans rise less than expected in August after July slump",
-        "link": "https://www.investing.com/news/economy-news/china-bank-loans-rise-less-than-expected-in-august-after-july-slump-4898988",
-        "published": "2026-09-14 09:19:17"
+        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
+        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
+        "published": "2026-09-14 09:48:33"
       },
       {
-        "title": "Five things to watch in markets in the week ahead",
-        "link": "https://www.investing.com/news/economy-news/five-things-to-watch-in-markets-in-the-week-ahead-4898973",
-        "published": "2026-09-14 09:01:13"
-      },
-      {
-        "title": "Goldman Sachs predicts Bank of England rate hike in November",
-        "link": "https://www.investing.com/news/economy-news/goldman-sachs-predicts-bank-of-england-rate-hike-in-november-93CH-4898970",
-        "published": "2026-09-14 08:58:56"
-      },
-      {
-        "title": "Sweden election results show centre-left bloc with slim lead",
-        "link": "https://www.investing.com/news/economy-news/sweden-election-results-show-centreleft-bloc-with-slim-lead-93CH-4898945",
-        "published": "2026-09-14 08:36:40"
-      },
-      {
-        "title": "ECB’s Kazimir shifts focus to gas prices, sees upside inflation risk",
-        "link": "https://www.investing.com/news/economy-news/ecbs-kazimir-shifts-focus-to-gas-prices-sees-upside-inflation-risk-4898922",
-        "published": "2026-09-14 08:06:33"
+        "title": "European shares slip as AI slowdown call hits tech, oil surge weighs",
+        "link": "https://www.investing.com/news/economy-news/european-shares-muted-as-tech-slides-oil-surge-weighs-4898881",
+        "published": "2026-09-14 09:36:26"
       }
     ]
   }
