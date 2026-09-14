@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T22:09:53.652568",
+  "fetched_at": "2026-09-14T22:41:29.107340",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
+        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
+        "published": "2026-09-14 22:24:35"
+      },
+      {
+        "title": "Five spots to watch as the bond market hits 5%",
+        "link": "https://www.investing.com/news/economy-news/five-spots-to-watch-as-the-bond-market-hits-5-4900109",
+        "published": "2026-09-14 22:19:57"
+      },
+      {
+        "title": "US 10-year yields reach 5%, highest since 2023",
+        "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
+        "published": "2026-09-14 22:18:57"
+      },
+      {
         "title": "Canada’s inflation picture is getting complicated — what analysts see ahead",
         "link": "https://www.investing.com/news/economy-news/canadas-inflation-picture-is-getting-complicated--what-analysts-see-ahead-4900630",
         "published": "2026-09-14 21:54:10"
@@ -113,21 +128,6 @@
         "title": "French labor strike takes 6.5 gigawatts of power offline",
         "link": "https://www.investing.com/news/economy-news/french-labor-strike-takes-65-gigawatts-of-power-offline-93CH-4900535",
         "published": "2026-09-14 21:06:47"
-      },
-      {
-        "title": "US export ban unlikely to lower energy prices, Burgum says",
-        "link": "https://www.investing.com/news/economy-news/us-export-ban-unlikely-to-lower-energy-prices-burgum-says-93CH-4900530",
-        "published": "2026-09-14 21:04:20"
-      },
-      {
-        "title": "India updates payment rules on UPI transaction fees",
-        "link": "https://www.investing.com/news/economy-news/india-updates-payment-rules-on-upi-transaction-fees-93CH-4900523",
-        "published": "2026-09-14 21:02:20"
-      },
-      {
-        "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
-        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 20:48:51"
       }
     ]
   }
