@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-14T17:09:16.010222",
+  "fetched_at": "2026-09-14T17:41:03.618548",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Thị giá DMX \"bay\" 18% từ đỉnh, sếp Điện Máy Xanh đăng ký mua cổ phiếu",
+        "link": "https://cafef.vn/thi-gia-dmx-bay-18-tu-dinh-sep-dien-may-xanh-dang-ky-mua-co-phieu-188260914235758906.chn",
+        "published": "Tue, 15 Sep 26 00:08:00 +0700"
+      },
+      {
+        "title": "“Ông lớn” vận tải biển Việt Nam sắp chi gần 130 tỷ đồng trả cổ tức",
+        "link": "https://cafef.vn/ong-lon-van-tai-bien-viet-nam-sap-chi-gan-130-ty-dong-tra-co-tuc-188260914235726484.chn",
+        "published": "Tue, 15 Sep 26 00:07:00 +0700"
+      },
       {
         "title": "Các quỹ ngoại sẽ mua mạnh cổ phiếu nào trước thềm nâng hạng?",
         "link": "https://cafef.vn/cac-quy-ngoai-se-mua-manh-co-phieu-nao-truoc-them-nang-hang-188260914195904956.chn",
@@ -22,16 +32,6 @@
         "title": "Một cổ phiếu thép bị tự doanh CTCK \"xả\" mạnh phiên đầu tuần, ngược chiều hai mã ngân hàng hút tiền",
         "link": "https://cafef.vn/mot-co-phieu-thep-bi-tu-doanh-ctck-xa-manh-phien-dau-tuan-nguoc-chieu-hai-ma-ngan-hang-hut-tien-188260914232437925.chn",
         "published": "Mon, 14 Sep 26 23:24:00 +0700"
-      },
-      {
-        "title": "Cựu HLV bóng đá nổi tiếng của Việt Nam được đề cử vào HĐQT một doanh nghiệp",
-        "link": "https://cafef.vn/cuu-hlv-bong-da-noi-tieng-cua-viet-nam-duoc-de-cu-vao-hdqt-mot-doanh-nghiep-188260914215650621.chn",
-        "published": "Mon, 14 Sep 26 21:56:00 +0700"
-      },
-      {
-        "title": "Loạt cổ phiếu hệ sinh thái GELEX bất ngờ lao dốc, nguyên nhân từ đâu?",
-        "link": "https://cafef.vn/loat-co-phieu-he-sinh-thai-gelex-bat-ngo-lao-doc-nguyen-nhan-tu-dau-188260914165047454.chn",
-        "published": "Mon, 14 Sep 26 20:42:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Five spots to watch as the bond market hits 5%",
-        "link": "https://www.investing.com/news/economy-news/five-spots-to-watch-as-the-bond-market-hits-5-4900109",
-        "published": "2026-09-14 16:37:09"
+        "title": "US Senate Republicans release new crypto bill text ahead of critical vote",
+        "link": "https://www.investing.com/news/economy-news/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-4899651",
+        "published": "2026-09-14 17:24:28"
       },
       {
         "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers",
         "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 16:25:08"
+        "published": "2026-09-14 17:06:27"
+      },
+      {
+        "title": "European shares slip on AI slowdown calls and inflation concerns",
+        "link": "https://www.investing.com/news/economy-news/european-shares-muted-as-tech-slides-oil-surge-weighs-4898881",
+        "published": "2026-09-14 16:48:48"
+      },
+      {
+        "title": "Five spots to watch as the bond market hits 5%",
+        "link": "https://www.investing.com/news/economy-news/five-spots-to-watch-as-the-bond-market-hits-5-4900109",
+        "published": "2026-09-14 16:37:09"
       },
       {
         "title": "Ukraine proposes deal to halt strikes on key infrastructure",
@@ -118,16 +128,6 @@
         "title": "US 10-year yields reach 5%, highest since 2023",
         "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
         "published": "2026-09-14 16:08:32"
-      },
-      {
-        "title": "US Senate Republicans release new crypto bill text ahead of critical vote",
-        "link": "https://www.investing.com/news/economy-news/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-4899651",
-        "published": "2026-09-14 15:49:28"
-      },
-      {
-        "title": "Analysis-Bitcoin’s late summer rally set to face off against the Fed, Congress",
-        "link": "https://www.investing.com/news/economy-news/analysisbitcoins-late-summer-rally-set-to-face-off-against-the-fed-congress-4899060",
-        "published": "2026-09-14 15:49:06"
       }
     ]
   }
