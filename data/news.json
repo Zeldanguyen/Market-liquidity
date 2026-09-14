@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T13:15:26.714384",
+  "fetched_at": "2026-09-14T13:43:05.556961",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Analysis-’Good move’: Indonesia’s finance minister switch will ease investor jitters",
+        "link": "https://www.investing.com/news/economy-news/analysisgood-move-indonesias-finance-minister-switch-willease-investor-jitters-4899774",
+        "published": "2026-09-14 13:30:30"
+      },
+      {
+        "title": "India gets steel export quota to EU under trade deal",
+        "link": "https://www.investing.com/news/economy-news/india-gets-steel-export-quota-to-eu-under-trade-deal-93CH-4899751",
+        "published": "2026-09-14 13:21:08"
+      },
+      {
+        "title": "Saudi oil pipeline to remain offline for weeks after attack",
+        "link": "https://www.investing.com/news/economy-news/saudi-oil-pipeline-to-remain-offline-for-weeks-after-attack-4899712",
+        "published": "2026-09-14 13:10:18"
+      },
+      {
         "title": "Citigroup, Goldman forecast BoE rate hikes amid rising inflation",
         "link": "https://www.investing.com/news/economy-news/citigroup-goldman-forecast-boe-rate-hikes-amid-rising-inflation-4899653",
         "published": "2026-09-14 12:55:34"
@@ -113,21 +128,6 @@
         "title": "Senate Republicans’ new crypto bill text adds new ethics language",
         "link": "https://www.investing.com/news/economy-news/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-4899651",
         "published": "2026-09-14 12:54:52"
-      },
-      {
-        "title": "Canada’s August inflation holds steady at 3% as crude stays firm; food prices ease",
-        "link": "https://www.investing.com/news/economy-news/canadas-august-inflation-holds-steady-at-3-as-crude-stays-firm-food-prices-ease-4899595",
-        "published": "2026-09-14 12:37:07"
-      },
-      {
-        "title": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
-        "link": "https://www.investing.com/news/economy-news/etihad-airways-sees-strong-demand-higher-passenger-capacitydespite-iran-war-ceo-says-4899505",
-        "published": "2026-09-14 12:18:26"
-      },
-      {
-        "title": "Commodities are breaking out. Is this a genuine inflationary threat to equities?",
-        "link": "https://www.investing.com/news/economy-news/commodities-are-breaking-out-is-this-a-genuine-inflationary-threat-to-equities-4899480",
-        "published": "2026-09-14 12:12:01"
       }
     ]
   }
