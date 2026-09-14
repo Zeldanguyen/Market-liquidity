@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T21:40:56.552038",
+  "fetched_at": "2026-09-14T22:09:53.652568",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Canada’s inflation picture is getting complicated — what analysts see ahead",
+        "link": "https://www.investing.com/news/economy-news/canadas-inflation-picture-is-getting-complicated--what-analysts-see-ahead-4900630",
+        "published": "2026-09-14 21:54:10"
+      },
+      {
         "title": "Trading Day: AI-pocalypse now",
         "link": "https://www.investing.com/news/economy-news/trading-day-aipocalypse-now-4900547",
         "published": "2026-09-14 21:13:06"
@@ -123,11 +128,6 @@
         "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
         "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
         "published": "2026-09-14 20:48:51"
-      },
-      {
-        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
-        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
-        "published": "2026-09-14 20:37:04"
       }
     ]
   }
