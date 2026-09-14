@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T06:13:22.448138",
+  "fetched_at": "2026-09-14T06:46:33.079442",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,13 +68,23 @@
     ],
     "Vietstock": [
       {
+        "title": "Phân tích kỹ thuật phiên chiều 14/09: Áp lực điều chỉnh gia tăng",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1409-ap-luc-dieu-chinh-gia-tang-585-1491964.htm",
+        "published": "Mon, 14 Sep 2026 13:03:21 +0700"
+      },
+      {
+        "title": "Quan hệ nhà đầu tư (IR) tại Việt Nam: Từ công bố thông tin đến năng lực thu hút vốn quốc tế",
+        "link": "http://vietstock.vn/2026/09/quan-he-nha-dau-tu-ir-tai-viet-nam-tu-cong-bo-thong-tin-den-nang-luc-thu-hut-von-quoc-te-830-1489883.htm",
+        "published": "Mon, 14 Sep 2026 13:02:00 +0700"
+      },
+      {
         "title": "VPG bị HOSE nhắc chậm công bố BCTC soát xét, loạt sức ép tài chính phía sau",
         "link": "http://vietstock.vn/2026/09/vpg-bi-hose-nhac-cham-cong-bo-bctc-soat-xet-loat-suc-ep-tai-chinh-phia-sau-830-1491952.htm",
         "published": "Mon, 14 Sep 2026 12:17:00 +0700"
       },
       {
-        "title": "Nhịp đập Thị trường 14/09: VIC đè chỉ số, VN-Index mắc kẹt trong sắc đỏ",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-vic-de-chi-so-vn-index-mac-ket-trong-sac-do-1636-1491878.htm",
+        "title": "Nhịp đập Thị trường 14/09: Rung lắc quanh mốc tham chiếu",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-rung-lac-quanh-moc-tham-chieu-1636-1491878.htm",
         "published": "Mon, 14 Sep 2026 11:47:00 +0700"
       },
       {
@@ -86,19 +96,14 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 14/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1409-830-1491477.htm",
         "published": "Mon, 14 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "14/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491794.htm",
-        "published": "Mon, 14 Sep 2026 06:02:00 +0700"
-      },
-      {
-        "title": "Vietstock Weekly 14-18/09/2026: Rung lắc trở lại",
-        "link": "http://vietstock.vn/2026/09/vietstock-weekly-14-18092026-rung-lac-tro-lai-1636-1491685.htm",
-        "published": "Sun, 13 Sep 2026 18:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "ECB’s Kazaks sees growing case for more tightening",
+        "link": "https://www.investing.com/news/economy-news/ecbs-kazaks-sees-growing-case-for-more-tightening-4898835",
+        "published": "2026-09-14 06:06:28"
+      },
       {
         "title": "BOJ executive saw need for vigilance to ’non-linear’ inflation spikes",
         "link": "https://www.investing.com/news/economy-news/boj-executive-saw-need-for-vigilance-to-nonlinear-inflation-spikes-4898820",
@@ -123,11 +128,6 @@
         "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
         "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-expects-fed-to-hike-rates-in-september-4898799",
         "published": "2026-09-14 04:24:26"
-      },
-      {
-        "title": "’Musk’ director wants viewers to reclaim power from ’tech oligarchs’",
-        "link": "https://www.investing.com/news/economy-news/musk-director-wants-viewers-to-reclaim-power-from-tech-oligarchs-4898782",
-        "published": "2026-09-14 00:48:32"
       }
     ]
   }
