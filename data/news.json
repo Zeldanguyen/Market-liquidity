@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T13:43:05.556961",
+  "fetched_at": "2026-09-14T14:10:41.913872",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Loạt cổ phiếu hệ sinh thái GELEX bất ngờ lao dốc, nguyên nhân từ đâu?",
+        "link": "https://cafef.vn/loat-co-phieu-he-sinh-thai-gelex-bat-ngo-lao-doc-nguyen-nhan-tu-dau-188260914165047454.chn",
+        "published": "Mon, 14 Sep 26 20:42:00 +0700"
+      },
       {
         "title": "Bảo hiểm Bảo Minh chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 10%",
         "link": "https://cafef.vn/bao-hiem-bao-minh-chuan-bi-chia-co-tuc-bang-co-phieu-ty-le-10-188260914200053136.chn",
@@ -27,11 +32,6 @@
         "title": "Cổ phiếu SSB tăng trần, “cháy hàng” trong phiên đầu tuần \"rực lửa\"",
         "link": "https://cafef.vn/co-phieu-ssb-tang-tran-chay-hang-trong-phien-dau-tuan-ruc-lua-188260914171556086.chn",
         "published": "Mon, 14 Sep 26 17:43:00 +0700"
-      },
-      {
-        "title": "PC1 tất toán sớm lô trái phiếu 900 tỷ đồng",
-        "link": "https://cafef.vn/pc1-tat-toan-som-lo-trai-phieu-900-ty-dong-188260914163212218.chn",
-        "published": "Mon, 14 Sep 26 17:31:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Cổ phiếu dầu khí, nhựa có tuần hút tiền",
+        "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-nhua-co-tuan-hut-tien-830-1492048.htm",
+        "published": "Mon, 14 Sep 2026 20:30:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 14/09: Khối ngoại mua ròng trên 800 tỷ, tự doanh giao dịch cân bằng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1409-khoi-ngoai-mua-rong-tren-800-ty-tu-doanh-giao-dich-can-bang-830-1492261.htm",
         "published": "Mon, 14 Sep 2026 19:14:53 +0700"
@@ -91,11 +96,6 @@
         "title": "Chủ dự án Six Senses Ninh Van Bay bị phạt vì công bố thông tin sai lệch, cổ phiếu kẹt trong diện cảnh báo",
         "link": "http://vietstock.vn/2026/09/chu-du-an-six-senses-ninh-van-bay-bi-phat-vi-cong-bo-thong-tin-sai-lech-co-phieu-ket-trong-dien-canh-bao-830-1491988.htm",
         "published": "Mon, 14 Sep 2026 16:00:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 14/09: Áp lực điều chỉnh gia tăng",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1409-ap-luc-dieu-chinh-gia-tang-585-1491964.htm",
-        "published": "Mon, 14 Sep 2026 13:03:21 +0700"
       }
     ],
     "Investing.com Economy": [
