@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T02:41:14.810665",
+  "fetched_at": "2026-09-14T03:09:57.160386",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Thiếu gia Bùi Cao Nhật Quân đứng ra bảo lãnh khoản vay 360 tỷ cho Novaland",
+        "link": "https://cafef.vn/thieu-gia-bui-cao-nhat-quan-dung-ra-bao-lanh-khoan-vay-360-ty-cho-novaland-188260914095007284.chn",
+        "published": "Mon, 14 Sep 26 09:49:00 +0700"
+      },
       {
         "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 14/9-18/9, tỷ lệ cao nhất 80%",
         "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-14-9-18-9-ty-le-cao-nhat-80-188260914090358639.chn",
@@ -27,11 +32,6 @@
         "title": "Sau cột mốc nâng hạng, một \"hiệu ứng\" đặc biệt có thể xuất hiện trên TTCK Việt Nam",
         "link": "https://cafef.vn/sau-cot-moc-nang-hang-mot-hieu-ung-dac-biet-co-the-xuat-hien-tren-ttck-viet-nam-188260913144915237.chn",
         "published": "Mon, 14 Sep 26 00:10:00 +0700"
-      },
-      {
-        "title": "Đón tin cực vui, cổ phiếu DN liên quan \"kho báu\" chứa 1.500 kg vàng ở Lai Châu tăng bốc 30% chỉ sau 1 tuần",
-        "link": "https://cafef.vn/don-tin-cuc-vui-co-phieu-dn-lien-quan-kho-bau-chua-1500-kg-vang-o-lai-chau-tang-boc-30-chi-sau-1-tuan-188260913224631813.chn",
-        "published": "Mon, 14 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Goldman Sachs now expects Fed to hike rates in September",
+        "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-expects-fed-to-hike-rates-in-september-4898799",
+        "published": "2026-09-14 02:54:33"
+      },
+      {
         "title": "Trump calls $5,000 payouts ’easy’ to fit into federal budget",
         "link": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
         "published": "2026-09-14 01:00:57"
@@ -123,11 +128,6 @@
         "title": "Will Secretary Scott Bessent fire his bazooka to avert yields climbing above 5%?",
         "link": "https://www.investing.com/news/economy-news/will-secretary-scott-bessent-fire-his-bazooka-to-avert-yields-climbing-above-5-4898743",
         "published": "2026-09-13 16:19:42"
-      },
-      {
-        "title": "Central banks should favor market inflation expectations when setting policy - UBS",
-        "link": "https://www.investing.com/news/economy-news/central-banks-should-favor-market-inflation-expectations-when-setting-policy--ubs-4898740",
-        "published": "2026-09-13 15:05:33"
       }
     ]
   }
