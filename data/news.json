@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-14T08:42:34.666856",
+  "fetched_at": "2026-09-14T09:11:20.049820",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một cặp vợ chồng sắp nhận về 15 tỷ đồng",
+        "link": "https://cafef.vn/mot-cap-vo-chong-sap-nhan-ve-15-ty-dong-188260914145346339.chn",
+        "published": "Mon, 14 Sep 26 16:01:00 +0700"
+      },
+      {
+        "title": "Phiên 14/8: Khối ngoại mua ròng hơn 800 tỷ đồng, gom mạnh loạt cổ phiếu ngân hàng",
+        "link": "https://cafef.vn/phien-14-8-khoi-ngoai-mua-rong-hon-800-ty-dong-gom-manh-loat-co-phieu-ngan-hang-188260914152120969.chn",
+        "published": "Mon, 14 Sep 26 15:45:00 +0700"
+      },
       {
         "title": "Làn sóng tăng vốn ngân hàng: Cuộc tái định vị năng lực tài chính",
         "link": "https://cafef.vn/lan-song-tang-von-ngan-hang-cuoc-tai-dinh-vi-nang-luc-tai-chinh-188260914151542481.chn",
@@ -19,22 +29,17 @@
         "published": "Mon, 14 Sep 26 15:16:00 +0700"
       },
       {
-        "title": "Doanh nghiệp của ông Trần Bá Dương bị nghi ngờ khả năng hoạt động liên tục",
-        "link": "https://cafef.vn/doanh-nghiep-cua-ong-tran-ba-duong-bi-nghi-ngo-kha-nang-hoat-dong-lien-tuc-188260914144255909.chn",
+        "title": "Một công ty nông nghiệp nghìn tỷ bị nghi ngờ khả năng hoạt động liên tục",
+        "link": "https://cafef.vn/mot-cong-ty-nong-nghiep-nghin-ty-bi-nghi-ngo-kha-nang-hoat-dong-lien-tuc-188260914144255909.chn",
         "published": "Mon, 14 Sep 26 14:44:00 +0700"
-      },
-      {
-        "title": "Công ty từng bán khóa học làm giàu, “tuyệt chiêu” bán bất động sản... báo doanh thu \"bốc hơi\" 90%, đầu tư chứng khoán tạm thua lỗ",
-        "link": "https://cafef.vn/cong-ty-tung-ban-khoa-hoc-lam-giau-tuyet-chieu-ban-bat-dong-san-bao-doanh-thu-boc-hoi-90-dau-tu-chung-khoan-tam-thua-lo-188260914143326878.chn",
-        "published": "Mon, 14 Sep 26 14:33:00 +0700"
-      },
-      {
-        "title": "Người thân Chủ tịch Hải Phát Invest đăng ký mua 15 triệu cổ phiếu HPX",
-        "link": "https://cafef.vn/nguoi-than-chu-tich-hai-phat-invest-dang-ky-mua-15-trieu-co-phieu-hpx-188260914124535628.chn",
-        "published": "Mon, 14 Sep 26 12:48:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Bảo Tín Mạnh Hải ra mắt Kim Gia Bảo Gift - Quà tặng từ vàng 24K độc đáo",
+        "link": "https://vneconomy.vn/bao-tin-manh-hai-ra-mat-kim-gia-bao-gift-qua-tang-tu-vang-24k-doc-dao.htm",
+        "published": "Mon, 14 Sep 2026 08:53:57 GMT"
+      },
       {
         "title": "Giá USD ngân hàng rục rịch tăng từ vùng thấp",
         "link": "https://vneconomy.vn/gia-usd-ngan-hang-ruc-rich-tang-tu-vung-thap.htm",
@@ -59,11 +64,6 @@
         "title": "Vàng tụt giá trước thềm cuộc họp Fed",
         "link": "https://vneconomy.vn/vang-tut-gia-truoc-them-cuoc-hop-fed.htm",
         "published": "Mon, 14 Sep 2026 00:04:42 GMT"
-      },
-      {
-        "title": "Khuyến nghị từ cơ quan Bảo hiểm xã hội với người tham gia Bảo hiểm y tế",
-        "link": "https://vneconomy.vn/khuyen-nghi-tu-co-quan-bao-hiem-xa-hoi-voi-nguoi-tham-gia-bao-hiem-y-te.htm",
-        "published": "Sun, 13 Sep 2026 02:12:05 GMT"
       }
     ],
     "Vietstock": [
@@ -83,11 +83,6 @@
         "published": "Mon, 14 Sep 2026 12:17:00 +0700"
       },
       {
-        "title": "Nhịp đập Thị trường 14/09: Rung lắc quanh mốc tham chiếu",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-rung-lac-quanh-moc-tham-chieu-1636-1491878.htm",
-        "published": "Mon, 14 Sep 2026 11:47:00 +0700"
-      },
-      {
         "title": "Tuần 14-18/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/tuan-14-18092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1491687.htm",
         "published": "Mon, 14 Sep 2026 10:00:00 +0700"
@@ -96,6 +91,11 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 14/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1409-830-1491477.htm",
         "published": "Mon, 14 Sep 2026 08:00:00 +0700"
+      },
+      {
+        "title": "14/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491794.htm",
+        "published": "Mon, 14 Sep 2026 06:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
