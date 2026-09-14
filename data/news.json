@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-14T10:41:01.283482",
+  "fetched_at": "2026-09-14T11:09:36.531217",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu SSB tăng trần, “cháy hàng” trong phiên đầu tuần \"rực lửa\"",
+        "link": "https://cafef.vn/co-phieu-ssb-tang-tran-chay-hang-trong-phien-dau-tuan-ruc-lua-188260914171556086.chn",
+        "published": "Mon, 14 Sep 26 17:43:00 +0700"
+      },
       {
         "title": "PC1 tất toán sớm lô trái phiếu 900 tỷ đồng",
         "link": "https://cafef.vn/pc1-tat-toan-som-lo-trai-phieu-900-ty-dong-188260914163212218.chn",
@@ -27,11 +32,6 @@
         "title": "Loạt cổ phiếu “họ\" Gelex giảm sàn, điều gì đang diễn ra?",
         "link": "https://cafef.vn/loat-co-phieu-ho-gelex-giam-san-dieu-gi-dang-dien-ra-188260914165233201.chn",
         "published": "Mon, 14 Sep 26 16:53:00 +0700"
-      },
-      {
-        "title": "Hai kỹ thuật viên Viễn thông FPT nhanh trí, kịp thời khống chế đối tượng trộm xe",
-        "link": "https://cafef.vn/hai-ky-thuat-vien-vien-thong-fpt-nhanh-tri-kip-thoi-khong-che-doi-tuong-trom-xe-188260914163612882.chn",
-        "published": "Mon, 14 Sep 26 16:36:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "India’s August retail inflation at 4.82% on-year",
-        "link": "https://www.investing.com/news/economy-news/indias-august-retail-inflation-at-482-onyear-4899140",
-        "published": "2026-09-14 10:36:35"
-      },
-      {
         "title": "Fed’s table is set for a rate hike, a first under Warsh",
         "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
-        "published": "2026-09-14 10:30:52"
+        "published": "2026-09-14 10:56:17"
       },
       {
-        "title": "China bank loans rise less than expected in August after July slump",
-        "link": "https://www.investing.com/news/economy-news/china-bank-loans-rise-less-than-expected-in-august-after-july-slump-4898988",
-        "published": "2026-09-14 10:25:50"
+        "title": "AI warnings knock Nasdaq futures, pressure tech stocks",
+        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+        "published": "2026-09-14 10:55:13"
       },
       {
-        "title": "China central bank plans new metrics to rein in banks’ long-dated bonds holdings, sources say",
-        "link": "https://www.investing.com/news/economy-news/china-central-bank-plans-new-metrics-to-rein-in-banks-longdated-bonds-holdings-sources-say-4899114",
-        "published": "2026-09-14 10:25:27"
+        "title": "Analysis-US rail fuel surcharges on grain hit record highs, squeezing farmers in harvest season",
+        "link": "https://www.investing.com/news/economy-news/analysisus-rail-fuel-surcharges-on-grain-hit-record-highs-squeezing-farmers-in-harvest-season-4899075",
+        "published": "2026-09-14 10:54:54"
+      },
+      {
+        "title": "Analysis-Biggest risk for sinking bond market is Fed standing pat",
+        "link": "https://www.investing.com/news/economy-news/analysisbiggest-risk-for-sinking-bond-market-is-fed-standing-pat-4899063",
+        "published": "2026-09-14 10:54:40"
       },
       {
         "title": "Analysis-Bitcoin’s late summer rally set to face off against the Fed, Congress",
         "link": "https://www.investing.com/news/economy-news/analysisbitcoins-late-summer-rally-set-to-face-off-against-the-fed-congress-4899060",
-        "published": "2026-09-14 10:24:36"
+        "published": "2026-09-14 10:49:14"
       },
       {
-        "title": "China August bank lending disappoints as credit demand stays weak",
-        "link": "https://www.investing.com/news/economy-news/china-august-bank-lending-disappoints-as-credit-demand-stays-weak-4899093",
-        "published": "2026-09-14 10:19:08"
+        "title": "India’s August retail inflation at 4.82% on-year",
+        "link": "https://www.investing.com/news/economy-news/indias-august-retail-inflation-at-482-onyear-4899140",
+        "published": "2026-09-14 10:42:30"
       }
     ]
   }
