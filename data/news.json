@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-15T05:42:00.218812",
+  "fetched_at": "2026-09-15T06:12:03.809715",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "GELEX lên tiếng về vụ việc ông Đặng Phan Tường, cổ phiếu liên quan đồng loạt tăng mạnh",
+        "link": "https://cafef.vn/gelex-len-tieng-ve-vu-viec-ong-dang-phan-tuong-co-phieu-lien-quan-dong-loat-tang-manh-188260915130606402.chn",
+        "published": "Tue, 15 Sep 26 13:05:00 +0700"
+      },
       {
         "title": "Lãnh đạo Chứng khoán Rồng Việt đăng ký bán cổ phiếu VDS",
         "link": "https://cafef.vn/lanh-dao-chung-khoan-rong-viet-dang-ky-ban-co-phieu-vds-188260915122339669.chn",
@@ -27,11 +32,6 @@
         "title": "Vosco chốt ngày trả cổ tức bằng tiền mặt tỷ lệ 9%",
         "link": "https://cafef.vn/vosco-chot-ngay-tra-co-tuc-bang-tien-mat-ty-le-9-188260915095507149.chn",
         "published": "Tue, 15 Sep 26 10:54:00 +0700"
-      },
-      {
-        "title": "Tổng giám đốc ABS: 6-8 tỷ USD có thể chảy vào chứng khoán Việt Nam",
-        "link": "https://cafef.vn/tong-giam-doc-abs-6-8-ty-usd-co-the-chay-vao-chung-khoan-viet-nam-188260915102311266.chn",
-        "published": "Tue, 15 Sep 26 10:23:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "U.S. 10-yr Treasury yields rise further above 5%, hit highest level since 2007",
+        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-rise-further-above-5-hit-highest-level-since-2007-4900796",
+        "published": "2026-09-15 05:38:22"
+      },
+      {
         "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
         "published": "2026-09-15 05:24:48"
@@ -123,11 +128,6 @@
         "title": "Hundreds march in Toronto against Carney’s investment summit",
         "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
         "published": "2026-09-15 03:48:44"
-      },
-      {
-        "title": "Pictet’s global multi-asset fund triples to $5 billion on China inflows",
-        "link": "https://www.investing.com/news/economy-news/pictets-global-multiasset-fund-triples-to-5-billion-on-china-inflows-4900756",
-        "published": "2026-09-15 03:36:43"
       }
     ]
   }
