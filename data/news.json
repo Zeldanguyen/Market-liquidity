@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-15T03:10:25.838673",
+  "fetched_at": "2026-09-15T03:43:03.309785",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tổng giám đốc ABS: 6-8 tỷ USD có thể chảy vào chứng khoán Việt Nam",
+        "link": "https://cafef.vn/tong-giam-doc-abs-6-8-ty-usd-co-the-chay-vao-chung-khoan-viet-nam-188260915102311266.chn",
+        "published": "Tue, 15 Sep 26 10:23:00 +0700"
+      },
+      {
+        "title": "Agriseco bổ nhiệm Quyền Tổng Giám đốc",
+        "link": "https://cafef.vn/agriseco-bo-nhiem-quyen-tong-giam-doc-188260915091631259.chn",
+        "published": "Tue, 15 Sep 26 10:15:00 +0700"
+      },
+      {
+        "title": "Tranh thủ giá giảm sâu, nhóm quỹ thuộc BlackRock đồng loạt mua vàng",
+        "link": "https://cafef.vn/tranh-thu-gia-giam-sau-nhom-quy-thuoc-blackrock-dong-loat-mua-vang-188260915101043041.chn",
+        "published": "Tue, 15 Sep 26 10:10:00 +0700"
+      },
       {
         "title": "Miễn nhiệm ông Nguyễn Văn Dũng",
         "link": "https://cafef.vn/mien-nhiem-ong-nguyen-van-dung-188260915093941701.chn",
@@ -17,24 +32,14 @@
         "title": "Thị giá DMX giảm 18% từ đỉnh, sếp Điện Máy Xanh đăng ký mua cổ phiếu",
         "link": "https://cafef.vn/thi-gia-dmx-bay-18-tu-dinh-sep-dien-may-xanh-dang-ky-mua-co-phieu-188260914235758906.chn",
         "published": "Tue, 15 Sep 26 00:08:00 +0700"
-      },
-      {
-        "title": "“Ông lớn” vận tải biển Việt Nam sắp chi gần 130 tỷ đồng trả cổ tức",
-        "link": "https://cafef.vn/ong-lon-van-tai-bien-viet-nam-sap-chi-gan-130-ty-dong-tra-co-tuc-188260914235726484.chn",
-        "published": "Tue, 15 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Các quỹ ngoại sẽ mua mạnh cổ phiếu nào trước thềm nâng hạng?",
-        "link": "https://cafef.vn/cac-quy-ngoai-se-mua-manh-co-phieu-nao-truoc-them-nang-hang-188260914195904956.chn",
-        "published": "Tue, 15 Sep 26 00:04:00 +0700"
-      },
-      {
-        "title": "Loạt tổ chức lớn đưa ra dự báo bất ngờ về giá vàng cuối năm",
-        "link": "https://cafef.vn/loat-to-chuc-lon-dua-ra-du-bao-bat-ngo-ve-gia-vang-cuoi-nam-188260914222530003.chn",
-        "published": "Tue, 15 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Nhật Bản lo ngại áp lực lạm phát, có thể đẩy nhanh tốc độ tăng lãi suất",
+        "link": "https://vneconomy.vn/nhat-ban-lo-ngai-ap-luc-lam-phat-co-the-day-nhanh-toc-do-tang-lai-suat.htm",
+        "published": "Tue, 15 Sep 2026 03:26:18 GMT"
+      },
       {
         "title": "Giới chuyên gia kinh tế dự báo Fed tăng lãi suất ít nhất 2 lần từ nay đến cuối quý 1/2027",
         "link": "https://vneconomy.vn/gioi-chuyen-gia-kinh-te-du-bao-fed-tang-lai-suat-it-nhat-2-lan-tu-nay-den-cuoi-quy-12027.htm",
@@ -59,14 +64,14 @@
         "title": "Giá dầu tăng mạnh thử thách khả năng hỗ trợ tăng trưởng của chính sách tiền tệ",
         "link": "https://vneconomy.vn/gia-dau-tang-manh-thu-thach-kha-nang-ho-tro-tang-truong-cua-chinh-sach-tien-te.htm",
         "published": "Mon, 14 Sep 2026 12:43:26 GMT"
-      },
-      {
-        "title": "BIDV tiếp dòng tài chính, cùng khách hàng tiếp nối thành tựu",
-        "link": "https://vneconomy.vn/bidv-tiep-dong-tai-chinh-cung-khach-hang-tiep-noi-thanh-tuu.htm",
-        "published": "Mon, 14 Sep 2026 11:43:26 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Ngày 15/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+        "link": "http://vietstock.vn/2026/09/ngay-15092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1492141.htm",
+        "published": "Tue, 15 Sep 2026 10:00:00 +0700"
+      },
       {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 15/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1509-830-1492206.htm",
@@ -91,23 +96,18 @@
         "title": "Vietstock Daily 15/09/2026: Áp lực gia tăng",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-15092026-ap-luc-gia-tang-1636-1492120.htm",
         "published": "Mon, 14 Sep 2026 18:14:10 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 14/09: Cổ phiếu GEX, GEE và GEL giảm sàn, khối ngoại quay lại mua ròng nhóm bluechip",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-co-phieu-gex-gee-va-gel-giam-san-khoi-ngoai-quay-lai-mua-rong-nhom-bluechip-1636-1491878.htm",
-        "published": "Mon, 14 Sep 2026 16:47:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "China’s factories rev up but slower consumption highlights deepening economic imbalances",
+        "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
+        "published": "2026-09-15 03:18:49"
+      },
+      {
         "title": "Hundreds march in Toronto against Carney’s investment summit",
         "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
         "published": "2026-09-15 02:49:09"
-      },
-      {
-        "title": "China’s factories rev up but slower consumption highlights deepening economic imbalances",
-        "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
-        "published": "2026-09-15 02:48:51"
       },
       {
         "title": "Japan to sidestep funding in tax cut outline, keep fiscal concern alive",
