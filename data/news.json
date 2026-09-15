@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-15T01:10:28.512080",
+  "fetched_at": "2026-09-15T01:41:48.952579",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tài sản sinh lời 8%, lãi vay 7-8%: Nhà đầu tư được gì ngoài rủi ro?",
+        "link": "https://cafef.vn/tai-san-sinh-loi-8-lai-vay-7-8-nha-dau-tu-duoc-gi-ngoai-rui-ro-188260915082445907.chn",
+        "published": "Tue, 15 Sep 26 08:24:00 +0700"
+      },
       {
         "title": "Thị giá DMX giảm 18% từ đỉnh, sếp Điện Máy Xanh đăng ký mua cổ phiếu",
         "link": "https://cafef.vn/thi-gia-dmx-bay-18-tu-dinh-sep-dien-may-xanh-dang-ky-mua-co-phieu-188260914235758906.chn",
@@ -27,11 +32,6 @@
         "title": "Hơn chục nghìn tỷ đổ dồn giao dịch vào 1 thời điểm, những cổ phiếu nào trong tầm ngắm?",
         "link": "https://cafef.vn/hon-chuc-nghin-ty-do-don-giao-dich-vao-1-thoi-diem-nhung-co-phieu-nao-trong-tam-ngam-188260914222437425.chn",
         "published": "Tue, 15 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Một cổ phiếu thép bị tự doanh CTCK \"xả\" mạnh phiên đầu tuần, ngược chiều hai mã ngân hàng hút tiền",
-        "link": "https://cafef.vn/mot-co-phieu-thep-bi-tu-doanh-ctck-xa-manh-phien-dau-tuan-nguoc-chieu-hai-ma-ngan-hang-hut-tien-188260914232437925.chn",
-        "published": "Mon, 14 Sep 26 23:24:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 15/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1509-830-1492206.htm",
+        "published": "Tue, 15 Sep 2026 08:00:00 +0700"
+      },
+      {
         "title": "15/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1509-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492300.htm",
         "published": "Tue, 15 Sep 2026 06:00:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Nhịp đập Thị trường 14/09: Cổ phiếu GEX, GEE và GEL giảm sàn, khối ngoại quay lại mua ròng nhóm bluechip",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-co-phieu-gex-gee-va-gel-giam-san-khoi-ngoai-quay-lai-mua-rong-nhom-bluechip-1636-1491878.htm",
         "published": "Mon, 14 Sep 2026 16:47:00 +0700"
-      },
-      {
-        "title": "Hơn 240 triệu USD có thể chảy vào chứng khoán Việt Nam trong tuần đầu nâng hạng FTSE",
-        "link": "http://vietstock.vn/2026/09/hon-240-trieu-usd-co-the-chay-vao-chung-khoan-viet-nam-trong-tuan-dau-nang-hang-ftse-3358-1492014.htm",
-        "published": "Mon, 14 Sep 2026 16:03:57 +0700"
       }
     ],
     "Investing.com Economy": [
