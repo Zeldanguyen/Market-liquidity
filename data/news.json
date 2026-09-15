@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T13:41:50.857316",
+  "fetched_at": "2026-09-15T14:10:02.075779",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed’s table is set for a rate hike, a first under Warsh",
+        "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
+        "published": "2026-09-15 13:42:56"
+      },
+      {
         "title": "India’s balance of payments surplus jumps to $20.8 billion",
         "link": "https://www.investing.com/news/economy-news/indias-balance-of-payments-surplus-jumps-to-208-billion-93CH-4901833",
         "published": "2026-09-15 13:08:15"
@@ -123,11 +128,6 @@
         "title": "U.S. 10-year yield surges past 5% to highest since 2007 on Fed rate hike bets",
         "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-rise-further-above-5-hit-highest-level-since-2007-4900796",
         "published": "2026-09-15 12:03:01"
-      },
-      {
-        "title": "Why Fed pricing may be turning too hawkish",
-        "link": "https://www.investing.com/news/economy-news/why-fed-pricing-may-be-turning-too-hawkish-4901481",
-        "published": "2026-09-15 11:58:45"
       }
     ]
   }
