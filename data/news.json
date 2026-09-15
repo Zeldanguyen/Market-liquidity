@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-15T04:43:01.795119",
+  "fetched_at": "2026-09-15T05:09:34.341185",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "\"Đại gia\" dầu khí lớn nhất sàn chứng khoán lãi 12.000 tỷ đồng sau 8 tháng, sắp \"phát\" 6.000 tỷ đồng cho cổ đông",
+        "link": "https://cafef.vn/dai-gia-dau-khi-lon-nhat-san-chung-khoan-lai-12000-ty-dong-sau-8-thang-sap-phat-6000-ty-dong-cho-co-dong-188260915115953725.chn",
+        "published": "Tue, 15 Sep 26 12:07:00 +0700"
+      },
       {
         "title": "Một cổ phiếu ngân hàng tăng vọt gần 40% sau 1 tháng, vốn hoá vượt 72.000 tỷ đồng: Chuyện gì đang diễn ra?",
         "link": "https://cafef.vn/mot-co-phieu-ngan-hang-tang-vot-gan-40-sau-1-thang-von-hoa-vuot-72000-ty-dong-chuyen-gi-dang-dien-ra-188260915112930053.chn",
@@ -27,11 +32,6 @@
         "title": "Tranh thủ giá giảm sâu, nhóm quỹ thuộc BlackRock đồng loạt mua vàng",
         "link": "https://cafef.vn/tranh-thu-gia-giam-sau-nhom-quy-thuoc-blackrock-dong-loat-mua-vang-188260915101043041.chn",
         "published": "Tue, 15 Sep 26 10:10:00 +0700"
-      },
-      {
-        "title": "Miễn nhiệm ông Nguyễn Văn Dũng",
-        "link": "https://cafef.vn/mien-nhiem-ong-nguyen-van-dung-188260915093941701.chn",
-        "published": "Tue, 15 Sep 26 09:45:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Morning Bid: Trump says hit that brake; no, not that one",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-trump-says-hit-that-brake-no-not-that-one-4900771",
+        "published": "2026-09-15 04:36:31"
+      },
+      {
         "title": "Governments worldwide are way behind on AI, says Bill Gates",
         "link": "https://www.investing.com/news/economy-news/governments-worldwide-are-way-behind-on-ai-says-bill-gates-4900762",
         "published": "2026-09-15 04:12:46"
@@ -123,11 +128,6 @@
         "title": "China’s factories rev up but slower consumption highlights deepening economic imbalances",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
         "published": "2026-09-15 03:18:49"
-      },
-      {
-        "title": "Japan to sidestep funding in tax cut outline, keep fiscal concern alive",
-        "link": "https://www.investing.com/news/economy-news/japan-to-sidestep-funding-in-tax-cut-outline-keep-fiscal-concern-alive-4900748",
-        "published": "2026-09-15 02:36:54"
       }
     ]
   }
