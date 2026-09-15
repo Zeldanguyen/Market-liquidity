@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-15T15:09:34.847828",
+  "fetched_at": "2026-09-15T15:41:18.204934",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nóng: PNJ giảm thời gian thanh toán khi mua lại sản phẩm từ khách hàng",
+        "link": "https://cafef.vn/nong-pnj-giam-thoi-gian-thanh-toan-khi-mua-lai-san-pham-tu-khach-hang-188260915220945536.chn",
+        "published": "Tue, 15 Sep 26 22:09:00 +0700"
+      },
       {
         "title": "5 tháng sau khi nhà sáng lập bị khởi tố, Tiệm vàng HanaGold có CEO mới, công bố lộ trình rút tiền cho khách hàng",
         "link": "https://cafef.vn/5-thang-sau-khi-nha-sang-lap-bi-khoi-to-tiem-vang-hanagold-co-ceo-moi-cong-bo-lo-trinh-rut-tien-cho-khach-hang-188260915195350375.chn",
@@ -27,11 +32,6 @@
         "title": "Phó Tổng Giám đốc Chứng khoán Hòa Bình không bán cổ phiếu như đăng ký",
         "link": "https://cafef.vn/pho-tong-giam-doc-chung-khoan-hoa-binh-khong-ban-co-phieu-nhu-dang-ky-188260915153558841.chn",
         "published": "Tue, 15 Sep 26 16:43:00 +0700"
-      },
-      {
-        "title": "VN-Index trước phép thử Fed và nghịch lý dòng vốn tuần nâng hạng",
-        "link": "https://cafef.vn/vn-index-truoc-phep-thu-fed-va-nghich-ly-dong-von-tuan-nang-hang-18826091515543632.chn",
-        "published": "Tue, 15 Sep 26 16:41:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US Treasury chief says rising bond yields due to ’global issues’",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+        "published": "2026-09-15 15:01:05"
+      },
+      {
         "title": "FAA chief says air traffic control upgrade costs exceed funding",
         "link": "https://www.investing.com/news/economy-news/faa-chief-says-air-traffic-control-upgrade-costs-exceed-funding-93CH-4902128",
         "published": "2026-09-15 14:52:59"
@@ -123,11 +128,6 @@
         "title": "India’s balance of payments surplus jumps to $20.8 billion",
         "link": "https://www.investing.com/news/economy-news/indias-balance-of-payments-surplus-jumps-to-208-billion-93CH-4901833",
         "published": "2026-09-15 13:08:15"
-      },
-      {
-        "title": "Brazil retail sales drop 0.8% in July, missing forecasts",
-        "link": "https://www.investing.com/news/economy-news/brazil-retail-sales-drop-08-in-july-missing-forecasts-93CH-4901755",
-        "published": "2026-09-15 12:56:35"
       }
     ]
   }
