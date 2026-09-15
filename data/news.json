@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-15T09:11:10.303538",
+  "fetched_at": "2026-09-15T09:44:28.040636",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Hàn Quốc kéo dài thời gian giao dịch chứng khoán đến gần đêm",
+        "link": "https://cafef.vn/han-quoc-keo-dai-thoi-gian-giao-dich-chung-khoan-den-gan-dem-18826091516355501.chn",
+        "published": "Tue, 15 Sep 26 16:35:00 +0700"
+      },
+      {
+        "title": "Đại gia dầu khí Việt Nam vừa trúng gói thầu tại Qatar, có thể lên đến 3 tỷ USD",
+        "link": "https://cafef.vn/dai-gia-dau-khi-viet-nam-vua-trung-goi-thau-tai-qatar-co-the-len-den-3-ty-usd-188260915162754519.chn",
+        "published": "Tue, 15 Sep 26 16:27:00 +0700"
+      },
       {
         "title": "Cổ phiếu Chứng khoán Kafi (KAI) sau nhịp điều chỉnh: Cơ hội nào từ vùng định giá hiện tại?",
         "link": "https://cafef.vn/co-phieu-chung-khoan-kafi-kai-sau-nhip-dieu-chinh-co-hoi-nao-tu-vung-dinh-gia-hien-tai-188260915154440233.chn",
@@ -22,19 +32,14 @@
         "title": "GELEX lên tiếng về vụ việc ông Đặng Phan Tường, cổ phiếu liên quan đồng loạt tăng mạnh",
         "link": "https://cafef.vn/gelex-len-tieng-ve-vu-viec-ong-dang-phan-tuong-co-phieu-lien-quan-dong-loat-tang-manh-188260915130606402.chn",
         "published": "Tue, 15 Sep 26 13:05:00 +0700"
-      },
-      {
-        "title": "Lãnh đạo Chứng khoán Rồng Việt đăng ký bán cổ phiếu VDS",
-        "link": "https://cafef.vn/lanh-dao-chung-khoan-rong-viet-dang-ky-ban-co-phieu-vds-188260915122339669.chn",
-        "published": "Tue, 15 Sep 26 12:23:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Dầu khí có Chủ tịch HĐQT mới",
-        "link": "https://cafef.vn/chung-khoan-dau-khi-co-chu-tich-hdqt-moi-188260915122217235.chn",
-        "published": "Tue, 15 Sep 26 12:22:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Tỷ giá tăng nhanh, Ngân hàng Nhà nước rút bớt thanh khoản",
+        "link": "https://vneconomy.vn/ty-gia-tang-nhanh-ngan-hang-nha-nuoc-rut-bot-thanh-khoan.htm",
+        "published": "Tue, 15 Sep 2026 09:30:38 GMT"
+      },
       {
         "title": "Nỗ lực siết thuế người giàu của Trung Quốc mới chỉ bắt đầu",
         "link": "https://vneconomy.vn/no-luc-siet-thue-nguoi-giau-cua-trung-quoc-moi-chi-bat-dau.htm",
@@ -59,11 +64,6 @@
         "title": "Giá vàng rơi xuống mức thấp nhất 1 tháng vì mối lo Fed tăng lãi suất",
         "link": "https://vneconomy.vn/gia-vang-roi-xuong-muc-thap-nhat-1-thang-vi-moi-lo-fed-tang-lai-suat.htm",
         "published": "Tue, 15 Sep 2026 00:33:45 GMT"
-      },
-      {
-        "title": "Rủi ro đối với thị trường trái phiếu kho bạc Mỹ nếu Fed không tăng lãi suất",
-        "link": "https://vneconomy.vn/rui-ro-doi-voi-thi-truong-trai-phieu-kho-bac-my-neu-fed-khong-tang-lai-suat.htm",
-        "published": "Mon, 14 Sep 2026 13:20:44 GMT"
       }
     ],
     "Vietstock": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Japanese land prices rise for a fifth year",
-        "link": "https://www.investing.com/news/economy-news/japanese-land-prices-rise-for-a-fifth-year-4900941",
-        "published": "2026-09-15 08:24:35"
+        "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
+        "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
+        "published": "2026-09-15 09:31:12"
+      },
+      {
+        "title": "Houthis target Saudi sites amid push to strengthen positions in Yemen - Reuters",
+        "link": "https://www.investing.com/news/economy-news/houthis-target-saudi-sites-amid-push-to-strengthen-positions-in-yemen--reuters-4901070",
+        "published": "2026-09-15 09:28:52"
       },
       {
         "title": "UK jobs market stays soft before BoE rate call",
         "link": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
-        "published": "2026-09-15 08:18:29"
+        "published": "2026-09-15 09:18:29"
       },
       {
-        "title": "Fed meeting to begin; fresh AI warning - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/fed-meeting-to-begin-fresh-ai-warning--whats-moving-markets-4900919",
-        "published": "2026-09-15 07:56:58"
+        "title": "Bank of England set to halt long-term gilt sales amid bond sell-off - report",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-set-to-halt-longterm-gilt-sales-amid-bond-selloff--report-4901020",
+        "published": "2026-09-15 09:15:46"
       },
       {
-        "title": "Bank of Korea minutes show possible policy rift on back-to-back rate hikes",
-        "link": "https://www.investing.com/news/economy-news/bank-of-korea-minutes-show-possible-policy-rift-on-backtoback-rate-hikes-4900885",
-        "published": "2026-09-15 07:54:32"
+        "title": "Canadian home sales fall in August as economic uncertainty grows",
+        "link": "https://www.investing.com/news/economy-news/canadian-home-sales-fall-in-august-as-economic-uncertainty-grows-4901004",
+        "published": "2026-09-15 09:06:57"
       },
       {
-        "title": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move",
-        "link": "https://www.investing.com/news/economy-news/morgan-stanley-turns-more-hawkish-forecasts-two-fed-hikes-and-ecb-move-4900912",
-        "published": "2026-09-15 07:42:27"
-      },
-      {
-        "title": "Europe shares slip as banks drag, oil-driven inflation fears weigh",
-        "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
-        "published": "2026-09-15 07:24:51"
+        "title": "Wall St futures slip as rising oil, Treasury yields compound AI anxiety",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-slip-as-rising-oil-treasury-yields-compound-ai-anxiety-4900995",
+        "published": "2026-09-15 09:00:50"
       }
     ]
   }
