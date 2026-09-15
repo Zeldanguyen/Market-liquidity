@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T17:09:00.669127",
+  "fetched_at": "2026-09-15T17:38:53.208488",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "OpenAI explores Canada investment opportunities under Carney",
+        "link": "https://www.investing.com/news/economy-news/openai-explores-canada-investment-opportunities-under-carney-4902348",
+        "published": "2026-09-15 17:29:38"
+      },
+      {
         "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
         "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-        "published": "2026-09-15 16:54:25"
+        "published": "2026-09-15 17:24:49"
+      },
+      {
+        "title": "Bessent calls US yen intervention \"nominal,\" defends trade",
+        "link": "https://www.investing.com/news/economy-news/bessent-calls-us-yen-intervention-nominal-defends-trade-4902343",
+        "published": "2026-09-15 17:22:14"
+      },
+      {
+        "title": "Revolut wins Colombia bank license, targeting 2027 launch",
+        "link": "https://www.investing.com/news/economy-news/revolut-wins-colombia-bank-license-targeting-2027-launch-4902334",
+        "published": "2026-09-15 17:12:53"
       },
       {
         "title": "French central bank trims growth outlook as demand softens",
@@ -113,21 +128,6 @@
         "title": "European shares hit three-month low as oil spike revives inflation and rate worries",
         "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
         "published": "2026-09-15 16:37:30"
-      },
-      {
-        "title": "Factbox-Key candidates to replace ECB President Lagarde",
-        "link": "https://www.investing.com/news/economy-news/factboxkey-candidates-to-replace-ecb-president-lagarde-4902297",
-        "published": "2026-09-15 16:37:13"
-      },
-      {
-        "title": "Exclusive-France would back Dutch veteran Knot to lead ECB, wants chief economist job, sources say",
-        "link": "https://www.investing.com/news/economy-news/exclusivefrance-would-back-dutch-veteran-knot-to-lead-ecb-wants-chief-economist-job-sources-say-4902295",
-        "published": "2026-09-15 16:36:54"
-      },
-      {
-        "title": "Bessent says strong dollar based on credibility, policy certainty",
-        "link": "https://www.investing.com/news/economy-news/bessent-says-strong-dollar-based-on-credibility-policy-certainty-4902197",
-        "published": "2026-09-15 15:24:36"
       }
     ]
   }
