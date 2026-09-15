@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T10:40:53.767743",
+  "fetched_at": "2026-09-15T11:09:32.896351",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Polish interest rates likely to remain steady for two quarters, Dabrowski says",
+        "link": "https://www.investing.com/news/economy-news/polish-interest-rates-likely-to-remain-steady-for-two-quarters-dabrowski-says-93CH-4901251",
+        "published": "2026-09-15 10:43:19"
+      },
+      {
+        "title": "India’s unemployment rate falls to 5% in August",
+        "link": "https://www.investing.com/news/economy-news/indias-unemployment-rate-falls-to-5-in-august-93CH-4901248",
+        "published": "2026-09-15 10:41:48"
+      },
+      {
         "title": "European shares slip as banks drag, oil-driven inflation fears weigh",
         "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
         "published": "2026-09-15 10:10:19"
@@ -118,16 +128,6 @@
         "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
         "published": "2026-09-15 09:31:12"
-      },
-      {
-        "title": "Houthis target Saudi sites amid push to strengthen positions in Yemen - Reuters",
-        "link": "https://www.investing.com/news/economy-news/houthis-target-saudi-sites-amid-push-to-strengthen-positions-in-yemen--reuters-4901070",
-        "published": "2026-09-15 09:28:52"
-      },
-      {
-        "title": "UK jobs market stays soft before BoE rate call",
-        "link": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
-        "published": "2026-09-15 09:18:29"
       }
     ]
   }
