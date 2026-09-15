@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T18:10:04.164070",
+  "fetched_at": "2026-09-15T18:42:56.680379",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "U.S. war with Iran has cost $38B and is running at $3B per month, CBO says",
+        "link": "https://www.investing.com/news/economy-news/us-war-with-iran-has-cost-38b-and-is-running-at-3b-per-month-cbo-says-4902399",
+        "published": "2026-09-15 18:33:41"
+      },
+      {
         "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
         "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-        "published": "2026-09-15 17:48:37"
+        "published": "2026-09-15 18:30:34"
       },
       {
         "title": "Hundreds march in Toronto against Carney’s investment summit",
         "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
-        "published": "2026-09-15 17:42:55"
+        "published": "2026-09-15 18:25:12"
+      },
+      {
+        "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
+        "link": "https://www.investing.com/news/economy-news/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month-cbo-says-4902379",
+        "published": "2026-09-15 18:06:50"
       },
       {
         "title": "Russia warns US orbital weapons threaten space stability",
@@ -118,16 +128,6 @@
         "title": "OpenAI explores Canada investment opportunities under Carney",
         "link": "https://www.investing.com/news/economy-news/openai-explores-canada-investment-opportunities-under-carney-4902348",
         "published": "2026-09-15 17:29:38"
-      },
-      {
-        "title": "Bessent calls US yen intervention \"nominal,\" defends trade",
-        "link": "https://www.investing.com/news/economy-news/bessent-calls-us-yen-intervention-nominal-defends-trade-4902343",
-        "published": "2026-09-15 17:22:14"
-      },
-      {
-        "title": "Revolut wins Colombia bank license, targeting 2027 launch",
-        "link": "https://www.investing.com/news/economy-news/revolut-wins-colombia-bank-license-targeting-2027-launch-4902334",
-        "published": "2026-09-15 17:12:53"
       }
     ]
   }
