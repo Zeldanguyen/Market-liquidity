@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T06:12:03.809715",
+  "fetched_at": "2026-09-15T06:45:44.522438",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,9 +68,9 @@
     ],
     "Vietstock": [
       {
-        "title": "Nhịp đập Thị trường 15/09: Sắc xanh trở lại với họ Gelex",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1509-sac-xanh-tro-lai-voi-ho-gelex-1636-1492386.htm",
-        "published": "Tue, 15 Sep 2026 11:58:00 +0700"
+        "title": "Phân tích kỹ thuật phiên chiều 15/09: MACD tiếp tục suy yếu",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1509-macd-tiep-tuc-suy-yeu-585-1492437.htm",
+        "published": "Tue, 15 Sep 2026 13:04:13 +0700"
       },
       {
         "title": "Ngày 15/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "UK jobs market stays soft before BoE rate call",
+        "link": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
+        "published": "2026-09-15 06:36:48"
+      },
+      {
+        "title": "High mortgage rates to keep US housing market revival elusive: Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/high-mortgage-rates-to-keep-us-housing-market-revival-elusive-reuters-poll-4900844",
+        "published": "2026-09-15 06:25:09"
+      },
+      {
+        "title": "Analysis-Yen rally faces moment of truth as BOJ risks disappointing markets",
+        "link": "https://www.investing.com/news/economy-news/analysisyen-rally-faces-moment-of-truth-as-boj-risks-disappointing-markets-4900814",
+        "published": "2026-09-15 06:12:29"
+      },
+      {
+        "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
+        "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
+        "published": "2026-09-15 06:00:29"
+      },
+      {
         "title": "U.S. 10-yr Treasury yields rise further above 5%, hit highest level since 2007",
         "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-rise-further-above-5-hit-highest-level-since-2007-4900796",
         "published": "2026-09-15 05:38:22"
       },
       {
-        "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
-        "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
-        "published": "2026-09-15 05:24:48"
-      },
-      {
         "title": "Morning Bid: Trump says hit that brake; no, not that one",
         "link": "https://www.investing.com/news/economy-news/morning-bid-trump-says-hit-that-brake-no-not-that-one-4900771",
         "published": "2026-09-15 04:36:31"
-      },
-      {
-        "title": "Governments worldwide are way behind on AI, says Bill Gates",
-        "link": "https://www.investing.com/news/economy-news/governments-worldwide-are-way-behind-on-ai-says-bill-gates-4900762",
-        "published": "2026-09-15 04:12:46"
-      },
-      {
-        "title": "Finland set for higher growth, lower unemployment, central bank says",
-        "link": "https://www.investing.com/news/economy-news/finland-set-for-higher-growth-lower-unemployment-central-bank-says-4900763",
-        "published": "2026-09-15 04:06:52"
-      },
-      {
-        "title": "Hundreds march in Toronto against Carney’s investment summit",
-        "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
-        "published": "2026-09-15 03:48:44"
       }
     ]
   }
