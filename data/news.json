@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-15T12:44:51.152100",
+  "fetched_at": "2026-09-15T13:10:39.733886",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "5 tháng sau khi nhà sáng lập bị khởi tố, Tiệm vàng HanaGold có CEO mới, công bố lộ trình rút tiền cho khách hàng",
+        "link": "https://cafef.vn/5-thang-sau-khi-nha-sang-lap-bi-khoi-to-tiem-vang-hanagold-co-ceo-moi-cong-bo-lo-trinh-rut-tien-cho-khach-hang-188260915195350375.chn",
+        "published": "Tue, 15 Sep 26 19:55:00 +0700"
+      },
+      {
+        "title": "Pyn Elite Fund nâng tỷ lệ nắm giữ Tập đoàn Hà Đô vượt 10%",
+        "link": "https://cafef.vn/pyn-elite-fund-nang-ty-le-nam-giu-tap-doan-ha-do-vuot-10-188260915194927238.chn",
+        "published": "Tue, 15 Sep 26 19:50:00 +0700"
+      },
+      {
+        "title": "Eximbank bất ngờ kéo dài thời gian đề cử thành viên HĐQT",
+        "link": "https://cafef.vn/eximbank-bat-ngo-keo-dai-thoi-gian-de-cu-thanh-vien-hdqt-18826091519483658.chn",
+        "published": "Tue, 15 Sep 26 19:49:00 +0700"
+      },
       {
         "title": "Nhóm Gelex 'thoát hiểm', cổ phiếu dầu khí đồng loạt bứt phá",
         "link": "https://cafef.vn/nhom-gelex-thoat-hiem-co-phieu-dau-khi-dong-loat-but-pha-188260915183349637.chn",
@@ -17,21 +32,6 @@
         "title": "VN-Index trước phép thử Fed và nghịch lý dòng vốn tuần nâng hạng",
         "link": "https://cafef.vn/vn-index-truoc-phep-thu-fed-va-nghich-ly-dong-von-tuan-nang-hang-18826091515543632.chn",
         "published": "Tue, 15 Sep 26 16:41:00 +0700"
-      },
-      {
-        "title": "Hàn Quốc kéo dài thời gian giao dịch chứng khoán đến gần đêm",
-        "link": "https://cafef.vn/han-quoc-keo-dai-thoi-gian-giao-dich-chung-khoan-den-gan-dem-18826091516355501.chn",
-        "published": "Tue, 15 Sep 26 16:35:00 +0700"
-      },
-      {
-        "title": "Đại gia dầu khí Việt Nam vừa trúng gói thầu tại Qatar, có thể lên đến 3 tỷ USD",
-        "link": "https://cafef.vn/dai-gia-dau-khi-viet-nam-vua-trung-goi-thau-tai-qatar-co-the-len-den-3-ty-usd-188260915162754519.chn",
-        "published": "Tue, 15 Sep 26 16:27:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu Chứng khoán Kafi (KAI) sau nhịp điều chỉnh: Cơ hội nào từ vùng định giá hiện tại?",
-        "link": "https://cafef.vn/co-phieu-chung-khoan-kafi-kai-sau-nhip-dieu-chinh-co-hoi-nao-tu-vung-dinh-gia-hien-tai-188260915154440233.chn",
-        "published": "Tue, 15 Sep 26 16:00:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Morgan Stanley sees Canada entering two-stage growth acceleration",
+        "link": "https://www.investing.com/news/economy-news/morgan-stanley-sees-canada-entering-twostage-growth-acceleration-4901709",
+        "published": "2026-09-15 12:40:09"
+      },
+      {
         "title": "U.S. 10-year yield surges past 5% to highest since 2007 on Fed rate hike bets",
         "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-rise-further-above-5-hit-highest-level-since-2007-4900796",
         "published": "2026-09-15 12:03:01"
@@ -123,11 +128,6 @@
         "title": "Brazil’s top court to decide on unprecedented probe of sitting justice",
         "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
         "published": "2026-09-15 11:18:32"
-      },
-      {
-        "title": "Polish interest rates likely to remain steady for two quarters, Dabrowski says",
-        "link": "https://www.investing.com/news/economy-news/polish-interest-rates-likely-to-remain-steady-for-two-quarters-dabrowski-says-93CH-4901251",
-        "published": "2026-09-15 10:43:19"
       }
     ]
   }
