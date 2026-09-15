@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-15T11:40:45.132669",
+  "fetched_at": "2026-09-15T12:12:00.628625",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nhóm Gelex 'thoát hiểm', cổ phiếu dầu khí đồng loạt bứt phá",
+        "link": "https://cafef.vn/nhom-gelex-thoat-hiem-co-phieu-dau-khi-dong-loat-but-pha-188260915183349637.chn",
+        "published": "Tue, 15 Sep 26 18:59:00 +0700"
+      },
       {
         "title": "Phó Tổng Giám đốc Chứng khoán Hòa Bình không bán cổ phiếu như đăng ký",
         "link": "https://cafef.vn/pho-tong-giam-doc-chung-khoan-hoa-binh-khong-ban-co-phieu-nhu-dang-ky-188260915153558841.chn",
@@ -27,14 +32,19 @@
         "title": "Cổ phiếu Chứng khoán Kafi (KAI) sau nhịp điều chỉnh: Cơ hội nào từ vùng định giá hiện tại?",
         "link": "https://cafef.vn/co-phieu-chung-khoan-kafi-kai-sau-nhip-dieu-chinh-co-hoi-nao-tu-vung-dinh-gia-hien-tai-188260915154440233.chn",
         "published": "Tue, 15 Sep 26 16:00:00 +0700"
-      },
-      {
-        "title": "Khối ngoại tiếp tục \"gom hàng\" trong phiên VN-Index tăng 22 điểm, một cổ phiếu ngân hàng được rót hơn 200 tỷ đồng",
-        "link": "https://cafef.vn/khoi-ngoai-tiep-tuc-gom-hang-trong-phien-vn-index-tang-22-diem-mot-co-phieu-ngan-hang-duoc-rot-hon-200-ty-dong-18826091515224027.chn",
-        "published": "Tue, 15 Sep 26 15:45:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Venezuela và đề xuất đôla hóa để ổn định nền kinh tế",
+        "link": "https://vneconomy.vn/venezuela-va-de-xuat-dola-hoa-de-on-dinh-nen-kinh-te.htm",
+        "published": "Tue, 15 Sep 2026 12:00:38 GMT"
+      },
+      {
+        "title": "Mối quan hệ giữa Tổng thống Trump và Chủ tịch Fed liệu có xấu đi sau cuộc họp tuần này?",
+        "link": "https://vneconomy.vn/moi-quan-he-giua-tong-thong-trump-va-chu-tich-fed-lieu-co-xau-di-sau-cuoc-hop-tuan-nay.htm",
+        "published": "Tue, 15 Sep 2026 11:59:30 GMT"
+      },
       {
         "title": "Thứ trưởng Bộ Tài chính: Bảo đảm đối xử bình đẳng và bảo hộ đầy đủ quyền, lợi ích của nhà đầu tư",
         "link": "https://vneconomy.vn/thu-truong-bo-tai-chinh-bao-dam-doi-xu-binh-dang-va-bao-ho-day-du-quyen-loi-ich-cua-nha-dau-tu.htm",
@@ -54,19 +64,14 @@
         "title": "Nhật Bản lo ngại áp lực lạm phát, có thể đẩy nhanh tốc độ tăng lãi suất",
         "link": "https://vneconomy.vn/nhat-ban-lo-ngai-ap-luc-lam-phat-co-the-day-nhanh-toc-do-tang-lai-suat.htm",
         "published": "Tue, 15 Sep 2026 03:26:18 GMT"
-      },
-      {
-        "title": "Giới chuyên gia kinh tế dự báo Fed tăng lãi suất ít nhất 2 lần từ nay đến cuối quý 1/2027",
-        "link": "https://vneconomy.vn/gioi-chuyen-gia-kinh-te-du-bao-fed-tang-lai-suat-it-nhat-2-lan-tu-nay-den-cuoi-quy-12027.htm",
-        "published": "Tue, 15 Sep 2026 01:48:52 GMT"
-      },
-      {
-        "title": "Tăng trưởng kinh tế có phải là giải pháp cho khối nợ công 40 nghìn tỷ USD của Mỹ?",
-        "link": "https://vneconomy.vn/tang-truong-kinh-te-co-phai-la-giai-phap-cho-khoi-no-cong-40-nghin-ty-usd-cua-my.htm",
-        "published": "Tue, 15 Sep 2026 00:33:52 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Vietstock Daily 16/09/2026: Phục hồi trở lại",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-16092026-phuc-hoi-tro-lai-1636-1492619.htm",
+        "published": "Tue, 15 Sep 2026 18:16:58 +0700"
+      },
       {
         "title": "VNT giải trình cổ phiếu tăng trần 5 phiên liên tiếp",
         "link": "http://vietstock.vn/2026/09/vnt-giai-trinh-co-phieu-tang-tran-5-phien-lien-tiep-830-1492517.htm",
@@ -91,14 +96,29 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 15/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1509-830-1492206.htm",
         "published": "Tue, 15 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "15/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1509-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492300.htm",
-        "published": "Tue, 15 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "U.S. 10-year yield surges past 5% to highest since 2007 on Fed rate hike bets",
+        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-rise-further-above-5-hit-highest-level-since-2007-4900796",
+        "published": "2026-09-15 12:03:01"
+      },
+      {
+        "title": "Why Fed pricing may be turning too hawkish",
+        "link": "https://www.investing.com/news/economy-news/why-fed-pricing-may-be-turning-too-hawkish-4901481",
+        "published": "2026-09-15 11:58:45"
+      },
+      {
+        "title": "Morgan Stanley now sees ECB delivering a rate hike in December",
+        "link": "https://www.investing.com/news/economy-news/morgan-stanley-now-sees-ecb-delivering-a-rate-hike-in-december-4901445",
+        "published": "2026-09-15 11:42:52"
+      },
+      {
+        "title": "Poland revives windfall tax on oil firms to cut fuel costs",
+        "link": "https://www.investing.com/news/economy-news/poland-revives-windfall-tax-on-oil-firms-to-cut-fuel-costs-93CH-4901403",
+        "published": "2026-09-15 11:29:43"
+      },
       {
         "title": "Brazil’s top court to decide on unprecedented probe of sitting justice",
         "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
@@ -108,26 +128,6 @@
         "title": "Polish interest rates likely to remain steady for two quarters, Dabrowski says",
         "link": "https://www.investing.com/news/economy-news/polish-interest-rates-likely-to-remain-steady-for-two-quarters-dabrowski-says-93CH-4901251",
         "published": "2026-09-15 10:43:19"
-      },
-      {
-        "title": "India’s unemployment rate falls to 5% in August",
-        "link": "https://www.investing.com/news/economy-news/indias-unemployment-rate-falls-to-5-in-august-93CH-4901248",
-        "published": "2026-09-15 10:41:48"
-      },
-      {
-        "title": "European shares slip as banks drag, oil-driven inflation fears weigh",
-        "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
-        "published": "2026-09-15 10:10:19"
-      },
-      {
-        "title": "Stocks wobble but no sign of panic as yields surge",
-        "link": "https://www.investing.com/news/economy-news/stocks-wobble-but-no-sign-of-panic-as-yields-surge-4901104",
-        "published": "2026-09-15 09:54:32"
-      },
-      {
-        "title": "Is the BoE’s rate-cut cycle giving way to hikes?",
-        "link": "https://www.investing.com/news/economy-news/is-the-boes-ratecut-cycle-giving-way-to-hikes-4901096",
-        "published": "2026-09-15 09:39:30"
       }
     ]
   }
