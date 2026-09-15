@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T14:41:39.722885",
+  "fetched_at": "2026-09-15T15:09:34.847828",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "FAA chief says air traffic control upgrade costs exceed funding",
+        "link": "https://www.investing.com/news/economy-news/faa-chief-says-air-traffic-control-upgrade-costs-exceed-funding-93CH-4902128",
+        "published": "2026-09-15 14:52:59"
+      },
+      {
+        "title": "Novo Nordisk rebrands as ’Novo’, announces cultural reset",
+        "link": "https://www.investing.com/news/economy-news/novo-nordisk-rebrands-asnovo-announces-cultural-reset-4902115",
+        "published": "2026-09-15 14:48:35"
+      },
+      {
         "title": "US poverty rate at 10.2% in 2025, Census Bureau says",
         "link": "https://www.investing.com/news/economy-news/us-poverty-rate-at-102-in-2025-census-bureau-says-4902071",
         "published": "2026-09-15 14:31:05"
@@ -118,16 +128,6 @@
         "title": "Brazil retail sales drop 0.8% in July, missing forecasts",
         "link": "https://www.investing.com/news/economy-news/brazil-retail-sales-drop-08-in-july-missing-forecasts-93CH-4901755",
         "published": "2026-09-15 12:56:35"
-      },
-      {
-        "title": "India’s unemployment rate falls to 5% in August",
-        "link": "https://www.investing.com/news/economy-news/indias-unemployment-rate-falls-to-5-in-august-93CH-4901751",
-        "published": "2026-09-15 12:56:09"
-      },
-      {
-        "title": "Morgan Stanley sees Canada entering two-stage growth acceleration",
-        "link": "https://www.investing.com/news/economy-news/morgan-stanley-sees-canada-entering-twostage-growth-acceleration-4901709",
-        "published": "2026-09-15 12:40:09"
       }
     ]
   }
