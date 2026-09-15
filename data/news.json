@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T16:09:44.336634",
+  "fetched_at": "2026-09-15T16:41:30.324607",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US Treasury chief says rising bond yields due to ’global issues’",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+        "published": "2026-09-15 16:25:04"
+      },
+      {
         "title": "Bessent says strong dollar based on credibility, policy certainty",
         "link": "https://www.investing.com/news/economy-news/bessent-says-strong-dollar-based-on-credibility-policy-certainty-4902197",
         "published": "2026-09-15 15:24:36"
-      },
-      {
-        "title": "US Treasury chief says rising bond yields due to ’global issues’",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-        "published": "2026-09-15 15:01:05"
       },
       {
         "title": "FAA chief says air traffic control upgrade costs exceed funding",
