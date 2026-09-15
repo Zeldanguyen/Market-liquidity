@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T06:45:44.522438",
+  "fetched_at": "2026-09-15T07:12:11.716537",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Nỗ lực siết thuế người giàu của Trung Quốc mới chỉ bắt đầu",
+        "link": "https://vneconomy.vn/no-luc-siet-thue-nguoi-giau-cua-trung-quoc-moi-chi-bat-dau.htm",
+        "published": "Tue, 15 Sep 2026 06:57:22 GMT"
+      },
+      {
         "title": "Nhật Bản lo ngại áp lực lạm phát, có thể đẩy nhanh tốc độ tăng lãi suất",
         "link": "https://vneconomy.vn/nhat-ban-lo-ngai-ap-luc-lam-phat-co-the-day-nhanh-toc-do-tang-lai-suat.htm",
         "published": "Tue, 15 Sep 2026 03:26:18 GMT"
@@ -59,11 +64,6 @@
         "title": "Rủi ro đối với thị trường trái phiếu kho bạc Mỹ nếu Fed không tăng lãi suất",
         "link": "https://vneconomy.vn/rui-ro-doi-voi-thi-truong-trai-phieu-kho-bac-my-neu-fed-khong-tang-lai-suat.htm",
         "published": "Mon, 14 Sep 2026 13:20:44 GMT"
-      },
-      {
-        "title": "Giá dầu tăng mạnh thử thách khả năng hỗ trợ tăng trưởng của chính sách tiền tệ",
-        "link": "https://vneconomy.vn/gia-dau-tang-manh-thu-thach-kha-nang-ho-tro-tang-truong-cua-chinh-sach-tien-te.htm",
-        "published": "Mon, 14 Sep 2026 12:43:26 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Analysis-Yen rally faces moment of truth as BOJ risks disappointing markets",
+        "link": "https://www.investing.com/news/economy-news/analysisyen-rally-faces-moment-of-truth-as-boj-risks-disappointing-markets-4900814",
+        "published": "2026-09-15 06:49:31"
+      },
+      {
         "title": "UK jobs market stays soft before BoE rate call",
         "link": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
         "published": "2026-09-15 06:36:48"
@@ -108,11 +113,6 @@
         "title": "High mortgage rates to keep US housing market revival elusive: Reuters poll",
         "link": "https://www.investing.com/news/economy-news/high-mortgage-rates-to-keep-us-housing-market-revival-elusive-reuters-poll-4900844",
         "published": "2026-09-15 06:25:09"
-      },
-      {
-        "title": "Analysis-Yen rally faces moment of truth as BOJ risks disappointing markets",
-        "link": "https://www.investing.com/news/economy-news/analysisyen-rally-faces-moment-of-truth-as-boj-risks-disappointing-markets-4900814",
-        "published": "2026-09-15 06:12:29"
       },
       {
         "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
