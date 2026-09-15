@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T21:38:13.700940",
+  "fetched_at": "2026-09-15T22:09:46.221664",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Burnham and Trump to hold first face-to-face meeting in New York - The Times",
+        "link": "https://www.investing.com/news/economy-news/burnham-and-trump-to-hold-first-facetoface-meeting-in-new-york--the-times-4902699",
+        "published": "2026-09-15 21:37:57"
+      },
+      {
         "title": "Trading Day: No hiding place",
         "link": "https://www.investing.com/news/economy-news/trading-day-no-hiding-place-4902677",
         "published": "2026-09-15 21:20:10"
@@ -123,11 +128,6 @@
         "title": "Hundreds march in Toronto against Carney’s investment summit",
         "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
         "published": "2026-09-15 18:25:12"
-      },
-      {
-        "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
-        "link": "https://www.investing.com/news/economy-news/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month-cbo-says-4902379",
-        "published": "2026-09-15 18:06:50"
       }
     ]
   }
