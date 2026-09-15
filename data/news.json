@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T21:08:59.468317",
+  "fetched_at": "2026-09-15T21:38:13.700940",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trading Day: No hiding place",
+        "link": "https://www.investing.com/news/economy-news/trading-day-no-hiding-place-4902677",
+        "published": "2026-09-15 21:20:10"
+      },
+      {
         "title": "Argentina submits 2027 budget bill to Congress, foresees 4% GDP growth",
         "link": "https://www.investing.com/news/economy-news/argentina-submits-2027-budget-bill-to-congress-foresees-4-gdp-growth-4902554",
         "published": "2026-09-15 20:24:32"
@@ -123,11 +128,6 @@
         "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
         "link": "https://www.investing.com/news/economy-news/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month-cbo-says-4902379",
         "published": "2026-09-15 18:06:50"
-      },
-      {
-        "title": "Russia warns US orbital weapons threaten space stability",
-        "link": "https://www.investing.com/news/economy-news/russia-warns-us-orbital-weapons-threaten-space-stability-93CH-4902353",
-        "published": "2026-09-15 17:39:40"
       }
     ]
   }
