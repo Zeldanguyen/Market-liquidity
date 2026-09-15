@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T23:09:26.841358",
+  "fetched_at": "2026-09-15T23:38:31.097552",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "16/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1609-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492719.htm",
+        "published": "Wed, 16 Sep 2026 06:02:00 +0700"
+      },
+      {
         "title": "UBCKNN phạt Pacific Bridge và Việt Tâm về lỗi công bố thông tin",
         "link": "http://vietstock.vn/2026/09/ubcknn-phat-pacific-bridge-va-viet-tam-ve-loi-cong-bo-thong-tin-830-1492697.htm",
         "published": "Tue, 15 Sep 2026 20:02:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Nhịp đập Thị trường 15/09: Khối ngoại tiếp tục mua ròng",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1509-khoi-ngoai-tiep-tuc-mua-rong-1636-1492386.htm",
         "published": "Tue, 15 Sep 2026 16:47:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 15/09: MACD tiếp tục suy yếu",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1509-macd-tiep-tuc-suy-yeu-585-1492437.htm",
-        "published": "Tue, 15 Sep 2026 13:04:13 +0700"
       }
     ],
     "Investing.com Economy": [
