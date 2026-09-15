@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T15:41:18.204934",
+  "fetched_at": "2026-09-15T16:09:44.336634",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bessent says strong dollar based on credibility, policy certainty",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-strong-dollar-based-on-credibility-policy-certainty-4902197",
+        "published": "2026-09-15 15:24:36"
+      },
+      {
         "title": "US Treasury chief says rising bond yields due to ’global issues’",
         "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
         "published": "2026-09-15 15:01:05"
@@ -123,11 +128,6 @@
         "title": "Fed’s table is set for a rate hike, a first under Warsh",
         "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
         "published": "2026-09-15 13:42:56"
-      },
-      {
-        "title": "India’s balance of payments surplus jumps to $20.8 billion",
-        "link": "https://www.investing.com/news/economy-news/indias-balance-of-payments-surplus-jumps-to-208-billion-93CH-4901833",
-        "published": "2026-09-15 13:08:15"
       }
     ]
   }
