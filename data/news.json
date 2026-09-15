@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-15T02:42:00.486125",
+  "fetched_at": "2026-09-15T03:10:25.838673",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Miễn nhiệm ông Nguyễn Văn Dũng",
+        "link": "https://cafef.vn/mien-nhiem-ong-nguyen-van-dung-188260915093941701.chn",
+        "published": "Tue, 15 Sep 26 09:45:00 +0700"
+      },
       {
         "title": "Tài sản sinh lời 8%, lãi vay 7-8%: Nhà đầu tư được gì ngoài rủi ro?",
         "link": "https://cafef.vn/tai-san-sinh-loi-8-lai-vay-7-8-nha-dau-tu-duoc-gi-ngoai-rui-ro-188260915082445907.chn",
@@ -27,11 +32,6 @@
         "title": "Loạt tổ chức lớn đưa ra dự báo bất ngờ về giá vàng cuối năm",
         "link": "https://cafef.vn/loat-to-chuc-lon-dua-ra-du-bao-bat-ngo-ve-gia-vang-cuoi-nam-188260914222530003.chn",
         "published": "Tue, 15 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Hơn chục nghìn tỷ đổ dồn giao dịch vào 1 thời điểm, những cổ phiếu nào trong tầm ngắm?",
-        "link": "https://cafef.vn/hon-chuc-nghin-ty-do-don-giao-dich-vao-1-thoi-diem-nhung-co-phieu-nao-trong-tam-ngam-188260914222437425.chn",
-        "published": "Tue, 15 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,9 +100,19 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "China’s factory output growth quickens in August, retail sales slow",
+        "title": "Hundreds march in Toronto against Carney’s investment summit",
+        "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
+        "published": "2026-09-15 02:49:09"
+      },
+      {
+        "title": "China’s factories rev up but slower consumption highlights deepening economic imbalances",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
-        "published": "2026-09-15 02:12:29"
+        "published": "2026-09-15 02:48:51"
+      },
+      {
+        "title": "Japan to sidestep funding in tax cut outline, keep fiscal concern alive",
+        "link": "https://www.investing.com/news/economy-news/japan-to-sidestep-funding-in-tax-cut-outline-keep-fiscal-concern-alive-4900748",
+        "published": "2026-09-15 02:36:54"
       },
       {
         "title": "Dollar near two-week high as oil surge lifts yields, Fed hike bets",
@@ -118,16 +128,6 @@
         "title": "Fed’s table is set for a rate hike, a first under Warsh",
         "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
         "published": "2026-09-15 00:56:05"
-      },
-      {
-        "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
-        "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-15 00:12:26"
-      },
-      {
-        "title": "Trump’s mail-in voting restrictions blocked by a second judge",
-        "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
-        "published": "2026-09-14 22:36:29"
       }
     ]
   }
