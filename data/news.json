@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T10:10:18.476331",
+  "fetched_at": "2026-09-15T10:40:53.767743",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Thứ trưởng Bộ Tài chính: Bảo đảm đối xử bình đẳng và bảo hộ đầy đủ quyền, lợi ích của nhà đầu tư",
+        "link": "https://vneconomy.vn/thu-truong-bo-tai-chinh-bao-dam-doi-xu-binh-dang-va-bao-ho-day-du-quyen-loi-ich-cua-nha-dau-tu.htm",
+        "published": "Tue, 15 Sep 2026 10:13:38 GMT"
+      },
+      {
         "title": "Tỷ giá tăng nhanh, Ngân hàng Nhà nước rút bớt thanh khoản",
         "link": "https://vneconomy.vn/ty-gia-tang-nhanh-ngan-hang-nha-nuoc-rut-bot-thanh-khoan.htm",
         "published": "Tue, 15 Sep 2026 09:30:38 GMT"
@@ -59,14 +64,19 @@
         "title": "Tăng trưởng kinh tế có phải là giải pháp cho khối nợ công 40 nghìn tỷ USD của Mỹ?",
         "link": "https://vneconomy.vn/tang-truong-kinh-te-co-phai-la-giai-phap-cho-khoi-no-cong-40-nghin-ty-usd-cua-my.htm",
         "published": "Tue, 15 Sep 2026 00:33:52 GMT"
-      },
-      {
-        "title": "Giá vàng rơi xuống mức thấp nhất 1 tháng vì mối lo Fed tăng lãi suất",
-        "link": "https://vneconomy.vn/gia-vang-roi-xuong-muc-thap-nhat-1-thang-vi-moi-lo-fed-tang-lai-suat.htm",
-        "published": "Tue, 15 Sep 2026 00:33:45 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "VNT giải trình cổ phiếu tăng trần 5 phiên liên tiếp",
+        "link": "http://vietstock.vn/2026/09/vnt-giai-trinh-co-phieu-tang-tran-5-phien-lien-tiep-830-1492517.htm",
+        "published": "Tue, 15 Sep 2026 17:00:00 +0700"
+      },
+      {
+        "title": "Nhịp đập Thị trường 15/09: Khối ngoại tiếp tục mua ròng",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1509-khoi-ngoai-tiep-tuc-mua-rong-1636-1492386.htm",
+        "published": "Tue, 15 Sep 2026 16:47:00 +0700"
+      },
       {
         "title": "Phân tích kỹ thuật phiên chiều 15/09: MACD tiếp tục suy yếu",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1509-macd-tiep-tuc-suy-yeu-585-1492437.htm",
@@ -86,28 +96,18 @@
         "title": "15/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1509-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492300.htm",
         "published": "Tue, 15 Sep 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu dầu khí, nhựa có tuần hút tiền",
-        "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-nhua-co-tuan-hut-tien-830-1492048.htm",
-        "published": "Mon, 14 Sep 2026 20:30:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 14/09: Khối ngoại mua ròng trên 800 tỷ, tự doanh giao dịch cân bằng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1409-khoi-ngoai-mua-rong-tren-800-ty-tu-doanh-giao-dich-can-bang-830-1492261.htm",
-        "published": "Mon, 14 Sep 2026 19:14:53 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "European shares slip as banks drag, oil-driven inflation fears weigh",
+        "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
+        "published": "2026-09-15 10:10:19"
+      },
+      {
         "title": "Stocks wobble but no sign of panic as yields surge",
         "link": "https://www.investing.com/news/economy-news/stocks-wobble-but-no-sign-of-panic-as-yields-surge-4901104",
         "published": "2026-09-15 09:54:32"
-      },
-      {
-        "title": "European shares slip as banks drag, oil-driven inflation fears weigh",
-        "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
-        "published": "2026-09-15 09:48:25"
       },
       {
         "title": "Is the BoE’s rate-cut cycle giving way to hikes?",
