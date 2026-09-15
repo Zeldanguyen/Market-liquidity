@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T20:10:14.779567",
+  "fetched_at": "2026-09-15T20:39:25.033069",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Argentina submits 2027 budget bill to Congress, foresees 4% GDP growth",
+        "link": "https://www.investing.com/news/economy-news/argentina-submits-2027-budget-bill-to-congress-foresees-4-gdp-growth-4902554",
+        "published": "2026-09-15 20:24:32"
+      },
+      {
         "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
         "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
         "published": "2026-09-15 18:43:26"
@@ -123,11 +128,6 @@
         "title": "Russia warns US orbital weapons threaten space stability",
         "link": "https://www.investing.com/news/economy-news/russia-warns-us-orbital-weapons-threaten-space-stability-93CH-4902353",
         "published": "2026-09-15 17:39:40"
-      },
-      {
-        "title": "OpenAI explores Canada investment opportunities under Carney",
-        "link": "https://www.investing.com/news/economy-news/openai-explores-canada-investment-opportunities-under-carney-4902348",
-        "published": "2026-09-15 17:29:38"
       }
     ]
   }
