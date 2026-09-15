@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T13:10:39.733886",
+  "fetched_at": "2026-09-15T13:41:50.857316",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,16 @@
     ],
     "Vietstock": [
       {
+        "title": "UBCKNN phạt Pacific Bridge và Việt Tâm về lỗi công bố thông tin",
+        "link": "http://vietstock.vn/2026/09/ubcknn-phat-pacific-bridge-va-viet-tam-ve-loi-cong-bo-thong-tin-830-1492697.htm",
+        "published": "Tue, 15 Sep 2026 20:02:00 +0700"
+      },
+      {
+        "title": "Theo dấu dòng tiền cá mập 15/09: Khối ngoại tiếp tục mua ròng",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1509-khoi-ngoai-tiep-tuc-mua-rong-830-1492701.htm",
+        "published": "Tue, 15 Sep 2026 19:44:28 +0700"
+      },
+      {
         "title": "Vietstock Daily 16/09/2026: Phục hồi trở lại",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-16092026-phuc-hoi-tro-lai-1636-1492619.htm",
         "published": "Tue, 15 Sep 2026 18:16:58 +0700"
@@ -86,19 +96,24 @@
         "title": "Phân tích kỹ thuật phiên chiều 15/09: MACD tiếp tục suy yếu",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1509-macd-tiep-tuc-suy-yeu-585-1492437.htm",
         "published": "Tue, 15 Sep 2026 13:04:13 +0700"
-      },
-      {
-        "title": "Ngày 15/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-        "link": "http://vietstock.vn/2026/09/ngay-15092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1492141.htm",
-        "published": "Tue, 15 Sep 2026 10:00:00 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 15/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1509-830-1492206.htm",
-        "published": "Tue, 15 Sep 2026 08:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "India’s balance of payments surplus jumps to $20.8 billion",
+        "link": "https://www.investing.com/news/economy-news/indias-balance-of-payments-surplus-jumps-to-208-billion-93CH-4901833",
+        "published": "2026-09-15 13:08:15"
+      },
+      {
+        "title": "Brazil retail sales drop 0.8% in July, missing forecasts",
+        "link": "https://www.investing.com/news/economy-news/brazil-retail-sales-drop-08-in-july-missing-forecasts-93CH-4901755",
+        "published": "2026-09-15 12:56:35"
+      },
+      {
+        "title": "India’s unemployment rate falls to 5% in August",
+        "link": "https://www.investing.com/news/economy-news/indias-unemployment-rate-falls-to-5-in-august-93CH-4901751",
+        "published": "2026-09-15 12:56:09"
+      },
       {
         "title": "Morgan Stanley sees Canada entering two-stage growth acceleration",
         "link": "https://www.investing.com/news/economy-news/morgan-stanley-sees-canada-entering-twostage-growth-acceleration-4901709",
@@ -113,21 +128,6 @@
         "title": "Why Fed pricing may be turning too hawkish",
         "link": "https://www.investing.com/news/economy-news/why-fed-pricing-may-be-turning-too-hawkish-4901481",
         "published": "2026-09-15 11:58:45"
-      },
-      {
-        "title": "Morgan Stanley now sees ECB delivering a rate hike in December",
-        "link": "https://www.investing.com/news/economy-news/morgan-stanley-now-sees-ecb-delivering-a-rate-hike-in-december-4901445",
-        "published": "2026-09-15 11:42:52"
-      },
-      {
-        "title": "Poland revives windfall tax on oil firms to cut fuel costs",
-        "link": "https://www.investing.com/news/economy-news/poland-revives-windfall-tax-on-oil-firms-to-cut-fuel-costs-93CH-4901403",
-        "published": "2026-09-15 11:29:43"
-      },
-      {
-        "title": "Brazil’s top court to decide on unprecedented probe of sitting justice",
-        "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
-        "published": "2026-09-15 11:18:32"
       }
     ]
   }
