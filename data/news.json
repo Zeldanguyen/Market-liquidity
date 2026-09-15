@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T18:42:56.680379",
+  "fetched_at": "2026-09-15T19:08:52.386682",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+        "published": "2026-09-15 18:43:26"
+      },
+      {
         "title": "U.S. war with Iran has cost $38B and is running at $3B per month, CBO says",
         "link": "https://www.investing.com/news/economy-news/us-war-with-iran-has-cost-38b-and-is-running-at-3b-per-month-cbo-says-4902399",
         "published": "2026-09-15 18:33:41"
-      },
-      {
-        "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-        "published": "2026-09-15 18:30:34"
       },
       {
         "title": "Hundreds march in Toronto against Carney’s investment summit",
