@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T02:11:05.953078",
+  "fetched_at": "2026-09-15T02:42:00.486125",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China’s factory output growth quickens in August, retail sales slow",
+        "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
+        "published": "2026-09-15 02:12:29"
+      },
+      {
         "title": "Dollar near two-week high as oil surge lifts yields, Fed hike bets",
         "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-oil-surge-lifts-yields-fed-hike-bets-4900729",
         "published": "2026-09-15 02:00:28"
@@ -123,11 +128,6 @@
         "title": "Trump’s mail-in voting restrictions blocked by a second judge",
         "link": "https://www.investing.com/news/economy-news/trumps-mailin-voting-restrictions-blocked-by-a-second-judge-4899023",
         "published": "2026-09-14 22:36:29"
-      },
-      {
-        "title": "Explainer-US Treasury yields are rising - why does it matter?",
-        "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4899965",
-        "published": "2026-09-14 22:25:32"
       }
     ]
   }
