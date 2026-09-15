@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T14:10:02.075779",
+  "fetched_at": "2026-09-15T14:41:39.722885",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US poverty rate at 10.2% in 2025, Census Bureau says",
+        "link": "https://www.investing.com/news/economy-news/us-poverty-rate-at-102-in-2025-census-bureau-says-4902071",
+        "published": "2026-09-15 14:31:05"
+      },
+      {
         "title": "Fed’s table is set for a rate hike, a first under Warsh",
         "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
         "published": "2026-09-15 13:42:56"
@@ -123,11 +128,6 @@
         "title": "Morgan Stanley sees Canada entering two-stage growth acceleration",
         "link": "https://www.investing.com/news/economy-news/morgan-stanley-sees-canada-entering-twostage-growth-acceleration-4901709",
         "published": "2026-09-15 12:40:09"
-      },
-      {
-        "title": "U.S. 10-year yield surges past 5% to highest since 2007 on Fed rate hike bets",
-        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-rise-further-above-5-hit-highest-level-since-2007-4900796",
-        "published": "2026-09-15 12:03:01"
       }
     ]
   }
