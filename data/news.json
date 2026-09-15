@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-15T03:43:03.309785",
+  "fetched_at": "2026-09-15T04:10:01.361513",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vosco chốt ngày trả cổ tức bằng tiền mặt tỷ lệ 9%",
+        "link": "https://cafef.vn/vosco-chot-ngay-tra-co-tuc-bang-tien-mat-ty-le-9-188260915095507149.chn",
+        "published": "Tue, 15 Sep 26 10:54:00 +0700"
+      },
       {
         "title": "Tổng giám đốc ABS: 6-8 tỷ USD có thể chảy vào chứng khoán Việt Nam",
         "link": "https://cafef.vn/tong-giam-doc-abs-6-8-ty-usd-co-the-chay-vao-chung-khoan-viet-nam-188260915102311266.chn",
@@ -27,11 +32,6 @@
         "title": "Tài sản sinh lời 8%, lãi vay 7-8%: Nhà đầu tư được gì ngoài rủi ro?",
         "link": "https://cafef.vn/tai-san-sinh-loi-8-lai-vay-7-8-nha-dau-tu-duoc-gi-ngoai-rui-ro-188260915082445907.chn",
         "published": "Tue, 15 Sep 26 08:24:00 +0700"
-      },
-      {
-        "title": "Thị giá DMX giảm 18% từ đỉnh, sếp Điện Máy Xanh đăng ký mua cổ phiếu",
-        "link": "https://cafef.vn/thi-gia-dmx-bay-18-tu-dinh-sep-dien-may-xanh-dang-ky-mua-co-phieu-188260914235758906.chn",
-        "published": "Tue, 15 Sep 26 00:08:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Hundreds march in Toronto against Carney’s investment summit",
+        "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
+        "published": "2026-09-15 03:48:44"
+      },
+      {
+        "title": "Pictet’s global multi-asset fund triples to $5 billion on China inflows",
+        "link": "https://www.investing.com/news/economy-news/pictets-global-multiasset-fund-triples-to-5-billion-on-china-inflows-4900756",
+        "published": "2026-09-15 03:36:43"
+      },
+      {
         "title": "China’s factories rev up but slower consumption highlights deepening economic imbalances",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
         "published": "2026-09-15 03:18:49"
-      },
-      {
-        "title": "Hundreds march in Toronto against Carney’s investment summit",
-        "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
-        "published": "2026-09-15 02:49:09"
       },
       {
         "title": "Japan to sidestep funding in tax cut outline, keep fiscal concern alive",
@@ -123,11 +128,6 @@
         "title": "Asian shares waver as oil and yields rise ahead of Fed, BOJ meetings",
         "link": "https://www.investing.com/news/economy-news/asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings-4900725",
         "published": "2026-09-15 01:54:46"
-      },
-      {
-        "title": "Fed’s table is set for a rate hike, a first under Warsh",
-        "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
-        "published": "2026-09-15 00:56:05"
       }
     ]
   }
