@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T00:12:56.834731",
+  "fetched_at": "2026-09-15T00:46:00.791961",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Tăng trưởng kinh tế có phải là giải pháp cho khối nợ công 40 nghìn tỷ USD của Mỹ?",
+        "link": "https://vneconomy.vn/tang-truong-kinh-te-co-phai-la-giai-phap-cho-khoi-no-cong-40-nghin-ty-usd-cua-my.htm",
+        "published": "Tue, 15 Sep 2026 00:33:52 GMT"
+      },
+      {
+        "title": "Giá vàng rơi xuống mức thấp nhất 1 tháng vì mối lo Fed tăng lãi suất",
+        "link": "https://vneconomy.vn/gia-vang-roi-xuong-muc-thap-nhat-1-thang-vi-moi-lo-fed-tang-lai-suat.htm",
+        "published": "Tue, 15 Sep 2026 00:33:45 GMT"
+      },
+      {
         "title": "Rủi ro đối với thị trường trái phiếu kho bạc Mỹ nếu Fed không tăng lãi suất",
         "link": "https://vneconomy.vn/rui-ro-doi-voi-thi-truong-trai-phieu-kho-bac-my-neu-fed-khong-tang-lai-suat.htm",
         "published": "Mon, 14 Sep 2026 13:20:44 GMT"
@@ -54,16 +64,6 @@
         "title": "Bảo Tín Mạnh Hải ra mắt Kim Gia Bảo Gift - Quà tặng từ vàng 24K độc đáo",
         "link": "https://vneconomy.vn/bao-tin-manh-hai-ra-mat-kim-gia-bao-gift-qua-tang-tu-vang-24k-doc-dao.htm",
         "published": "Mon, 14 Sep 2026 08:53:57 GMT"
-      },
-      {
-        "title": "Giá USD ngân hàng rục rịch tăng từ vùng thấp",
-        "link": "https://vneconomy.vn/gia-usd-ngan-hang-ruc-rich-tang-tu-vung-thap.htm",
-        "published": "Mon, 14 Sep 2026 08:36:47 GMT"
-      },
-      {
-        "title": "Hai câu hỏi lớn về cuộc họp tuần này của Fed",
-        "link": "https://vneconomy.vn/hai-cau-hoi-lon-ve-cuoc-hop-tuan-nay-cua-fed.htm",
-        "published": "Mon, 14 Sep 2026 03:55:37 GMT"
       }
     ],
     "Vietstock": [
@@ -102,7 +102,7 @@
       {
         "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
         "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-        "published": "2026-09-14 23:18:49"
+        "published": "2026-09-15 00:12:26"
       },
       {
         "title": "Trump’s mail-in voting restrictions blocked by a second judge",
