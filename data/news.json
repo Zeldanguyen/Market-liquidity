@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T11:09:32.896351",
+  "fetched_at": "2026-09-15T11:40:45.132669",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil’s top court to decide on unprecedented probe of sitting justice",
+        "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
+        "published": "2026-09-15 11:18:32"
+      },
+      {
         "title": "Polish interest rates likely to remain steady for two quarters, Dabrowski says",
         "link": "https://www.investing.com/news/economy-news/polish-interest-rates-likely-to-remain-steady-for-two-quarters-dabrowski-says-93CH-4901251",
         "published": "2026-09-15 10:43:19"
@@ -123,11 +128,6 @@
         "title": "Is the BoE’s rate-cut cycle giving way to hikes?",
         "link": "https://www.investing.com/news/economy-news/is-the-boes-ratecut-cycle-giving-way-to-hikes-4901096",
         "published": "2026-09-15 09:39:30"
-      },
-      {
-        "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
-        "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
-        "published": "2026-09-15 09:31:12"
       }
     ]
   }
