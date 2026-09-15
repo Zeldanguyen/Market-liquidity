@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-15T09:44:28.040636",
+  "fetched_at": "2026-09-15T10:10:18.476331",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Phó Tổng Giám đốc Chứng khoán Hòa Bình không bán cổ phiếu như đăng ký",
+        "link": "https://cafef.vn/pho-tong-giam-doc-chung-khoan-hoa-binh-khong-ban-co-phieu-nhu-dang-ky-188260915153558841.chn",
+        "published": "Tue, 15 Sep 26 16:43:00 +0700"
+      },
+      {
+        "title": "VN-Index trước phép thử Fed và nghịch lý dòng vốn tuần nâng hạng",
+        "link": "https://cafef.vn/vn-index-truoc-phep-thu-fed-va-nghich-ly-dong-von-tuan-nang-hang-18826091515543632.chn",
+        "published": "Tue, 15 Sep 26 16:41:00 +0700"
+      },
       {
         "title": "Hàn Quốc kéo dài thời gian giao dịch chứng khoán đến gần đêm",
         "link": "https://cafef.vn/han-quoc-keo-dai-thoi-gian-giao-dich-chung-khoan-den-gan-dem-18826091516355501.chn",
@@ -22,16 +32,6 @@
         "title": "Khối ngoại tiếp tục \"gom hàng\" trong phiên VN-Index tăng 22 điểm, một cổ phiếu ngân hàng được rót hơn 200 tỷ đồng",
         "link": "https://cafef.vn/khoi-ngoai-tiep-tuc-gom-hang-trong-phien-vn-index-tang-22-diem-mot-co-phieu-ngan-hang-duoc-rot-hon-200-ty-dong-18826091515224027.chn",
         "published": "Tue, 15 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Ông Đặng Phan Tường bị khởi tố, doanh nghiệp phát thông báo mới",
-        "link": "https://cafef.vn/ong-dang-phan-truong-bi-khoi-to-doanh-nghiep-phat-thong-bao-moi-188260915150505817.chn",
-        "published": "Tue, 15 Sep 26 15:09:00 +0700"
-      },
-      {
-        "title": "GELEX lên tiếng về vụ việc ông Đặng Phan Tường, cổ phiếu liên quan đồng loạt tăng mạnh",
-        "link": "https://cafef.vn/gelex-len-tieng-ve-vu-viec-ong-dang-phan-tuong-co-phieu-lien-quan-dong-loat-tang-manh-188260915130606402.chn",
-        "published": "Tue, 15 Sep 26 13:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Stocks wobble but no sign of panic as yields surge",
+        "link": "https://www.investing.com/news/economy-news/stocks-wobble-but-no-sign-of-panic-as-yields-surge-4901104",
+        "published": "2026-09-15 09:54:32"
+      },
+      {
+        "title": "European shares slip as banks drag, oil-driven inflation fears weigh",
+        "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
+        "published": "2026-09-15 09:48:25"
+      },
+      {
+        "title": "Is the BoE’s rate-cut cycle giving way to hikes?",
+        "link": "https://www.investing.com/news/economy-news/is-the-boes-ratecut-cycle-giving-way-to-hikes-4901096",
+        "published": "2026-09-15 09:39:30"
+      },
+      {
         "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
         "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
         "published": "2026-09-15 09:31:12"
@@ -113,21 +128,6 @@
         "title": "UK jobs market stays soft before BoE rate call",
         "link": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
         "published": "2026-09-15 09:18:29"
-      },
-      {
-        "title": "Bank of England set to halt long-term gilt sales amid bond sell-off - report",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-set-to-halt-longterm-gilt-sales-amid-bond-selloff--report-4901020",
-        "published": "2026-09-15 09:15:46"
-      },
-      {
-        "title": "Canadian home sales fall in August as economic uncertainty grows",
-        "link": "https://www.investing.com/news/economy-news/canadian-home-sales-fall-in-august-as-economic-uncertainty-grows-4901004",
-        "published": "2026-09-15 09:06:57"
-      },
-      {
-        "title": "Wall St futures slip as rising oil, Treasury yields compound AI anxiety",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-slip-as-rising-oil-treasury-yields-compound-ai-anxiety-4900995",
-        "published": "2026-09-15 09:00:50"
       }
     ]
   }
