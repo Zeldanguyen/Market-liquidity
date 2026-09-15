@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T07:42:16.718689",
+  "fetched_at": "2026-09-15T08:11:08.955655",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 15/09: Nhóm ngân hàng, dầu khí duy trì sự dẫn dắt",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1509-nhom-ngan-hang-dau-khi-duy-tri-su-dan-dat-1636-1492386.htm",
+        "published": "Tue, 15 Sep 2026 14:32:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 15/09: MACD tiếp tục suy yếu",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1509-macd-tiep-tuc-suy-yeu-585-1492437.htm",
         "published": "Tue, 15 Sep 2026 13:04:13 +0700"
@@ -91,14 +96,19 @@
         "title": "Cổ phiếu dầu khí, nhựa có tuần hút tiền",
         "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-nhua-co-tuan-hut-tien-830-1492048.htm",
         "published": "Mon, 14 Sep 2026 20:30:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 14/09: Khối ngoại mua ròng trên 800 tỷ, tự doanh giao dịch cân bằng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1409-khoi-ngoai-mua-rong-tren-800-ty-tu-doanh-giao-dich-can-bang-830-1492261.htm",
-        "published": "Mon, 14 Sep 2026 19:14:53 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move",
+        "link": "https://www.investing.com/news/economy-news/morgan-stanley-turns-more-hawkish-forecasts-two-fed-hikes-and-ecb-move-4900912",
+        "published": "2026-09-15 07:42:27"
+      },
+      {
+        "title": "UK jobs market stays soft before BoE rate call",
+        "link": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
+        "published": "2026-09-15 07:30:26"
+      },
       {
         "title": "Europe shares slip as banks drag, oil-driven inflation fears weigh",
         "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
@@ -115,19 +125,9 @@
         "published": "2026-09-15 06:49:31"
       },
       {
-        "title": "UK jobs market stays soft before BoE rate call",
-        "link": "https://www.investing.com/news/economy-news/uk-wages-grow-by-35-in-three-months-to-july-4900812",
-        "published": "2026-09-15 06:36:48"
-      },
-      {
         "title": "High mortgage rates to keep US housing market revival elusive: Reuters poll",
         "link": "https://www.investing.com/news/economy-news/high-mortgage-rates-to-keep-us-housing-market-revival-elusive-reuters-poll-4900844",
         "published": "2026-09-15 06:25:09"
-      },
-      {
-        "title": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
-        "link": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
-        "published": "2026-09-15 06:00:29"
       }
     ]
   }
