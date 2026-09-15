@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T01:41:48.952579",
+  "fetched_at": "2026-09-15T02:11:05.953078",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giới chuyên gia kinh tế dự báo Fed tăng lãi suất ít nhất 2 lần từ nay đến cuối quý 1/2027",
+        "link": "https://vneconomy.vn/gioi-chuyen-gia-kinh-te-du-bao-fed-tang-lai-suat-it-nhat-2-lan-tu-nay-den-cuoi-quy-12027.htm",
+        "published": "Tue, 15 Sep 2026 01:48:52 GMT"
+      },
+      {
         "title": "Tăng trưởng kinh tế có phải là giải pháp cho khối nợ công 40 nghìn tỷ USD của Mỹ?",
         "link": "https://vneconomy.vn/tang-truong-kinh-te-co-phai-la-giai-phap-cho-khoi-no-cong-40-nghin-ty-usd-cua-my.htm",
         "published": "Tue, 15 Sep 2026 00:33:52 GMT"
@@ -59,11 +64,6 @@
         "title": "BIDV tiếp dòng tài chính, cùng khách hàng tiếp nối thành tựu",
         "link": "https://vneconomy.vn/bidv-tiep-dong-tai-chinh-cung-khach-hang-tiep-noi-thanh-tuu.htm",
         "published": "Mon, 14 Sep 2026 11:43:26 GMT"
-      },
-      {
-        "title": "Bảo Tín Mạnh Hải ra mắt Kim Gia Bảo Gift - Quà tặng từ vàng 24K độc đáo",
-        "link": "https://vneconomy.vn/bao-tin-manh-hai-ra-mat-kim-gia-bao-gift-qua-tang-tu-vang-24k-doc-dao.htm",
-        "published": "Mon, 14 Sep 2026 08:53:57 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar near two-week high as oil surge lifts yields, Fed hike bets",
+        "link": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-oil-surge-lifts-yields-fed-hike-bets-4900729",
+        "published": "2026-09-15 02:00:28"
+      },
+      {
+        "title": "Asian shares waver as oil and yields rise ahead of Fed, BOJ meetings",
+        "link": "https://www.investing.com/news/economy-news/asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings-4900725",
+        "published": "2026-09-15 01:54:46"
+      },
+      {
         "title": "Fed’s table is set for a rate hike, a first under Warsh",
         "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
         "published": "2026-09-15 00:56:05"
@@ -118,16 +128,6 @@
         "title": "Explainer-US Treasury yields are rising - why does it matter?",
         "link": "https://www.investing.com/news/economy-news/explainerus-treasury-yields-are-rising--why-does-it-matter-4899965",
         "published": "2026-09-14 22:25:32"
-      },
-      {
-        "title": "Five spots to watch as the bond market hits 5%",
-        "link": "https://www.investing.com/news/economy-news/five-spots-to-watch-as-the-bond-market-hits-5-4900109",
-        "published": "2026-09-14 22:19:57"
-      },
-      {
-        "title": "US 10-year yields reach 5%, highest since 2023",
-        "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
-        "published": "2026-09-14 22:18:57"
       }
     ]
   }
