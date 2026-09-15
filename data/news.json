@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T17:38:53.208488",
+  "fetched_at": "2026-09-15T18:10:04.164070",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+        "published": "2026-09-15 17:48:37"
+      },
+      {
+        "title": "Hundreds march in Toronto against Carney’s investment summit",
+        "link": "https://www.investing.com/news/economy-news/hundreds-march-in-toronto-against-carneys-investment-summit-4900750",
+        "published": "2026-09-15 17:42:55"
+      },
+      {
+        "title": "Russia warns US orbital weapons threaten space stability",
+        "link": "https://www.investing.com/news/economy-news/russia-warns-us-orbital-weapons-threaten-space-stability-93CH-4902353",
+        "published": "2026-09-15 17:39:40"
+      },
+      {
         "title": "OpenAI explores Canada investment opportunities under Carney",
         "link": "https://www.investing.com/news/economy-news/openai-explores-canada-investment-opportunities-under-carney-4902348",
         "published": "2026-09-15 17:29:38"
-      },
-      {
-        "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-        "published": "2026-09-15 17:24:49"
       },
       {
         "title": "Bessent calls US yen intervention \"nominal,\" defends trade",
@@ -118,16 +128,6 @@
         "title": "Revolut wins Colombia bank license, targeting 2027 launch",
         "link": "https://www.investing.com/news/economy-news/revolut-wins-colombia-bank-license-targeting-2027-launch-4902334",
         "published": "2026-09-15 17:12:53"
-      },
-      {
-        "title": "French central bank trims growth outlook as demand softens",
-        "link": "https://www.investing.com/news/economy-news/french-central-bank-trims-growth-outlook-as-demand-softens-4902305",
-        "published": "2026-09-15 16:42:38"
-      },
-      {
-        "title": "European shares hit three-month low as oil spike revives inflation and rate worries",
-        "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
-        "published": "2026-09-15 16:37:30"
       }
     ]
   }
