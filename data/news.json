@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-15T00:46:00.791961",
+  "fetched_at": "2026-09-15T01:10:28.512080",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
-        "title": "Thị giá DMX \"bay\" 18% từ đỉnh, sếp Điện Máy Xanh đăng ký mua cổ phiếu",
+        "title": "Thị giá DMX giảm 18% từ đỉnh, sếp Điện Máy Xanh đăng ký mua cổ phiếu",
         "link": "https://cafef.vn/thi-gia-dmx-bay-18-tu-dinh-sep-dien-may-xanh-dang-ky-mua-co-phieu-188260914235758906.chn",
         "published": "Tue, 15 Sep 26 00:08:00 +0700"
       },
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed’s table is set for a rate hike, a first under Warsh",
+        "link": "https://www.investing.com/news/economy-news/feds-table-is-set-for-a-rate-hike-a-first-underwarsh-4899062",
+        "published": "2026-09-15 00:56:05"
+      },
+      {
         "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
         "link": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
         "published": "2026-09-15 00:12:26"
@@ -123,11 +128,6 @@
         "title": "US 10-year yields reach 5%, highest since 2023",
         "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
         "published": "2026-09-14 22:18:57"
-      },
-      {
-        "title": "Canada’s inflation picture is getting complicated — what analysts see ahead",
-        "link": "https://www.investing.com/news/economy-news/canadas-inflation-picture-is-getting-complicated--what-analysts-see-ahead-4900630",
-        "published": "2026-09-14 21:54:10"
       }
     ]
   }
