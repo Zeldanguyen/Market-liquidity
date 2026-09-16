@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T18:43:38.681121",
+  "fetched_at": "2026-09-16T19:08:51.462258",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Robust US retail sales underscore economy’s resilience, inflation pressures building",
+        "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
+        "published": "2026-09-16 18:42:34"
+      },
+      {
         "title": "Fed raises rates for first time since 2023, sees one more hike this year",
         "link": "https://www.investing.com/news/economy-news/fed-hikes-key-policy-rate-by-25-basis-points-as-widely-expected-4904237",
         "published": "2026-09-16 18:25:01"
@@ -123,11 +128,6 @@
         "title": "Stocks wobble but no sign of panic as yields surge",
         "link": "https://www.investing.com/news/economy-news/stocks-wobble-but-no-sign-of-panic-as-yields-surge-4904267",
         "published": "2026-09-16 18:07:14"
-      },
-      {
-        "title": "Fed hikes rates, sees more tightening in search of ’timelier’ drop in inflation",
-        "link": "https://www.investing.com/news/economy-news/fed-hikes-rates-sees-more-tightening-in-search-of-timelier-drop-in-inflation-4904265",
-        "published": "2026-09-16 18:06:52"
       }
     ]
   }
