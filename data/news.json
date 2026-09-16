@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T10:41:17.741921",
+  "fetched_at": "2026-09-16T11:09:51.316192",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
+        "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
+        "published": "2026-09-16 10:24:53"
+      },
+      {
+        "title": "China’s Wang Yi urges Iran and US to show restraint amid tensions",
+        "link": "https://www.investing.com/news/economy-news/chinas-wang-yi-urges-iran-and-us-to-show-restraint-amid-tensions-93CH-4903291",
+        "published": "2026-09-16 10:21:55"
+      },
+      {
+        "title": "Stocks tick up as oil falls, bonds stabilise ahead of Fed decision",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+        "published": "2026-09-16 10:19:54"
+      },
+      {
         "title": "Irish home prices rise 0.8% in July, fastest monthly gain in a year",
         "link": "https://www.investing.com/news/economy-news/irish-home-prices-rise-08-in-july-fastest-monthly-gain-in-a-year-93CH-4903281",
         "published": "2026-09-16 10:15:48"
@@ -110,24 +125,9 @@
         "published": "2026-09-16 10:13:30"
       },
       {
-        "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
-        "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
-        "published": "2026-09-16 10:07:05"
-      },
-      {
         "title": "UK inflation hits 3.1% but data offers some relief for BoE",
         "link": "https://www.investing.com/news/economy-news/uk-inflation-speeds-up-to-31-in-august-4902906",
         "published": "2026-09-16 09:54:45"
-      },
-      {
-        "title": "EU’s von der Leyen backs AI slowdown, to invite frontier labs for talks",
-        "link": "https://www.investing.com/news/economy-news/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks-4903012",
-        "published": "2026-09-16 09:31:30"
-      },
-      {
-        "title": "Wall St futures edge higher in countdown to Fed decision",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-edge-higher-in-countdown-to-fed-decision-4903179",
-        "published": "2026-09-16 09:12:30"
       }
     ]
   }
