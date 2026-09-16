@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T12:11:46.790923",
+  "fetched_at": "2026-09-16T12:44:52.665342",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VPS năm thứ ba liên tiếp dẫn đầu ngành chứng khoán về nộp ngân sách Nhà nước",
+        "link": "https://cafef.vn/vps-nam-thu-ba-lien-tiep-dan-dau-nganh-chung-khoan-ve-nop-ngan-sach-nha-nuoc-188260916191812674.chn",
+        "published": "Wed, 16 Sep 26 19:30:00 +0700"
+      },
       {
         "title": "Chứng khoán 'nín thở' trước tin quan trọng",
         "link": "https://cafef.vn/chung-khoan-nin-tho-truoc-tin-quan-trong-188260916185945509.chn",
@@ -27,11 +32,6 @@
         "title": "Meey Global Corp thông báo nộp hồ sơ đăng ký chứng khoán lên SEC",
         "link": "https://cafef.vn/meey-global-corp-thong-bao-nop-ho-so-dang-ky-chung-khoan-len-sec-188260916163930154.chn",
         "published": "Wed, 16 Sep 26 16:39:00 +0700"
-      },
-      {
-        "title": "Ông Trần Quí Thanh muốn làm dự án khu công nghiệp 800ha tại TP.HCM",
-        "link": "https://cafef.vn/ong-tran-qui-thanh-muon-lam-du-an-khu-cong-nghiep-800ha-tai-tphcm-188260916154137518.chn",
-        "published": "Wed, 16 Sep 26 16:38:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Nobel laureate Michael Kremer named World Bank chief economist",
+        "link": "https://www.investing.com/news/economy-news/nobel-laureate-michael-kremer-named-world-bank-chief-economist-93CH-4903679",
+        "published": "2026-09-16 12:32:31"
+      },
+      {
+        "title": "U.S. yields pull back from peaks as desks seek conviction on Fed’s rate path",
+        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
+        "published": "2026-09-16 12:11:30"
+      },
+      {
+        "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
+        "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
+        "published": "2026-09-16 12:07:41"
+      },
+      {
         "title": "Stocks rise as oil falls, bonds steady ahead of Fed decision",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
         "published": "2026-09-16 11:54:31"
@@ -113,21 +128,6 @@
         "title": "Saudi strikes hit Yemen amid rapid Houthi advance - Reuters",
         "link": "https://www.investing.com/news/economy-news/saudi-strikes-hit-yemen-amid-rapid-houthi-advance--reuters-4903507",
         "published": "2026-09-16 11:41:37"
-      },
-      {
-        "title": "Dollar bides time ahead of expected Fed hike",
-        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
-        "published": "2026-09-16 11:36:33"
-      },
-      {
-        "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
-        "link": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
-        "published": "2026-09-16 11:25:07"
-      },
-      {
-        "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
-        "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
-        "published": "2026-09-16 11:18:40"
       }
     ]
   }
