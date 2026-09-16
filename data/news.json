@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-16T03:09:37.611955",
+  "fetched_at": "2026-09-16T03:41:31.369633",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tỷ phú Trần Đình Long đầu tư vào xe điện",
+        "link": "https://cafef.vn/ty-phu-tran-dinh-long-dau-tu-vao-xe-dien-188260916102555498.chn",
+        "published": "Wed, 16 Sep 26 10:25:00 +0700"
+      },
+      {
+        "title": "Giá vàng giảm sâu, loạt \"cá mập\" mạnh tay gom hàng",
+        "link": "https://cafef.vn/gia-vang-giam-sau-loat-ca-map-manh-tay-gom-hang-188260916101741326.chn",
+        "published": "Wed, 16 Sep 26 10:21:00 +0700"
+      },
+      {
+        "title": "Công ty chứng khoán gặp sự cố đặt lệnh trong 1 tiếng",
+        "link": "https://cafef.vn/cong-ty-chung-khoan-gap-su-co-dat-lenh-trong-1-tieng-188260916101836332.chn",
+        "published": "Wed, 16 Sep 26 10:18:00 +0700"
+      },
       {
         "title": "DNSE - Khi tăng trưởng không chỉ được đo bằng doanh thu và lợi nhuận",
         "link": "https://cafef.vn/dnse-khi-tang-truong-khong-chi-duoc-do-bang-doanh-thu-va-loi-nhuan-18826091522515998.chn",
@@ -17,21 +32,6 @@
         "title": "Từ New York, London đến Seoul đều muốn dòng tiền không ngủ, chứng khoán Việt Nam đang ở đâu?",
         "link": "https://cafef.vn/tu-new-york-london-den-seoul-deu-muon-dong-tien-khong-ngu-chung-khoan-viet-nam-dang-o-dau-188260915232802235.chn",
         "published": "Wed, 16 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Vừa bán sạch PNJ một tháng trước, hai quỹ do Dragon Capital quản lý bất ngờ ‘quay xe’ mua lại",
-        "link": "https://cafef.vn/vua-ban-sach-pnj-mot-thang-truoc-hai-quy-do-dragon-capital-quan-ly-bat-ngo-quay-xe-mua-lai-188260915233511938.chn",
-        "published": "Wed, 16 Sep 26 00:04:00 +0700"
-      },
-      {
-        "title": "Khối ngoại trở lại trước giờ G, cổ phiếu nào được săn đón nhất?",
-        "link": "https://cafef.vn/khoi-ngoai-tro-lai-truoc-gio-g-co-phieu-nao-duoc-san-don-nhat-188260915222045387.chn",
-        "published": "Wed, 16 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Nhà máy lọc dầu 3 tỷ USD của Việt Nam có \"tin vui\"",
-        "link": "https://cafef.vn/nha-may-loc-dau-3-ty-usd-cua-viet-nam-co-tin-vui-188260915220432192.chn",
-        "published": "Wed, 16 Sep 26 00:02:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Sóng bank chạy mô hình chữ “K”, chất lượng tài sản đã phản ánh đủ?",
+        "link": "http://vietstock.vn/2026/09/song-bank-chay-mo-hinh-chu-k-chat-luong-tai-san-da-phan-anh-du-830-1492743.htm",
+        "published": "Wed, 16 Sep 2026 09:46:31 +0700"
+      },
+      {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 16/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1609-830-1492616.htm",
         "published": "Wed, 16 Sep 2026 08:00:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Vietstock Daily 16/09/2026: Phục hồi trở lại",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-16092026-phuc-hoi-tro-lai-1636-1492619.htm",
         "published": "Tue, 15 Sep 2026 18:16:58 +0700"
-      },
-      {
-        "title": "VNT giải trình cổ phiếu tăng trần 5 phiên liên tiếp",
-        "link": "http://vietstock.vn/2026/09/vnt-giai-trinh-co-phieu-tang-tran-5-phien-lien-tiep-830-1492517.htm",
-        "published": "Tue, 15 Sep 2026 17:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
