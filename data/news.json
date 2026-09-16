@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T22:08:57.857891",
+  "fetched_at": "2026-09-16T22:39:32.712948",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Brazil central bank cuts rates for fifth straight meeting",
+        "title": "Trump administration can proceed with homelessness program overhaul, US court rules",
+        "link": "https://www.investing.com/news/economy-news/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-rules-4904643",
+        "published": "2026-09-16 22:12:53"
+      },
+      {
+        "title": "Brazil central bank delivers fifth straight rate cut, leaves next move open",
         "link": "https://www.investing.com/news/economy-news/brazil-central-bank-cuts-rates-for-fifth-straight-meeting-4904608",
-        "published": "2026-09-16 21:42:35"
+        "published": "2026-09-16 22:02:06"
       },
       {
         "title": "Judge in Kennedy Center case orders Trump administration to explain closure plans",
@@ -123,11 +128,6 @@
         "title": "Major US banks raise prime lending rate after Fed hike",
         "link": "https://www.investing.com/news/economy-news/major-us-banks-raise-prime-lending-rate-after-fed-hike-93CH-4904586",
         "published": "2026-09-16 21:18:44"
-      },
-      {
-        "title": "Fed policymakers forecast one more rate hike this year",
-        "link": "https://www.investing.com/news/economy-news/fed-forecasts-see-latest-hike-followed-by-another-before-end-of-year-4904264",
-        "published": "2026-09-16 21:12:35"
       }
     ]
   }
