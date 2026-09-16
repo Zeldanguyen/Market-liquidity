@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T13:11:08.982410",
+  "fetched_at": "2026-09-16T13:41:30.649833",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một công ty quản lý quỹ bị xử phạt do vi phạm công bố thông tin",
+        "link": "https://cafef.vn/mot-cong-ty-quan-ly-quy-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260916203508002.chn",
+        "published": "Wed, 16 Sep 26 20:35:00 +0700"
+      },
       {
         "title": "VPS năm thứ ba liên tiếp dẫn đầu ngành chứng khoán về nộp ngân sách Nhà nước",
         "link": "https://cafef.vn/vps-nam-thu-ba-lien-tiep-dan-dau-nganh-chung-khoan-ve-nop-ngan-sach-nha-nuoc-188260916191812674.chn",
@@ -27,14 +32,14 @@
         "title": "Cổ phiếu SSB tăng 48% trong chưa đầy 1 tháng: Dòng tiền nào đứng sau?",
         "link": "https://cafef.vn/co-phieu-ssb-tang-48-trong-chua-day-1-thang-dong-tien-nao-dung-sau-188260916164435557.chn",
         "published": "Wed, 16 Sep 26 16:44:00 +0700"
-      },
-      {
-        "title": "Meey Global Corp thông báo nộp hồ sơ đăng ký chứng khoán lên SEC",
-        "link": "https://cafef.vn/meey-global-corp-thong-bao-nop-ho-so-dang-ky-chung-khoan-len-sec-188260916163930154.chn",
-        "published": "Wed, 16 Sep 26 16:39:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Từng vỡ nợ, Hy Lạp bây giờ đi vay với lãi suất còn thấp hơn cả Pháp",
+        "link": "https://vneconomy.vn/tung-vo-no-hy-lap-bay-gio-di-vay-voi-lai-suat-con-thap-hon-ca-phap.htm",
+        "published": "Wed, 16 Sep 2026 13:12:51 GMT"
+      },
       {
         "title": "MB: Đóng góp vào ngân sách tăng 110% sau 5 năm",
         "link": "https://vneconomy.vn/mb-dong-gop-vao-ngan-sach-tang-110-sau-5-nam.htm",
@@ -59,11 +64,6 @@
         "title": "Thị trường trái phiếu chính phủ toàn cầu bán tháo, lợi suất cao nhất từ khủng hoảng tài chính",
         "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-ban-thao-loi-suat-cao-nhat-tu-khung-hoang-tai-chinh.htm",
         "published": "Wed, 16 Sep 2026 03:09:33 GMT"
-      },
-      {
-        "title": "[Bài 1] Doanh nghiệp “chết lâm sàng”: Gian nan làm thủ tục giải thể",
-        "link": "https://vneconomy.vn/bai-1-doanh-nghiep-chet-lam-sang-gian-nan-lam-thu-tuc-giai-the.htm",
-        "published": "Wed, 16 Sep 2026 02:49:19 GMT"
       }
     ],
     "Vietstock": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US import prices jump in August on strength in capital, consumer goods",
+        "link": "https://www.investing.com/news/economy-news/us-import-prices-jump-in-august-on-strength-in-capital-consumer-goods-4903830",
+        "published": "2026-09-16 13:12:26"
+      },
+      {
         "title": "China’s Huawei forecasts billions of agents will dominate AI traffic by 2035",
         "link": "https://www.investing.com/news/economy-news/chinas-huawei-forecasts-billions-of-agents-will-dominate-ai-traffic-by-2035-4903756",
-        "published": "2026-09-16 12:54:33"
+        "published": "2026-09-16 13:00:40"
       },
       {
         "title": "US retail sales rebound sharply in August",
@@ -123,11 +128,6 @@
         "title": "Nobel laureate Michael Kremer named World Bank chief economist",
         "link": "https://www.investing.com/news/economy-news/nobel-laureate-michael-kremer-named-world-bank-chief-economist-93CH-4903679",
         "published": "2026-09-16 12:32:31"
-      },
-      {
-        "title": "U.S. yields pull back from peaks as desks seek conviction on Fed’s rate path",
-        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
-        "published": "2026-09-16 12:11:30"
       }
     ]
   }
