@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T04:41:44.255572",
+  "fetched_at": "2026-09-16T05:09:09.414739",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -29,7 +29,7 @@
         "published": "Wed, 16 Sep 26 10:42:00 +0700"
       },
       {
-        "title": "Tỷ phú Trần Đình Long đầu tư vào xe điện",
+        "title": "Tỷ phú Trần Đình Long mua lô xe, thiết bị sử dụng điện tại khu liên hợp thép Dung Quất 7 tỷ USD",
         "link": "https://cafef.vn/ty-phu-tran-dinh-long-dau-tu-vao-xe-dien-188260916102555498.chn",
         "published": "Wed, 16 Sep 26 10:25:00 +0700"
       }
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar girded by bets on a US hiking cycle",
+        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
+        "published": "2026-09-16 04:54:52"
+      },
+      {
+        "title": "Morning Bid: Warsh on collision course with Trump administration",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-warsh-on-collision-course-with-trump-administration-4902874",
+        "published": "2026-09-16 04:42:25"
+      },
+      {
         "title": "Hong Kong unveils first five-year plan to add jobs, homes, align closer to mainland China",
         "link": "https://www.investing.com/news/economy-news/hong-kong-unveils-first-fiveyear-plan-to-add-jobs-homes-align-closer-to-mainland-china-4902872",
         "published": "2026-09-16 04:30:52"
@@ -118,16 +128,6 @@
         "title": "Asian markets brittle ahead of Fed decision, oil slips",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
         "published": "2026-09-16 03:36:28"
-      },
-      {
-        "title": "Sydney housing slump creates pandemic-sized hole in state tax take",
-        "link": "https://www.investing.com/news/economy-news/sydney-housing-slump-creates-pandemicsized-hole-in-state-tax-take-4902859",
-        "published": "2026-09-16 03:36:13"
-      },
-      {
-        "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
-        "link": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
-        "published": "2026-09-16 02:48:26"
       }
     ]
   }
