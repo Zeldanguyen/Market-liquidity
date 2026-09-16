@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T17:39:42.376888",
+  "fetched_at": "2026-09-16T18:10:50.327976",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed raises rates for first time since 2023, sees one more hike this year",
+        "link": "https://www.investing.com/news/economy-news/fed-hikes-key-policy-rate-by-25-basis-points-as-widely-expected-4904237",
+        "published": "2026-09-16 18:05:15"
+      },
+      {
         "title": "SEC proposes to end shareholder vote oversight, a blow to reformers",
         "link": "https://www.investing.com/news/economy-news/sec-proposes-to-end-shareholder-vote-oversight-a-blow-to-reformers-4904187",
-        "published": "2026-09-16 17:24:49"
+        "published": "2026-09-16 17:54:47"
+      },
+      {
+        "title": "Bessent says US open to discussing shared AI risks with China, Axios reports",
+        "link": "https://www.investing.com/news/economy-news/bessent-says-us-open-to-discussing-shared-ai-risks-with-china-axios-reports-4904236",
+        "published": "2026-09-16 17:54:33"
+      },
+      {
+        "title": "Treasury convenes banks to advance Iran financial isolation push",
+        "link": "https://www.investing.com/news/economy-news/treasury-convenes-banks-to-advance-iran-financial-isolation-push-93CH-4904234",
+        "published": "2026-09-16 17:45:27"
+      },
+      {
+        "title": "Bank of Canada saw elevated inflation risks at September meeting, minutes show",
+        "link": "https://www.investing.com/news/economy-news/bank-of-canada-saw-elevated-inflation-risks-at-september-meeting-minutes-show-4904226",
+        "published": "2026-09-16 17:35:49"
       },
       {
         "title": "European shares rise as oil pauses ahead of Fed rate decision",
         "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-rally-pauses-all-eyes-on-fed-4902994",
-        "published": "2026-09-16 17:12:47"
-      },
-      {
-        "title": "Dollar holds near two-week high ahead of Fed decision",
-        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
-        "published": "2026-09-16 17:00:33"
-      },
-      {
-        "title": "Meloni says she plans to stay in office until term ends",
-        "link": "https://www.investing.com/news/economy-news/meloni-says-she-plans-to-stay-in-office-until-term-ends-93CH-4904195",
-        "published": "2026-09-16 16:55:08"
-      },
-      {
-        "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
-        "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
-        "published": "2026-09-16 16:48:38"
-      },
-      {
-        "title": "Calls to slow AI benefit US sector leaders, says French finance minister",
-        "link": "https://www.investing.com/news/economy-news/calls-to-slow-down-ai-development-serve-the-interests-of-us-ai-leaders-says-french-finance-minister-4904096",
-        "published": "2026-09-16 16:37:14"
+        "published": "2026-09-16 17:31:14"
       }
     ]
   }
