@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T09:41:29.149054",
+  "fetched_at": "2026-09-16T10:09:44.843399",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu SSB tăng 48% trong chưa đầy 1 tháng: Dòng tiền nào đứng sau?",
+        "link": "https://cafef.vn/co-phieu-ssb-tang-48-trong-chua-day-1-thang-dong-tien-nao-dung-sau-188260916164435557.chn",
+        "published": "Wed, 16 Sep 26 16:44:00 +0700"
+      },
       {
         "title": "Meey Global Corp thông báo nộp hồ sơ đăng ký chứng khoán lên SEC",
         "link": "https://cafef.vn/meey-global-corp-thong-bao-nop-ho-so-dang-ky-chung-khoan-len-sec-188260916163930154.chn",
@@ -27,11 +32,6 @@
         "title": "Áp lực nguồn vốn, nhiều ngân hàng đẩy mạnh phát hành giấy tờ có giá",
         "link": "https://cafef.vn/ap-luc-nguon-von-nhieu-ngan-hang-day-manh-phat-hanh-giay-to-co-gia-188260916154251385.chn",
         "published": "Wed, 16 Sep 26 15:42:00 +0700"
-      },
-      {
-        "title": "CEO Kafi: “Sau giai đoạn xây nền tảng, Kafi bước vào bài toán tăng trưởng bằng hiệu quả”",
-        "link": "https://cafef.vn/ceo-kafi-sau-giai-doan-xay-nen-tang-kafi-buoc-vao-bai-toan-tang-truong-bang-hieu-qua-188260916143058465.chn",
-        "published": "Wed, 16 Sep 26 15:30:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -102,7 +102,7 @@
       {
         "title": "EU’s von der Leyen backs AI slowdown, to invite frontier labs for talks",
         "link": "https://www.investing.com/news/economy-news/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks-4903012",
-        "published": "2026-09-16 09:18:34"
+        "published": "2026-09-16 09:31:30"
       },
       {
         "title": "Wall St futures edge higher in countdown to Fed decision",
