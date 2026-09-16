@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T12:44:52.665342",
+  "fetched_at": "2026-09-16T13:11:08.982410",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Theo dấu dòng tiền cá mập 16/09: Khối ngoại và tự doanh cùng mua ròng",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1609-khoi-ngoai-va-tu-doanh-cung-mua-rong-830-1493102.htm",
+        "published": "Wed, 16 Sep 2026 19:27:00 +0700"
+      },
+      {
         "title": "Vietstock Daily 17/09/2026: Giằng co trong thận trọng",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-17092026-giang-co-trong-than-trong-1636-1493000.htm",
         "published": "Wed, 16 Sep 2026 18:17:00 +0700"
@@ -91,14 +96,29 @@
         "title": "Sóng bank chạy mô hình chữ “K”, chất lượng tài sản đã phản ánh đủ?",
         "link": "http://vietstock.vn/2026/09/song-bank-chay-mo-hinh-chu-k-chat-luong-tai-san-da-phan-anh-du-830-1492743.htm",
         "published": "Wed, 16 Sep 2026 09:46:31 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 16/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1609-830-1492616.htm",
-        "published": "Wed, 16 Sep 2026 08:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "China’s Huawei forecasts billions of agents will dominate AI traffic by 2035",
+        "link": "https://www.investing.com/news/economy-news/chinas-huawei-forecasts-billions-of-agents-will-dominate-ai-traffic-by-2035-4903756",
+        "published": "2026-09-16 12:54:33"
+      },
+      {
+        "title": "US retail sales rebound sharply in August",
+        "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
+        "published": "2026-09-16 12:43:12"
+      },
+      {
+        "title": "Brazil’s July activity falls more than expected ahead of rate decision",
+        "link": "https://www.investing.com/news/economy-news/brazils-july-activity-falls-more-than-expected-ahead-of-rate-decision-4903727",
+        "published": "2026-09-16 12:42:55"
+      },
+      {
+        "title": "Brazil’s economic activity drops 0.2% in July",
+        "link": "https://www.investing.com/news/economy-news/brazils-economic-activity-drops-02-in-july-93CH-4903724",
+        "published": "2026-09-16 12:41:44"
+      },
       {
         "title": "Nobel laureate Michael Kremer named World Bank chief economist",
         "link": "https://www.investing.com/news/economy-news/nobel-laureate-michael-kremer-named-world-bank-chief-economist-93CH-4903679",
@@ -108,26 +128,6 @@
         "title": "U.S. yields pull back from peaks as desks seek conviction on Fed’s rate path",
         "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
         "published": "2026-09-16 12:11:30"
-      },
-      {
-        "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
-        "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
-        "published": "2026-09-16 12:07:41"
-      },
-      {
-        "title": "Stocks rise as oil falls, bonds steady ahead of Fed decision",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-        "published": "2026-09-16 11:54:31"
-      },
-      {
-        "title": "World Bank names Nobel laureate Michael Kremer as next chief economist",
-        "link": "https://www.investing.com/news/economy-news/world-bank-names-nobel-laureate-michael-kremer-as-next-chief-economist-4903428",
-        "published": "2026-09-16 11:42:31"
-      },
-      {
-        "title": "Saudi strikes hit Yemen amid rapid Houthi advance - Reuters",
-        "link": "https://www.investing.com/news/economy-news/saudi-strikes-hit-yemen-amid-rapid-houthi-advance--reuters-4903507",
-        "published": "2026-09-16 11:41:37"
       }
     ]
   }
