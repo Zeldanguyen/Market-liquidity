@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T11:41:40.614783",
+  "fetched_at": "2026-09-16T12:11:46.790923",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán 'nín thở' trước tin quan trọng",
+        "link": "https://cafef.vn/chung-khoan-nin-tho-truoc-tin-quan-trong-188260916185945509.chn",
+        "published": "Wed, 16 Sep 26 18:59:00 +0700"
+      },
       {
         "title": "VinFast Việt Nam nhận khoản tài trợ 200 triệu USD từ 3 định chế tài chính hàng đầu thế giới",
         "link": "https://cafef.vn/vinfast-viet-nam-nhan-khoan-tai-tro-200-trieu-usd-tu-3-dinh-che-tai-chinh-hang-dau-the-gioi-188260916181928503.chn",
@@ -27,11 +32,6 @@
         "title": "Ông Trần Quí Thanh muốn làm dự án khu công nghiệp 800ha tại TP.HCM",
         "link": "https://cafef.vn/ong-tran-qui-thanh-muon-lam-du-an-khu-cong-nghiep-800ha-tai-tphcm-188260916154137518.chn",
         "published": "Wed, 16 Sep 26 16:38:00 +0700"
-      },
-      {
-        "title": "Phiên 16/9: Khối ngoại tiếp đà mua ròng, một cổ phiếu ngân hàng được gom hơn 200 tỷ",
-        "link": "https://cafef.vn/phien-16-9-khoi-ngoai-tiep-da-mua-rong-mot-co-phieu-ngan-hang-duoc-gom-hon-200-ty-188260916155210295.chn",
-        "published": "Wed, 16 Sep 26 16:36:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Vietstock Daily 17/09/2026: Giằng co trong thận trọng",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-17092026-giang-co-trong-than-trong-1636-1493000.htm",
+        "published": "Wed, 16 Sep 2026 18:17:00 +0700"
+      },
+      {
         "title": "Nhịp đập Thị trường 16/09: Tâm lý thận trọng bao trùm, VN-Index tiếp tục rung lắc tại ngưỡng 1,810 điểm",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1609-tam-ly-than-trong-bao-trum-vn-index-tiep-tuc-rung-lac-tai-nguong-1810-diem-1636-1492799.htm",
         "published": "Wed, 16 Sep 2026 16:47:00 +0700"
@@ -91,14 +96,29 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 16/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1609-830-1492616.htm",
         "published": "Wed, 16 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "16/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1609-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492719.htm",
-        "published": "Wed, 16 Sep 2026 06:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Stocks rise as oil falls, bonds steady ahead of Fed decision",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+        "published": "2026-09-16 11:54:31"
+      },
+      {
+        "title": "World Bank names Nobel laureate Michael Kremer as next chief economist",
+        "link": "https://www.investing.com/news/economy-news/world-bank-names-nobel-laureate-michael-kremer-as-next-chief-economist-4903428",
+        "published": "2026-09-16 11:42:31"
+      },
+      {
+        "title": "Saudi strikes hit Yemen amid rapid Houthi advance - Reuters",
+        "link": "https://www.investing.com/news/economy-news/saudi-strikes-hit-yemen-amid-rapid-houthi-advance--reuters-4903507",
+        "published": "2026-09-16 11:41:37"
+      },
+      {
+        "title": "Dollar bides time ahead of expected Fed hike",
+        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
+        "published": "2026-09-16 11:36:33"
+      },
       {
         "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
         "link": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
@@ -108,26 +128,6 @@
         "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
         "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
         "published": "2026-09-16 11:18:40"
-      },
-      {
-        "title": "World Bank names Nobel laureate Michael Kremer as next chief economist",
-        "link": "https://www.investing.com/news/economy-news/world-bank-names-nobel-laureate-michael-kremer-as-next-chief-economist-4903428",
-        "published": "2026-09-16 11:08:05"
-      },
-      {
-        "title": "China’s Wang Yi urges Iran and US to show restraint amid tensions",
-        "link": "https://www.investing.com/news/economy-news/chinas-wang-yi-urges-iran-and-us-to-show-restraint-amid-tensions-93CH-4903291",
-        "published": "2026-09-16 10:21:55"
-      },
-      {
-        "title": "Stocks tick up as oil falls, bonds stabilise ahead of Fed decision",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-        "published": "2026-09-16 10:19:54"
-      },
-      {
-        "title": "Irish home prices rise 0.8% in July, fastest monthly gain in a year",
-        "link": "https://www.investing.com/news/economy-news/irish-home-prices-rise-08-in-july-fastest-monthly-gain-in-a-year-93CH-4903281",
-        "published": "2026-09-16 10:15:48"
       }
     ]
   }
