@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T19:08:51.462258",
+  "fetched_at": "2026-09-16T19:39:14.570103",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Robust US retail sales underscore economy’s resilience, inflation pressures building",
-        "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
-        "published": "2026-09-16 18:42:34"
+        "title": "KeyCorp raises prime rate after Fed decision",
+        "link": "https://www.investing.com/news/economy-news/keycorp-raises-prime-rate-after-fed-decision-4904369",
+        "published": "2026-09-16 19:30:32"
       },
       {
-        "title": "Fed raises rates for first time since 2023, sees one more hike this year",
+        "title": "Fed raises rates for first time since 2023, Warsh says inflation still too high",
         "link": "https://www.investing.com/news/economy-news/fed-hikes-key-policy-rate-by-25-basis-points-as-widely-expected-4904237",
-        "published": "2026-09-16 18:25:01"
+        "published": "2026-09-16 19:16:37"
       },
       {
-        "title": "Markets steady after Fed raises rates, points to another hike this year",
-        "link": "https://www.investing.com/news/economy-news/markets-steady-after-fed-raises-rates-points-to-another-hike-this-year-4904273",
-        "published": "2026-09-16 18:18:35"
+        "title": "Warsh says US economy has strengthened, inflation is the problem",
+        "link": "https://www.investing.com/news/economy-news/warsh-says-us-economy-has-strengthened-inflation-is-the-problem-4904340",
+        "published": "2026-09-16 19:13:22"
       },
       {
-        "title": "U.S. bond rally continues after Fed delivers first rate hike since 2023",
-        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
-        "published": "2026-09-16 18:17:15"
+        "title": "Dollar rises after Fed hikes rates in bid to counter inflation",
+        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
+        "published": "2026-09-16 19:13:02"
       },
       {
-        "title": "Fed forecasts see latest hike followed by another before end of year",
-        "link": "https://www.investing.com/news/economy-news/fed-forecasts-see-latest-hike-followed-by-another-before-end-of-year-4904264",
-        "published": "2026-09-16 18:13:43"
+        "title": "Warsh says Fed focus to stay on inflation, underlying trends have not meaningfully improved",
+        "link": "https://www.investing.com/news/economy-news/warsh-says-fed-focus-to-stay-on-inflation-underlying-trends-have-not-meaningfully-improved-4904317",
+        "published": "2026-09-16 18:55:02"
       },
       {
-        "title": "Stocks wobble but no sign of panic as yields surge",
-        "link": "https://www.investing.com/news/economy-news/stocks-wobble-but-no-sign-of-panic-as-yields-surge-4904267",
-        "published": "2026-09-16 18:07:14"
+        "title": "What do higher rates mean for borrowers and savers?",
+        "link": "https://www.investing.com/news/economy-news/what-do-higher-rates-mean-for-borrowers-and-savers-4904310",
+        "published": "2026-09-16 18:48:43"
       }
     ]
   }
