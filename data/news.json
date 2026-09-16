@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T04:09:33.949108",
+  "fetched_at": "2026-09-16T04:41:44.255572",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -19,6 +19,11 @@
         "published": "Wed, 16 Sep 26 10:56:00 +0700"
       },
       {
+        "title": "Doanh nghiệp gần 100.000 tỷ triệu tập họp bất thường",
+        "link": "https://cafef.vn/doanh-nghiep-gan-100000-ty-trieu-tap-hop-bat-thuong-188260916110837366.chn",
+        "published": "Wed, 16 Sep 26 10:54:00 +0700"
+      },
+      {
         "title": "Ông Đặng Phan Tường bị khởi tố, doanh nghiệp triệu tập họp bất thường",
         "link": "https://cafef.vn/ong-dang-phan-tuong-bi-khoi-to-doanh-nghiep-trieu-tap-hop-bat-thuong-188260916104326592.chn",
         "published": "Wed, 16 Sep 26 10:42:00 +0700"
@@ -27,11 +32,6 @@
         "title": "Tỷ phú Trần Đình Long đầu tư vào xe điện",
         "link": "https://cafef.vn/ty-phu-tran-dinh-long-dau-tu-vao-xe-dien-188260916102555498.chn",
         "published": "Wed, 16 Sep 26 10:25:00 +0700"
-      },
-      {
-        "title": "Giá vàng giảm sâu, loạt \"cá mập\" mạnh tay gom hàng",
-        "link": "https://cafef.vn/gia-vang-giam-sau-loat-ca-map-manh-tay-gom-hang-188260916101741326.chn",
-        "published": "Wed, 16 Sep 26 10:21:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Hong Kong unveils first five-year plan to add jobs, homes, align closer to mainland China",
+        "link": "https://www.investing.com/news/economy-news/hong-kong-unveils-first-fiveyear-plan-to-add-jobs-homes-align-closer-to-mainland-china-4902872",
+        "published": "2026-09-16 04:30:52"
+      },
+      {
+        "title": "China’s slower loan growth is the new normal, central bank governor says",
+        "link": "https://www.investing.com/news/economy-news/chinas-slower-loan-growth-is-the-new-normal-central-bank-governor-says-4902873",
+        "published": "2026-09-16 04:30:32"
+      },
+      {
+        "title": "Poll shows rising trust in global institutions, less comfort with US as global leader",
+        "link": "https://www.investing.com/news/economy-news/poll-shows-rising-trust-in-global-institutions-less-comfort-with-us-as-global-leader-4902871",
+        "published": "2026-09-16 04:12:48"
+      },
+      {
         "title": "Asian markets brittle ahead of Fed decision, oil slips",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
         "published": "2026-09-16 03:36:28"
@@ -113,21 +128,6 @@
         "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
         "link": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
         "published": "2026-09-16 02:48:26"
-      },
-      {
-        "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-        "published": "2026-09-16 02:12:49"
-      },
-      {
-        "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
-        "link": "https://www.investing.com/news/economy-news/japan-august-imports-jump-as-oil-prices-lift-costs-exports-stay-firm-4902798",
-        "published": "2026-09-16 01:42:49"
-      },
-      {
-        "title": "Dollar girded by bets on a US hiking cycle",
-        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
-        "published": "2026-09-16 01:06:27"
       }
     ]
   }
