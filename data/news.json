@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T23:38:31.097552",
+  "fetched_at": "2026-09-16T00:12:13.058372",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "AI is not a ’monopoly of great powers’, China’s top newspaper says",
+        "link": "https://www.investing.com/news/economy-news/ai-is-not-a-monopoly-of-great-powers-chinas-top-newspaper-says-4902766",
+        "published": "2026-09-15 23:48:45"
+      },
+      {
         "title": "US House committee recommends contempt of Congress for Leon Black in Epstein probe",
         "link": "https://www.investing.com/news/economy-news/us-house-committee-recommends-contempt-of-congress-for-leon-black-in-epstein-probe-4902728",
         "published": "2026-09-15 22:12:34"
@@ -123,11 +128,6 @@
         "title": "Argentina submits 2027 budget bill to Congress, foresees 4% GDP growth",
         "link": "https://www.investing.com/news/economy-news/argentina-submits-2027-budget-bill-to-congress-foresees-4-gdp-growth-4902554",
         "published": "2026-09-15 20:24:32"
-      },
-      {
-        "title": "U.S. war with Iran has cost $38B and is running at $3B per month, CBO says",
-        "link": "https://www.investing.com/news/economy-news/us-war-with-iran-has-cost-38b-and-is-running-at-3b-per-month-cbo-says-4902399",
-        "published": "2026-09-15 18:33:41"
       }
     ]
   }
