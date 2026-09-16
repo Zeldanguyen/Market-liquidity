@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T06:11:42.595845",
+  "fetched_at": "2026-09-16T06:46:19.599279",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán Phú Hưng: Từ không gian xanh đến hành trình tăng trưởng mới",
+        "link": "https://cafef.vn/chung-khoan-phu-hung-tu-khong-gian-xanh-den-hanh-trinh-tang-truong-moi-188260916122727055.chn",
+        "published": "Wed, 16 Sep 26 13:30:00 +0700"
+      },
       {
         "title": "Biwase tiếp tục phân phối 6,6 triệu cổ phiếu cho 12 cá nhân",
         "link": "https://cafef.vn/biwase-tiep-tuc-phan-phoi-66-trieu-co-phieu-cho-12-ca-nhan-188260916101727897.chn",
@@ -19,7 +24,7 @@
         "published": "Wed, 16 Sep 26 10:56:00 +0700"
       },
       {
-        "title": "Doanh nghiệp gần 100.000 tỷ triệu tập họp bất thường",
+        "title": "Doanh nghiệp gần 100.000 tỷ triệu tập họp bất thường, dự kiến chào bán trái phiếu kèm chứng quyền",
         "link": "https://cafef.vn/doanh-nghiep-gan-100000-ty-trieu-tap-hop-bat-thuong-188260916110837366.chn",
         "published": "Wed, 16 Sep 26 10:54:00 +0700"
       },
@@ -27,14 +32,14 @@
         "title": "Ông Đặng Phan Tường bị khởi tố, doanh nghiệp triệu tập họp bất thường",
         "link": "https://cafef.vn/ong-dang-phan-tuong-bi-khoi-to-doanh-nghiep-trieu-tap-hop-bat-thuong-188260916104326592.chn",
         "published": "Wed, 16 Sep 26 10:42:00 +0700"
-      },
-      {
-        "title": "Tỷ phú Trần Đình Long mua lô xe, thiết bị sử dụng điện tại khu liên hợp thép Dung Quất 7 tỷ USD",
-        "link": "https://cafef.vn/ty-phu-tran-dinh-long-dau-tu-vao-xe-dien-188260916102555498.chn",
-        "published": "Wed, 16 Sep 26 10:25:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Rủi ro tỷ giá đồng yên đảo chiều nếu BOJ gây thất vọng",
+        "link": "https://vneconomy.vn/rui-ro-ty-gia-dong-yen-dao-chieu-neu-boj-gay-that-vong.htm",
+        "published": "Wed, 16 Sep 2026 06:30:35 GMT"
+      },
       {
         "title": "Giá vàng trong nước bật tăng sau hai phiên giảm",
         "link": "https://vneconomy.vn/gia-vang-trong-nuoc-bat-tang-sau-hai-phien-giam.htm",
@@ -59,18 +64,18 @@
         "title": "Chính sách cạnh tranh linh hoạt: Chìa khóa để Việt Nam thu hút FDI công nghệ",
         "link": "https://vneconomy.vn/chinh-sach-canh-tranh-linh-hoat-chia-khoa-de-viet-nam-thu-hut-fdi-cong-nghe.htm",
         "published": "Wed, 16 Sep 2026 01:03:00 GMT"
-      },
-      {
-        "title": "SHB tăng cường lớp bảo vệ trong giao dịch chuyển tiền trực tuyến",
-        "link": "https://vneconomy.vn/shb-tang-cuong-lop-bao-ve-trong-giao-dich-chuyen-tien-truc-tuyen.htm",
-        "published": "Wed, 16 Sep 2026 01:00:00 GMT"
       }
     ],
     "Vietstock": [
       {
-        "title": "Nhịp đập Thị trường 16/09: Sắc đỏ bao trùm nhóm ngân hàng",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1609-sac-do-bao-trum-nhom-ngan-hang-1636-1492799.htm",
-        "published": "Wed, 16 Sep 2026 11:43:00 +0700"
+        "title": "Phân tích kỹ thuật phiên chiều 16/09: Giằng co biên độ hẹp",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1609-giang-co-bien-do-hep-585-1492865.htm",
+        "published": "Wed, 16 Sep 2026 13:08:46 +0700"
+      },
+      {
+        "title": "Chứng khoán Phú Hưng: Từ không gian xanh đến hành trình tăng trưởng mới",
+        "link": "http://vietstock.vn/2026/09/chung-khoan-phu-hung-tu-khong-gian-xanh-den-hanh-trinh-tang-truong-moi-830-1492851.htm",
+        "published": "Wed, 16 Sep 2026 13:00:00 +0700"
       },
       {
         "title": "Sóng bank chạy mô hình chữ “K”, chất lượng tài sản đã phản ánh đủ?",
@@ -91,14 +96,14 @@
         "title": "UBCKNN phạt Pacific Bridge và Việt Tâm về lỗi công bố thông tin",
         "link": "http://vietstock.vn/2026/09/ubcknn-phat-pacific-bridge-va-viet-tam-ve-loi-cong-bo-thong-tin-830-1492697.htm",
         "published": "Tue, 15 Sep 2026 20:02:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 15/09: Khối ngoại tiếp tục mua ròng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1509-khoi-ngoai-tiep-tuc-mua-rong-830-1492701.htm",
-        "published": "Tue, 15 Sep 2026 19:44:28 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "UK inflation speeds up to 3.1% in August",
+        "link": "https://www.investing.com/news/economy-news/uk-inflation-speeds-up-to-31-in-august-4902906",
+        "published": "2026-09-16 06:13:12"
+      },
       {
         "title": "Asian markets make shaky gains ahead of Fed decision, oil slips",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
@@ -123,11 +128,6 @@
         "title": "Dollar girded by bets on a US hiking cycle",
         "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
         "published": "2026-09-16 04:54:52"
-      },
-      {
-        "title": "Morning Bid: Warsh on collision course with Trump administration",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-warsh-on-collision-course-with-trump-administration-4902874",
-        "published": "2026-09-16 04:42:25"
       }
     ]
   }
