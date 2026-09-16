@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T17:08:41.304451",
+  "fetched_at": "2026-09-16T17:39:42.376888",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một thế lực nắm giữ lượng vàng kỷ lục hơn 4.200 tấn nhưng vẫn không ngừng mua thêm",
+        "link": "https://cafef.vn/mot-the-luc-nam-giu-luong-vang-ky-luc-hon-4200-tan-nhung-van-khong-ngung-mua-them-18826091700112272.chn",
+        "published": "Thu, 17 Sep 26 00:11:00 +0700"
+      },
       {
         "title": "Một loạt điểm đáng chú ý trong dự thảo thông tư liên quan đến tài sản mã hóa",
         "link": "https://cafef.vn/mot-loat-diem-dang-chu-y-trong-du-thao-thong-tu-lien-quan-den-tai-san-ma-hoa-188260916223948432.chn",
@@ -27,11 +32,6 @@
         "title": "Miễn nhiệm ông Nguyễn Trọng Đức",
         "link": "https://cafef.vn/mien-nhiem-ong-nguyen-trong-duc-188260916222131032.chn",
         "published": "Wed, 16 Sep 26 22:22:00 +0700"
-      },
-      {
-        "title": "Một công ty quản lý quỹ bị xử phạt do vi phạm công bố thông tin",
-        "link": "https://cafef.vn/mot-cong-ty-quan-ly-quy-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260916203508002.chn",
-        "published": "Wed, 16 Sep 26 20:35:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "SEC proposes to end shareholder vote oversight, a blow to reformers",
+        "link": "https://www.investing.com/news/economy-news/sec-proposes-to-end-shareholder-vote-oversight-a-blow-to-reformers-4904187",
+        "published": "2026-09-16 17:24:49"
+      },
+      {
+        "title": "European shares rise as oil pauses ahead of Fed rate decision",
+        "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-rally-pauses-all-eyes-on-fed-4902994",
+        "published": "2026-09-16 17:12:47"
+      },
+      {
         "title": "Dollar holds near two-week high ahead of Fed decision",
         "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
         "published": "2026-09-16 17:00:33"
@@ -110,19 +120,9 @@
         "published": "2026-09-16 16:55:08"
       },
       {
-        "title": "SEC proposes to end shareholder vote oversight, a blow to reformers",
-        "link": "https://www.investing.com/news/economy-news/sec-proposes-to-end-shareholder-vote-oversight-a-blow-to-reformers-4904187",
-        "published": "2026-09-16 16:49:18"
-      },
-      {
         "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
         "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
         "published": "2026-09-16 16:48:38"
-      },
-      {
-        "title": "European shares rise as oil pauses ahead of Fed rate decision",
-        "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-rally-pauses-all-eyes-on-fed-4902994",
-        "published": "2026-09-16 16:42:35"
       },
       {
         "title": "Calls to slow AI benefit US sector leaders, says French finance minister",
