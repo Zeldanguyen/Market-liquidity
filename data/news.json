@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T16:10:51.452047",
+  "fetched_at": "2026-09-16T16:40:36.856167",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Saudi Aramco targets half East-West pipeline capacity within days - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/saudi-aramco-targets-half-eastwest-pipeline-capacity-within-days--bloomberg-4904136",
+        "published": "2026-09-16 16:10:44"
+      },
+      {
         "title": "Robust US retail sales underscore economy’s resilience; inflation pressures building",
         "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
         "published": "2026-09-16 16:00:58"
@@ -123,11 +128,6 @@
         "title": "ECB’s Pereira says inflation not spreading as fast as in 2022",
         "link": "https://www.investing.com/news/economy-news/ecbs-pereira-says-inflation-not-spreading-as-fast-as-in-2022-93CH-4904071",
         "published": "2026-09-16 15:12:57"
-      },
-      {
-        "title": "US business inventories rise more than expected in July",
-        "link": "https://www.investing.com/news/economy-news/us-business-inventories-rise-more-than-expected-in-july-93CH-4904041",
-        "published": "2026-09-16 14:50:09"
       }
     ]
   }
