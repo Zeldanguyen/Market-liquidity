@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T05:09:09.414739",
+  "fetched_at": "2026-09-16T05:40:45.014100",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 16/09: Sắc đỏ bao trùm nhóm ngân hàng",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1609-sac-do-bao-trum-nhom-ngan-hang-1636-1492799.htm",
+        "published": "Wed, 16 Sep 2026 11:43:00 +0700"
+      },
+      {
         "title": "Sóng bank chạy mô hình chữ “K”, chất lượng tài sản đã phản ánh đủ?",
         "link": "http://vietstock.vn/2026/09/song-bank-chay-mo-hinh-chu-k-chat-luong-tai-san-da-phan-anh-du-830-1492743.htm",
         "published": "Wed, 16 Sep 2026 09:46:31 +0700"
@@ -91,14 +96,19 @@
         "title": "Theo dấu dòng tiền cá mập 15/09: Khối ngoại tiếp tục mua ròng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1509-khoi-ngoai-tiep-tuc-mua-rong-830-1492701.htm",
         "published": "Tue, 15 Sep 2026 19:44:28 +0700"
-      },
-      {
-        "title": "Vietstock Daily 16/09/2026: Phục hồi trở lại",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-16092026-phuc-hoi-tro-lai-1636-1492619.htm",
-        "published": "Tue, 15 Sep 2026 18:16:58 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "France would back Dutch veteran Knot to lead ECB, wants chief economist job, sources say",
+        "link": "https://www.investing.com/news/economy-news/exclusivefrance-would-back-dutch-veteran-knot-to-lead-ecb-wants-chief-economist-job-sources-say-4902295",
+        "published": "2026-09-16 05:30:41"
+      },
+      {
+        "title": "U.S. 10-yr Treasury yields cool below 5% as Fed rate decision approaches",
+        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
+        "published": "2026-09-16 05:19:57"
+      },
       {
         "title": "Dollar girded by bets on a US hiking cycle",
         "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
@@ -118,16 +128,6 @@
         "title": "China’s slower loan growth is the new normal, central bank governor says",
         "link": "https://www.investing.com/news/economy-news/chinas-slower-loan-growth-is-the-new-normal-central-bank-governor-says-4902873",
         "published": "2026-09-16 04:30:32"
-      },
-      {
-        "title": "Poll shows rising trust in global institutions, less comfort with US as global leader",
-        "link": "https://www.investing.com/news/economy-news/poll-shows-rising-trust-in-global-institutions-less-comfort-with-us-as-global-leader-4902871",
-        "published": "2026-09-16 04:12:48"
-      },
-      {
-        "title": "Asian markets brittle ahead of Fed decision, oil slips",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-        "published": "2026-09-16 03:36:28"
       }
     ]
   }
