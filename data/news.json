@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T14:10:30.504038",
+  "fetched_at": "2026-09-16T14:41:26.081290",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US retail sales rebound more than expected in August; import prices surge",
+        "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
+        "published": "2026-09-16 14:24:50"
+      },
+      {
+        "title": "US homebuilder sentiment drops to 12-month low in September",
+        "link": "https://www.investing.com/news/economy-news/us-homebuilder-sentiment-drops-to-12month-low-in-september-4903974",
+        "published": "2026-09-16 14:08:00"
+      },
+      {
         "title": "Ukraine proposes record defence spending next year as war costs soar",
         "link": "https://www.investing.com/news/economy-news/ukraine-proposes-record-defence-spending-next-year-as-war-costs-soar-4903869",
         "published": "2026-09-16 13:25:33"
@@ -115,19 +125,9 @@
         "published": "2026-09-16 13:00:40"
       },
       {
-        "title": "US retail sales rebound sharply in August",
-        "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
-        "published": "2026-09-16 12:43:12"
-      },
-      {
         "title": "Brazil’s July activity falls more than expected ahead of rate decision",
         "link": "https://www.investing.com/news/economy-news/brazils-july-activity-falls-more-than-expected-ahead-of-rate-decision-4903727",
         "published": "2026-09-16 12:42:55"
-      },
-      {
-        "title": "Brazil’s economic activity drops 0.2% in July",
-        "link": "https://www.investing.com/news/economy-news/brazils-economic-activity-drops-02-in-july-93CH-4903724",
-        "published": "2026-09-16 12:41:44"
       }
     ]
   }
