@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T00:44:04.090919",
+  "fetched_at": "2026-09-16T01:09:00.258558",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ban lãnh đạo gia tăng sở hữu, AgriS (SBT) mở rộng nền tảng cổ đông",
+        "link": "https://cafef.vn/ban-lanh-dao-gia-tang-so-huu-agris-sbt-mo-rong-nen-tang-co-dong-18826091520463865.chn",
+        "published": "Wed, 16 Sep 26 08:00:00 +0700"
+      },
       {
         "title": "Từ New York, London đến Seoul đều muốn dòng tiền không ngủ, chứng khoán Việt Nam đang ở đâu?",
         "link": "https://cafef.vn/tu-new-york-london-den-seoul-deu-muon-dong-tien-khong-ngu-chung-khoan-viet-nam-dang-o-dau-188260915232802235.chn",
@@ -27,11 +32,6 @@
         "title": "Nỗi buồn mang tên cổ phiếu IPO",
         "link": "https://cafef.vn/noi-buon-mang-ten-co-phieu-ipo-188260915232452861.chn",
         "published": "Wed, 16 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Nóng: PNJ giảm thời gian thanh toán khi mua lại sản phẩm từ khách hàng",
-        "link": "https://cafef.vn/nong-pnj-giam-thoi-gian-thanh-toan-khi-mua-lai-san-pham-tu-khach-hang-188260915220945536.chn",
-        "published": "Tue, 15 Sep 26 22:09:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil’s top court postpones ruling on probe of justice in politically charged case",
+        "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
+        "published": "2026-09-16 00:42:52"
+      },
+      {
+        "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
+        "link": "https://www.investing.com/news/economy-news/japan-august-imports-jump-as-oil-prices-lift-costs-exports-stay-firm-4902798",
+        "published": "2026-09-16 00:36:28"
+      },
+      {
         "title": "New Zealand parliament passes India trade deal, cutting tariffs on most exports",
         "link": "https://www.investing.com/news/economy-news/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports-4902792",
         "published": "2026-09-16 00:30:27"
@@ -118,16 +128,6 @@
         "title": "US House committee recommends contempt of Congress for Leon Black in Epstein probe",
         "link": "https://www.investing.com/news/economy-news/us-house-committee-recommends-contempt-of-congress-for-leon-black-in-epstein-probe-4902728",
         "published": "2026-09-15 22:12:34"
-      },
-      {
-        "title": "Burnham and Trump to hold first face-to-face meeting in New York - The Times",
-        "link": "https://www.investing.com/news/economy-news/burnham-and-trump-to-hold-first-facetoface-meeting-in-new-york--the-times-4902699",
-        "published": "2026-09-15 21:37:57"
-      },
-      {
-        "title": "Trading Day: No hiding place",
-        "link": "https://www.investing.com/news/economy-news/trading-day-no-hiding-place-4902677",
-        "published": "2026-09-15 21:20:10"
       }
     ]
   }
