@@ -1,35 +1,35 @@
 {
   "status": "ok",
-  "fetched_at": "2026-09-16T18:09:22.435198",
+  "fetched_at": "2026-09-16T18:42:04.556565",
   "series": {
     "fed_funds_rate": [
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-14",
         "value": "3.63"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-13",
         "value": "3.63"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-12",
         "value": "3.63"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-11",
         "value": "3.63"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-10",
         "value": "3.63"
       }
@@ -100,90 +100,90 @@
     ],
     "us_2y_yield": [
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-14",
         "value": "4.65"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-11",
         "value": "4.63"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-10",
         "value": "4.56"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-09",
         "value": "4.43"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-08",
         "value": "4.39"
       }
     ],
     "us_30y_yield": [
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-14",
         "value": "5.34"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-11",
         "value": "5.35"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-10",
         "value": "5.37"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-09",
         "value": "5.28"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-08",
         "value": "5.25"
       }
     ],
     "dxy": [
       {
-        "realtime_start": "2026-09-14",
-        "realtime_end": "2026-09-14",
+        "realtime_start": "2026-09-15",
+        "realtime_end": "2026-09-15",
         "date": "2026-09-11",
         "value": "118.2126"
       },
       {
-        "realtime_start": "2026-09-14",
-        "realtime_end": "2026-09-14",
+        "realtime_start": "2026-09-15",
+        "realtime_end": "2026-09-15",
         "date": "2026-09-10",
         "value": "118.0787"
       },
       {
-        "realtime_start": "2026-09-14",
-        "realtime_end": "2026-09-14",
+        "realtime_start": "2026-09-15",
+        "realtime_end": "2026-09-15",
         "date": "2026-09-09",
         "value": "117.8834"
       },
       {
-        "realtime_start": "2026-09-14",
-        "realtime_end": "2026-09-14",
+        "realtime_start": "2026-09-15",
+        "realtime_end": "2026-09-15",
         "date": "2026-09-08",
         "value": "117.9127"
       }
@@ -222,32 +222,32 @@
     ],
     "real_yield_10y": [
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-14",
         "value": "2.6"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-11",
         "value": "2.6"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-10",
         "value": "2.55"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-09",
         "value": "2.46"
       },
       {
-        "realtime_start": "2026-09-15",
-        "realtime_end": "2026-09-15",
+        "realtime_start": "2026-09-16",
+        "realtime_end": "2026-09-16",
         "date": "2026-09-08",
         "value": "2.43"
       }
