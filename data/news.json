@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T21:40:35.955432",
+  "fetched_at": "2026-09-16T22:08:57.857891",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Brazil central bank cuts rates for fifth straight meeting",
+        "link": "https://www.investing.com/news/economy-news/brazil-central-bank-cuts-rates-for-fifth-straight-meeting-4904608",
+        "published": "2026-09-16 21:42:35"
+      },
+      {
+        "title": "Judge in Kennedy Center case orders Trump administration to explain closure plans",
+        "link": "https://www.investing.com/news/economy-news/judge-in-kennedy-center-case-orders-trump-administration-to-explain-closure-plans-4904590",
+        "published": "2026-09-16 21:24:36"
+      },
+      {
         "title": "Fed’s Warsh lays out forces driving up bond yields",
         "link": "https://www.investing.com/news/economy-news/feds-warsh-lays-out-forces-driving-up-bond-yields-4904580",
         "published": "2026-09-16 21:19:14"
@@ -118,16 +128,6 @@
         "title": "Fed policymakers forecast one more rate hike this year",
         "link": "https://www.investing.com/news/economy-news/fed-forecasts-see-latest-hike-followed-by-another-before-end-of-year-4904264",
         "published": "2026-09-16 21:12:35"
-      },
-      {
-        "title": "Trump calls for interest rates of 1% after Fed’s first hike since July 2023",
-        "link": "https://www.investing.com/news/economy-news/trump-calls-for-interest-rates-of-1-after-feds-first-hike-since-july-2023-4904577",
-        "published": "2026-09-16 21:11:29"
-      },
-      {
-        "title": "Major US banks raise prime rate after first Fed rate hike since 2023",
-        "link": "https://www.investing.com/news/economy-news/keycorp-raises-prime-rate-after-fed-decision-4904369",
-        "published": "2026-09-16 21:06:53"
       }
     ]
   }
