@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T23:09:22.675934",
+  "fetched_at": "2026-09-16T23:39:12.728504",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "17/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1709-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493128.htm",
+        "published": "Thu, 17 Sep 2026 06:00:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 16/09: Khối ngoại và tự doanh cùng mua ròng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1609-khoi-ngoai-va-tu-doanh-cung-mua-rong-830-1493102.htm",
         "published": "Wed, 16 Sep 2026 19:27:00 +0700"
@@ -91,14 +96,24 @@
         "title": "Chứng khoán Phú Hưng: Từ không gian xanh đến hành trình tăng trưởng mới",
         "link": "http://vietstock.vn/2026/09/chung-khoan-phu-hung-tu-khong-gian-xanh-den-hanh-trinh-tang-truong-moi-830-1492851.htm",
         "published": "Wed, 16 Sep 2026 13:00:00 +0700"
-      },
-      {
-        "title": "Sóng bank chạy mô hình chữ “K”, chất lượng tài sản đã phản ánh đủ?",
-        "link": "http://vietstock.vn/2026/09/song-bank-chay-mo-hinh-chu-k-chat-luong-tai-san-da-phan-anh-du-830-1492743.htm",
-        "published": "Wed, 16 Sep 2026 09:46:31 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Bank of England to hold rates but energy shock stirs talk of a hike",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-but-energy-shock-stirs-talk-of-a-hike-4904677",
+        "published": "2026-09-16 23:12:41"
+      },
+      {
+        "title": "Fed policymakers forecast one more rate hike this year",
+        "link": "https://www.investing.com/news/economy-news/fed-forecasts-see-latest-hike-followed-by-another-before-end-of-year-4904264",
+        "published": "2026-09-16 23:08:52"
+      },
+      {
+        "title": "Major US banks raise prime rate after first Fed rate hike since 2023",
+        "link": "https://www.investing.com/news/economy-news/keycorp-raises-prime-rate-after-fed-decision-4904369",
+        "published": "2026-09-16 23:08:02"
+      },
       {
         "title": "Trump lashes out at Fed after Warsh backs rate hike",
         "link": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
@@ -113,21 +128,6 @@
         "title": "US International Development Finance Corp approves more than $8 billion in new investments",
         "link": "https://www.investing.com/news/economy-news/us-international-development-finance-corp-approves-more-than-8-billion-in-new-investments-4904664",
         "published": "2026-09-16 22:48:15"
-      },
-      {
-        "title": "Brazil central bank delivers fifth straight rate cut, leaves next move open",
-        "link": "https://www.investing.com/news/economy-news/brazil-central-bank-cuts-rates-for-fifth-straight-meeting-4904608",
-        "published": "2026-09-16 22:31:46"
-      },
-      {
-        "title": "Trump administration can proceed with homelessness program overhaul, US court rules",
-        "link": "https://www.investing.com/news/economy-news/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-rules-4904643",
-        "published": "2026-09-16 22:12:53"
-      },
-      {
-        "title": "Judge in Kennedy Center case orders Trump administration to explain closure plans",
-        "link": "https://www.investing.com/news/economy-news/judge-in-kennedy-center-case-orders-trump-administration-to-explain-closure-plans-4904590",
-        "published": "2026-09-16 21:24:36"
       }
     ]
   }
