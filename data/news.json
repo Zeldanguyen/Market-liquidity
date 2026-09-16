@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T13:41:30.649833",
+  "fetched_at": "2026-09-16T14:10:30.504038",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Ukraine proposes record defence spending next year as war costs soar",
+        "link": "https://www.investing.com/news/economy-news/ukraine-proposes-record-defence-spending-next-year-as-war-costs-soar-4903869",
+        "published": "2026-09-16 13:25:33"
+      },
+      {
         "title": "US import prices jump in August on strength in capital, consumer goods",
         "link": "https://www.investing.com/news/economy-news/us-import-prices-jump-in-august-on-strength-in-capital-consumer-goods-4903830",
         "published": "2026-09-16 13:12:26"
@@ -123,11 +128,6 @@
         "title": "Brazil’s economic activity drops 0.2% in July",
         "link": "https://www.investing.com/news/economy-news/brazils-economic-activity-drops-02-in-july-93CH-4903724",
         "published": "2026-09-16 12:41:44"
-      },
-      {
-        "title": "Nobel laureate Michael Kremer named World Bank chief economist",
-        "link": "https://www.investing.com/news/economy-news/nobel-laureate-michael-kremer-named-world-bank-chief-economist-93CH-4903679",
-        "published": "2026-09-16 12:32:31"
       }
     ]
   }
