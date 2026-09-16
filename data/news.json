@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T10:09:44.843399",
+  "fetched_at": "2026-09-16T10:41:17.741921",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 16/09: Tâm lý thận trọng bao trùm, VN-Index tiếp tục rung lắc tại ngưỡng 1,810 điểm",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1609-tam-ly-than-trong-bao-trum-vn-index-tiep-tuc-rung-lac-tai-nguong-1810-diem-1636-1492799.htm",
+        "published": "Wed, 16 Sep 2026 16:47:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 16/09: Giằng co biên độ hẹp",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1609-giang-co-bien-do-hep-585-1492865.htm",
         "published": "Wed, 16 Sep 2026 13:08:46 +0700"
@@ -91,14 +96,29 @@
         "title": "16/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1609-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492719.htm",
         "published": "Wed, 16 Sep 2026 06:02:00 +0700"
-      },
-      {
-        "title": "UBCKNN phạt Pacific Bridge và Việt Tâm về lỗi công bố thông tin",
-        "link": "http://vietstock.vn/2026/09/ubcknn-phat-pacific-bridge-va-viet-tam-ve-loi-cong-bo-thong-tin-830-1492697.htm",
-        "published": "Tue, 15 Sep 2026 20:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Irish home prices rise 0.8% in July, fastest monthly gain in a year",
+        "link": "https://www.investing.com/news/economy-news/irish-home-prices-rise-08-in-july-fastest-monthly-gain-in-a-year-93CH-4903281",
+        "published": "2026-09-16 10:15:48"
+      },
+      {
+        "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
+        "link": "https://www.investing.com/news/economy-news/bond-market-woes-likely-a-factor-for-fed-but-intervention-seen-as-unlikely-4903276",
+        "published": "2026-09-16 10:13:30"
+      },
+      {
+        "title": "Warsh’s words may matter more than the anticipated Fed rate hike",
+        "link": "https://www.investing.com/news/economy-news/warshs-words-may-matter-more-than-the-anticipated-fed-rate-hike-4903261",
+        "published": "2026-09-16 10:07:05"
+      },
+      {
+        "title": "UK inflation hits 3.1% but data offers some relief for BoE",
+        "link": "https://www.investing.com/news/economy-news/uk-inflation-speeds-up-to-31-in-august-4902906",
+        "published": "2026-09-16 09:54:45"
+      },
       {
         "title": "EU’s von der Leyen backs AI slowdown, to invite frontier labs for talks",
         "link": "https://www.investing.com/news/economy-news/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks-4903012",
@@ -108,26 +128,6 @@
         "title": "Wall St futures edge higher in countdown to Fed decision",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-edge-higher-in-countdown-to-fed-decision-4903179",
         "published": "2026-09-16 09:12:30"
-      },
-      {
-        "title": "EU invites Canada to become bloc’s first ’associate member’",
-        "link": "https://www.investing.com/news/economy-news/eu-invites-canada-to-become-blocs-first-associate-member-4903163",
-        "published": "2026-09-16 09:01:22"
-      },
-      {
-        "title": "Warsh’s Fed expected to hike rates 25bp as dot plot takes center stage",
-        "link": "https://www.investing.com/news/economy-news/warshs-fed-expected-to-hike-rates-25bp-as-dot-plot-takes-center-stage-4903119",
-        "published": "2026-09-16 08:55:44"
-      },
-      {
-        "title": "Are gilts signaling a new BoE hike cycle?",
-        "link": "https://www.investing.com/news/economy-news/are-gilts-signaling-a-new-boe-hike-cycle-4903117",
-        "published": "2026-09-16 08:52:08"
-      },
-      {
-        "title": "Factbox-Major brokerages’ forecasts for S&P 500 index in 2026",
-        "link": "https://www.investing.com/news/economy-news/factboxmajor-brokerages-forecasts-for-sp-500-index-in-2026-4903081",
-        "published": "2026-09-16 08:36:30"
       }
     ]
   }
