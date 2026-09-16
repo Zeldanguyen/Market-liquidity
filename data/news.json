@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T06:46:19.599279",
+  "fetched_at": "2026-09-16T07:11:03.977759",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "FLC lên tiếng trước nhiều áp lực, mong muốn các nhà đầu tư tiếp tục đồng hành, chia sẻ",
+        "link": "https://cafef.vn/flc-len-tieng-truoc-nhieu-ap-luc-mong-muon-cac-nha-dau-tu-tiep-tuc-dong-hanh-chia-se-188260916135844417.chn",
+        "published": "Wed, 16 Sep 26 13:59:00 +0700"
+      },
       {
         "title": "Chứng khoán Phú Hưng: Từ không gian xanh đến hành trình tăng trưởng mới",
         "link": "https://cafef.vn/chung-khoan-phu-hung-tu-khong-gian-xanh-den-hanh-trinh-tang-truong-moi-188260916122727055.chn",
@@ -27,11 +32,6 @@
         "title": "Doanh nghiệp gần 100.000 tỷ triệu tập họp bất thường, dự kiến chào bán trái phiếu kèm chứng quyền",
         "link": "https://cafef.vn/doanh-nghiep-gan-100000-ty-trieu-tap-hop-bat-thuong-188260916110837366.chn",
         "published": "Wed, 16 Sep 26 10:54:00 +0700"
-      },
-      {
-        "title": "Ông Đặng Phan Tường bị khởi tố, doanh nghiệp triệu tập họp bất thường",
-        "link": "https://cafef.vn/ong-dang-phan-tuong-bi-khoi-to-doanh-nghiep-trieu-tap-hop-bat-thuong-188260916104326592.chn",
-        "published": "Wed, 16 Sep 26 10:42:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -102,7 +102,7 @@
       {
         "title": "UK inflation speeds up to 3.1% in August",
         "link": "https://www.investing.com/news/economy-news/uk-inflation-speeds-up-to-31-in-august-4902906",
-        "published": "2026-09-16 06:13:12"
+        "published": "2026-09-16 06:18:24"
       },
       {
         "title": "Asian markets make shaky gains ahead of Fed decision, oil slips",
