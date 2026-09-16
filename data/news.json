@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T01:39:02.471865",
+  "fetched_at": "2026-09-16T02:09:30.452582",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
+        "link": "https://www.investing.com/news/economy-news/japan-august-imports-jump-as-oil-prices-lift-costs-exports-stay-firm-4902798",
+        "published": "2026-09-16 01:42:49"
+      },
+      {
         "title": "Asian markets make nervous start ahead of Fed decision",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
         "published": "2026-09-16 01:30:25"
@@ -113,11 +118,6 @@
         "title": "Brazil’s top court postpones ruling on probe of justice in politically charged case",
         "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
         "published": "2026-09-16 00:42:52"
-      },
-      {
-        "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
-        "link": "https://www.investing.com/news/economy-news/japan-august-imports-jump-as-oil-prices-lift-costs-exports-stay-firm-4902798",
-        "published": "2026-09-16 00:36:28"
       },
       {
         "title": "New Zealand parliament passes India trade deal, cutting tariffs on most exports",
