@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T02:09:30.452582",
+  "fetched_at": "2026-09-16T02:40:49.371484",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Asian markets make nervous start ahead of Fed decision",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+        "published": "2026-09-16 02:18:29"
+      },
+      {
+        "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+        "published": "2026-09-16 02:12:49"
+      },
+      {
         "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
         "link": "https://www.investing.com/news/economy-news/japan-august-imports-jump-as-oil-prices-lift-costs-exports-stay-firm-4902798",
         "published": "2026-09-16 01:42:49"
-      },
-      {
-        "title": "Asian markets make nervous start ahead of Fed decision",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-        "published": "2026-09-16 01:30:25"
       },
       {
         "title": "Dollar girded by bets on a US hiking cycle",
@@ -123,11 +128,6 @@
         "title": "New Zealand parliament passes India trade deal, cutting tariffs on most exports",
         "link": "https://www.investing.com/news/economy-news/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports-4902792",
         "published": "2026-09-16 00:30:27"
-      },
-      {
-        "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-        "published": "2026-09-15 23:55:15"
       }
     ]
   }
