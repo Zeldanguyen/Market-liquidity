@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T08:10:21.510540",
+  "fetched_at": "2026-09-16T08:42:28.643550",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "CEO Kafi: “Sau giai đoạn xây nền tảng, Kafi bước vào bài toán tăng trưởng bằng hiệu quả”",
+        "link": "https://cafef.vn/ceo-kafi-sau-giai-doan-xay-nen-tang-kafi-buoc-vao-bai-toan-tang-truong-bang-hieu-qua-188260916143058465.chn",
+        "published": "Wed, 16 Sep 26 15:30:00 +0700"
+      },
       {
         "title": "MBS bứt phá lên Top 6 CTCK đóng góp ngân sách lớn nhất, dấu ấn từ một năm tăng tốc",
         "link": "https://cafef.vn/mbs-but-pha-len-top-6-ctck-dong-gop-ngan-sach-lon-nhat-dau-an-tu-mot-nam-tang-toc-188260916150127873.chn",
@@ -27,11 +32,6 @@
         "title": "Chứng khoán Phú Hưng: Từ không gian xanh đến hành trình tăng trưởng mới",
         "link": "https://cafef.vn/chung-khoan-phu-hung-tu-khong-gian-xanh-den-hanh-trinh-tang-truong-moi-188260916122727055.chn",
         "published": "Wed, 16 Sep 26 13:30:00 +0700"
-      },
-      {
-        "title": "Biwase tiếp tục phân phối 6,6 triệu cổ phiếu cho 12 cá nhân",
-        "link": "https://cafef.vn/biwase-tiep-tuc-phan-phoi-66-trieu-co-phieu-cho-12-ca-nhan-188260916101727897.chn",
-        "published": "Wed, 16 Sep 26 11:00:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "ECB’s wage tracker points to modest uptick in negotiated pay growth",
+        "link": "https://www.investing.com/news/economy-news/ecbs-wage-tracker-points-to-modest-uptick-in-negotiated-pay-growth-4903050",
+        "published": "2026-09-16 08:18:30"
+      },
+      {
+        "title": "South African inflation expectations stabilise in third quarter",
+        "link": "https://www.investing.com/news/economy-news/south-african-inflation-expectations-stabilise-in-third-quarter-4903036",
+        "published": "2026-09-16 08:12:25"
+      },
+      {
         "title": "Dollar edges lower before expected Fed hike",
         "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
         "published": "2026-09-16 07:55:14"
@@ -118,16 +128,6 @@
         "title": "European shares rise as oil rally pauses; all eyes on Fed",
         "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-rally-pauses-all-eyes-on-fed-4902994",
         "published": "2026-09-16 07:18:27"
-      },
-      {
-        "title": "UK inflation hits 3.1% but data offers some relief for BoE",
-        "link": "https://www.investing.com/news/economy-news/uk-inflation-speeds-up-to-31-in-august-4902906",
-        "published": "2026-09-16 07:06:29"
-      },
-      {
-        "title": "Asian markets make shaky gains ahead of Fed decision, oil slips",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-        "published": "2026-09-16 05:54:46"
       }
     ]
   }
