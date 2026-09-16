@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-16T09:09:31.790935",
+  "fetched_at": "2026-09-16T09:41:29.149054",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Meey Global Corp thông báo nộp hồ sơ đăng ký chứng khoán lên SEC",
+        "link": "https://cafef.vn/meey-global-corp-thong-bao-nop-ho-so-dang-ky-chung-khoan-len-sec-188260916163930154.chn",
+        "published": "Wed, 16 Sep 26 16:39:00 +0700"
+      },
+      {
+        "title": "Ông Trần Quí Thanh muốn làm dự án khu công nghiệp 800ha tại TP.HCM",
+        "link": "https://cafef.vn/ong-tran-qui-thanh-muon-lam-du-an-khu-cong-nghiep-800ha-tai-tphcm-188260916154137518.chn",
+        "published": "Wed, 16 Sep 26 16:38:00 +0700"
+      },
+      {
+        "title": "Phiên 16/9: Khối ngoại tiếp đà mua ròng, một cổ phiếu ngân hàng được gom hơn 200 tỷ",
+        "link": "https://cafef.vn/phien-16-9-khoi-ngoai-tiep-da-mua-rong-mot-co-phieu-ngan-hang-duoc-gom-hon-200-ty-188260916155210295.chn",
+        "published": "Wed, 16 Sep 26 16:36:00 +0700"
+      },
       {
         "title": "Sau 2 tháng nhận chức, CEO HanaGold thừa nhận thanh khoản vẫn là khó khăn lớn nhất, tiết lộ 6 giai đoạn hoạt động trở lại và trả tiền khách hàng",
         "link": "https://cafef.vn/sau-2-thang-nhan-chuc-ceo-hanagold-thua-nhan-thanh-khoan-van-la-kho-khan-lon-nhat-tiet-lo-6-giai-doan-hoat-dong-tro-lai-va-tra-tien-khach-hang-18826091615440714.chn",
@@ -17,21 +32,6 @@
         "title": "CEO Kafi: “Sau giai đoạn xây nền tảng, Kafi bước vào bài toán tăng trưởng bằng hiệu quả”",
         "link": "https://cafef.vn/ceo-kafi-sau-giai-doan-xay-nen-tang-kafi-buoc-vao-bai-toan-tang-truong-bang-hieu-qua-188260916143058465.chn",
         "published": "Wed, 16 Sep 26 15:30:00 +0700"
-      },
-      {
-        "title": "MBS bứt phá lên Top 6 CTCK đóng góp ngân sách lớn nhất, dấu ấn từ một năm tăng tốc",
-        "link": "https://cafef.vn/mbs-but-pha-len-top-6-ctck-dong-gop-ngan-sach-lon-nhat-dau-an-tu-mot-nam-tang-toc-188260916150127873.chn",
-        "published": "Wed, 16 Sep 26 15:00:00 +0700"
-      },
-      {
-        "title": "Nhà đầu tư chứng khoán \"nín thở\" đếm ngược 12 tiếng",
-        "link": "https://cafef.vn/nha-dau-tu-chung-khoan-nin-tho-dem-nguoc-12-tieng-188260916144842223.chn",
-        "published": "Wed, 16 Sep 26 14:50:00 +0700"
-      },
-      {
-        "title": "Em trai ông Nguyễn Duy Hưng chi hơn trăm tỷ mua cổ phiếu SSI ngay trước “giờ G” nâng hạng",
-        "link": "https://cafef.vn/em-trai-ong-nguyen-duy-hung-chi-hon-tram-ty-mua-co-phieu-ssi-ngay-truoc-gio-g-nang-hang-188260916141311876.chn",
-        "published": "Wed, 16 Sep 26 14:11:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "EU’s von der Leyen backs AI slowdown, to invite frontier labs for talks",
+        "link": "https://www.investing.com/news/economy-news/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks-4903012",
+        "published": "2026-09-16 09:18:34"
+      },
+      {
+        "title": "Wall St futures edge higher in countdown to Fed decision",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-edge-higher-in-countdown-to-fed-decision-4903179",
+        "published": "2026-09-16 09:12:30"
+      },
+      {
         "title": "EU invites Canada to become bloc’s first ’associate member’",
         "link": "https://www.investing.com/news/economy-news/eu-invites-canada-to-become-blocs-first-associate-member-4903163",
         "published": "2026-09-16 09:01:22"
@@ -118,16 +128,6 @@
         "title": "Factbox-Major brokerages’ forecasts for S&P 500 index in 2026",
         "link": "https://www.investing.com/news/economy-news/factboxmajor-brokerages-forecasts-for-sp-500-index-in-2026-4903081",
         "published": "2026-09-16 08:36:30"
-      },
-      {
-        "title": "ECB’s wage tracker points to modest uptick in negotiated pay growth",
-        "link": "https://www.investing.com/news/economy-news/ecbs-wage-tracker-points-to-modest-uptick-in-negotiated-pay-growth-4903050",
-        "published": "2026-09-16 08:18:30"
-      },
-      {
-        "title": "South African inflation expectations stabilise in third quarter",
-        "link": "https://www.investing.com/news/economy-news/south-african-inflation-expectations-stabilise-in-third-quarter-4903036",
-        "published": "2026-09-16 08:12:25"
       }
     ]
   }
