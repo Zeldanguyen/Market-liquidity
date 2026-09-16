@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T07:11:03.977759",
+  "fetched_at": "2026-09-16T07:40:49.771225",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Em trai ông Nguyễn Duy Hưng chi hơn trăm tỷ mua cổ phiếu SSI ngay trước “giờ G” nâng hạng",
+        "link": "https://cafef.vn/em-trai-ong-nguyen-duy-hung-chi-hon-tram-ty-mua-co-phieu-ssi-ngay-truoc-gio-g-nang-hang-188260916141311876.chn",
+        "published": "Wed, 16 Sep 26 14:11:00 +0700"
+      },
       {
         "title": "FLC lên tiếng trước nhiều áp lực, mong muốn các nhà đầu tư tiếp tục đồng hành, chia sẻ",
         "link": "https://cafef.vn/flc-len-tieng-truoc-nhieu-ap-luc-mong-muon-cac-nha-dau-tu-tiep-tuc-dong-hanh-chia-se-188260916135844417.chn",
@@ -27,14 +32,14 @@
         "title": "Doanh nghiệp của đại gia Nguyễn Đức Tài vừa lập kỷ lục chưa từng có",
         "link": "https://cafef.vn/doanh-nghiep-cua-dai-gia-nguyen-duc-tai-vua-lap-ky-luc-chua-tung-co-188260916105633093.chn",
         "published": "Wed, 16 Sep 26 10:56:00 +0700"
-      },
-      {
-        "title": "Doanh nghiệp gần 100.000 tỷ triệu tập họp bất thường, dự kiến chào bán trái phiếu kèm chứng quyền",
-        "link": "https://cafef.vn/doanh-nghiep-gan-100000-ty-trieu-tap-hop-bat-thuong-188260916110837366.chn",
-        "published": "Wed, 16 Sep 26 10:54:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "MB: Đóng góp vào ngân sách tăng 110% sau 5 năm",
+        "link": "https://vneconomy.vn/mb-dong-gop-vao-ngan-sach-tang-110-sau-5-nam.htm",
+        "published": "Wed, 16 Sep 2026 07:33:00 GMT"
+      },
       {
         "title": "Rủi ro tỷ giá đồng yên đảo chiều nếu BOJ gây thất vọng",
         "link": "https://vneconomy.vn/rui-ro-ty-gia-dong-yen-dao-chieu-neu-boj-gay-that-vong.htm",
@@ -56,17 +61,17 @@
         "published": "Wed, 16 Sep 2026 03:09:33 GMT"
       },
       {
-        "title": "Bài 1 - Doanh nghiệp “chết lâm sàng”: Gian nan làm thủ tục giải thể",
+        "title": "[Bài 1] Doanh nghiệp “chết lâm sàng”: Gian nan làm thủ tục giải thể",
         "link": "https://vneconomy.vn/bai-1-doanh-nghiep-chet-lam-sang-gian-nan-lam-thu-tuc-giai-the.htm",
         "published": "Wed, 16 Sep 2026 02:49:19 GMT"
-      },
-      {
-        "title": "Chính sách cạnh tranh linh hoạt: Chìa khóa để Việt Nam thu hút FDI công nghệ",
-        "link": "https://vneconomy.vn/chinh-sach-canh-tranh-linh-hoat-chia-khoa-de-viet-nam-thu-hut-fdi-cong-nghe.htm",
-        "published": "Wed, 16 Sep 2026 01:03:00 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Nhịp đập Thị trường 16/09: Rung lắc quanh mốc tham chiếu, thị trường phân hóa rõ nét",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1609-rung-lac-quanh-moc-tham-chieu-thi-truong-phan-hoa-ro-net-1636-1492799.htm",
+        "published": "Wed, 16 Sep 2026 14:07:00 +0700"
+      },
       {
         "title": "Phân tích kỹ thuật phiên chiều 16/09: Giằng co biên độ hẹp",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1609-giang-co-bien-do-hep-585-1492865.htm",
@@ -91,18 +96,18 @@
         "title": "16/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1609-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492719.htm",
         "published": "Wed, 16 Sep 2026 06:02:00 +0700"
-      },
-      {
-        "title": "UBCKNN phạt Pacific Bridge và Việt Tâm về lỗi công bố thông tin",
-        "link": "http://vietstock.vn/2026/09/ubcknn-phat-pacific-bridge-va-viet-tam-ve-loi-cong-bo-thong-tin-830-1492697.htm",
-        "published": "Tue, 15 Sep 2026 20:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "UK inflation speeds up to 3.1% in August",
+        "title": "European shares rise as oil rally pauses; all eyes on Fed",
+        "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-rally-pauses-all-eyes-on-fed-4902994",
+        "published": "2026-09-16 07:18:27"
+      },
+      {
+        "title": "UK inflation hits 3.1% but data offers some relief for BoE",
         "link": "https://www.investing.com/news/economy-news/uk-inflation-speeds-up-to-31-in-august-4902906",
-        "published": "2026-09-16 06:18:24"
+        "published": "2026-09-16 07:06:29"
       },
       {
         "title": "Asian markets make shaky gains ahead of Fed decision, oil slips",
@@ -123,11 +128,6 @@
         "title": "U.S. 10-yr Treasury yields cool below 5% as Fed rate decision approaches",
         "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
         "published": "2026-09-16 05:19:57"
-      },
-      {
-        "title": "Dollar girded by bets on a US hiking cycle",
-        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
-        "published": "2026-09-16 04:54:52"
       }
     ]
   }
