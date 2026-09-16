@@ -1,8 +1,28 @@
 {
-  "fetched_at": "2026-09-16T03:41:31.369633",
+  "fetched_at": "2026-09-16T04:09:33.949108",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Biwase tiếp tục phân phối 6,6 triệu cổ phiếu cho 12 cá nhân",
+        "link": "https://cafef.vn/biwase-tiep-tuc-phan-phoi-66-trieu-co-phieu-cho-12-ca-nhan-188260916101727897.chn",
+        "published": "Wed, 16 Sep 26 11:00:00 +0700"
+      },
+      {
+        "title": "Đại gia Đặng Thành Tâm: \"Việt Nam không thể chỉ mãi là một công xưởng sản xuất\"",
+        "link": "https://cafef.vn/dai-gia-dang-thanh-tam-viet-nam-khong-the-chi-mai-la-mot-cong-xuong-san-xuat-188260916105940728.chn",
+        "published": "Wed, 16 Sep 26 10:59:00 +0700"
+      },
+      {
+        "title": "Doanh nghiệp của đại gia Nguyễn Đức Tài vừa lập kỷ lục chưa từng có",
+        "link": "https://cafef.vn/doanh-nghiep-cua-dai-gia-nguyen-duc-tai-vua-lap-ky-luc-chua-tung-co-188260916105633093.chn",
+        "published": "Wed, 16 Sep 26 10:56:00 +0700"
+      },
+      {
+        "title": "Ông Đặng Phan Tường bị khởi tố, doanh nghiệp triệu tập họp bất thường",
+        "link": "https://cafef.vn/ong-dang-phan-tuong-bi-khoi-to-doanh-nghiep-trieu-tap-hop-bat-thuong-188260916104326592.chn",
+        "published": "Wed, 16 Sep 26 10:42:00 +0700"
+      },
       {
         "title": "Tỷ phú Trần Đình Long đầu tư vào xe điện",
         "link": "https://cafef.vn/ty-phu-tran-dinh-long-dau-tu-vao-xe-dien-188260916102555498.chn",
@@ -12,29 +32,14 @@
         "title": "Giá vàng giảm sâu, loạt \"cá mập\" mạnh tay gom hàng",
         "link": "https://cafef.vn/gia-vang-giam-sau-loat-ca-map-manh-tay-gom-hang-188260916101741326.chn",
         "published": "Wed, 16 Sep 26 10:21:00 +0700"
-      },
-      {
-        "title": "Công ty chứng khoán gặp sự cố đặt lệnh trong 1 tiếng",
-        "link": "https://cafef.vn/cong-ty-chung-khoan-gap-su-co-dat-lenh-trong-1-tieng-188260916101836332.chn",
-        "published": "Wed, 16 Sep 26 10:18:00 +0700"
-      },
-      {
-        "title": "DNSE - Khi tăng trưởng không chỉ được đo bằng doanh thu và lợi nhuận",
-        "link": "https://cafef.vn/dnse-khi-tang-truong-khong-chi-duoc-do-bang-doanh-thu-va-loi-nhuan-18826091522515998.chn",
-        "published": "Wed, 16 Sep 26 08:30:00 +0700"
-      },
-      {
-        "title": "Ban lãnh đạo gia tăng sở hữu, AgriS (SBT) mở rộng nền tảng cổ đông",
-        "link": "https://cafef.vn/ban-lanh-dao-gia-tang-so-huu-agris-sbt-mo-rong-nen-tang-co-dong-18826091520463865.chn",
-        "published": "Wed, 16 Sep 26 08:00:00 +0700"
-      },
-      {
-        "title": "Từ New York, London đến Seoul đều muốn dòng tiền không ngủ, chứng khoán Việt Nam đang ở đâu?",
-        "link": "https://cafef.vn/tu-new-york-london-den-seoul-deu-muon-dong-tien-khong-ngu-chung-khoan-viet-nam-dang-o-dau-188260915232802235.chn",
-        "published": "Wed, 16 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Techcombank  Summit 2026: Ra mắt Techcom Wealth - Kiến tạo và trao quyền giá trị qua thế hệ",
+        "link": "https://vneconomy.vn/techcombank-summit-2026-ra-mat-techcom-wealth-kien-tao-va-trao-quyen-gia-tri-qua-the-he.htm",
+        "published": "Wed, 16 Sep 2026 04:02:51 GMT"
+      },
       {
         "title": "Thị trường trái phiếu chính phủ toàn cầu bán tháo, lợi suất cao nhất từ khủng hoảng tài chính",
         "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-ban-thao-loi-suat-cao-nhat-tu-khung-hoang-tai-chinh.htm",
@@ -59,11 +64,6 @@
         "title": "Giá vàng tiếp tục giảm trong lúc chờ tin Fed, SPDR Gold Trust mua ròng",
         "link": "https://vneconomy.vn/gia-vang-tiep-tuc-giam-trong-luc-cho-tin-fed-spdr-gold-trust-mua-rong.htm",
         "published": "Wed, 16 Sep 2026 00:30:15 GMT"
-      },
-      {
-        "title": "Venezuela và đề xuất đôla hóa để ổn định nền kinh tế",
-        "link": "https://vneconomy.vn/venezuela-va-de-xuat-dola-hoa-de-on-dinh-nen-kinh-te.htm",
-        "published": "Tue, 15 Sep 2026 12:00:38 GMT"
       }
     ],
     "Vietstock": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Asian markets brittle ahead of Fed decision, oil slips",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+        "published": "2026-09-16 03:36:28"
+      },
+      {
+        "title": "Sydney housing slump creates pandemic-sized hole in state tax take",
+        "link": "https://www.investing.com/news/economy-news/sydney-housing-slump-creates-pandemicsized-hole-in-state-tax-take-4902859",
+        "published": "2026-09-16 03:36:13"
+      },
+      {
         "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
         "link": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
         "published": "2026-09-16 02:48:26"
-      },
-      {
-        "title": "Asian markets make nervous start ahead of Fed decision",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-        "published": "2026-09-16 02:18:29"
       },
       {
         "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
@@ -123,11 +128,6 @@
         "title": "Dollar girded by bets on a US hiking cycle",
         "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
         "published": "2026-09-16 01:06:27"
-      },
-      {
-        "title": "Brazil’s top court postpones ruling on probe of justice in politically charged case",
-        "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
-        "published": "2026-09-16 00:42:52"
       }
     ]
   }
