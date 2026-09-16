@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-16T07:40:49.771225",
+  "fetched_at": "2026-09-16T08:10:21.510540",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "MBS bứt phá lên Top 6 CTCK đóng góp ngân sách lớn nhất, dấu ấn từ một năm tăng tốc",
+        "link": "https://cafef.vn/mbs-but-pha-len-top-6-ctck-dong-gop-ngan-sach-lon-nhat-dau-an-tu-mot-nam-tang-toc-188260916150127873.chn",
+        "published": "Wed, 16 Sep 26 15:00:00 +0700"
+      },
+      {
+        "title": "Nhà đầu tư chứng khoán \"nín thở\" đếm ngược 12 tiếng",
+        "link": "https://cafef.vn/nha-dau-tu-chung-khoan-nin-tho-dem-nguoc-12-tieng-188260916144842223.chn",
+        "published": "Wed, 16 Sep 26 14:50:00 +0700"
+      },
       {
         "title": "Em trai ông Nguyễn Duy Hưng chi hơn trăm tỷ mua cổ phiếu SSI ngay trước “giờ G” nâng hạng",
         "link": "https://cafef.vn/em-trai-ong-nguyen-duy-hung-chi-hon-tram-ty-mua-co-phieu-ssi-ngay-truoc-gio-g-nang-hang-188260916141311876.chn",
@@ -22,16 +32,6 @@
         "title": "Biwase tiếp tục phân phối 6,6 triệu cổ phiếu cho 12 cá nhân",
         "link": "https://cafef.vn/biwase-tiep-tuc-phan-phoi-66-trieu-co-phieu-cho-12-ca-nhan-188260916101727897.chn",
         "published": "Wed, 16 Sep 26 11:00:00 +0700"
-      },
-      {
-        "title": "Đại gia Đặng Thành Tâm: \"Việt Nam không thể chỉ mãi là một công xưởng sản xuất\"",
-        "link": "https://cafef.vn/dai-gia-dang-thanh-tam-viet-nam-khong-the-chi-mai-la-mot-cong-xuong-san-xuat-188260916105940728.chn",
-        "published": "Wed, 16 Sep 26 10:59:00 +0700"
-      },
-      {
-        "title": "Doanh nghiệp của đại gia Nguyễn Đức Tài vừa lập kỷ lục chưa từng có",
-        "link": "https://cafef.vn/doanh-nghiep-cua-dai-gia-nguyen-duc-tai-vua-lap-ky-luc-chua-tung-co-188260916105633093.chn",
-        "published": "Wed, 16 Sep 26 10:56:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar edges lower before expected Fed hike",
+        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
+        "published": "2026-09-16 07:55:14"
+      },
+      {
+        "title": "EU’s von der Leyen to invite frontier labs for talks on tackling AI risks",
+        "link": "https://www.investing.com/news/economy-news/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks-4903012",
+        "published": "2026-09-16 07:54:55"
+      },
+      {
+        "title": "Fed decision looms large; Zuckerberg on AI safety fears - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/fed-decision-looms-large-zuckerberg-on-ai-safety-fears--whats-moving-markets-4903013",
+        "published": "2026-09-16 07:49:08"
+      },
+      {
         "title": "European shares rise as oil rally pauses; all eyes on Fed",
         "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-rally-pauses-all-eyes-on-fed-4902994",
         "published": "2026-09-16 07:18:27"
@@ -113,21 +128,6 @@
         "title": "Asian markets make shaky gains ahead of Fed decision, oil slips",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
         "published": "2026-09-16 05:54:46"
-      },
-      {
-        "title": "Hong Kong’s first five-year plan aims to add jobs, homes",
-        "link": "https://www.investing.com/news/economy-news/hong-kong-unveils-first-fiveyear-plan-to-add-jobs-homes-align-closer-to-mainland-china-4902872",
-        "published": "2026-09-16 05:54:30"
-      },
-      {
-        "title": "France would back Dutch veteran Knot to lead ECB, wants chief economist job, sources say",
-        "link": "https://www.investing.com/news/economy-news/exclusivefrance-would-back-dutch-veteran-knot-to-lead-ecb-wants-chief-economist-job-sources-say-4902295",
-        "published": "2026-09-16 05:30:41"
-      },
-      {
-        "title": "U.S. 10-yr Treasury yields cool below 5% as Fed rate decision approaches",
-        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
-        "published": "2026-09-16 05:19:57"
       }
     ]
   }
