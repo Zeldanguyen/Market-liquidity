@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T02:40:49.371484",
+  "fetched_at": "2026-09-16T03:09:37.611955",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Thị trường trái phiếu chính phủ toàn cầu bán tháo, lợi suất cao nhất từ khủng hoảng tài chính",
+        "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-ban-thao-loi-suat-cao-nhat-tu-khung-hoang-tai-chinh.htm",
+        "published": "Wed, 16 Sep 2026 03:09:33 GMT"
+      },
+      {
+        "title": "Bài 1 - Doanh nghiệp “chết lâm sàng”: Gian nan làm thủ tục giải thể",
+        "link": "https://vneconomy.vn/bai-1-doanh-nghiep-chet-lam-sang-gian-nan-lam-thu-tuc-giai-the.htm",
+        "published": "Wed, 16 Sep 2026 02:49:19 GMT"
+      },
+      {
         "title": "Chính sách cạnh tranh linh hoạt: Chìa khóa để Việt Nam thu hút FDI công nghệ",
         "link": "https://vneconomy.vn/chinh-sach-canh-tranh-linh-hoat-chia-khoa-de-viet-nam-thu-hut-fdi-cong-nghe.htm",
         "published": "Wed, 16 Sep 2026 01:03:00 GMT"
@@ -54,16 +64,6 @@
         "title": "Venezuela và đề xuất đôla hóa để ổn định nền kinh tế",
         "link": "https://vneconomy.vn/venezuela-va-de-xuat-dola-hoa-de-on-dinh-nen-kinh-te.htm",
         "published": "Tue, 15 Sep 2026 12:00:38 GMT"
-      },
-      {
-        "title": "Mối quan hệ giữa Tổng thống Trump và Chủ tịch Fed liệu có xấu đi sau cuộc họp tuần này?",
-        "link": "https://vneconomy.vn/moi-quan-he-giua-tong-thong-trump-va-chu-tich-fed-lieu-co-xau-di-sau-cuoc-hop-tuan-nay.htm",
-        "published": "Tue, 15 Sep 2026 11:59:30 GMT"
-      },
-      {
-        "title": "Thứ trưởng Bộ Tài chính: Bảo đảm đối xử bình đẳng và bảo hộ đầy đủ quyền, lợi ích của nhà đầu tư",
-        "link": "https://vneconomy.vn/thu-truong-bo-tai-chinh-bao-dam-doi-xu-binh-dang-va-bao-ho-day-du-quyen-loi-ich-cua-nha-dau-tu.htm",
-        "published": "Tue, 15 Sep 2026 10:13:38 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
+        "link": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
+        "published": "2026-09-16 02:48:26"
+      },
+      {
         "title": "Asian markets make nervous start ahead of Fed decision",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
         "published": "2026-09-16 02:18:29"
@@ -123,11 +128,6 @@
         "title": "Brazil’s top court postpones ruling on probe of justice in politically charged case",
         "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
         "published": "2026-09-16 00:42:52"
-      },
-      {
-        "title": "New Zealand parliament passes India trade deal, cutting tariffs on most exports",
-        "link": "https://www.investing.com/news/economy-news/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports-4902792",
-        "published": "2026-09-16 00:30:27"
       }
     ]
   }
