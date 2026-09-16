@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T15:10:13.482844",
+  "fetched_at": "2026-09-16T15:40:23.373149",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Miễn nhiệm ông Nguyễn Trọng Đức",
+        "link": "https://cafef.vn/mien-nhiem-ong-nguyen-trong-duc-188260916222131032.chn",
+        "published": "Wed, 16 Sep 26 22:22:00 +0700"
+      },
       {
         "title": "Một công ty quản lý quỹ bị xử phạt do vi phạm công bố thông tin",
         "link": "https://cafef.vn/mot-cong-ty-quan-ly-quy-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260916203508002.chn",
@@ -27,11 +32,6 @@
         "title": "Một DN sắp trả thêm 1.500 đồng/cp sau năm trả cổ tức kỷ lục, đều đặn \"chia tiền\" suốt 11 năm",
         "link": "https://cafef.vn/mot-dn-sap-tra-them-1500-dong-cp-sau-nam-tra-co-tuc-ky-luc-deu-dan-chia-tien-suot-11-nam-188260916161113847.chn",
         "published": "Wed, 16 Sep 26 18:09:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu SSB tăng 48% trong chưa đầy 1 tháng: Dòng tiền nào đứng sau?",
-        "link": "https://cafef.vn/co-phieu-ssb-tang-48-trong-chua-day-1-thang-dong-tien-nao-dung-sau-188260916164435557.chn",
-        "published": "Wed, 16 Sep 26 16:44:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "ECB’s Pereira: Inflation not yet broadening as in the past",
+        "link": "https://www.investing.com/news/economy-news/ecbs-pereira-inflation-not-yet-broadening-as-in-the-past-4904077",
+        "published": "2026-09-16 15:19:17"
+      },
+      {
+        "title": "ECB’s Pereira says inflation not spreading as fast as in 2022",
+        "link": "https://www.investing.com/news/economy-news/ecbs-pereira-says-inflation-not-spreading-as-fast-as-in-2022-93CH-4904071",
+        "published": "2026-09-16 15:12:57"
+      },
+      {
         "title": "US business inventories rise more than expected in July",
         "link": "https://www.investing.com/news/economy-news/us-business-inventories-rise-more-than-expected-in-july-93CH-4904041",
         "published": "2026-09-16 14:50:09"
@@ -118,16 +128,6 @@
         "title": "Ukraine proposes record defence spending next year as war costs soar",
         "link": "https://www.investing.com/news/economy-news/ukraine-proposes-record-defence-spending-next-year-as-war-costs-soar-4903869",
         "published": "2026-09-16 13:25:33"
-      },
-      {
-        "title": "US import prices jump in August on strength in capital, consumer goods",
-        "link": "https://www.investing.com/news/economy-news/us-import-prices-jump-in-august-on-strength-in-capital-consumer-goods-4903830",
-        "published": "2026-09-16 13:12:26"
-      },
-      {
-        "title": "China’s Huawei forecasts billions of agents will dominate AI traffic by 2035",
-        "link": "https://www.investing.com/news/economy-news/chinas-huawei-forecasts-billions-of-agents-will-dominate-ai-traffic-by-2035-4903756",
-        "published": "2026-09-16 13:00:40"
       }
     ]
   }
