@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T15:40:23.373149",
+  "fetched_at": "2026-09-16T16:10:51.452047",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Robust US retail sales underscore economy’s resilience; inflation pressures building",
+        "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
+        "published": "2026-09-16 16:00:58"
+      },
+      {
+        "title": "Stocks gain as yields retreat ahead of Fed rate decision",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+        "published": "2026-09-16 15:54:35"
+      },
+      {
+        "title": "Calls to slow down AI development serve the interests of US AI leaders, says French finance minister",
+        "link": "https://www.investing.com/news/economy-news/calls-to-slow-down-ai-development-serve-the-interests-of-us-ai-leaders-says-french-finance-minister-4904096",
+        "published": "2026-09-16 15:30:31"
+      },
+      {
         "title": "ECB’s Pereira: Inflation not yet broadening as in the past",
         "link": "https://www.investing.com/news/economy-news/ecbs-pereira-inflation-not-yet-broadening-as-in-the-past-4904077",
         "published": "2026-09-16 15:19:17"
@@ -113,21 +128,6 @@
         "title": "US business inventories rise more than expected in July",
         "link": "https://www.investing.com/news/economy-news/us-business-inventories-rise-more-than-expected-in-july-93CH-4904041",
         "published": "2026-09-16 14:50:09"
-      },
-      {
-        "title": "US retail sales rebound more than expected in August; import prices surge",
-        "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
-        "published": "2026-09-16 14:31:03"
-      },
-      {
-        "title": "US homebuilder sentiment drops to 12-month low in September",
-        "link": "https://www.investing.com/news/economy-news/us-homebuilder-sentiment-drops-to-12month-low-in-september-4903974",
-        "published": "2026-09-16 14:08:00"
-      },
-      {
-        "title": "Ukraine proposes record defence spending next year as war costs soar",
-        "link": "https://www.investing.com/news/economy-news/ukraine-proposes-record-defence-spending-next-year-as-war-costs-soar-4903869",
-        "published": "2026-09-16 13:25:33"
       }
     ]
   }
