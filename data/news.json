@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-16T01:09:00.258558",
+  "fetched_at": "2026-09-16T01:39:02.471865",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "DNSE - Khi tăng trưởng không chỉ được đo bằng doanh thu và lợi nhuận",
+        "link": "https://cafef.vn/dnse-khi-tang-truong-khong-chi-duoc-do-bang-doanh-thu-va-loi-nhuan-18826091522515998.chn",
+        "published": "Wed, 16 Sep 26 08:30:00 +0700"
+      },
       {
         "title": "Ban lãnh đạo gia tăng sở hữu, AgriS (SBT) mở rộng nền tảng cổ đông",
         "link": "https://cafef.vn/ban-lanh-dao-gia-tang-so-huu-agris-sbt-mo-rong-nen-tang-co-dong-18826091520463865.chn",
@@ -27,14 +32,19 @@
         "title": "Nhà máy lọc dầu 3 tỷ USD của Việt Nam có \"tin vui\"",
         "link": "https://cafef.vn/nha-may-loc-dau-3-ty-usd-cua-viet-nam-co-tin-vui-188260915220432192.chn",
         "published": "Wed, 16 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Nỗi buồn mang tên cổ phiếu IPO",
-        "link": "https://cafef.vn/noi-buon-mang-ten-co-phieu-ipo-188260915232452861.chn",
-        "published": "Wed, 16 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Chính sách cạnh tranh linh hoạt: Chìa khóa để Việt Nam thu hút FDI công nghệ",
+        "link": "https://vneconomy.vn/chinh-sach-canh-tranh-linh-hoat-chia-khoa-de-viet-nam-thu-hut-fdi-cong-nghe.htm",
+        "published": "Wed, 16 Sep 2026 01:03:00 GMT"
+      },
+      {
+        "title": "SHB tăng cường lớp bảo vệ trong giao dịch chuyển tiền trực tuyến",
+        "link": "https://vneconomy.vn/shb-tang-cuong-lop-bao-ve-trong-giao-dich-chuyen-tien-truc-tuyen.htm",
+        "published": "Wed, 16 Sep 2026 01:00:00 GMT"
+      },
       {
         "title": "Giá vàng tiếp tục giảm trong lúc chờ tin Fed, SPDR Gold Trust mua ròng",
         "link": "https://vneconomy.vn/gia-vang-tiep-tuc-giam-trong-luc-cho-tin-fed-spdr-gold-trust-mua-rong.htm",
@@ -54,19 +64,14 @@
         "title": "Thứ trưởng Bộ Tài chính: Bảo đảm đối xử bình đẳng và bảo hộ đầy đủ quyền, lợi ích của nhà đầu tư",
         "link": "https://vneconomy.vn/thu-truong-bo-tai-chinh-bao-dam-doi-xu-binh-dang-va-bao-ho-day-du-quyen-loi-ich-cua-nha-dau-tu.htm",
         "published": "Tue, 15 Sep 2026 10:13:38 GMT"
-      },
-      {
-        "title": "Tỷ giá tăng nhanh, Ngân hàng Nhà nước rút bớt thanh khoản",
-        "link": "https://vneconomy.vn/ty-gia-tang-nhanh-ngan-hang-nha-nuoc-rut-bot-thanh-khoan.htm",
-        "published": "Tue, 15 Sep 2026 09:30:38 GMT"
-      },
-      {
-        "title": "Nỗ lực siết thuế người giàu của Trung Quốc mới chỉ bắt đầu",
-        "link": "https://vneconomy.vn/no-luc-siet-thue-nguoi-giau-cua-trung-quoc-moi-chi-bat-dau.htm",
-        "published": "Tue, 15 Sep 2026 06:57:22 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 16/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1609-830-1492616.htm",
+        "published": "Wed, 16 Sep 2026 08:00:00 +0700"
+      },
       {
         "title": "16/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1609-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1492719.htm",
@@ -91,14 +96,19 @@
         "title": "VNT giải trình cổ phiếu tăng trần 5 phiên liên tiếp",
         "link": "http://vietstock.vn/2026/09/vnt-giai-trinh-co-phieu-tang-tran-5-phien-lien-tiep-830-1492517.htm",
         "published": "Tue, 15 Sep 2026 17:00:00 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 15/09: Khối ngoại tiếp tục mua ròng",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1509-khoi-ngoai-tiep-tuc-mua-rong-1636-1492386.htm",
-        "published": "Tue, 15 Sep 2026 16:47:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Asian markets make nervous start ahead of Fed decision",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+        "published": "2026-09-16 01:30:25"
+      },
+      {
+        "title": "Dollar girded by bets on a US hiking cycle",
+        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
+        "published": "2026-09-16 01:06:27"
+      },
       {
         "title": "Brazil’s top court postpones ruling on probe of justice in politically charged case",
         "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
@@ -118,16 +128,6 @@
         "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
         "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
         "published": "2026-09-15 23:55:15"
-      },
-      {
-        "title": "AI is not a ’monopoly of great powers’, China’s top newspaper says",
-        "link": "https://www.investing.com/news/economy-news/ai-is-not-a-monopoly-of-great-powers-chinas-top-newspaper-says-4902766",
-        "published": "2026-09-15 23:48:45"
-      },
-      {
-        "title": "US House committee recommends contempt of Congress for Leon Black in Epstein probe",
-        "link": "https://www.investing.com/news/economy-news/us-house-committee-recommends-contempt-of-congress-for-leon-black-in-epstein-probe-4902728",
-        "published": "2026-09-15 22:12:34"
       }
     ]
   }
