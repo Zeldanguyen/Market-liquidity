@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T14:41:26.081290",
+  "fetched_at": "2026-09-16T15:10:13.482844",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US business inventories rise more than expected in July",
+        "link": "https://www.investing.com/news/economy-news/us-business-inventories-rise-more-than-expected-in-july-93CH-4904041",
+        "published": "2026-09-16 14:50:09"
+      },
+      {
         "title": "US retail sales rebound more than expected in August; import prices surge",
         "link": "https://www.investing.com/news/economy-news/us-retail-sales-rebound-sharply-in-august-4903728",
-        "published": "2026-09-16 14:24:50"
+        "published": "2026-09-16 14:31:03"
       },
       {
         "title": "US homebuilder sentiment drops to 12-month low in September",
@@ -123,11 +128,6 @@
         "title": "China’s Huawei forecasts billions of agents will dominate AI traffic by 2035",
         "link": "https://www.investing.com/news/economy-news/chinas-huawei-forecasts-billions-of-agents-will-dominate-ai-traffic-by-2035-4903756",
         "published": "2026-09-16 13:00:40"
-      },
-      {
-        "title": "Brazil’s July activity falls more than expected ahead of rate decision",
-        "link": "https://www.investing.com/news/economy-news/brazils-july-activity-falls-more-than-expected-ahead-of-rate-decision-4903727",
-        "published": "2026-09-16 12:42:55"
       }
     ]
   }
