@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T00:12:13.058372",
+  "fetched_at": "2026-09-16T00:44:04.090919",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng tiếp tục giảm trong lúc chờ tin Fed, SPDR Gold Trust mua ròng",
+        "link": "https://vneconomy.vn/gia-vang-tiep-tuc-giam-trong-luc-cho-tin-fed-spdr-gold-trust-mua-rong.htm",
+        "published": "Wed, 16 Sep 2026 00:30:15 GMT"
+      },
+      {
         "title": "Venezuela và đề xuất đôla hóa để ổn định nền kinh tế",
         "link": "https://vneconomy.vn/venezuela-va-de-xuat-dola-hoa-de-on-dinh-nen-kinh-te.htm",
         "published": "Tue, 15 Sep 2026 12:00:38 GMT"
@@ -59,11 +64,6 @@
         "title": "Nỗ lực siết thuế người giàu của Trung Quốc mới chỉ bắt đầu",
         "link": "https://vneconomy.vn/no-luc-siet-thue-nguoi-giau-cua-trung-quoc-moi-chi-bat-dau.htm",
         "published": "Tue, 15 Sep 2026 06:57:22 GMT"
-      },
-      {
-        "title": "Nhật Bản lo ngại áp lực lạm phát, có thể đẩy nhanh tốc độ tăng lãi suất",
-        "link": "https://vneconomy.vn/nhat-ban-lo-ngai-ap-luc-lam-phat-co-the-day-nhanh-toc-do-tang-lai-suat.htm",
-        "published": "Tue, 15 Sep 2026 03:26:18 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "New Zealand parliament passes India trade deal, cutting tariffs on most exports",
+        "link": "https://www.investing.com/news/economy-news/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports-4902792",
+        "published": "2026-09-16 00:30:27"
+      },
+      {
+        "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+        "published": "2026-09-15 23:55:15"
+      },
+      {
         "title": "AI is not a ’monopoly of great powers’, China’s top newspaper says",
         "link": "https://www.investing.com/news/economy-news/ai-is-not-a-monopoly-of-great-powers-chinas-top-newspaper-says-4902766",
         "published": "2026-09-15 23:48:45"
@@ -110,11 +120,6 @@
         "published": "2026-09-15 22:12:34"
       },
       {
-        "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-        "published": "2026-09-15 21:55:31"
-      },
-      {
         "title": "Burnham and Trump to hold first face-to-face meeting in New York - The Times",
         "link": "https://www.investing.com/news/economy-news/burnham-and-trump-to-hold-first-facetoface-meeting-in-new-york--the-times-4902699",
         "published": "2026-09-15 21:37:57"
@@ -123,11 +128,6 @@
         "title": "Trading Day: No hiding place",
         "link": "https://www.investing.com/news/economy-news/trading-day-no-hiding-place-4902677",
         "published": "2026-09-15 21:20:10"
-      },
-      {
-        "title": "Argentina submits 2027 budget bill to Congress, foresees 4% GDP growth",
-        "link": "https://www.investing.com/news/economy-news/argentina-submits-2027-budget-bill-to-congress-foresees-4-gdp-growth-4902554",
-        "published": "2026-09-15 20:24:32"
       }
     ]
   }
