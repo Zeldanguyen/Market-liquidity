@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T19:39:14.570103",
+  "fetched_at": "2026-09-16T20:10:19.948883",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,24 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "KeyCorp raises prime rate after Fed decision",
+        "title": "U.S. 10-year Treasury yield tops 5% again as Fed’s Warsh spotlights inflation risk",
+        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
+        "published": "2026-09-16 19:56:10"
+      },
+      {
+        "title": "Stocks fall as Fed delivers hawkish rate hike",
+        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+        "published": "2026-09-16 19:54:24"
+      },
+      {
+        "title": "US banks raise prime rate after Fed decision",
         "link": "https://www.investing.com/news/economy-news/keycorp-raises-prime-rate-after-fed-decision-4904369",
-        "published": "2026-09-16 19:30:32"
+        "published": "2026-09-16 19:48:32"
+      },
+      {
+        "title": "Gulf central banks raise rates following Fed decision",
+        "link": "https://www.investing.com/news/economy-news/gulf-central-banks-raise-rates-following-fed-decision-93CH-4904373",
+        "published": "2026-09-16 19:36:10"
       },
       {
         "title": "Fed raises rates for first time since 2023, Warsh says inflation still too high",
@@ -113,21 +128,6 @@
         "title": "Warsh says US economy has strengthened, inflation is the problem",
         "link": "https://www.investing.com/news/economy-news/warsh-says-us-economy-has-strengthened-inflation-is-the-problem-4904340",
         "published": "2026-09-16 19:13:22"
-      },
-      {
-        "title": "Dollar rises after Fed hikes rates in bid to counter inflation",
-        "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
-        "published": "2026-09-16 19:13:02"
-      },
-      {
-        "title": "Warsh says Fed focus to stay on inflation, underlying trends have not meaningfully improved",
-        "link": "https://www.investing.com/news/economy-news/warsh-says-fed-focus-to-stay-on-inflation-underlying-trends-have-not-meaningfully-improved-4904317",
-        "published": "2026-09-16 18:55:02"
-      },
-      {
-        "title": "What do higher rates mean for borrowers and savers?",
-        "link": "https://www.investing.com/news/economy-news/what-do-higher-rates-mean-for-borrowers-and-savers-4904310",
-        "published": "2026-09-16 18:48:43"
       }
     ]
   }
