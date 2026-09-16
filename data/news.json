@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T20:40:57.647884",
+  "fetched_at": "2026-09-16T21:09:53.682550",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump says US interest rates should be 1% or lower",
+        "link": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
+        "published": "2026-09-16 20:48:32"
+      },
+      {
+        "title": "Fed rate hike pushes two-year Treasury yields to highest since July 2024",
+        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-pushes-twoyear-treasury-yields-to-highest-since-july-2024-93CH-4904517",
+        "published": "2026-09-16 20:31:13"
+      },
+      {
         "title": "Stocks fall as Fed delivers hawkish rate hike",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
         "published": "2026-09-16 20:18:34"
@@ -118,16 +128,6 @@
         "title": "U.S. 10-year Treasury yield tops 5% again as Fed’s Warsh spotlights inflation risk",
         "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
         "published": "2026-09-16 19:56:10"
-      },
-      {
-        "title": "Gulf central banks raise rates following Fed decision",
-        "link": "https://www.investing.com/news/economy-news/gulf-central-banks-raise-rates-following-fed-decision-93CH-4904373",
-        "published": "2026-09-16 19:36:10"
-      },
-      {
-        "title": "Warsh says US economy has strengthened, inflation is the problem",
-        "link": "https://www.investing.com/news/economy-news/warsh-says-us-economy-has-strengthened-inflation-is-the-problem-4904340",
-        "published": "2026-09-16 19:13:22"
       }
     ]
   }
