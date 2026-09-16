@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T21:09:53.682550",
+  "fetched_at": "2026-09-16T21:40:35.955432",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Trump says US interest rates should be 1% or lower",
-        "link": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
-        "published": "2026-09-16 20:48:32"
-      },
-      {
-        "title": "Fed rate hike pushes two-year Treasury yields to highest since July 2024",
-        "link": "https://www.investing.com/news/economy-news/fed-rate-hike-pushes-twoyear-treasury-yields-to-highest-since-july-2024-93CH-4904517",
-        "published": "2026-09-16 20:31:13"
+        "title": "Fed’s Warsh lays out forces driving up bond yields",
+        "link": "https://www.investing.com/news/economy-news/feds-warsh-lays-out-forces-driving-up-bond-yields-4904580",
+        "published": "2026-09-16 21:19:14"
       },
       {
         "title": "Stocks fall as Fed delivers hawkish rate hike",
         "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-        "published": "2026-09-16 20:18:34"
+        "published": "2026-09-16 21:18:54"
       },
       {
-        "title": "US banks raise prime rate after Fed decision",
+        "title": "Major US banks raise prime lending rate after Fed hike",
+        "link": "https://www.investing.com/news/economy-news/major-us-banks-raise-prime-lending-rate-after-fed-hike-93CH-4904586",
+        "published": "2026-09-16 21:18:44"
+      },
+      {
+        "title": "Fed policymakers forecast one more rate hike this year",
+        "link": "https://www.investing.com/news/economy-news/fed-forecasts-see-latest-hike-followed-by-another-before-end-of-year-4904264",
+        "published": "2026-09-16 21:12:35"
+      },
+      {
+        "title": "Trump calls for interest rates of 1% after Fed’s first hike since July 2023",
+        "link": "https://www.investing.com/news/economy-news/trump-calls-for-interest-rates-of-1-after-feds-first-hike-since-july-2023-4904577",
+        "published": "2026-09-16 21:11:29"
+      },
+      {
+        "title": "Major US banks raise prime rate after first Fed rate hike since 2023",
         "link": "https://www.investing.com/news/economy-news/keycorp-raises-prime-rate-after-fed-decision-4904369",
-        "published": "2026-09-16 20:12:49"
-      },
-      {
-        "title": "Fed raises rates for first time since 2023, Warsh says inflation still too high",
-        "link": "https://www.investing.com/news/economy-news/fed-hikes-key-policy-rate-by-25-basis-points-as-widely-expected-4904237",
-        "published": "2026-09-16 20:02:44"
-      },
-      {
-        "title": "U.S. 10-year Treasury yield tops 5% again as Fed’s Warsh spotlights inflation risk",
-        "link": "https://www.investing.com/news/economy-news/us-10yr-treasury-yields-cool-below-5-as-fed-meeting-approaches-4902881",
-        "published": "2026-09-16 19:56:10"
+        "published": "2026-09-16 21:06:53"
       }
     ]
   }
