@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T22:39:32.712948",
+  "fetched_at": "2026-09-16T23:09:22.675934",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump lashes out at Fed after Warsh backs rate hike",
+        "link": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
+        "published": "2026-09-16 23:01:30"
+      },
+      {
+        "title": "Scientists challenge US NIH grant screening as unconstitutional",
+        "link": "https://www.investing.com/news/economy-news/scientists-challenge-us-nih-grant-screening-as-unconstitutional-4904669",
+        "published": "2026-09-16 22:54:50"
+      },
+      {
+        "title": "US International Development Finance Corp approves more than $8 billion in new investments",
+        "link": "https://www.investing.com/news/economy-news/us-international-development-finance-corp-approves-more-than-8-billion-in-new-investments-4904664",
+        "published": "2026-09-16 22:48:15"
+      },
+      {
+        "title": "Brazil central bank delivers fifth straight rate cut, leaves next move open",
+        "link": "https://www.investing.com/news/economy-news/brazil-central-bank-cuts-rates-for-fifth-straight-meeting-4904608",
+        "published": "2026-09-16 22:31:46"
+      },
+      {
         "title": "Trump administration can proceed with homelessness program overhaul, US court rules",
         "link": "https://www.investing.com/news/economy-news/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-rules-4904643",
         "published": "2026-09-16 22:12:53"
       },
       {
-        "title": "Brazil central bank delivers fifth straight rate cut, leaves next move open",
-        "link": "https://www.investing.com/news/economy-news/brazil-central-bank-cuts-rates-for-fifth-straight-meeting-4904608",
-        "published": "2026-09-16 22:02:06"
-      },
-      {
         "title": "Judge in Kennedy Center case orders Trump administration to explain closure plans",
         "link": "https://www.investing.com/news/economy-news/judge-in-kennedy-center-case-orders-trump-administration-to-explain-closure-plans-4904590",
         "published": "2026-09-16 21:24:36"
-      },
-      {
-        "title": "Fed’s Warsh lays out forces driving up bond yields",
-        "link": "https://www.investing.com/news/economy-news/feds-warsh-lays-out-forces-driving-up-bond-yields-4904580",
-        "published": "2026-09-16 21:19:14"
-      },
-      {
-        "title": "Stocks fall as Fed delivers hawkish rate hike",
-        "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
-        "published": "2026-09-16 21:18:54"
-      },
-      {
-        "title": "Major US banks raise prime lending rate after Fed hike",
-        "link": "https://www.investing.com/news/economy-news/major-us-banks-raise-prime-lending-rate-after-fed-hike-93CH-4904586",
-        "published": "2026-09-16 21:18:44"
       }
     ]
   }
