@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T22:37:27.320019",
+  "fetched_at": "2026-09-17T23:08:14.471688",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+        "published": "2026-09-17 22:48:29"
+      },
+      {
         "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
         "link": "https://www.investing.com/news/economy-news/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models-4906530",
         "published": "2026-09-17 22:12:29"
@@ -123,11 +128,6 @@
         "title": "Trading Day: Lower oil, yields boost stocks",
         "link": "https://www.investing.com/news/economy-news/trading-day-lower-oil-yields-boost-stocks-4906478",
         "published": "2026-09-17 21:13:45"
-      },
-      {
-        "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-        "published": "2026-09-17 20:54:30"
       }
     ]
   }
