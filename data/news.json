@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-17T12:11:40.106886",
+  "fetched_at": "2026-09-17T12:44:13.457160",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "FTSE Russell cam kết hỗ trợ toàn diện cho thị trường vốn của Việt Nam",
+        "link": "https://cafef.vn/ftse-russell-cam-ket-ho-tro-toan-dien-cho-thi-truong-von-cua-viet-nam-188260917193411426.chn",
+        "published": "Thu, 17 Sep 26 19:33:56 +0700"
+      },
       {
         "title": "Gemadept chuẩn bị chia cổ phiếu thưởng tỷ lệ 50%",
         "link": "https://cafef.vn/gemadept-chuan-bi-chia-co-phieu-thuong-ty-le-50-188260917190139131.chn",
@@ -27,11 +32,6 @@
         "title": "Đại diện Bộ Tài chính: Mục tiêu quy mô tổng tài sản các quỹ hưu trí tăng trưởng bình quân 14,5% trong giai đoạn 2026–2030",
         "link": "https://cafef.vn/dai-dien-bo-tai-chinh-muc-tieu-quy-mo-tong-tai-san-cac-quy-huu-tri-tang-truong-binh-quan-145-trong-giai-doan-20262030-188260917170413332.chn",
         "published": "Thu, 17 Sep 26 17:04:00 +0700"
-      },
-      {
-        "title": "Ông Nguyễn Như Hoàng Tuấn bị khai trừ khỏi Đảng",
-        "link": "https://cafef.vn/ong-nguyen-nhu-hoang-tuan-bi-khai-tru-khoi-dang-188260917161929755.chn",
-        "published": "Thu, 17 Sep 26 16:21:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,9 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bank of England sounds inflation alarm as it holds interest rates",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
+        "published": "2026-09-17 12:25:27"
+      },
+      {
         "title": "EU and Canada are stronger together, Carney says after Trump derides EU alliance",
         "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
-        "published": "2026-09-17 12:07:29"
+        "published": "2026-09-17 12:25:11"
+      },
+      {
+        "title": "Bank of England policymakers set out views on rates outlook",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-policymakers-set-out-views-on-rates-outlook-4905589",
+        "published": "2026-09-17 12:24:34"
+      },
+      {
+        "title": "King Charles warns AI leaders of existential risks if technology falls into wrong hands",
+        "link": "https://www.investing.com/news/economy-news/king-charles-warns-ai-leaders-of-existential-risks-if-technology-falls-into-wrong-hands-4905570",
+        "published": "2026-09-17 12:18:33"
       },
       {
         "title": "ECB’s Rehn sees no second-round inflation, backs joint debt for defence",
@@ -113,21 +128,6 @@
         "title": "US stock futures rise as oil pullback amplifies Fed rate-hike boost",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
         "published": "2026-09-17 11:55:33"
-      },
-      {
-        "title": "ECB’s Rehn sees no clear signs of second-round inflation effects",
-        "link": "https://www.investing.com/news/economy-news/ecbs-rehn-sees-no-clear-signs-of-secondround-inflation-effects-93CH-4905467",
-        "published": "2026-09-17 11:55:09"
-      },
-      {
-        "title": "Dollar eases from peak as oil prices extend decline, BoJ in focus",
-        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
-        "published": "2026-09-17 11:43:29"
-      },
-      {
-        "title": "Bank of England sounds inflation alarm as it holds interest rates",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
-        "published": "2026-09-17 11:30:29"
       }
     ]
   }
