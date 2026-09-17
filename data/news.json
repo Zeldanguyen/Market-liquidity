@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-17T11:09:19.207432",
+  "fetched_at": "2026-09-17T11:40:19.373839",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu chứng khoán hút mạnh dòng tiền",
+        "link": "https://cafef.vn/co-phieu-chung-khoan-hut-manh-dong-tien-188260917181218881.chn",
+        "published": "Thu, 17 Sep 26 18:12:00 +0700"
+      },
       {
         "title": "Ngày mai, Bộ Tài chính, UBCKNN sẽ tổ chức hội nghị nâng hạng với FTSE Russell, Vanguard, BlackRock...",
         "link": "https://cafef.vn/ngay-mai-bo-tai-chinh-ubcknn-se-to-chuc-hoi-nghi-nang-hang-voi-ftse-russell-vanguard-blackrock-188260917174335589.chn",
@@ -27,11 +32,6 @@
         "title": "Phiên 17/9: Khối ngoại quay đầu bán ròng, 3 cổ phiếu bị \"xả\" tổng cộng hơn 500 tỷ đồng",
         "link": "https://cafef.vn/phien-17-9-khoi-ngoai-quay-dau-ban-rong-3-co-phieu-bi-xa-tong-cong-hon-500-ty-dong-188260917154019772.chn",
         "published": "Thu, 17 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Ông Lê Quang Hải nhận nhiệm vụ mới tại một doanh nghiệp thép",
-        "link": "https://cafef.vn/ong-le-quang-hai-nhan-nhiem-vu-moi-tai-mot-doanh-nghiep-thep-188260917153120987.chn",
-        "published": "Thu, 17 Sep 26 15:44:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Lula and Bolsonaro remain tied in Brazil election poll",
-        "link": "https://www.investing.com/news/economy-news/lula-and-bolsonaro-remain-tied-in-brazil-election-poll-93CH-4905201",
-        "published": "2026-09-17 10:28:48"
+        "title": "Bank of England keeps interest rates steady, hints at future hikes",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-keeps-interest-rates-on-hold-at-375-4905319",
+        "published": "2026-09-17 11:27:27"
       },
       {
-        "title": "EU and Canada are stronger together, Carney says after Trump derides EU alliance",
-        "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
-        "published": "2026-09-17 10:26:26"
+        "title": "Indonesia parliament discusses changes to fiscal deficit limit",
+        "link": "https://www.investing.com/news/economy-news/indonesia-parliament-discusses-changes-to-fiscal-deficit-limit-4905114",
+        "published": "2026-09-17 11:18:28"
       },
       {
-        "title": "Thai monetary policy ’very, very accommodative’, no change to growth outlook, central bank official says",
-        "link": "https://www.investing.com/news/economy-news/thai-monetary-policy-very-veryaccommodative-no-change-to-growth-outlook-central-bank-official-says-4905192",
-        "published": "2026-09-17 10:25:07"
+        "title": "Bank of England sounds inflation alarm as it holds interest rates",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
+        "published": "2026-09-17 11:13:00"
       },
       {
-        "title": "Huawei chair says Chinese AI not yet advanced enough to face safety risks",
-        "link": "https://www.investing.com/news/economy-news/huawei-chair-says-chinese-ai-not-yet-advanced-enough-to-face-safety-risks-4905189",
-        "published": "2026-09-17 10:22:03"
+        "title": "World Bank boosts private capital mobilization to record $112 billion",
+        "link": "https://www.investing.com/news/economy-news/world-bank-boosts-private-capital-mobilization-to-record-112-billion-4905331",
+        "published": "2026-09-17 11:12:33"
       },
       {
-        "title": "Germany calls for EU tariffs on Chinese hybrid cars",
-        "link": "https://www.investing.com/news/economy-news/germany-calls-for-eu-tariffs-on-chinese-hybrid-cars-93CH-4905185",
-        "published": "2026-09-17 10:18:01"
+        "title": "Canada will decide trade deals independently, Carney tells Trump",
+        "link": "https://www.investing.com/news/economy-news/canada-will-decide-trade-deals-independently-carney-tells-trump-93CH-4905275",
+        "published": "2026-09-17 10:59:00"
       },
       {
-        "title": "China youth unemployment climbs to 18.9% in August",
-        "link": "https://www.investing.com/news/economy-news/china-youth-unemployment-climbs-to-189-in-august-93CH-4905184",
-        "published": "2026-09-17 10:16:44"
+        "title": "German states call for urgent automotive industry support",
+        "link": "https://www.investing.com/news/economy-news/german-states-call-for-urgent-automotive-industry-support-93CH-4905274",
+        "published": "2026-09-17 10:58:22"
       }
     ]
   }
