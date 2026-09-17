@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T15:10:25.738861",
+  "fetched_at": "2026-09-17T15:40:09.085366",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
+        "published": "2026-09-17 15:25:17"
+      },
+      {
+        "title": "Bank of England halts long-dated gilt sales, rewrites plan to unwind QE",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-halts-longdated-gilt-sales-rewrites-plan-to-unwind-qe-4906037",
+        "published": "2026-09-17 15:06:33"
+      },
+      {
+        "title": "Jet fuel stocks in ARA hub jump 19.6% from seven-year low",
+        "link": "https://www.investing.com/news/economy-news/jet-fuel-stocks-in-ara-hub-jump-196-from-sevenyear-low-93CH-4906045",
+        "published": "2026-09-17 15:05:12"
+      },
+      {
         "title": "Dollar eases after Fed-driven jump as Treasury yields and oil prices retreat",
         "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
         "published": "2026-09-17 14:48:29"
@@ -113,21 +128,6 @@
         "title": "Magnitude 6.3 earthquake hits Nikolski, Alaska region",
         "link": "https://www.investing.com/news/economy-news/magnitude-63-earthquake-hits-nikolski-alaska-region-93CH-4905993",
         "published": "2026-09-17 14:33:13"
-      },
-      {
-        "title": "Analysis-Fed builds credibility, but hawkish turn leaves investors edgy",
-        "link": "https://www.investing.com/news/economy-news/analysisfed-builds-credibility-but-hawkish-turn-leaves-investors-edgy-4904805",
-        "published": "2026-09-17 14:31:00"
-      },
-      {
-        "title": "Court filing cites Trump comments, photo reading \"Kennedy Center DEMOLISHED\"",
-        "link": "https://www.investing.com/news/economy-news/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-4905932",
-        "published": "2026-09-17 14:13:09"
-      },
-      {
-        "title": "US pending home sales unexpectedly rise in August, trend remains weak",
-        "link": "https://www.investing.com/news/economy-news/us-pending-home-sales-unexpectedly-rise-in-august-trend-remains-weak-4905934",
-        "published": "2026-09-17 14:07:48"
       }
     ]
   }
