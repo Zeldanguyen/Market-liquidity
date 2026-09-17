@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T13:11:20.110907",
+  "fetched_at": "2026-09-17T13:40:41.332878",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Czech central bank holds rates at 3.75% amid inflation risks",
+        "link": "https://www.investing.com/news/economy-news/czech-central-bank-holds-rates-at-375-amid-inflation-risks-93CH-4905798",
+        "published": "2026-09-17 13:12:36"
+      },
+      {
+        "title": "Major central banks on tightening path amid energy price shock",
+        "link": "https://www.investing.com/news/economy-news/major-central-banks-on-tightening-path-amid-energy-price-shock-4905732",
+        "published": "2026-09-17 13:00:52"
+      },
+      {
+        "title": "Czech central bank holds main interest rate at 3.75%",
+        "link": "https://www.investing.com/news/economy-news/czech-central-bank-holds-main-interest-rate-at-375-93CH-4905724",
+        "published": "2026-09-17 12:57:30"
+      },
+      {
         "title": "Hungary’s ABZ Innovation opens $8 million factory to boost drone output",
         "link": "https://www.investing.com/news/economy-news/hungarys-abz-innovation-opens-8-million-factory-to-boost-drone-output-93CH-4905723",
         "published": "2026-09-17 12:56:34"
@@ -113,21 +128,6 @@
         "title": "US weekly jobless claims unexpectedly fall",
         "link": "https://www.investing.com/news/economy-news/us-weekly-jobless-claims-unexpectedly-fall-4905675",
         "published": "2026-09-17 12:42:33"
-      },
-      {
-        "title": "Bolivia extends state of emergency over risks of new blockades",
-        "link": "https://www.investing.com/news/economy-news/bolivia-extends-state-of-emergency-over-risks-of-new-blockades-4905670",
-        "published": "2026-09-17 12:37:39"
-      },
-      {
-        "title": "Bank of England sounds inflation alarm as it holds interest rates",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
-        "published": "2026-09-17 12:25:27"
-      },
-      {
-        "title": "Bank of England policymakers set out views on rates outlook",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-policymakers-set-out-views-on-rates-outlook-4905589",
-        "published": "2026-09-17 12:24:34"
       }
     ]
   }
