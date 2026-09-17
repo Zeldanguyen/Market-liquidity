@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T10:09:43.494199",
+  "fetched_at": "2026-09-17T10:41:11.753532",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -24,8 +24,8 @@
         "published": "Thu, 17 Sep 26 15:45:00 +0700"
       },
       {
-        "title": "Em trai Tổng giám đốc Vietcombank nhận nhiệm vụ mới tại một doanh nghiệp thép",
-        "link": "https://cafef.vn/em-trai-tong-giam-doc-vietcombank-nhan-nhiem-vu-moi-tai-mot-doanh-nghiep-thep-188260917153120987.chn",
+        "title": "Ông Lê Quang Hải nhận nhiệm vụ mới tại một doanh nghiệp thép",
+        "link": "https://cafef.vn/ong-le-quang-hai-nhan-nhiem-vu-moi-tai-mot-doanh-nghiep-thep-188260917153120987.chn",
         "published": "Thu, 17 Sep 26 15:44:00 +0700"
       },
       {
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 17/09: Cổ phiếu ngân hàng chỉ số",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1709-co-phieu-ngan-hang-chi-so-1636-1493182.htm",
+        "published": "Thu, 17 Sep 2026 16:45:00 +0700"
+      },
+      {
         "title": "Lễ Vinh danh IR Awards lần thứ 16 sẽ được tổ chức vào ngày 24/09/2026",
         "link": "http://vietstock.vn/2026/09/le-vinh-danh-ir-awards-lan-thu-16-se-duoc-to-chuc-vao-ngay-24092026-830-1493263.htm",
         "published": "Thu, 17 Sep 2026 13:32:00 +0700"
@@ -91,43 +96,38 @@
         "title": "Ngày 17/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/ngay-17092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1493005.htm",
         "published": "Thu, 17 Sep 2026 10:00:00 +0700"
-      },
-      {
-        "title": "Cuộc đua \"thị trường không ngủ\": Quốc tế nới giờ giao dịch, Việt Nam cân nhắc phiên xuyên trưa",
-        "link": "http://vietstock.vn/2026/09/cuoc-dua-thi-truong-khong-ngu-quoc-te-noi-gio-giao-dich-viet-nam-can-nhac-phien-xuyen-trua-830-1492898.htm",
-        "published": "Thu, 17 Sep 2026 08:57:48 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Bank of England to hold rates but energy shock stirs talk of a hike",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-but-energy-shock-stirs-talk-of-a-hike-4904677",
-        "published": "2026-09-17 09:36:24"
+        "title": "Lula and Bolsonaro remain tied in Brazil election poll",
+        "link": "https://www.investing.com/news/economy-news/lula-and-bolsonaro-remain-tied-in-brazil-election-poll-93CH-4905201",
+        "published": "2026-09-17 10:28:48"
       },
       {
-        "title": "Wall St futures rise as Fed rate hike lifts long-standing overhang",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-        "published": "2026-09-17 09:24:32"
-      },
-      {
-        "title": "Analysis-Fed builds credibility, but hawkish turn leaves investors edgy",
-        "link": "https://www.investing.com/news/economy-news/analysisfed-builds-credibility-but-hawkish-turn-leaves-investors-edgy-4904805",
-        "published": "2026-09-17 09:13:15"
-      },
-      {
-        "title": "Trump derides EU pitch to Canada as ’laughable’, threatens more tariffs",
+        "title": "EU and Canada are stronger together, Carney says after Trump derides EU alliance",
         "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
-        "published": "2026-09-17 09:00:55"
+        "published": "2026-09-17 10:26:26"
       },
       {
-        "title": "South Africa’s consumer confidence rises despite economic uncertainty, survey shows",
-        "link": "https://www.investing.com/news/economy-news/south-africas-consumer-confidence-rises-despite-economic-uncertainty-survey-shows-4904968",
-        "published": "2026-09-17 08:12:28"
+        "title": "Thai monetary policy ’very, very accommodative’, no change to growth outlook, central bank official says",
+        "link": "https://www.investing.com/news/economy-news/thai-monetary-policy-very-veryaccommodative-no-change-to-growth-outlook-central-bank-official-says-4905192",
+        "published": "2026-09-17 10:25:07"
       },
       {
-        "title": "Dollar eases from seven-week peak as oil prices extend decline",
-        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
-        "published": "2026-09-17 08:07:08"
+        "title": "Huawei chair says Chinese AI not yet advanced enough to face safety risks",
+        "link": "https://www.investing.com/news/economy-news/huawei-chair-says-chinese-ai-not-yet-advanced-enough-to-face-safety-risks-4905189",
+        "published": "2026-09-17 10:22:03"
+      },
+      {
+        "title": "Germany calls for EU tariffs on Chinese hybrid cars",
+        "link": "https://www.investing.com/news/economy-news/germany-calls-for-eu-tariffs-on-chinese-hybrid-cars-93CH-4905185",
+        "published": "2026-09-17 10:18:01"
+      },
+      {
+        "title": "China youth unemployment climbs to 18.9% in August",
+        "link": "https://www.investing.com/news/economy-news/china-youth-unemployment-climbs-to-189-in-august-93CH-4905184",
+        "published": "2026-09-17 10:16:44"
       }
     ]
   }
