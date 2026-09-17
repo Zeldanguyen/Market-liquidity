@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T19:08:10.017453",
+  "fetched_at": "2026-09-17T19:38:47.322259",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
+        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
+        "published": "2026-09-17 19:25:18"
+      },
+      {
+        "title": "FAA sees $100 million cost from tariffs on US air traffic control modernization plan",
+        "link": "https://www.investing.com/news/economy-news/faa-sees-100-million-impact-from-tariffs-on-air-traffic-control-modernization-plan-4906186",
+        "published": "2026-09-17 19:06:36"
+      },
+      {
+        "title": "Brazil’s Lula boosts welfare payments, eyes new debt-relief push ahead of election",
+        "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
+        "published": "2026-09-17 18:54:27"
+      },
+      {
         "title": "Judge orders Trump to give 30 days notice before any steps to demolish Kennedy Center",
         "link": "https://www.investing.com/news/economy-news/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-4905932",
         "published": "2026-09-17 18:30:55"
@@ -113,21 +128,6 @@
         "title": "US delays tariff announcement until after Xi-Trump summit - Bloomberg",
         "link": "https://www.investing.com/news/economy-news/us-delays-tariff-announcement-until-after-xitrump-summit--bloomberg-93CH-4906222",
         "published": "2026-09-17 18:10:50"
-      },
-      {
-        "title": "Putin says Russia’s 2027 budget deficit seen at around 2% of GDP",
-        "link": "https://www.investing.com/news/economy-news/putin-says-russias-2027-budget-deficit-seen-at-around-2-of-gdp-4906210",
-        "published": "2026-09-17 18:01:36"
-      },
-      {
-        "title": "US imposes sanctions on Iranian crypto exchange BitBank",
-        "link": "https://www.investing.com/news/economy-news/us-imposes-sanctions-on-iranian-crypto-exchange-bitbank-93CH-4906195",
-        "published": "2026-09-17 18:00:28"
-      },
-      {
-        "title": "FAA sees $100 million impact from tariffs on air traffic control modernization plan",
-        "link": "https://www.investing.com/news/economy-news/faa-sees-100-million-impact-from-tariffs-on-air-traffic-control-modernization-plan-4906186",
-        "published": "2026-09-17 17:48:52"
       }
     ]
   }
