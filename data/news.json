@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-17T11:40:19.373839",
+  "fetched_at": "2026-09-17T12:11:40.106886",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Gemadept chuẩn bị chia cổ phiếu thưởng tỷ lệ 50%",
+        "link": "https://cafef.vn/gemadept-chuan-bi-chia-co-phieu-thuong-ty-le-50-188260917190139131.chn",
+        "published": "Thu, 17 Sep 26 19:05:00 +0700"
+      },
+      {
+        "title": "Một doanh nghiệp bị phạt 250 triệu đồng do vi phạm trong lĩnh vực chứng khoán",
+        "link": "https://cafef.vn/mot-doanh-nghiep-bi-phat-250-trieu-dong-do-vi-pham-trong-linh-vuc-chung-khoan-188260917190013508.chn",
+        "published": "Thu, 17 Sep 26 19:00:00 +0700"
+      },
       {
         "title": "Cổ phiếu chứng khoán hút mạnh dòng tiền",
         "link": "https://cafef.vn/co-phieu-chung-khoan-hut-manh-dong-tien-188260917181218881.chn",
@@ -22,19 +32,14 @@
         "title": "Ông Nguyễn Như Hoàng Tuấn bị khai trừ khỏi Đảng",
         "link": "https://cafef.vn/ong-nguyen-nhu-hoang-tuan-bi-khai-tru-khoi-dang-188260917161929755.chn",
         "published": "Thu, 17 Sep 26 16:21:00 +0700"
-      },
-      {
-        "title": "Miễn nhiệm ông Phạm Văn Hoàn",
-        "link": "https://cafef.vn/mien-nhiem-ong-pham-van-hoan-188260917155559844.chn",
-        "published": "Thu, 17 Sep 26 15:57:00 +0700"
-      },
-      {
-        "title": "Phiên 17/9: Khối ngoại quay đầu bán ròng, 3 cổ phiếu bị \"xả\" tổng cộng hơn 500 tỷ đồng",
-        "link": "https://cafef.vn/phien-17-9-khoi-ngoai-quay-dau-ban-rong-3-co-phieu-bi-xa-tong-cong-hon-500-ty-dong-188260917154019772.chn",
-        "published": "Thu, 17 Sep 26 15:45:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "8 tháng đầu năm, lực lượng hải quan xử lý hơn 267.000 sản phẩm thuốc lá lậu",
+        "link": "https://vneconomy.vn/8-thang-dau-nam-luc-luong-hai-quan-xu-ly-hon-267000-san-pham-thuoc-la-lau.htm",
+        "published": "Thu, 17 Sep 2026 11:42:55 GMT"
+      },
       {
         "title": "Giá vàng miếng SJC và vàng nhẫn đi ngược giá vàng thế giới",
         "link": "https://vneconomy.vn/gia-vang-mieng-sjc-va-vang-nhan-di-nguoc-gia-vang-the-gioi.htm",
@@ -59,14 +64,14 @@
         "title": "Fed phát tín hiệu tiếp tục tăng lãi suất trong năm nay",
         "link": "https://vneconomy.vn/fed-phat-tin-hieu-tiep-tuc-tang-lai-suat-trong-nam-nay.htm",
         "published": "Thu, 17 Sep 2026 00:41:10 GMT"
-      },
-      {
-        "title": "Vàng lao dốc, USD tăng mạnh sau khi Fed tăng lãi suất",
-        "link": "https://vneconomy.vn/vang-lao-doc-usd-tang-manh-sau-khi-fed-tang-lai-suat.htm",
-        "published": "Wed, 16 Sep 2026 23:45:37 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Vietstock Daily 18/09/2026: Lực cầu trở lại?",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-18092026-luc-cau-tro-lai-1636-1493421.htm",
+        "published": "Thu, 17 Sep 2026 18:12:23 +0700"
+      },
       {
         "title": "Nhịp đập Thị trường 17/09: Cổ phiếu ngân hàng chỉ số",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1709-co-phieu-ngan-hang-chi-so-1636-1493182.htm",
@@ -91,43 +96,38 @@
         "title": "Petrolimex bán thành công hơn 23 triệu cổ phiếu quỹ, đáp ứng điều kiện là công ty đại chúng",
         "link": "http://vietstock.vn/2026/09/petrolimex-ban-thanh-cong-hon-23-trieu-co-phieu-quy-dap-ung-dieu-kien-la-cong-ty-dai-chung-739-1493229.htm",
         "published": "Thu, 17 Sep 2026 12:04:16 +0700"
-      },
-      {
-        "title": "Ngày 17/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-        "link": "http://vietstock.vn/2026/09/ngay-17092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1493005.htm",
-        "published": "Thu, 17 Sep 2026 10:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Bank of England keeps interest rates steady, hints at future hikes",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-keeps-interest-rates-on-hold-at-375-4905319",
-        "published": "2026-09-17 11:27:27"
+        "title": "EU and Canada are stronger together, Carney says after Trump derides EU alliance",
+        "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
+        "published": "2026-09-17 12:07:29"
       },
       {
-        "title": "Indonesia parliament discusses changes to fiscal deficit limit",
-        "link": "https://www.investing.com/news/economy-news/indonesia-parliament-discusses-changes-to-fiscal-deficit-limit-4905114",
-        "published": "2026-09-17 11:18:28"
+        "title": "ECB’s Rehn sees no second-round inflation, backs joint debt for defence",
+        "link": "https://www.investing.com/news/economy-news/ecbs-rehn-sees-no-secondround-inflation-backs-joint-debt-for-defence-4905486",
+        "published": "2026-09-17 12:00:45"
+      },
+      {
+        "title": "US stock futures rise as oil pullback amplifies Fed rate-hike boost",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+        "published": "2026-09-17 11:55:33"
+      },
+      {
+        "title": "ECB’s Rehn sees no clear signs of second-round inflation effects",
+        "link": "https://www.investing.com/news/economy-news/ecbs-rehn-sees-no-clear-signs-of-secondround-inflation-effects-93CH-4905467",
+        "published": "2026-09-17 11:55:09"
+      },
+      {
+        "title": "Dollar eases from peak as oil prices extend decline, BoJ in focus",
+        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
+        "published": "2026-09-17 11:43:29"
       },
       {
         "title": "Bank of England sounds inflation alarm as it holds interest rates",
         "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
-        "published": "2026-09-17 11:13:00"
-      },
-      {
-        "title": "World Bank boosts private capital mobilization to record $112 billion",
-        "link": "https://www.investing.com/news/economy-news/world-bank-boosts-private-capital-mobilization-to-record-112-billion-4905331",
-        "published": "2026-09-17 11:12:33"
-      },
-      {
-        "title": "Canada will decide trade deals independently, Carney tells Trump",
-        "link": "https://www.investing.com/news/economy-news/canada-will-decide-trade-deals-independently-carney-tells-trump-93CH-4905275",
-        "published": "2026-09-17 10:59:00"
-      },
-      {
-        "title": "German states call for urgent automotive industry support",
-        "link": "https://www.investing.com/news/economy-news/german-states-call-for-urgent-automotive-industry-support-93CH-4905274",
-        "published": "2026-09-17 10:58:22"
+        "published": "2026-09-17 11:30:29"
       }
     ]
   }
