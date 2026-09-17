@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T23:39:12.728504",
+  "fetched_at": "2026-09-17T00:12:06.891622",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,16 @@
     ],
     "VnEconomy": [
       {
+        "title": "Vàng lao dốc, USD tăng mạnh sau khi Fed tăng lãi suất",
+        "link": "https://vneconomy.vn/vang-lao-doc-usd-tang-manh-sau-khi-fed-tang-lai-suat.htm",
+        "published": "Wed, 16 Sep 2026 23:45:37 GMT"
+      },
+      {
+        "title": "[Bài 2] Doanh nghiệp “chết lâm sàng” và ranh giới tạm hoãn xuất cảnh",
+        "link": "https://vneconomy.vn/bai-2-doanh-nghiep-chet-lam-sang-va-ranh-gioi-tam-hoan-xuat-canh.htm",
+        "published": "Wed, 16 Sep 2026 23:40:16 GMT"
+      },
+      {
         "title": "Từng vỡ nợ, Hy Lạp bây giờ đi vay với lãi suất còn thấp hơn cả Pháp",
         "link": "https://vneconomy.vn/tung-vo-no-hy-lap-bay-gio-di-vay-voi-lai-suat-con-thap-hon-ca-phap.htm",
         "published": "Wed, 16 Sep 2026 13:12:51 GMT"
@@ -54,16 +64,6 @@
         "title": "Giá vàng trong nước bật tăng sau hai phiên giảm",
         "link": "https://vneconomy.vn/gia-vang-trong-nuoc-bat-tang-sau-hai-phien-giam.htm",
         "published": "Wed, 16 Sep 2026 05:51:41 GMT"
-      },
-      {
-        "title": "Techcombank  Summit 2026: Ra mắt Techcom Wealth - Kiến tạo và trao quyền giá trị qua thế hệ",
-        "link": "https://vneconomy.vn/techcombank-summit-2026-ra-mat-techcom-wealth-kien-tao-va-trao-quyen-gia-tri-qua-the-he.htm",
-        "published": "Wed, 16 Sep 2026 04:02:51 GMT"
-      },
-      {
-        "title": "Thị trường trái phiếu chính phủ toàn cầu bán tháo, lợi suất cao nhất từ khủng hoảng tài chính",
-        "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-ban-thao-loi-suat-cao-nhat-tu-khung-hoang-tai-chinh.htm",
-        "published": "Wed, 16 Sep 2026 03:09:33 GMT"
       }
     ],
     "Vietstock": [
