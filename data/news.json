@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-17T03:42:23.558237",
+  "fetched_at": "2026-09-17T04:10:03.607693",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Fed tăng lãi suất, chứng khoán Việt Nam hôm nay được dự báo thế nào?",
+        "link": "https://cafef.vn/fed-tang-lai-suat-chung-khoan-viet-nam-hom-nay-duoc-du-bao-the-nao-188260917102220877.chn",
+        "published": "Thu, 17 Sep 26 11:02:00 +0700"
+      },
+      {
+        "title": "YouTuber Phạm Tuấn bị điều tra thêm hành vi lừa đảo tiền điện tử Bitcoin Defi",
+        "link": "https://cafef.vn/youtuber-pham-tuan-bi-dieu-tra-them-hanh-vi-lua-dao-tien-dien-tu-bitcoin-defi-188260917095530904.chn",
+        "published": "Thu, 17 Sep 26 10:59:00 +0700"
+      },
+      {
+        "title": "Phó Chủ tịch UBCKNN Hoàng Văn Thu: Mới 10 doanh nghiệp FDI hiện diện trên sàn chứng khoán, dư địa còn rất lớn",
+        "link": "https://cafef.vn/pho-chu-tich-ubcknn-hoang-van-thu-moi-10-doanh-nghiep-fdi-hien-dien-tren-san-chung-khoan-du-dia-con-rat-lon-188260917105135242.chn",
+        "published": "Thu, 17 Sep 26 10:51:00 +0700"
+      },
       {
         "title": "IPA có thêm công ty con",
         "link": "https://cafef.vn/ipa-co-them-cong-ty-con-18826091709540543.chn",
@@ -17,21 +32,6 @@
         "title": "Ông Thomas Nguyen: 10 tỷ USD có thể chảy vào chứng khoán Việt Nam trong 12 tháng tới, một cổ phiếu có thể hút tới 32% dòng vốn",
         "link": "https://cafef.vn/ong-thomas-nguyen-10-ty-usd-co-the-chay-vao-chung-khoan-viet-nam-trong-12-thang-toi-mot-co-phieu-co-the-hut-toi-32-dong-von-188260917102108.chn",
         "published": "Thu, 17 Sep 26 10:20:00 +0700"
-      },
-      {
-        "title": "Diễn biến lạ của giá vàng sáng nay",
-        "link": "https://cafef.vn/dien-bien-la-cua-gia-vang-sang-nay-188260917095211092.chn",
-        "published": "Thu, 17 Sep 26 09:56:00 +0700"
-      },
-      {
-        "title": "Quỹ vàng lớn nhất thế giới hành động gì sau quyết định tăng lãi suất của FED?",
-        "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-hanh-dong-gi-sau-quyet-dinh-tang-lai-suat-cua-fed-188260917094907319.chn",
-        "published": "Thu, 17 Sep 26 09:50:00 +0700"
-      },
-      {
-        "title": "CEO SSI chỉ ra một nghịch lý trên thị trường chứng khoán: Khối FDI làm ra hơn 3/4 kim ngạch xuất khẩu nhưng chỉ chiếm 0,15% vốn hoá",
-        "link": "https://cafef.vn/ceo-ssi-chi-ra-mot-nghich-ly-tren-thi-truong-chung-khoan-khoi-fdi-lam-ra-hon-3-4-kim-ngach-xuat-khau-nhung-chi-chiem-015-von-hoa-188260917091634145.chn",
-        "published": "Thu, 17 Sep 26 09:16:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Goldman Sachs sees October Fed hike after hawkish signal",
+        "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-sees-fed-hiking-again-in-october-4904743",
+        "published": "2026-09-17 03:36:32"
+      },
+      {
         "title": "Judge in Kennedy Center case orders Trump administration to explain closure plans",
         "link": "https://www.investing.com/news/economy-news/judge-in-kennedy-center-case-orders-trump-administration-to-explain-closure-plans-4904590",
         "published": "2026-09-17 03:00:35"
@@ -118,11 +123,6 @@
         "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields",
         "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
         "published": "2026-09-17 02:06:31"
-      },
-      {
-        "title": "Goldman Sachs now sees Fed hiking again in October",
-        "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-sees-fed-hiking-again-in-october-4904743",
-        "published": "2026-09-17 01:30:30"
       },
       {
         "title": "IMF says Australia may need further interest rate rises to tame inflation",
