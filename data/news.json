@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T18:10:55.373611",
+  "fetched_at": "2026-09-17T18:43:44.479300",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Judge orders Trump to give 30 days notice before any steps to demolish Kennedy Center",
+        "link": "https://www.investing.com/news/economy-news/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-4905932",
+        "published": "2026-09-17 18:30:55"
+      },
+      {
+        "title": "Wall St rebounds after Fed’s first rate hike in years as oil, Treasury yields dip",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+        "published": "2026-09-17 18:25:19"
+      },
+      {
+        "title": "US delays tariff announcement until after Xi-Trump summit - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/us-delays-tariff-announcement-until-after-xitrump-summit--bloomberg-93CH-4906222",
+        "published": "2026-09-17 18:10:50"
+      },
+      {
+        "title": "Putin says Russia’s 2027 budget deficit seen at around 2% of GDP",
+        "link": "https://www.investing.com/news/economy-news/putin-says-russias-2027-budget-deficit-seen-at-around-2-of-gdp-4906210",
+        "published": "2026-09-17 18:01:36"
+      },
+      {
+        "title": "US imposes sanctions on Iranian crypto exchange BitBank",
+        "link": "https://www.investing.com/news/economy-news/us-imposes-sanctions-on-iranian-crypto-exchange-bitbank-93CH-4906195",
+        "published": "2026-09-17 18:00:28"
+      },
+      {
         "title": "FAA sees $100 million impact from tariffs on air traffic control modernization plan",
         "link": "https://www.investing.com/news/economy-news/faa-sees-100-million-impact-from-tariffs-on-air-traffic-control-modernization-plan-4906186",
         "published": "2026-09-17 17:48:52"
-      },
-      {
-        "title": "Russia projects 2% budget deficit for 2027, says Putin",
-        "link": "https://www.investing.com/news/economy-news/russia-projects-2-budget-deficit-for-2027-says-putin-93CH-4906183",
-        "published": "2026-09-17 17:44:49"
-      },
-      {
-        "title": "Trump says progress made on US Army base in Poland",
-        "link": "https://www.investing.com/news/economy-news/trump-says-progress-made-on-us-army-base-in-poland-93CH-4906180",
-        "published": "2026-09-17 17:40:41"
-      },
-      {
-        "title": "Polish airports in Lublin and Rzeszow suspend operations again",
-        "link": "https://www.investing.com/news/economy-news/polish-airports-in-lublin-and-rzeszow-suspend-operations-again-93CH-4906166",
-        "published": "2026-09-17 17:18:42"
-      },
-      {
-        "title": "Germany’s Merz says era of \"unconditional\" friendship with U.S. is over",
-        "link": "https://www.investing.com/news/economy-news/germanys-merz-says-era-of-unconditional-friendship-with-us-is-over-4906148",
-        "published": "2026-09-17 16:56:09"
-      },
-      {
-        "title": "European stocks rise after Fed hike as oil slips, yields stabilise",
-        "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-slips-yields-stall-4904915",
-        "published": "2026-09-17 16:48:26"
       }
     ]
   }
