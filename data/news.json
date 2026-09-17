@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-17T04:41:52.806987",
+  "fetched_at": "2026-09-17T05:09:22.522313",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Một \"đại gia\" Nhà nước thu gần 44.000 tỷ sau 8 tháng",
+        "link": "https://cafef.vn/mot-dai-gia-nha-nuoc-thu-gan-44000-ty-sau-8-thang-188260917115837879.chn",
+        "published": "Thu, 17 Sep 26 11:58:00 +0700"
+      },
+      {
+        "title": "Một công ty chứng khoán sắp thay toàn bộ thành viên HĐQT và Ban kiểm soát",
+        "link": "https://cafef.vn/mot-cong-ty-chung-khoan-sap-thay-toan-bo-thanh-vien-hdqt-va-ban-kiem-soat-188260917114127982.chn",
+        "published": "Thu, 17 Sep 26 11:41:00 +0700"
+      },
       {
         "title": "Nóng nhất giá vàng bạc 17/9: DOJI và Phú Quý đồng loạt điều chỉnh",
         "link": "https://cafef.vn/nong-nhat-gia-vang-bac-17-9-doji-va-phu-quy-dong-loat-dieu-chinh-1882609171030255.chn",
@@ -22,16 +32,6 @@
         "title": "Phó Chủ tịch UBCKNN Hoàng Văn Thu: Mới 10 doanh nghiệp FDI hiện diện trên sàn chứng khoán, dư địa còn rất lớn",
         "link": "https://cafef.vn/pho-chu-tich-ubcknn-hoang-van-thu-moi-10-doanh-nghiep-fdi-hien-dien-tren-san-chung-khoan-du-dia-con-rat-lon-188260917105135242.chn",
         "published": "Thu, 17 Sep 26 10:51:00 +0700"
-      },
-      {
-        "title": "IPA có thêm công ty con",
-        "link": "https://cafef.vn/ipa-co-them-cong-ty-con-18826091709540543.chn",
-        "published": "Thu, 17 Sep 26 10:21:00 +0700"
-      },
-      {
-        "title": "Chứng khoán T-Cap bị xử phạt do vi phạm quy định về thời hạn báo cáo",
-        "link": "https://cafef.vn/chung-khoan-t-cap-bi-xu-phat-do-vi-pham-quy-dinh-ve-thoi-han-bao-cao-188260917095311178.chn",
-        "published": "Thu, 17 Sep 26 10:21:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Morning Bid: Fed lifts the hawkish bar for BoE",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-fed-lifts-the-hawkish-bar-for-boe-4904797",
+        "published": "2026-09-17 04:37:14"
+      },
+      {
+        "title": "BOJ preview September: 25 bps hike expected with hawkish outlook in focus",
+        "link": "https://www.investing.com/news/economy-news/boj-preview-september-25-bps-hike-expected-with-hawkish-outlook-4904796",
+        "published": "2026-09-17 04:32:48"
+      },
+      {
         "title": "Calls to slow AI benefit US sector leaders, says French finance minister",
         "link": "https://www.investing.com/news/economy-news/calls-to-slow-down-ai-development-serve-the-interests-of-us-ai-leaders-says-french-finance-minister-4904096",
         "published": "2026-09-17 04:24:52"
@@ -118,16 +128,6 @@
         "title": "Trump lashes out at Fed after Warsh backs rate hike",
         "link": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
         "published": "2026-09-17 02:36:29"
-      },
-      {
-        "title": "Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ",
-        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
-        "published": "2026-09-17 02:12:51"
-      },
-      {
-        "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields",
-        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
-        "published": "2026-09-17 02:06:31"
       }
     ]
   }
