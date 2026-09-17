@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T14:11:06.544673",
+  "fetched_at": "2026-09-17T14:40:52.768736",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "US pending home sales unexpectedly rise in August, trend remains weak",
-        "link": "https://www.investing.com/news/economy-news/us-pending-home-sales-unexpectedly-rise-in-august-trend-remains-weak-4905934",
-        "published": "2026-09-17 14:07:48"
+        "title": "Wall St climbs as easing oil prices offer reprieve after Fed rate hike",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+        "published": "2026-09-17 14:24:56"
       },
       {
         "title": "Court filing cites Trump comments, photo reading \"Kennedy Center DEMOLISHED\"",
         "link": "https://www.investing.com/news/economy-news/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-4905932",
-        "published": "2026-09-17 14:07:00"
+        "published": "2026-09-17 14:13:09"
+      },
+      {
+        "title": "US pending home sales unexpectedly rise in August, trend remains weak",
+        "link": "https://www.investing.com/news/economy-news/us-pending-home-sales-unexpectedly-rise-in-august-trend-remains-weak-4905934",
+        "published": "2026-09-17 14:07:48"
       },
       {
         "title": "Brazil’s Lula raises welfare benefit ahead of October election",
@@ -123,11 +128,6 @@
         "title": "BoE’s Bailey says outlook too uncertain to judge market bets on four rate hikes",
         "link": "https://www.investing.com/news/economy-news/boes-bailey-says-outlook-too-uncertain-to-judge-market-bets-on-four-rate-hikes-4905876",
         "published": "2026-09-17 13:38:01"
-      },
-      {
-        "title": "China urges Iran to rein in Houthis after Saudi request - Reuters",
-        "link": "https://www.investing.com/news/economy-news/china-urges-iran-to-rein-in-houthis-after-saudi-request--reuters-4905850",
-        "published": "2026-09-17 13:30:46"
       }
     ]
   }
