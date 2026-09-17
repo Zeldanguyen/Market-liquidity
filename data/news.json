@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T23:08:14.471688",
+  "fetched_at": "2026-09-17T23:36:25.232806",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "18/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493538.htm",
+        "published": "Fri, 18 Sep 2026 06:00:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 17/09: Tự doanh gom mạnh VPB",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1709-tu-doanh-gom-manh-vpb-830-1493523.htm",
         "published": "Thu, 17 Sep 2026 19:17:28 +0700"
@@ -91,14 +96,19 @@
         "title": "Phân tích kỹ thuật phiên chiều 17/09: Tiến về ngưỡng Fibonacci Projection 78.6%",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1709-tien-ve-nguong-fibonacci-projection-786-585-1493265.htm",
         "published": "Thu, 17 Sep 2026 13:07:55 +0700"
-      },
-      {
-        "title": "Giá dầu Brent trở lại trên 100 USD, cổ phiếu dầu khí có “đủ” bắt nhịp?",
-        "link": "http://vietstock.vn/2026/09/gia-dau-brent-tro-lai-tren-100-usd-co-phieu-dau-khi-co-du-bat-nhip-830-1493135.htm",
-        "published": "Thu, 17 Sep 2026 13:02:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "How Bessent, America’s bond salesman, cornered Japan on big spending",
+        "link": "https://www.investing.com/news/economy-news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending-4906555",
+        "published": "2026-09-17 23:24:53"
+      },
+      {
+        "title": "US judge strikes down Education Department’s anti-DEI grant policy",
+        "link": "https://www.investing.com/news/economy-news/us-judge-strikes-down-education-departments-antidei-grant-policy-4906553",
+        "published": "2026-09-17 23:00:35"
+      },
       {
         "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
@@ -118,16 +128,6 @@
         "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
         "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
         "published": "2026-09-17 21:26:10"
-      },
-      {
-        "title": "U.S. Treasury yields drop as oil prices ease",
-        "link": "https://www.investing.com/news/economy-news/us-treasury-yields-drop-as-oil-prices-ease-93CH-4906477",
-        "published": "2026-09-17 21:13:45"
-      },
-      {
-        "title": "Trading Day: Lower oil, yields boost stocks",
-        "link": "https://www.investing.com/news/economy-news/trading-day-lower-oil-yields-boost-stocks-4906478",
-        "published": "2026-09-17 21:13:45"
       }
     ]
   }
