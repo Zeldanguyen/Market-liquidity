@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T21:09:35.308663",
+  "fetched_at": "2026-09-17T21:38:18.719428",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
+        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
+        "published": "2026-09-17 21:26:10"
+      },
+      {
+        "title": "U.S. Treasury yields drop as oil prices ease",
+        "link": "https://www.investing.com/news/economy-news/us-treasury-yields-drop-as-oil-prices-ease-93CH-4906477",
+        "published": "2026-09-17 21:13:45"
+      },
+      {
+        "title": "Trading Day: Lower oil, yields boost stocks",
+        "link": "https://www.investing.com/news/economy-news/trading-day-lower-oil-yields-boost-stocks-4906478",
+        "published": "2026-09-17 21:13:45"
+      },
+      {
         "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
         "published": "2026-09-17 20:54:30"
@@ -113,21 +128,6 @@
         "title": "Dollar pauses after Fed rally as yields, oil retreat",
         "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
         "published": "2026-09-17 19:37:07"
-      },
-      {
-        "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
-        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
-        "published": "2026-09-17 19:25:18"
-      },
-      {
-        "title": "FAA sees $100 million cost from tariffs on US air traffic control modernization plan",
-        "link": "https://www.investing.com/news/economy-news/faa-sees-100-million-impact-from-tariffs-on-air-traffic-control-modernization-plan-4906186",
-        "published": "2026-09-17 19:06:36"
-      },
-      {
-        "title": "Brazil’s Lula boosts welfare payments, eyes new debt-relief push ahead of election",
-        "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
-        "published": "2026-09-17 18:54:27"
       }
     ]
   }
