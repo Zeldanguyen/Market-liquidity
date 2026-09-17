@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-17T17:08:44.634195",
+  "fetched_at": "2026-09-17T17:39:07.497379",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ông Thomas Nguyen chỉ ra một \"thế lực\" mới trên TTCK Việt Nam: Chiếm 6% nhưng đang tăng rất nhanh, từng thống trị Phố Wall",
+        "link": "https://cafef.vn/ong-thomas-nguyen-chi-ra-mot-the-luc-moi-tren-ttck-viet-nam-chiem-6-nhung-dang-tang-rat-nhanh-tung-thong-tri-pho-wall-188260918001232322.chn",
+        "published": "Fri, 18 Sep 26 00:12:00 +0700"
+      },
+      {
+        "title": "Chứng khoán SSI phát thông báo quan trọng",
+        "link": "https://cafef.vn/chung-khoan-ssi-phat-thong-bao-quan-trong-188260917235958427.chn",
+        "published": "Fri, 18 Sep 26 00:07:00 +0700"
+      },
       {
         "title": "Gần 200 triệu USD chờ đổ vào chứng khoán Việt Nam trong tháng này, CTCK điểm tên 3 nhóm cổ phiếu \"hút tiền\" mạnh",
         "link": "https://cafef.vn/gan-200-trieu-usd-cho-do-vao-chung-khoan-viet-nam-trong-thang-nay-ctck-diem-ten-3-nhom-co-phieu-hut-tien-manh-188260917215326325.chn",
@@ -22,16 +32,6 @@
         "title": "Vanguard, BlackRock đến Hà Nội: Cánh cửa đến hệ thống phân bổ hàng chục nghìn tỷ USD mở ra với chứng khoán Việt Nam",
         "link": "https://cafef.vn/vanguard-blackrock-den-ha-noi-canh-cua-den-he-thong-phan-bo-hang-chuc-nghin-ty-usd-mo-ra-voi-chung-khoan-viet-nam-188260917230553321.chn",
         "published": "Fri, 18 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Tập đoàn Mỹ quản lý 10 nghìn tỷ USD chúc mừng Việt Nam",
-        "link": "https://cafef.vn/tap-doan-my-quan-ly-10-nghin-ty-usd-chuc-mung-viet-nam-188260917194536289.chn",
-        "published": "Thu, 17 Sep 26 19:45:00 +0700"
-      },
-      {
-        "title": "FTSE Russell cam kết hỗ trợ toàn diện cho thị trường vốn của Việt Nam",
-        "link": "https://cafef.vn/ftse-russell-cam-ket-ho-tro-toan-dien-cho-thi-truong-von-cua-viet-nam-188260917193411426.chn",
-        "published": "Thu, 17 Sep 26 19:33:56 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Polish airports in Lublin and Rzeszow suspend operations again",
+        "link": "https://www.investing.com/news/economy-news/polish-airports-in-lublin-and-rzeszow-suspend-operations-again-93CH-4906166",
+        "published": "2026-09-17 17:18:42"
+      },
+      {
+        "title": "Germany’s Merz says era of \"unconditional\" friendship with U.S. is over",
+        "link": "https://www.investing.com/news/economy-news/germanys-merz-says-era-of-unconditional-friendship-with-us-is-over-4906148",
+        "published": "2026-09-17 16:56:09"
+      },
+      {
+        "title": "European stocks rise after Fed hike as oil slips, yields stabilise",
+        "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-slips-yields-stall-4904915",
+        "published": "2026-09-17 16:48:26"
+      },
+      {
         "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
         "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
         "published": "2026-09-17 16:30:29"
@@ -113,21 +128,6 @@
         "title": "FTSE indexes gain after BoE holds rates steady, pauses gilt sales",
         "link": "https://www.investing.com/news/economy-news/ftse-100-gains-after-fed-hike-boe-up-next-4905140",
         "published": "2026-09-17 16:24:41"
-      },
-      {
-        "title": "Wall St rises as oil slide offers respite after Fed rate hike",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-        "published": "2026-09-17 16:19:51"
-      },
-      {
-        "title": "White House considers cyber incubator to fund research, startups - Bloomberg",
-        "link": "https://www.investing.com/news/economy-news/white-house-considers-cyber-incubator-to-fund-research-startups--bloomberg-93CH-4906127",
-        "published": "2026-09-17 16:19:34"
-      },
-      {
-        "title": "Brazil’s Lula boosts welfare payments, eyes new debt-relief push ahead of election",
-        "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
-        "published": "2026-09-17 16:18:56"
       }
     ]
   }
