@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-17T10:41:11.753532",
+  "fetched_at": "2026-09-17T11:09:19.207432",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Ngày mai, Bộ Tài chính, UBCKNN sẽ tổ chức hội nghị nâng hạng với FTSE Russell, Vanguard, BlackRock...",
+        "link": "https://cafef.vn/ngay-mai-bo-tai-chinh-ubcknn-se-to-chuc-hoi-nghi-nang-hang-voi-ftse-russell-vanguard-blackrock-188260917174335589.chn",
+        "published": "Thu, 17 Sep 26 17:40:00 +0700"
+      },
       {
         "title": "Đại diện Bộ Tài chính: Mục tiêu quy mô tổng tài sản các quỹ hưu trí tăng trưởng bình quân 14,5% trong giai đoạn 2026–2030",
         "link": "https://cafef.vn/dai-dien-bo-tai-chinh-muc-tieu-quy-mo-tong-tai-san-cac-quy-huu-tri-tang-truong-binh-quan-145-trong-giai-doan-20262030-188260917170413332.chn",
@@ -27,11 +32,6 @@
         "title": "Ông Lê Quang Hải nhận nhiệm vụ mới tại một doanh nghiệp thép",
         "link": "https://cafef.vn/ong-le-quang-hai-nhan-nhiem-vu-moi-tai-mot-doanh-nghiep-thep-188260917153120987.chn",
         "published": "Thu, 17 Sep 26 15:44:00 +0700"
-      },
-      {
-        "title": "Việt Nam cần 38,5 triệu tỷ đồng vốn đầu tư trong 5 năm tới, đâu là \"chìa khóa\" mở dòng vốn dài hạn?",
-        "link": "https://cafef.vn/viet-nam-can-385-trieu-ty-dong-von-dau-tu-trong-5-nam-toi-dau-la-chia-khoa-mo-dong-von-dai-han-188260917145842489.chn",
-        "published": "Thu, 17 Sep 26 15:21:00 +0700"
       }
     ],
     "VnEconomy": [
