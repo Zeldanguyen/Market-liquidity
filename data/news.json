@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T07:41:09.351744",
+  "fetched_at": "2026-09-17T08:10:24.082943",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed takes hawkish turn after rate hike; BoE ahead - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/fed-takes-hawkish-turn-after-rate-hike-boe-ahead--whats-moving-markets-4904949",
+        "published": "2026-09-17 07:51:41"
+      },
+      {
+        "title": "Dollar’s allure, oil surge fan bearish bets on emerging Asian currencies: Reuters poll",
+        "link": "https://www.investing.com/news/economy-news/dollars-allure-oil-surge-fan-bearish-bets-on-emerging-asian-currencies-reuters-poll-4904926",
+        "published": "2026-09-17 07:36:29"
+      },
+      {
         "title": "Trump derides EU pitch to Canada as ’laughable’, threatens more tariffs",
         "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
-        "published": "2026-09-17 07:12:49"
+        "published": "2026-09-17 07:30:27"
+      },
+      {
+        "title": "European shares rise as oil slips, yields stall",
+        "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-slips-yields-stall-4904915",
+        "published": "2026-09-17 07:24:32"
       },
       {
         "title": "Germany’s east-west divide shifts from jobs to wealth",
@@ -113,21 +128,6 @@
         "title": "China’s Xi calls for ’bigger, stronger’ advanced manufacturing sector",
         "link": "https://www.investing.com/news/economy-news/chinas-xi-calls-for-bigger-stronger-advanced-manufacturing-sector-4904847",
         "published": "2026-09-17 06:25:16"
-      },
-      {
-        "title": "Fed’s Warsh lays out forces driving up bond yields",
-        "link": "https://www.investing.com/news/economy-news/feds-warsh-lays-out-forces-driving-up-bond-yields-4904580",
-        "published": "2026-09-17 06:19:27"
-      },
-      {
-        "title": "Japan vows effort to maintain orderly yen moves",
-        "link": "https://www.investing.com/news/economy-news/japan-vows-effort-to-maintain-orderly-yen-moves-4904825",
-        "published": "2026-09-17 06:18:52"
-      },
-      {
-        "title": "Hawkish Fed lifts dollar to seven-week high; markets brace for BOE, BOJ",
-        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
-        "published": "2026-09-17 06:00:31"
       }
     ]
   }
