@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T00:12:06.891622",
+  "fetched_at": "2026-09-17T00:44:36.207203",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Fed phát tín hiệu tiếp tục tăng lãi suất trong năm nay",
+        "link": "https://vneconomy.vn/fed-phat-tin-hieu-tiep-tuc-tang-lai-suat-trong-nam-nay.htm",
+        "published": "Thu, 17 Sep 2026 00:41:10 GMT"
+      },
+      {
         "title": "Vàng lao dốc, USD tăng mạnh sau khi Fed tăng lãi suất",
         "link": "https://vneconomy.vn/vang-lao-doc-usd-tang-manh-sau-khi-fed-tang-lai-suat.htm",
         "published": "Wed, 16 Sep 2026 23:45:37 GMT"
@@ -59,11 +64,6 @@
         "title": "Rủi ro tỷ giá đồng yên đảo chiều nếu BOJ gây thất vọng",
         "link": "https://vneconomy.vn/rui-ro-ty-gia-dong-yen-dao-chieu-neu-boj-gay-that-vong.htm",
         "published": "Wed, 16 Sep 2026 06:30:35 GMT"
-      },
-      {
-        "title": "Giá vàng trong nước bật tăng sau hai phiên giảm",
-        "link": "https://vneconomy.vn/gia-vang-trong-nuoc-bat-tang-sau-hai-phien-giam.htm",
-        "published": "Wed, 16 Sep 2026 05:51:41 GMT"
       }
     ],
     "Vietstock": [
