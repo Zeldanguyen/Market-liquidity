@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-17T01:40:45.541629",
+  "fetched_at": "2026-09-17T02:09:58.104878",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "TikToker Phạm Tuấn bị điều tra trong đường dây lừa đảo Bitcoin Defi",
+        "link": "https://cafef.vn/tiktoker-pham-tuan-bi-dieu-tra-trong-duong-day-lua-dao-bitcoin-defi-18826091709011641.chn",
+        "published": "Thu, 17 Sep 26 09:01:00 +0700"
+      },
+      {
+        "title": "UBCKNN xử phạt 2 doanh nghiệp",
+        "link": "https://cafef.vn/ubcknn-xu-phat-2-doanh-nghiep-188260917085816118.chn",
+        "published": "Thu, 17 Sep 26 08:58:00 +0700"
+      },
       {
         "title": "Một thế lực nắm giữ lượng vàng kỷ lục hơn 4.200 tấn nhưng vẫn không ngừng mua thêm",
         "link": "https://cafef.vn/mot-the-luc-nam-giu-luong-vang-ky-luc-hon-4200-tan-nhung-van-khong-ngung-mua-them-18826091700112272.chn",
@@ -22,16 +32,6 @@
         "title": "Công ty chứng khoán dự báo VN-Index có thể trở lại vùng 1.900 điểm",
         "link": "https://cafef.vn/cong-ty-chung-khoan-du-bao-vn-index-co-the-tro-lai-vung-1900-diem-188260916215957693.chn",
         "published": "Thu, 17 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Khối ngoại còn nắm bao nhiêu cổ phiếu Việt Nam trước thềm nâng hạng?",
-        "link": "https://cafef.vn/khoi-ngoai-con-nam-bao-nhieu-co-phieu-viet-nam-truoc-them-nang-hang-188260916223823744.chn",
-        "published": "Thu, 17 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Miễn nhiệm ông Nguyễn Trọng Đức",
-        "link": "https://cafef.vn/mien-nhiem-ong-nguyen-trong-duc-188260916222131032.chn",
-        "published": "Wed, 16 Sep 26 22:22:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Goldman Sachs now sees Fed hiking again in October",
+        "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-sees-fed-hiking-again-in-october-4904743",
+        "published": "2026-09-17 01:30:30"
+      },
+      {
         "title": "IMF says Australia may need further interest rate rises to tame inflation",
         "link": "https://www.investing.com/news/economy-news/imf-says-australia-may-need-further-interest-rate-rises-to-tame-inflation-4904728",
         "published": "2026-09-17 00:54:23"
@@ -123,11 +128,6 @@
         "title": "Trump lashes out at Fed after Warsh backs rate hike",
         "link": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
         "published": "2026-09-16 23:01:30"
-      },
-      {
-        "title": "Scientists challenge US NIH grant screening as unconstitutional",
-        "link": "https://www.investing.com/news/economy-news/scientists-challenge-us-nih-grant-screening-as-unconstitutional-4904669",
-        "published": "2026-09-16 22:54:50"
       }
     ]
   }
