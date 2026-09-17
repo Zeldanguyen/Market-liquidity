@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T01:10:10.391635",
+  "fetched_at": "2026-09-17T01:40:45.541629",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Fed vừa tăng lãi suất, Tổng thống Trump đã kêu gọi giảm về 1%",
+        "link": "https://vneconomy.vn/fed-vua-tang-lai-suat-tong-thong-trump-da-keu-goi-giam-ve-1.htm",
+        "published": "Thu, 17 Sep 2026 01:24:44 GMT"
+      },
+      {
         "title": "Fed phát tín hiệu tiếp tục tăng lãi suất trong năm nay",
         "link": "https://vneconomy.vn/fed-phat-tin-hieu-tiep-tuc-tang-lai-suat-trong-nam-nay.htm",
         "published": "Thu, 17 Sep 2026 00:41:10 GMT"
@@ -59,14 +64,14 @@
         "title": "MB: Đóng góp vào ngân sách tăng 110% sau 5 năm",
         "link": "https://vneconomy.vn/mb-dong-gop-vao-ngan-sach-tang-110-sau-5-nam.htm",
         "published": "Wed, 16 Sep 2026 07:33:00 GMT"
-      },
-      {
-        "title": "Rủi ro tỷ giá đồng yên đảo chiều nếu BOJ gây thất vọng",
-        "link": "https://vneconomy.vn/rui-ro-ty-gia-dong-yen-dao-chieu-neu-boj-gay-that-vong.htm",
-        "published": "Wed, 16 Sep 2026 06:30:35 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 17/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1709-830-1492971.htm",
+        "published": "Thu, 17 Sep 2026 08:00:00 +0700"
+      },
       {
         "title": "17/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1709-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493128.htm",
@@ -91,11 +96,6 @@
         "title": "Phân tích kỹ thuật phiên chiều 16/09: Giằng co biên độ hẹp",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1609-giang-co-bien-do-hep-585-1492865.htm",
         "published": "Wed, 16 Sep 2026 13:08:46 +0700"
-      },
-      {
-        "title": "Chứng khoán Phú Hưng: Từ không gian xanh đến hành trình tăng trưởng mới",
-        "link": "http://vietstock.vn/2026/09/chung-khoan-phu-hung-tu-khong-gian-xanh-den-hanh-trinh-tang-truong-moi-830-1492851.htm",
-        "published": "Wed, 16 Sep 2026 13:00:00 +0700"
       }
     ],
     "Investing.com Economy": [

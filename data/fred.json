@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-09-17T01:08:13.511385",
+  "fetched_at": "2026-09-17T01:38:31.427481",
   "series": {
     "fed_funds_rate": [
       {
@@ -133,32 +133,9 @@
         "value": "5.28"
       }
     ],
-    "dxy": [
-      {
-        "realtime_start": "2026-09-14",
-        "realtime_end": "2026-09-14",
-        "date": "2026-09-11",
-        "value": "118.2126"
-      },
-      {
-        "realtime_start": "2026-09-14",
-        "realtime_end": "2026-09-14",
-        "date": "2026-09-10",
-        "value": "118.0787"
-      },
-      {
-        "realtime_start": "2026-09-14",
-        "realtime_end": "2026-09-14",
-        "date": "2026-09-09",
-        "value": "117.8834"
-      },
-      {
-        "realtime_start": "2026-09-14",
-        "realtime_end": "2026-09-14",
-        "date": "2026-09-08",
-        "value": "117.9127"
-      }
-    ],
+    "dxy": {
+      "error": "The read operation timed out"
+    },
     "m2_money_supply": [
       {
         "realtime_start": "2026-08-25",
