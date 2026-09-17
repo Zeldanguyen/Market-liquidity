@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-17T05:40:56.872272",
+  "fetched_at": "2026-09-17T06:11:54.497042",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lãnh đạo SSI: Chứng khoán Việt Nam như \"cửa hàng đã mở rộng cửa nhưng chưa đủ hàng trên kệ\"",
+        "link": "https://cafef.vn/lanh-dao-ssi-chung-khoan-viet-nam-nhu-cua-hang-da-mo-rong-cua-nhung-chua-du-hang-tren-ke-188260917112406318.chn",
+        "published": "Thu, 17 Sep 26 13:03:00 +0700"
+      },
       {
         "title": "Một \"đại gia\" Nhà nước thu gần 44.000 tỷ sau 8 tháng",
         "link": "https://cafef.vn/mot-dai-gia-nha-nuoc-thu-gan-44000-ty-sau-8-thang-188260917115837879.chn",
@@ -27,14 +32,14 @@
         "title": "YouTuber Phạm Tuấn bị điều tra thêm hành vi lừa đảo tiền điện tử Bitcoin Defi",
         "link": "https://cafef.vn/youtuber-pham-tuan-bi-dieu-tra-them-hanh-vi-lua-dao-tien-dien-tu-bitcoin-defi-188260917095530904.chn",
         "published": "Thu, 17 Sep 26 10:59:00 +0700"
-      },
-      {
-        "title": "Phó Chủ tịch UBCKNN Hoàng Văn Thu: Mới 10 doanh nghiệp FDI hiện diện trên sàn chứng khoán, dư địa còn rất lớn",
-        "link": "https://cafef.vn/pho-chu-tich-ubcknn-hoang-van-thu-moi-10-doanh-nghiep-fdi-hien-dien-tren-san-chung-khoan-du-dia-con-rat-lon-188260917105135242.chn",
-        "published": "Thu, 17 Sep 26 10:51:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Loại trừ dư nợ tăng thêm của khách sạn, khu nghỉ dưỡng khi tính tăng trưởng tín dụng bất động sản năm 2026",
+        "link": "https://vneconomy.vn/loai-tru-du-no-tang-them-cua-khach-san-khu-nghi-duong-khi-tinh-tang-truong-tin-dung-bat-dong-san-nam-2026.htm",
+        "published": "Thu, 17 Sep 2026 05:52:38 GMT"
+      },
       {
         "title": "Fed vừa tăng lãi suất, Tổng thống Trump đã kêu gọi giảm về 1%",
         "link": "https://vneconomy.vn/fed-vua-tang-lai-suat-tong-thong-trump-da-keu-goi-giam-ve-1.htm",
@@ -59,11 +64,6 @@
         "title": "Từng vỡ nợ, Hy Lạp bây giờ đi vay với lãi suất còn thấp hơn cả Pháp",
         "link": "https://vneconomy.vn/tung-vo-no-hy-lap-bay-gio-di-vay-voi-lai-suat-con-thap-hon-ca-phap.htm",
         "published": "Wed, 16 Sep 2026 13:12:51 GMT"
-      },
-      {
-        "title": "MB: Đóng góp vào ngân sách tăng 110% sau 5 năm",
-        "link": "https://vneconomy.vn/mb-dong-gop-vao-ngan-sach-tang-110-sau-5-nam.htm",
-        "published": "Wed, 16 Sep 2026 07:33:00 GMT"
       }
     ],
     "Vietstock": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Japan vows effort to maintain orderly yen moves",
+        "link": "https://www.investing.com/news/economy-news/japan-vows-effort-to-maintain-orderly-yen-moves-4904825",
+        "published": "2026-09-17 06:01:08"
+      },
+      {
+        "title": "Trump warns EU of tariffs over Canada’s potential associate membership, calls it ’laughable’",
+        "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
+        "published": "2026-09-17 06:00:49"
+      },
+      {
+        "title": "Hawkish Fed lifts dollar to seven-week high; markets brace for BOE, BOJ",
+        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
+        "published": "2026-09-17 06:00:31"
+      },
+      {
         "title": "Analysis-Fed builds credibility, but hawkish turn leaves investors edgy",
         "link": "https://www.investing.com/news/economy-news/analysisfed-builds-credibility-but-hawkish-turn-leaves-investors-edgy-4904805",
-        "published": "2026-09-17 05:13:01"
+        "published": "2026-09-17 05:54:49"
+      },
+      {
+        "title": "Shares edge up after Fed hike, dollar firm on short-term yields",
+        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
+        "published": "2026-09-17 05:42:29"
       },
       {
         "title": "Morning Bid: Fed lifts the hawkish bar for BoE",
         "link": "https://www.investing.com/news/economy-news/morning-bid-fed-lifts-the-hawkish-bar-for-boe-4904797",
         "published": "2026-09-17 04:37:14"
-      },
-      {
-        "title": "BOJ preview September: 25 bps hike expected with hawkish outlook in focus",
-        "link": "https://www.investing.com/news/economy-news/boj-preview-september-25-bps-hike-expected-with-hawkish-outlook-4904796",
-        "published": "2026-09-17 04:32:48"
-      },
-      {
-        "title": "Calls to slow AI benefit US sector leaders, says French finance minister",
-        "link": "https://www.investing.com/news/economy-news/calls-to-slow-down-ai-development-serve-the-interests-of-us-ai-leaders-says-french-finance-minister-4904096",
-        "published": "2026-09-17 04:24:52"
-      },
-      {
-        "title": "Goldman Sachs sees October Fed hike after hawkish signal",
-        "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-sees-fed-hiking-again-in-october-4904743",
-        "published": "2026-09-17 03:36:32"
-      },
-      {
-        "title": "Judge in Kennedy Center case orders Trump administration to explain closure plans",
-        "link": "https://www.investing.com/news/economy-news/judge-in-kennedy-center-case-orders-trump-administration-to-explain-closure-plans-4904590",
-        "published": "2026-09-17 03:00:35"
       }
     ]
   }
