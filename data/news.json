@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-17T04:10:03.607693",
+  "fetched_at": "2026-09-17T04:41:52.806987",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nóng nhất giá vàng bạc 17/9: DOJI và Phú Quý đồng loạt điều chỉnh",
+        "link": "https://cafef.vn/nong-nhat-gia-vang-bac-17-9-doji-va-phu-quy-dong-loat-dieu-chinh-1882609171030255.chn",
+        "published": "Thu, 17 Sep 26 11:16:00 +0700"
+      },
       {
         "title": "Fed tăng lãi suất, chứng khoán Việt Nam hôm nay được dự báo thế nào?",
         "link": "https://cafef.vn/fed-tang-lai-suat-chung-khoan-viet-nam-hom-nay-duoc-du-bao-the-nao-188260917102220877.chn",
@@ -27,11 +32,6 @@
         "title": "Chứng khoán T-Cap bị xử phạt do vi phạm quy định về thời hạn báo cáo",
         "link": "https://cafef.vn/chung-khoan-t-cap-bi-xu-phat-do-vi-pham-quy-dinh-ve-thoi-han-bao-cao-188260917095311178.chn",
         "published": "Thu, 17 Sep 26 10:21:00 +0700"
-      },
-      {
-        "title": "Ông Thomas Nguyen: 10 tỷ USD có thể chảy vào chứng khoán Việt Nam trong 12 tháng tới, một cổ phiếu có thể hút tới 32% dòng vốn",
-        "link": "https://cafef.vn/ong-thomas-nguyen-10-ty-usd-co-the-chay-vao-chung-khoan-viet-nam-trong-12-thang-toi-mot-co-phieu-co-the-hut-toi-32-dong-von-188260917102108.chn",
-        "published": "Thu, 17 Sep 26 10:20:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Calls to slow AI benefit US sector leaders, says French finance minister",
+        "link": "https://www.investing.com/news/economy-news/calls-to-slow-down-ai-development-serve-the-interests-of-us-ai-leaders-says-french-finance-minister-4904096",
+        "published": "2026-09-17 04:24:52"
+      },
+      {
         "title": "Goldman Sachs sees October Fed hike after hawkish signal",
         "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-sees-fed-hiking-again-in-october-4904743",
         "published": "2026-09-17 03:36:32"
@@ -123,11 +128,6 @@
         "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields",
         "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
         "published": "2026-09-17 02:06:31"
-      },
-      {
-        "title": "IMF says Australia may need further interest rate rises to tame inflation",
-        "link": "https://www.investing.com/news/economy-news/imf-says-australia-may-need-further-interest-rate-rises-to-tame-inflation-4904728",
-        "published": "2026-09-17 00:54:23"
       }
     ]
   }
