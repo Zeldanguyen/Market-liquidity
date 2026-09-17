@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T17:39:07.497379",
+  "fetched_at": "2026-09-17T18:10:55.373611",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "FAA sees $100 million impact from tariffs on air traffic control modernization plan",
+        "link": "https://www.investing.com/news/economy-news/faa-sees-100-million-impact-from-tariffs-on-air-traffic-control-modernization-plan-4906186",
+        "published": "2026-09-17 17:48:52"
+      },
+      {
+        "title": "Russia projects 2% budget deficit for 2027, says Putin",
+        "link": "https://www.investing.com/news/economy-news/russia-projects-2-budget-deficit-for-2027-says-putin-93CH-4906183",
+        "published": "2026-09-17 17:44:49"
+      },
+      {
+        "title": "Trump says progress made on US Army base in Poland",
+        "link": "https://www.investing.com/news/economy-news/trump-says-progress-made-on-us-army-base-in-poland-93CH-4906180",
+        "published": "2026-09-17 17:40:41"
+      },
+      {
         "title": "Polish airports in Lublin and Rzeszow suspend operations again",
         "link": "https://www.investing.com/news/economy-news/polish-airports-in-lublin-and-rzeszow-suspend-operations-again-93CH-4906166",
         "published": "2026-09-17 17:18:42"
@@ -113,21 +128,6 @@
         "title": "European stocks rise after Fed hike as oil slips, yields stabilise",
         "link": "https://www.investing.com/news/economy-news/european-shares-rise-as-oil-slips-yields-stall-4904915",
         "published": "2026-09-17 16:48:26"
-      },
-      {
-        "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
-        "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
-        "published": "2026-09-17 16:30:29"
-      },
-      {
-        "title": "World stocks gain as Treasury yields retreat after Fed, BoE decisions",
-        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
-        "published": "2026-09-17 16:25:01"
-      },
-      {
-        "title": "FTSE indexes gain after BoE holds rates steady, pauses gilt sales",
-        "link": "https://www.investing.com/news/economy-news/ftse-100-gains-after-fed-hike-boe-up-next-4905140",
-        "published": "2026-09-17 16:24:41"
       }
     ]
   }
