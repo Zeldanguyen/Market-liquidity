@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T06:45:09.185880",
+  "fetched_at": "2026-09-17T07:11:44.987474",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Những nền kinh tế có lợi suất trái phiếu tăng nhanh nhất trong một năm qua",
+        "link": "https://vneconomy.vn/nhung-nen-kinh-te-co-loi-suat-trai-phieu-tang-nhanh-nhat-trong-mot-nam-qua.htm",
+        "published": "Thu, 17 Sep 2026 06:52:47 GMT"
+      },
+      {
         "title": "Loại trừ dư nợ tăng thêm của khách sạn, khu nghỉ dưỡng khi tính tăng trưởng tín dụng bất động sản năm 2026",
         "link": "https://vneconomy.vn/loai-tru-du-no-tang-them-cua-khach-san-khu-nghi-duong-khi-tinh-tang-truong-tin-dung-bat-dong-san-nam-2026.htm",
         "published": "Thu, 17 Sep 2026 05:52:38 GMT"
@@ -59,27 +64,27 @@
         "title": "[Bài 2] Doanh nghiệp “chết lâm sàng” và ranh giới tạm hoãn xuất cảnh",
         "link": "https://vneconomy.vn/bai-2-doanh-nghiep-chet-lam-sang-va-ranh-gioi-tam-hoan-xuat-canh.htm",
         "published": "Wed, 16 Sep 2026 23:40:16 GMT"
-      },
-      {
-        "title": "Từng vỡ nợ, Hy Lạp bây giờ đi vay với lãi suất còn thấp hơn cả Pháp",
-        "link": "https://vneconomy.vn/tung-vo-no-hy-lap-bay-gio-di-vay-voi-lai-suat-con-thap-hon-ca-phap.htm",
-        "published": "Wed, 16 Sep 2026 13:12:51 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Lễ Vinh danh IR Awards lần thứ 16 sẽ được tổ chức vào ngày 24/09/2026",
+        "link": "http://vietstock.vn/2026/09/le-vinh-danh-ir-awards-lan-thu-16-se-duoc-to-chuc-vao-ngay-24092026-830-1493263.htm",
+        "published": "Thu, 17 Sep 2026 13:32:00 +0700"
+      },
       {
         "title": "Phân tích kỹ thuật phiên chiều 17/09: Tiến về ngưỡng Fibonacci Projection 78.6%",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1709-tien-ve-nguong-fibonacci-projection-786-585-1493265.htm",
         "published": "Thu, 17 Sep 2026 13:07:55 +0700"
       },
       {
-        "title": "Giá dầu Brent trở lại trên 100 USD, cổ phiếu dầu khí có “đủ” bắt nhịp?",
-        "link": "http://vietstock.vn/2026/09/gia-dau-brent-tro-lai-tren-100-usd-co-phieu-dau-khi-co-du-bat-nhip-830-1493135.htm",
+        "title": "Nhịp đập Thị trường 17/09: Đà tăng chững lại cuối phiên sáng",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1709-da-tang-chung-lai-cuoi-phien-sang-1636-1493182.htm",
         "published": "Thu, 17 Sep 2026 13:02:00 +0700"
       },
       {
-        "title": "Nhịp đập Thị trường 17/09: Đà tăng chững lại cuối phiên sáng",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1709-da-tang-chung-lai-cuoi-phien-sang-1636-1493182.htm",
+        "title": "Giá dầu Brent trở lại trên 100 USD, cổ phiếu dầu khí có “đủ” bắt nhịp?",
+        "link": "http://vietstock.vn/2026/09/gia-dau-brent-tro-lai-tren-100-usd-co-phieu-dau-khi-co-du-bat-nhip-830-1493135.htm",
         "published": "Thu, 17 Sep 2026 13:02:00 +0700"
       },
       {
@@ -91,14 +96,14 @@
         "title": "Ngày 17/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/ngay-17092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1493005.htm",
         "published": "Thu, 17 Sep 2026 10:00:00 +0700"
-      },
-      {
-        "title": "Cuộc đua \"thị trường không ngủ\": Quốc tế nới giờ giao dịch, Việt Nam cân nhắc phiên xuyên trưa",
-        "link": "http://vietstock.vn/2026/09/cuoc-dua-thi-truong-khong-ngu-quoc-te-noi-gio-giao-dich-viet-nam-can-nhac-phien-xuyen-trua-830-1492898.htm",
-        "published": "Thu, 17 Sep 2026 08:57:48 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Trump derides EU pitch to Canada as ’laughable’, threatens more tariffs",
+        "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
+        "published": "2026-09-17 06:36:49"
+      },
       {
         "title": "Germany’s east-west divide shifts from jobs to wealth",
         "link": "https://www.investing.com/news/economy-news/germanys-eastwest-divide-shifts-from-jobs-to-wealth-4904835",
@@ -108,11 +113,6 @@
         "title": "China’s Xi calls for ’bigger, stronger’ advanced manufacturing sector",
         "link": "https://www.investing.com/news/economy-news/chinas-xi-calls-for-bigger-stronger-advanced-manufacturing-sector-4904847",
         "published": "2026-09-17 06:25:16"
-      },
-      {
-        "title": "Trump warns EU of tariffs over Canada’s potential associate membership, calls it ’laughable’",
-        "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
-        "published": "2026-09-17 06:24:34"
       },
       {
         "title": "Fed’s Warsh lays out forces driving up bond yields",
