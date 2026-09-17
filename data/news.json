@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T15:40:09.085366",
+  "fetched_at": "2026-09-17T16:10:31.310296",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,26 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Court filing cites Trump comments, photo reading ’Kennedy Center DEMOLISHED’",
+        "link": "https://www.investing.com/news/economy-news/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-4905932",
+        "published": "2026-09-17 15:54:54"
+      },
+      {
+        "title": "Dollar pressure weighs on LatAm FX; regional stocks edge higher",
+        "link": "https://www.investing.com/news/economy-news/dollar-pressure-weighs-on-latam-fx-regional-stocks-edge-higher-4906088",
+        "published": "2026-09-17 15:49:15"
+      },
+      {
+        "title": "Brazil’s Lula boosts welfare payments, eyes new debt-relief push ahead of election",
+        "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
+        "published": "2026-09-17 15:48:59"
+      },
+      {
+        "title": "US rate options signal market can absorb higher Treasury yields",
+        "link": "https://www.investing.com/news/economy-news/us-rate-options-signal-market-can-absorb-higher-treasury-yields-4906084",
+        "published": "2026-09-17 15:43:31"
+      },
+      {
         "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
         "link": "https://www.investing.com/news/economy-news/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates-4905336",
         "published": "2026-09-17 15:25:17"
@@ -108,26 +128,6 @@
         "title": "Bank of England halts long-dated gilt sales, rewrites plan to unwind QE",
         "link": "https://www.investing.com/news/economy-news/bank-of-england-halts-longdated-gilt-sales-rewrites-plan-to-unwind-qe-4906037",
         "published": "2026-09-17 15:06:33"
-      },
-      {
-        "title": "Jet fuel stocks in ARA hub jump 19.6% from seven-year low",
-        "link": "https://www.investing.com/news/economy-news/jet-fuel-stocks-in-ara-hub-jump-196-from-sevenyear-low-93CH-4906045",
-        "published": "2026-09-17 15:05:12"
-      },
-      {
-        "title": "Dollar eases after Fed-driven jump as Treasury yields and oil prices retreat",
-        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
-        "published": "2026-09-17 14:48:29"
-      },
-      {
-        "title": "Wall St climbs as easing oil prices offer reprieve after Fed rate hike",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-        "published": "2026-09-17 14:36:36"
-      },
-      {
-        "title": "Magnitude 6.3 earthquake hits Nikolski, Alaska region",
-        "link": "https://www.investing.com/news/economy-news/magnitude-63-earthquake-hits-nikolski-alaska-region-93CH-4905993",
-        "published": "2026-09-17 14:33:13"
       }
     ]
   }
