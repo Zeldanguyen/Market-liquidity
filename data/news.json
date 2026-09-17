@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-17T08:10:24.082943",
+  "fetched_at": "2026-09-17T08:40:30.579121",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Việt Nam cần 38,5 triệu tỷ đồng vốn đầu tư trong 5 năm tới, đâu là \"chìa khóa\" mở dòng vốn dài hạn?",
+        "link": "https://cafef.vn/viet-nam-can-385-trieu-ty-dong-von-dau-tu-trong-5-nam-toi-dau-la-chia-khoa-mo-dong-von-dai-han-188260917145842489.chn",
+        "published": "Thu, 17 Sep 26 15:21:00 +0700"
+      },
       {
         "title": "Chiến lược danh mục bắt nhịp với dòng tiền, KDEF trở lại đường đua hiệu suất",
         "link": "https://cafef.vn/chien-luoc-danh-muc-bat-nhip-voi-dong-tien-kdef-tro-lai-duong-dua-hieu-suat-188260917123552516.chn",
@@ -27,11 +32,6 @@
         "title": "Một \"đại gia\" Nhà nước thu gần 44.000 tỷ sau 8 tháng",
         "link": "https://cafef.vn/mot-dai-gia-nha-nuoc-thu-gan-44000-ty-sau-8-thang-188260917115837879.chn",
         "published": "Thu, 17 Sep 26 11:58:00 +0700"
-      },
-      {
-        "title": "Một công ty chứng khoán sắp thay toàn bộ thành viên HĐQT và Ban kiểm soát",
-        "link": "https://cafef.vn/mot-cong-ty-chung-khoan-sap-thay-toan-bo-thanh-vien-hdqt-va-ban-kiem-soat-188260917114127982.chn",
-        "published": "Thu, 17 Sep 26 11:41:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -78,13 +78,13 @@
         "published": "Thu, 17 Sep 2026 13:07:55 +0700"
       },
       {
-        "title": "Nhịp đập Thị trường 17/09: Đà tăng chững lại cuối phiên sáng",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1709-da-tang-chung-lai-cuoi-phien-sang-1636-1493182.htm",
+        "title": "Giá dầu Brent trở lại trên 100 USD, cổ phiếu dầu khí có “đủ” bắt nhịp?",
+        "link": "http://vietstock.vn/2026/09/gia-dau-brent-tro-lai-tren-100-usd-co-phieu-dau-khi-co-du-bat-nhip-830-1493135.htm",
         "published": "Thu, 17 Sep 2026 13:02:00 +0700"
       },
       {
-        "title": "Giá dầu Brent trở lại trên 100 USD, cổ phiếu dầu khí có “đủ” bắt nhịp?",
-        "link": "http://vietstock.vn/2026/09/gia-dau-brent-tro-lai-tren-100-usd-co-phieu-dau-khi-co-du-bat-nhip-830-1493135.htm",
+        "title": "Nhịp đập Thị trường 17/09: Đà tăng chững lại cuối phiên sáng",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1709-da-tang-chung-lai-cuoi-phien-sang-1636-1493182.htm",
         "published": "Thu, 17 Sep 2026 13:02:00 +0700"
       },
       {
