@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T19:38:47.322259",
+  "fetched_at": "2026-09-17T20:09:55.076338",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Wall St rebounds after Fed’s first rate hike in years as oil, Treasury yields dip",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
+        "published": "2026-09-17 19:48:25"
+      },
+      {
+        "title": "Dollar pauses after Fed rally as yields, oil retreat",
+        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
+        "published": "2026-09-17 19:37:07"
+      },
+      {
         "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
         "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
         "published": "2026-09-17 19:25:18"
@@ -118,16 +128,6 @@
         "title": "Judge orders Trump to give 30 days notice before any steps to demolish Kennedy Center",
         "link": "https://www.investing.com/news/economy-news/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-4905932",
         "published": "2026-09-17 18:30:55"
-      },
-      {
-        "title": "Wall St rebounds after Fed’s first rate hike in years as oil, Treasury yields dip",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-        "published": "2026-09-17 18:25:19"
-      },
-      {
-        "title": "US delays tariff announcement until after Xi-Trump summit - Bloomberg",
-        "link": "https://www.investing.com/news/economy-news/us-delays-tariff-announcement-until-after-xitrump-summit--bloomberg-93CH-4906222",
-        "published": "2026-09-17 18:10:50"
       }
     ]
   }
