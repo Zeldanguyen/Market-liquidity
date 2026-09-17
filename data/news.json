@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-17T09:41:30.663238",
+  "fetched_at": "2026-09-17T10:09:43.494199",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Đại diện Bộ Tài chính: Mục tiêu quy mô tổng tài sản các quỹ hưu trí tăng trưởng bình quân 14,5% trong giai đoạn 2026–2030",
+        "link": "https://cafef.vn/dai-dien-bo-tai-chinh-muc-tieu-quy-mo-tong-tai-san-cac-quy-huu-tri-tang-truong-binh-quan-145-trong-giai-doan-20262030-188260917170413332.chn",
+        "published": "Thu, 17 Sep 26 17:04:00 +0700"
+      },
       {
         "title": "Ông Nguyễn Như Hoàng Tuấn bị khai trừ khỏi Đảng",
         "link": "https://cafef.vn/ong-nguyen-nhu-hoang-tuan-bi-khai-tru-khoi-dang-188260917161929755.chn",
@@ -27,11 +32,6 @@
         "title": "Việt Nam cần 38,5 triệu tỷ đồng vốn đầu tư trong 5 năm tới, đâu là \"chìa khóa\" mở dòng vốn dài hạn?",
         "link": "https://cafef.vn/viet-nam-can-385-trieu-ty-dong-von-dau-tu-trong-5-nam-toi-dau-la-chia-khoa-mo-dong-von-dai-han-188260917145842489.chn",
         "published": "Thu, 17 Sep 26 15:21:00 +0700"
-      },
-      {
-        "title": "Chiến lược danh mục bắt nhịp với dòng tiền, KDEF trở lại đường đua hiệu suất",
-        "link": "https://cafef.vn/chien-luoc-danh-muc-bat-nhip-voi-dong-tien-kdef-tro-lai-duong-dua-hieu-suat-188260917123552516.chn",
-        "published": "Thu, 17 Sep 26 13:30:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bank of England to hold rates but energy shock stirs talk of a hike",
+        "link": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-but-energy-shock-stirs-talk-of-a-hike-4904677",
+        "published": "2026-09-17 09:36:24"
+      },
+      {
         "title": "Wall St futures rise as Fed rate hike lifts long-standing overhang",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
         "published": "2026-09-17 09:24:32"
@@ -123,11 +128,6 @@
         "title": "Dollar eases from seven-week peak as oil prices extend decline",
         "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
         "published": "2026-09-17 08:07:08"
-      },
-      {
-        "title": "Fed takes hawkish turn after rate hike; BoE ahead - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/fed-takes-hawkish-turn-after-rate-hike-boe-ahead--whats-moving-markets-4904949",
-        "published": "2026-09-17 07:51:41"
       }
     ]
   }
