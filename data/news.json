@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-17T06:11:54.497042",
+  "fetched_at": "2026-09-17T06:45:09.185880",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chiến lược danh mục bắt nhịp với dòng tiền, KDEF trở lại đường đua hiệu suất",
+        "link": "https://cafef.vn/chien-luoc-danh-muc-bat-nhip-voi-dong-tien-kdef-tro-lai-duong-dua-hieu-suat-188260917123552516.chn",
+        "published": "Thu, 17 Sep 26 13:30:00 +0700"
+      },
+      {
+        "title": "Nghịch lý mã BIG: Lãnh đạo bán triệu cổ phiếu, giá tăng trần với thanh khoản kỷ lục",
+        "link": "https://cafef.vn/nghich-ly-ma-big-lanh-dao-ban-trieu-co-phieu-gia-tang-tran-voi-thanh-khoan-ky-luc-18826091712032788.chn",
+        "published": "Thu, 17 Sep 26 13:30:00 +0700"
+      },
+      {
+        "title": "Hạ tầng GELEX chào bán 100 triệu cổ phiếu, huy động 2.860 tỷ đồng",
+        "link": "https://cafef.vn/ha-tang-gelex-chao-ban-100-trieu-co-phieu-huy-dong-2860-ty-dong-188260917132244802.chn",
+        "published": "Thu, 17 Sep 26 13:21:00 +0700"
+      },
       {
         "title": "Lãnh đạo SSI: Chứng khoán Việt Nam như \"cửa hàng đã mở rộng cửa nhưng chưa đủ hàng trên kệ\"",
         "link": "https://cafef.vn/lanh-dao-ssi-chung-khoan-viet-nam-nhu-cua-hang-da-mo-rong-cua-nhung-chua-du-hang-tren-ke-188260917112406318.chn",
@@ -17,21 +32,6 @@
         "title": "Một công ty chứng khoán sắp thay toàn bộ thành viên HĐQT và Ban kiểm soát",
         "link": "https://cafef.vn/mot-cong-ty-chung-khoan-sap-thay-toan-bo-thanh-vien-hdqt-va-ban-kiem-soat-188260917114127982.chn",
         "published": "Thu, 17 Sep 26 11:41:00 +0700"
-      },
-      {
-        "title": "Nóng nhất giá vàng bạc 17/9: DOJI và Phú Quý đồng loạt điều chỉnh",
-        "link": "https://cafef.vn/nong-nhat-gia-vang-bac-17-9-doji-va-phu-quy-dong-loat-dieu-chinh-1882609171030255.chn",
-        "published": "Thu, 17 Sep 26 11:16:00 +0700"
-      },
-      {
-        "title": "Fed tăng lãi suất, chứng khoán Việt Nam hôm nay được dự báo thế nào?",
-        "link": "https://cafef.vn/fed-tang-lai-suat-chung-khoan-viet-nam-hom-nay-duoc-du-bao-the-nao-188260917102220877.chn",
-        "published": "Thu, 17 Sep 26 11:02:00 +0700"
-      },
-      {
-        "title": "YouTuber Phạm Tuấn bị điều tra thêm hành vi lừa đảo tiền điện tử Bitcoin Defi",
-        "link": "https://cafef.vn/youtuber-pham-tuan-bi-dieu-tra-them-hanh-vi-lua-dao-tien-dien-tu-bitcoin-defi-188260917095530904.chn",
-        "published": "Thu, 17 Sep 26 10:59:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,21 @@
     ],
     "Vietstock": [
       {
+        "title": "Phân tích kỹ thuật phiên chiều 17/09: Tiến về ngưỡng Fibonacci Projection 78.6%",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1709-tien-ve-nguong-fibonacci-projection-786-585-1493265.htm",
+        "published": "Thu, 17 Sep 2026 13:07:55 +0700"
+      },
+      {
+        "title": "Giá dầu Brent trở lại trên 100 USD, cổ phiếu dầu khí có “đủ” bắt nhịp?",
+        "link": "http://vietstock.vn/2026/09/gia-dau-brent-tro-lai-tren-100-usd-co-phieu-dau-khi-co-du-bat-nhip-830-1493135.htm",
+        "published": "Thu, 17 Sep 2026 13:02:00 +0700"
+      },
+      {
+        "title": "Nhịp đập Thị trường 17/09: Đà tăng chững lại cuối phiên sáng",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1709-da-tang-chung-lai-cuoi-phien-sang-1636-1493182.htm",
+        "published": "Thu, 17 Sep 2026 13:02:00 +0700"
+      },
+      {
         "title": "Petrolimex bán thành công hơn 23 triệu cổ phiếu quỹ, đáp ứng điều kiện là công ty đại chúng",
         "link": "http://vietstock.vn/2026/09/petrolimex-ban-thanh-cong-hon-23-trieu-co-phieu-quy-dap-ung-dieu-kien-la-cong-ty-dai-chung-739-1493229.htm",
         "published": "Thu, 17 Sep 2026 12:04:16 +0700"
@@ -81,53 +96,38 @@
         "title": "Cuộc đua \"thị trường không ngủ\": Quốc tế nới giờ giao dịch, Việt Nam cân nhắc phiên xuyên trưa",
         "link": "http://vietstock.vn/2026/09/cuoc-dua-thi-truong-khong-ngu-quoc-te-noi-gio-giao-dich-viet-nam-can-nhac-phien-xuyen-trua-830-1492898.htm",
         "published": "Thu, 17 Sep 2026 08:57:48 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 17/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1709-830-1492971.htm",
-        "published": "Thu, 17 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "17/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1709-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493128.htm",
-        "published": "Thu, 17 Sep 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 16/09: Khối ngoại và tự doanh cùng mua ròng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1609-khoi-ngoai-va-tu-doanh-cung-mua-rong-830-1493102.htm",
-        "published": "Wed, 16 Sep 2026 19:27:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Japan vows effort to maintain orderly yen moves",
-        "link": "https://www.investing.com/news/economy-news/japan-vows-effort-to-maintain-orderly-yen-moves-4904825",
-        "published": "2026-09-17 06:01:08"
+        "title": "Germany’s east-west divide shifts from jobs to wealth",
+        "link": "https://www.investing.com/news/economy-news/germanys-eastwest-divide-shifts-from-jobs-to-wealth-4904835",
+        "published": "2026-09-17 06:25:35"
+      },
+      {
+        "title": "China’s Xi calls for ’bigger, stronger’ advanced manufacturing sector",
+        "link": "https://www.investing.com/news/economy-news/chinas-xi-calls-for-bigger-stronger-advanced-manufacturing-sector-4904847",
+        "published": "2026-09-17 06:25:16"
       },
       {
         "title": "Trump warns EU of tariffs over Canada’s potential associate membership, calls it ’laughable’",
         "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
-        "published": "2026-09-17 06:00:49"
+        "published": "2026-09-17 06:24:34"
+      },
+      {
+        "title": "Fed’s Warsh lays out forces driving up bond yields",
+        "link": "https://www.investing.com/news/economy-news/feds-warsh-lays-out-forces-driving-up-bond-yields-4904580",
+        "published": "2026-09-17 06:19:27"
+      },
+      {
+        "title": "Japan vows effort to maintain orderly yen moves",
+        "link": "https://www.investing.com/news/economy-news/japan-vows-effort-to-maintain-orderly-yen-moves-4904825",
+        "published": "2026-09-17 06:18:52"
       },
       {
         "title": "Hawkish Fed lifts dollar to seven-week high; markets brace for BOE, BOJ",
         "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
         "published": "2026-09-17 06:00:31"
-      },
-      {
-        "title": "Analysis-Fed builds credibility, but hawkish turn leaves investors edgy",
-        "link": "https://www.investing.com/news/economy-news/analysisfed-builds-credibility-but-hawkish-turn-leaves-investors-edgy-4904805",
-        "published": "2026-09-17 05:54:49"
-      },
-      {
-        "title": "Shares edge up after Fed hike, dollar firm on short-term yields",
-        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
-        "published": "2026-09-17 05:42:29"
-      },
-      {
-        "title": "Morning Bid: Fed lifts the hawkish bar for BoE",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-fed-lifts-the-hawkish-bar-for-boe-4904797",
-        "published": "2026-09-17 04:37:14"
       }
     ]
   }
