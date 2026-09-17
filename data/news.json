@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T14:40:52.768736",
+  "fetched_at": "2026-09-17T15:10:25.738861",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar eases after Fed-driven jump as Treasury yields and oil prices retreat",
+        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
+        "published": "2026-09-17 14:48:29"
+      },
+      {
         "title": "Wall St climbs as easing oil prices offer reprieve after Fed rate hike",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-        "published": "2026-09-17 14:24:56"
+        "published": "2026-09-17 14:36:36"
+      },
+      {
+        "title": "Magnitude 6.3 earthquake hits Nikolski, Alaska region",
+        "link": "https://www.investing.com/news/economy-news/magnitude-63-earthquake-hits-nikolski-alaska-region-93CH-4905993",
+        "published": "2026-09-17 14:33:13"
+      },
+      {
+        "title": "Analysis-Fed builds credibility, but hawkish turn leaves investors edgy",
+        "link": "https://www.investing.com/news/economy-news/analysisfed-builds-credibility-but-hawkish-turn-leaves-investors-edgy-4904805",
+        "published": "2026-09-17 14:31:00"
       },
       {
         "title": "Court filing cites Trump comments, photo reading \"Kennedy Center DEMOLISHED\"",
@@ -113,21 +128,6 @@
         "title": "US pending home sales unexpectedly rise in August, trend remains weak",
         "link": "https://www.investing.com/news/economy-news/us-pending-home-sales-unexpectedly-rise-in-august-trend-remains-weak-4905934",
         "published": "2026-09-17 14:07:48"
-      },
-      {
-        "title": "Brazil’s Lula raises welfare benefit ahead of October election",
-        "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
-        "published": "2026-09-17 14:06:41"
-      },
-      {
-        "title": "Analysis-Fed builds credibility, but hawkish turn leaves investors edgy",
-        "link": "https://www.investing.com/news/economy-news/analysisfed-builds-credibility-but-hawkish-turn-leaves-investors-edgy-4904805",
-        "published": "2026-09-17 14:01:09"
-      },
-      {
-        "title": "BoE’s Bailey says outlook too uncertain to judge market bets on four rate hikes",
-        "link": "https://www.investing.com/news/economy-news/boes-bailey-says-outlook-too-uncertain-to-judge-market-bets-on-four-rate-hikes-4905876",
-        "published": "2026-09-17 13:38:01"
       }
     ]
   }
