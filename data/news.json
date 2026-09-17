@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T05:09:22.522313",
+  "fetched_at": "2026-09-17T05:40:56.872272",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Petrolimex bán thành công hơn 23 triệu cổ phiếu quỹ, đáp ứng điều kiện là công ty đại chúng",
+        "link": "http://vietstock.vn/2026/09/petrolimex-ban-thanh-cong-hon-23-trieu-co-phieu-quy-dap-ung-dieu-kien-la-cong-ty-dai-chung-739-1493229.htm",
+        "published": "Thu, 17 Sep 2026 12:04:16 +0700"
+      },
+      {
         "title": "Ngày 17/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/ngay-17092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1493005.htm",
         "published": "Thu, 17 Sep 2026 10:00:00 +0700"
@@ -91,14 +96,14 @@
         "title": "Theo dấu dòng tiền cá mập 16/09: Khối ngoại và tự doanh cùng mua ròng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1609-khoi-ngoai-va-tu-doanh-cung-mua-rong-830-1493102.htm",
         "published": "Wed, 16 Sep 2026 19:27:00 +0700"
-      },
-      {
-        "title": "Vietstock Daily 17/09/2026: Giằng co trong thận trọng",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-17092026-giang-co-trong-than-trong-1636-1493000.htm",
-        "published": "Wed, 16 Sep 2026 18:17:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Analysis-Fed builds credibility, but hawkish turn leaves investors edgy",
+        "link": "https://www.investing.com/news/economy-news/analysisfed-builds-credibility-but-hawkish-turn-leaves-investors-edgy-4904805",
+        "published": "2026-09-17 05:13:01"
+      },
       {
         "title": "Morning Bid: Fed lifts the hawkish bar for BoE",
         "link": "https://www.investing.com/news/economy-news/morning-bid-fed-lifts-the-hawkish-bar-for-boe-4904797",
@@ -123,11 +128,6 @@
         "title": "Judge in Kennedy Center case orders Trump administration to explain closure plans",
         "link": "https://www.investing.com/news/economy-news/judge-in-kennedy-center-case-orders-trump-administration-to-explain-closure-plans-4904590",
         "published": "2026-09-17 03:00:35"
-      },
-      {
-        "title": "Trump lashes out at Fed after Warsh backs rate hike",
-        "link": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
-        "published": "2026-09-17 02:36:29"
       }
     ]
   }
