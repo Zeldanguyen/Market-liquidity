@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T20:09:55.076338",
+  "fetched_at": "2026-09-17T20:39:58.915496",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Wall St rebounds after Fed’s first rate hike in years as oil, Treasury yields dip",
+        "title": "Canada and EU should ally to protect democracies, Carney says, after ’associate member’ proposal angers Trump",
+        "link": "https://www.investing.com/news/economy-news/trump-warns-eu-of-tariffs-over-canadas-potential-associate-membership-calls-it-laughable-4904824",
+        "published": "2026-09-17 20:24:33"
+      },
+      {
+        "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-        "published": "2026-09-17 19:48:25"
+        "published": "2026-09-17 20:18:25"
       },
       {
         "title": "Dollar pauses after Fed rally as yields, oil retreat",
@@ -123,11 +128,6 @@
         "title": "Brazil’s Lula boosts welfare payments, eyes new debt-relief push ahead of election",
         "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
         "published": "2026-09-17 18:54:27"
-      },
-      {
-        "title": "Judge orders Trump to give 30 days notice before any steps to demolish Kennedy Center",
-        "link": "https://www.investing.com/news/economy-news/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-4905932",
-        "published": "2026-09-17 18:30:55"
       }
     ]
   }
