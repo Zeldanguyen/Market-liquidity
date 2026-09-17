@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T00:44:36.207203",
+  "fetched_at": "2026-09-17T01:10:10.391635",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "IMF says Australia may need further interest rate rises to tame inflation",
+        "link": "https://www.investing.com/news/economy-news/imf-says-australia-may-need-further-interest-rate-rises-to-tame-inflation-4904728",
+        "published": "2026-09-17 00:54:23"
+      },
+      {
         "title": "Bank of England to hold rates but energy shock stirs talk of a hike",
         "link": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-but-energy-shock-stirs-talk-of-a-hike-4904677",
         "published": "2026-09-16 23:12:41"
@@ -123,11 +128,6 @@
         "title": "Scientists challenge US NIH grant screening as unconstitutional",
         "link": "https://www.investing.com/news/economy-news/scientists-challenge-us-nih-grant-screening-as-unconstitutional-4904669",
         "published": "2026-09-16 22:54:50"
-      },
-      {
-        "title": "US International Development Finance Corp approves more than $8 billion in new investments",
-        "link": "https://www.investing.com/news/economy-news/us-international-development-finance-corp-approves-more-than-8-billion-in-new-investments-4904664",
-        "published": "2026-09-16 22:48:15"
       }
     ]
   }
