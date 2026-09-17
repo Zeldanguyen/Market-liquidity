@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-17T02:09:58.104878",
+  "fetched_at": "2026-09-17T02:41:03.404594",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "CEO SSI chỉ ra một nghịch lý trên thị trường chứng khoán: Khối FDI làm ra hơn 3/4 kim ngạch xuất khẩu nhưng chỉ chiếm 0,15% vốn hoá",
+        "link": "https://cafef.vn/ceo-ssi-chi-ra-mot-nghich-ly-tren-thi-truong-chung-khoan-khoi-fdi-lam-ra-hon-3-4-kim-ngach-xuat-khau-nhung-chi-chiem-015-von-hoa-188260917091634145.chn",
+        "published": "Thu, 17 Sep 26 09:16:00 +0700"
+      },
       {
         "title": "TikToker Phạm Tuấn bị điều tra trong đường dây lừa đảo Bitcoin Defi",
         "link": "https://cafef.vn/tiktoker-pham-tuan-bi-dieu-tra-trong-duong-day-lua-dao-bitcoin-defi-18826091709011641.chn",
@@ -26,11 +31,6 @@
       {
         "title": "Một cổ phiếu ngân hàng phá đỉnh mọi thời đại, sếp lớn muốn thoái bớt vốn",
         "link": "https://cafef.vn/mot-co-phieu-ngan-hang-pha-dinh-moi-thoi-dai-sep-lon-muon-thoai-bot-von-188260916220959836.chn",
-        "published": "Thu, 17 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Công ty chứng khoán dự báo VN-Index có thể trở lại vùng 1.900 điểm",
-        "link": "https://cafef.vn/cong-ty-chung-khoan-du-bao-vn-index-co-the-tro-lai-vung-1900-diem-188260916215957693.chn",
         "published": "Thu, 17 Sep 26 00:02:00 +0700"
       }
     ],
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Cuộc đua \"thị trường không ngủ\": Quốc tế nới giờ giao dịch, Việt Nam cân nhắc phiên xuyên trưa",
+        "link": "http://vietstock.vn/2026/09/cuoc-dua-thi-truong-khong-ngu-quoc-te-noi-gio-giao-dich-viet-nam-can-nhac-phien-xuyen-trua-830-1492898.htm",
+        "published": "Thu, 17 Sep 2026 08:57:48 +0700"
+      },
+      {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 17/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1709-830-1492971.htm",
         "published": "Thu, 17 Sep 2026 08:00:00 +0700"
@@ -91,14 +96,19 @@
         "title": "Nhịp đập Thị trường 16/09: Tâm lý thận trọng bao trùm, VN-Index tiếp tục rung lắc tại ngưỡng 1,810 điểm",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1609-tam-ly-than-trong-bao-trum-vn-index-tiep-tuc-rung-lac-tai-nguong-1810-diem-1636-1492799.htm",
         "published": "Wed, 16 Sep 2026 16:47:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 16/09: Giằng co biên độ hẹp",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1609-giang-co-bien-do-hep-585-1492865.htm",
-        "published": "Wed, 16 Sep 2026 13:08:46 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ",
+        "link": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
+        "published": "2026-09-17 02:12:51"
+      },
+      {
+        "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields",
+        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
+        "published": "2026-09-17 02:06:31"
+      },
       {
         "title": "Goldman Sachs now sees Fed hiking again in October",
         "link": "https://www.investing.com/news/economy-news/goldman-sachs-now-sees-fed-hiking-again-in-october-4904743",
@@ -118,16 +128,6 @@
         "title": "Fed policymakers forecast one more rate hike this year",
         "link": "https://www.investing.com/news/economy-news/fed-forecasts-see-latest-hike-followed-by-another-before-end-of-year-4904264",
         "published": "2026-09-16 23:08:52"
-      },
-      {
-        "title": "Major US banks raise prime rate after first Fed rate hike since 2023",
-        "link": "https://www.investing.com/news/economy-news/keycorp-raises-prime-rate-after-fed-decision-4904369",
-        "published": "2026-09-16 23:08:02"
-      },
-      {
-        "title": "Trump lashes out at Fed after Warsh backs rate hike",
-        "link": "https://www.investing.com/news/economy-news/trump-says-us-interest-rates-should-be-1-or-lower-4904556",
-        "published": "2026-09-16 23:01:30"
       }
     ]
   }
