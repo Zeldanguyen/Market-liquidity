@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T21:09:02.271792",
+  "fetched_at": "2026-09-18T21:38:31.252257",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "OpenAI’s Sam Altman to brief UN Security Council next week",
+        "title": "Trump says U.S. and Denmark reached permanent security deal over Greenland",
+        "link": "https://www.investing.com/news/economy-news/us-and-denmark-near-deal-on-expanded-military-presence-in-greenland--report-4907924",
+        "published": "2026-09-18 21:23:04"
+      },
+      {
+        "title": "Exclusive-OpenAI’s Sam Altman to brief UN Security Council next week",
         "link": "https://www.investing.com/news/economy-news/openais-sam-altmanto-brief-un-security-council-next-week-4907866",
-        "published": "2026-09-18 20:30:38"
+        "published": "2026-09-18 21:18:49"
       },
       {
-        "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
-        "published": "2026-09-18 20:25:06"
+        "title": "Global shares edge higher as central banks double down on inflation fight",
+        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+        "published": "2026-09-18 21:07:26"
       },
       {
-        "title": "Exclusive-Kennedy names new chair for US autism advisory panel",
-        "link": "https://www.investing.com/news/economy-news/exclusivekennedy-names-new-chair-for-us-autism-advisory-panel-sources-say-4907814",
-        "published": "2026-09-18 20:24:30"
+        "title": "Bank of Japan lifts rates as global tightening cycle takes shape",
+        "link": "https://www.investing.com/news/economy-news/bank-of-japan-lifts-rates-as-global-tightening-cycle-takes-shape-93CH-4907895",
+        "published": "2026-09-18 21:01:50"
       },
       {
-        "title": "Bolivia approves $1.9 billion IMF deal in hopes of accessing external financing",
-        "link": "https://www.investing.com/news/economy-news/bolivia-approves-19-billion-imf-deal-in-hopes-of-accessing-external-financing-4907817",
-        "published": "2026-09-18 19:48:31"
+        "title": "Take Five: High stakes, low bars",
+        "link": "https://www.investing.com/news/economy-news/take-five-high-stakes-low-bars-4906923",
+        "published": "2026-09-18 21:00:35"
       },
       {
-        "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
-        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
-        "published": "2026-09-18 19:18:49"
-      },
-      {
-        "title": "Musk bets AI will double U.S. economic growth next year",
-        "link": "https://www.investing.com/news/economy-news/musk-bets-ai-will-double-us-economic-growth-next-year-4907780",
-        "published": "2026-09-18 18:38:00"
+        "title": "How Bessent, America’s bond salesman, cornered Japan on big spending",
+        "link": "https://www.investing.com/news/economy-news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending-4906555",
+        "published": "2026-09-18 20:55:13"
       }
     ]
   }
