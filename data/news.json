@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T01:09:25.711524",
+  "fetched_at": "2026-09-18T01:38:22.868164",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 18/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1809-830-1493403.htm",
+        "published": "Fri, 18 Sep 2026 08:00:00 +0700"
+      },
+      {
         "title": "18/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493538.htm",
         "published": "Fri, 18 Sep 2026 06:00:00 +0700"
@@ -91,14 +96,14 @@
         "title": "Lễ Vinh danh IR Awards lần thứ 16 sẽ được tổ chức vào ngày 24/09/2026",
         "link": "http://vietstock.vn/2026/09/le-vinh-danh-ir-awards-lan-thu-16-se-duoc-to-chuc-vao-ngay-24092026-830-1493263.htm",
         "published": "Thu, 17 Sep 2026 13:32:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 17/09: Tiến về ngưỡng Fibonacci Projection 78.6%",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1709-tien-ve-nguong-fibonacci-projection-786-585-1493265.htm",
-        "published": "Thu, 17 Sep 2026 13:07:55 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Yen weak ahead of BOJ decision; rate hike expected",
+        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
+        "published": "2026-09-18 01:06:51"
+      },
       {
         "title": "How Bessent, America’s bond salesman, cornered Japan on big spending",
         "link": "https://www.investing.com/news/economy-news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending-4906555",
@@ -123,11 +128,6 @@
         "title": "Bank of Japan set to raise interest rates to 31-year high",
         "link": "https://www.investing.com/news/economy-news/bank-of-japan-set-to-raise-interest-rates-to-31year-high-4906528",
         "published": "2026-09-17 22:06:30"
-      },
-      {
-        "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
-        "link": "https://www.investing.com/news/economy-news/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-shortterm-yields-4904754",
-        "published": "2026-09-17 21:26:10"
       }
     ]
   }
