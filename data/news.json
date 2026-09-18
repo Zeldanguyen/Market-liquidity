@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T22:09:25.335839",
+  "fetched_at": "2026-09-18T22:38:47.244676",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Exclusive-OpenAI’s Sam Altman to brief UN Security Council next week",
+        "link": "https://www.investing.com/news/economy-news/openais-sam-altmanto-brief-un-security-council-next-week-4907866",
+        "published": "2026-09-18 22:02:48"
+      },
+      {
+        "title": "Exclusive-Kennedy names new chair for US autism advisory panel",
+        "link": "https://www.investing.com/news/economy-news/exclusivekennedy-names-new-chair-for-us-autism-advisory-panel-sources-say-4907814",
+        "published": "2026-09-18 22:02:27"
+      },
+      {
         "title": "Trump says U.S. and Denmark reached permanent security deal over Greenland",
         "link": "https://www.investing.com/news/economy-news/us-and-denmark-near-deal-on-expanded-military-presence-in-greenland--report-4907924",
         "published": "2026-09-18 21:23:04"
-      },
-      {
-        "title": "Exclusive-OpenAI’s Sam Altman to brief UN Security Council next week",
-        "link": "https://www.investing.com/news/economy-news/openais-sam-altmanto-brief-un-security-council-next-week-4907866",
-        "published": "2026-09-18 21:18:49"
       },
       {
         "title": "Global shares edge higher as central banks double down on inflation fight",
@@ -123,11 +128,6 @@
         "title": "Take Five: High stakes, low bars",
         "link": "https://www.investing.com/news/economy-news/take-five-high-stakes-low-bars-4906923",
         "published": "2026-09-18 21:00:35"
-      },
-      {
-        "title": "How Bessent, America’s bond salesman, cornered Japan on big spending",
-        "link": "https://www.investing.com/news/economy-news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending-4906555",
-        "published": "2026-09-18 20:55:13"
       }
     ]
   }
