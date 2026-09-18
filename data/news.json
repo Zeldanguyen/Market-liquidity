@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T10:40:10.405255",
+  "fetched_at": "2026-09-18T11:09:31.607741",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "UOB: Triển vọng tăng trưởng 2026 tích cực, tỷ giá vẫn ổn định",
+        "link": "https://vneconomy.vn/uob-trien-vong-tang-truong-2026-tich-cuc-ty-gia-van-on-dinh.htm",
+        "published": "Fri, 18 Sep 2026 11:00:57 GMT"
+      },
+      {
         "title": "Muốn vay theo dòng tiền, doanh nghiệp phải minh bạch tài chính",
         "link": "https://vneconomy.vn/muon-vay-theo-dong-tien-doanh-nghiep-phai-minh-bach-tai-chinh.htm",
         "published": "Fri, 18 Sep 2026 09:41:53 GMT"
@@ -59,11 +64,6 @@
         "title": "MDP trở thành hội viên chính thức của Hiệp hội Ngân hàng Việt Nam",
         "link": "https://vneconomy.vn/mdp-tro-thanh-hoi-vien-chinh-thuc-cua-hiep-hoi-ngan-hang-viet-nam.htm",
         "published": "Fri, 18 Sep 2026 06:12:21 GMT"
-      },
-      {
-        "title": "BOE giữ nguyên lãi suất dù lạm phát vượt xa mục tiêu",
-        "link": "https://vneconomy.vn/boe-giu-nguyen-lai-suat-du-lam-phat-vuot-xa-muc-tieu.htm",
-        "published": "Fri, 18 Sep 2026 01:07:22 GMT"
       }
     ],
     "Vietstock": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Italy’s public debt costs rising amid geopolitical tensions",
+        "link": "https://www.investing.com/news/economy-news/italys-public-debt-costs-rising-amid-geopolitical-tensions-93CH-4907078",
+        "published": "2026-09-18 10:58:54"
+      },
+      {
+        "title": "Lagarde says ECB rates don’t track energy prices directly",
+        "link": "https://www.investing.com/news/economy-news/lagarde-says-ecb-rates-dont-track-energy-prices-directly-93CH-4907076",
+        "published": "2026-09-18 10:58:01"
+      },
+      {
+        "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
+        "link": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
+        "published": "2026-09-18 10:42:33"
+      },
+      {
         "title": "Major central banks on tightening path amid energy price shock",
         "link": "https://www.investing.com/news/economy-news/major-central-banks-on-tightening-path-amid-energy-price-shock-4905732",
-        "published": "2026-09-18 10:15:30"
+        "published": "2026-09-18 10:36:32"
       },
       {
-        "title": "London’s FTSE 100 retreats as banks, energy weigh but eyes weekly rise",
-        "link": "https://www.investing.com/news/economy-news/londons-ftse-100-retreats-as-banks-energy-weigh-but-eyes-weekly-rise-4906988",
-        "published": "2026-09-18 10:15:09"
+        "title": "Global equity fund outflows hit nine-month high on inflation fears",
+        "link": "https://www.investing.com/news/economy-news/global-equity-fund-outflows-hit-ninemonth-high-on-inflation-fears-4907011",
+        "published": "2026-09-18 10:31:22"
       },
       {
-        "title": "Some Brazilian voters are feeling burned by fintech revolution",
-        "link": "https://www.investing.com/news/economy-news/some-brazilian-voters-are-feeling-burned-by-fintech-revolution-4906966",
-        "published": "2026-09-18 10:08:56"
-      },
-      {
-        "title": "Investors focus on rate path, AI slowdown after Fed hike",
-        "link": "https://www.investing.com/news/economy-news/investors-focus-on-rate-path-ai-slowdown-after-fed-hike-4906951",
-        "published": "2026-09-18 10:07:03"
-      },
-      {
-        "title": "Take Five: High stakes, low bars",
-        "link": "https://www.investing.com/news/economy-news/take-five-high-stakes-low-bars-4906923",
-        "published": "2026-09-18 09:55:21"
-      },
-      {
-        "title": "Saudi Aramco to lift Gulf exports to 60 million in September and October - Reuters",
-        "link": "https://www.investing.com/news/economy-news/saudi-aramco-to-lift-gulf-exports-to-60-million-in-september-and-october--reuters-4906922",
-        "published": "2026-09-18 09:55:14"
+        "title": "Thailand to extend its consumer subsidy programme, PM says",
+        "link": "https://www.investing.com/news/economy-news/thailand-to-extend-its-consumer-subsidy-programme-pm-says-4907008",
+        "published": "2026-09-18 10:31:02"
       }
     ]
   }
