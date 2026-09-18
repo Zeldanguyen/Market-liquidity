@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T20:09:10.271972",
+  "fetched_at": "2026-09-18T20:39:12.309743",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,24 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "OpenAI’s Sam Altman to brief UN Security Council next week",
+        "link": "https://www.investing.com/news/economy-news/openais-sam-altmanto-brief-un-security-council-next-week-4907866",
+        "published": "2026-09-18 20:30:38"
+      },
+      {
+        "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
+        "published": "2026-09-18 20:25:06"
+      },
+      {
+        "title": "Exclusive-Kennedy names new chair for US autism advisory panel",
+        "link": "https://www.investing.com/news/economy-news/exclusivekennedy-names-new-chair-for-us-autism-advisory-panel-sources-say-4907814",
+        "published": "2026-09-18 20:24:30"
+      },
+      {
         "title": "Bolivia approves $1.9 billion IMF deal in hopes of accessing external financing",
         "link": "https://www.investing.com/news/economy-news/bolivia-approves-19-billion-imf-deal-in-hopes-of-accessing-external-financing-4907817",
         "published": "2026-09-18 19:48:31"
-      },
-      {
-        "title": "Exclusive-Kennedy names new chair for US autism advisory panel, sources say",
-        "link": "https://www.investing.com/news/economy-news/exclusivekennedy-names-new-chair-for-us-autism-advisory-panel-sources-say-4907814",
-        "published": "2026-09-18 19:42:37"
       },
       {
         "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
@@ -115,19 +125,9 @@
         "published": "2026-09-18 19:18:49"
       },
       {
-        "title": "Musk bets AI will double US economic growth next year",
+        "title": "Musk bets AI will double U.S. economic growth next year",
         "link": "https://www.investing.com/news/economy-news/musk-bets-ai-will-double-us-economic-growth-next-year-4907780",
         "published": "2026-09-18 18:38:00"
-      },
-      {
-        "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
-        "published": "2026-09-18 18:37:02"
-      },
-      {
-        "title": "Explainer-Why France’s budget problems have driven its bond risk premium to 2012 highs",
-        "link": "https://www.investing.com/news/economy-news/explainerwhy-frances-budget-problems-have-driven-its-bond-risk-premium-to-2012-highs-4907752",
-        "published": "2026-09-18 18:00:58"
       }
     ]
   }
