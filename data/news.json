@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T19:09:32.840130",
+  "fetched_at": "2026-09-18T19:36:36.046608",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
+        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
+        "published": "2026-09-18 19:18:49"
+      },
+      {
         "title": "Musk bets AI will double US economic growth next year",
         "link": "https://www.investing.com/news/economy-news/musk-bets-ai-will-double-us-economic-growth-next-year-4907780",
         "published": "2026-09-18 18:38:00"
@@ -123,11 +128,6 @@
         "title": "AI error nearly sparked US-China military collision in Middle East - CNN",
         "link": "https://www.investing.com/news/economy-news/ai-error-nearly-sparked-uschina-military-collision-in-middle-east--cnn-4907726",
         "published": "2026-09-18 17:26:07"
-      },
-      {
-        "title": "Europe’s STOXX 600 falls as autos, telecoms lead broad sell-off",
-        "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
-        "published": "2026-09-18 16:49:18"
       }
     ]
   }
