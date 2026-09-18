@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T12:43:20.014396",
+  "fetched_at": "2026-09-18T13:08:34.836684",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giám đốc của Vanguard: Sẽ đầu tư vào Việt Nam 2,5 tỷ USD và nắm giữ các khoản này trong nhiều thập kỷ",
+        "link": "https://vneconomy.vn/giam-doc-cua-vanguard-se-dau-tu-vao-viet-nam-25-ty-usd-va-nam-giu-cac-khoan-nay-trong-nhieu-thap-ky.htm",
+        "published": "Fri, 18 Sep 2026 13:02:03 GMT"
+      },
+      {
         "title": "Bộ trưởng Tài chính: Nâng hạng không phải là bước tiến cuối cùng mà là một bước tiến mới",
         "link": "https://vneconomy.vn/bo-truong-tai-chinh-nang-hang-khong-phai-la-buoc-tien-cuoi-cung-ma-la-mot-buoc-tien-moi.htm",
         "published": "Fri, 18 Sep 2026 11:40:34 GMT"
@@ -59,11 +64,6 @@
         "title": "HDBank tiếp tục vào Top 50 Forbes Việt Nam trong bước chuyển lớn của thị trường vốn",
         "link": "https://vneconomy.vn/hdbank-tiep-tuc-vao-top-50-forbes-viet-nam-trong-buoc-chuyen-lon-cua-thi-truong-von.htm",
         "published": "Fri, 18 Sep 2026 09:15:00 GMT"
-      },
-      {
-        "title": "Giá vàng trong nước bật tăng tới 1,3 triệu đồng/lượng trong phiên",
-        "link": "https://vneconomy.vn/gia-vang-trong-nuoc-bat-tang-toi-13-trieu-dongluong-trong-phien.htm",
-        "published": "Fri, 18 Sep 2026 07:20:17 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Indian bonds fall for fifth week on Fed hike, RBI moves",
+        "link": "https://www.investing.com/news/economy-news/indian-bonds-fall-for-fifth-week-on-fed-hike-rbi-moves-93CH-4907339",
+        "published": "2026-09-18 12:45:37"
+      },
+      {
+        "title": "Yen slumps to two-week low after BOJ rate hike underwhelms",
+        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
+        "published": "2026-09-18 12:30:48"
+      },
+      {
+        "title": "Italy’s debt burden rising at alarming rate, economy minister says",
+        "link": "https://www.investing.com/news/economy-news/italys-debt-burden-rising-at-alarming-rate-economy-minister-says-4907270",
+        "published": "2026-09-18 12:18:29"
+      },
+      {
         "title": "Has long-term dollar strength arrived? Standard Chartered weighs in.",
         "link": "https://www.investing.com/news/economy-news/has-longterm-dollar-strength-arrived-standard-chartered-weighs-in-4907250",
         "published": "2026-09-18 12:16:13"
@@ -113,21 +128,6 @@
         "title": "Saudi Aramco halts crude oil supply to European customers",
         "link": "https://www.investing.com/news/economy-news/saudi-aramco-halts-crude-oil-supply-to-european-customers-4907169",
         "published": "2026-09-18 11:40:30"
-      },
-      {
-        "title": "Barclays, UBS back BoE hikes as inflation risks mount",
-        "link": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
-        "published": "2026-09-18 11:36:24"
-      },
-      {
-        "title": "Nasdaq futures lead Wall St gains as oil retreat eases inflation worries",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
-        "published": "2026-09-18 11:20:00"
-      },
-      {
-        "title": "Analysis-Global rate-hike cycle in view as central banks take on inflation",
-        "link": "https://www.investing.com/news/economy-news/analysisglobal-ratehike-cycle-in-view-as-central-banks-take-on-inflation-4907130",
-        "published": "2026-09-18 11:19:42"
       }
     ]
   }
