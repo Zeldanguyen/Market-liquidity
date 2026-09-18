@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T13:39:57.758206",
+  "fetched_at": "2026-09-18T14:09:14.086766",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán Việt Nam chính thức gia nhập rổ chỉ số toàn cầu FTSE Russell",
+        "link": "https://cafef.vn/chung-khoan-viet-nam-chinh-thuc-gia-nhap-ro-chi-so-toan-cau-ftse-russell-18826091820182807.chn",
+        "published": "Fri, 18 Sep 26 20:47:00 +0700"
+      },
       {
         "title": "Bộ trưởng Bộ Tài chính tiếp Tổng Giám đốc điều hành FTSE Russell",
         "link": "https://cafef.vn/bo-truong-bo-tai-chinh-tiep-tong-giam-doc-dieu-hanh-ftse-russell-188260918201516328.chn",
@@ -27,14 +32,14 @@
         "title": "Giầy Thượng Đình thay Tổng Giám đốc mới",
         "link": "https://cafef.vn/giay-thuong-dinh-thay-tong-giam-doc-moi-188260918170532504.chn",
         "published": "Fri, 18 Sep 26 17:05:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Thành Công trở thành cổ đông lớn tại Freco Việt Nam",
-        "link": "https://cafef.vn/chung-khoan-thanh-cong-tro-thanh-co-dong-lon-tai-freco-viet-nam-188260918170409036.chn",
-        "published": "Fri, 18 Sep 26 17:04:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Nối tiếp động thái của Fed, BOJ tăng lãi suất lên mức cao nhất 31 năm",
+        "link": "https://vneconomy.vn/noi-tiep-dong-thai-cua-fed-boj-tang-lai-suat-len-muc-cao-nhat-31-nam.htm",
+        "published": "Fri, 18 Sep 2026 13:52:30 GMT"
+      },
       {
         "title": "Giám đốc của Vanguard: Sẽ đầu tư vào Việt Nam 2,5 tỷ USD và nắm giữ các khoản này trong nhiều thập kỷ",
         "link": "https://vneconomy.vn/giam-doc-cua-vanguard-se-dau-tu-vao-viet-nam-25-ty-usd-va-nam-giu-cac-khoan-nay-trong-nhieu-thap-ky.htm",
@@ -59,11 +64,6 @@
         "title": "Muốn vay theo dòng tiền, doanh nghiệp phải minh bạch tài chính",
         "link": "https://vneconomy.vn/muon-vay-theo-dong-tien-doanh-nghiep-phai-minh-bach-tai-chinh.htm",
         "published": "Fri, 18 Sep 2026 09:41:53 GMT"
-      },
-      {
-        "title": "HDBank tiếp tục vào Top 50 Forbes Việt Nam trong bước chuyển lớn của thị trường vốn",
-        "link": "https://vneconomy.vn/hdbank-tiep-tuc-vao-top-50-forbes-viet-nam-trong-buoc-chuyen-lon-cua-thi-truong-von.htm",
-        "published": "Fri, 18 Sep 2026 09:15:00 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed’s Bowman says changes to bank stress test coming soon",
+        "link": "https://www.investing.com/news/economy-news/feds-bowman-says-changes-to-bank-stress-test-coming-soon-4907497",
+        "published": "2026-09-18 13:43:05"
+      },
+      {
         "title": "Wall St set for tepid open as oil prices fall, Treasury yields rise",
         "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
         "published": "2026-09-18 12:54:29"
@@ -123,11 +128,6 @@
         "title": "Has long-term dollar strength arrived? Standard Chartered weighs in.",
         "link": "https://www.investing.com/news/economy-news/has-longterm-dollar-strength-arrived-standard-chartered-weighs-in-4907250",
         "published": "2026-09-18 12:16:13"
-      },
-      {
-        "title": "Stocks and bonds dip as central banks jack up rates to tame inflation",
-        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
-        "published": "2026-09-18 12:00:32"
       }
     ]
   }
