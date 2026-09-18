@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T23:36:25.232806",
+  "fetched_at": "2026-09-18T00:12:02.875393",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,21 @@
     ],
     "VnEconomy": [
       {
+        "title": "“Ác mộng” của người định mua nhà ở Mỹ: Lãi suất vay thế chấp nhà có thể vượt 7%",
+        "link": "https://vneconomy.vn/ac-mong-cua-nguoi-dinh-mua-nha-o-my-lai-suat-vay-the-chap-nha-co-the-vuot-7.htm",
+        "published": "Fri, 18 Sep 2026 00:11:57 GMT"
+      },
+      {
+        "title": "Thấy gì từ việc nhà đầu tư mua nhiều cổ phiếu Mỹ hơn trái phiếu kho bạc Mỹ?",
+        "link": "https://vneconomy.vn/thay-gi-tu-viec-nha-dau-tu-mua-nhieu-co-phieu-my-hon-trai-phieu-kho-bac-my.htm",
+        "published": "Fri, 18 Sep 2026 00:10:43 GMT"
+      },
+      {
+        "title": "Giá vàng hồi phục mạnh, SPDR Gold Trust tiếp tục mua ròng",
+        "link": "https://vneconomy.vn/gia-vang-hoi-phuc-manh-spdr-gold-trust-tiep-tuc-mua-rong.htm",
+        "published": "Fri, 18 Sep 2026 00:10:03 GMT"
+      },
+      {
         "title": "8 tháng đầu năm, lực lượng hải quan xử lý hơn 267.000 sản phẩm thuốc lá lậu",
         "link": "https://vneconomy.vn/8-thang-dau-nam-luc-luong-hai-quan-xu-ly-hon-267000-san-pham-thuoc-la-lau.htm",
         "published": "Thu, 17 Sep 2026 11:42:55 GMT"
@@ -49,21 +64,6 @@
         "title": "Những nền kinh tế có lợi suất trái phiếu tăng nhanh nhất trong một năm qua",
         "link": "https://vneconomy.vn/nhung-nen-kinh-te-co-loi-suat-trai-phieu-tang-nhanh-nhat-trong-mot-nam-qua.htm",
         "published": "Thu, 17 Sep 2026 06:52:47 GMT"
-      },
-      {
-        "title": "Loại trừ dư nợ tăng thêm của khách sạn, khu nghỉ dưỡng khi tính tăng trưởng tín dụng bất động sản năm 2026",
-        "link": "https://vneconomy.vn/loai-tru-du-no-tang-them-cua-khach-san-khu-nghi-duong-khi-tinh-tang-truong-tin-dung-bat-dong-san-nam-2026.htm",
-        "published": "Thu, 17 Sep 2026 05:52:38 GMT"
-      },
-      {
-        "title": "Fed vừa tăng lãi suất, Tổng thống Trump đã kêu gọi giảm về 1%",
-        "link": "https://vneconomy.vn/fed-vua-tang-lai-suat-tong-thong-trump-da-keu-goi-giam-ve-1.htm",
-        "published": "Thu, 17 Sep 2026 01:24:44 GMT"
-      },
-      {
-        "title": "Fed phát tín hiệu tiếp tục tăng lãi suất trong năm nay",
-        "link": "https://vneconomy.vn/fed-phat-tin-hieu-tiep-tuc-tang-lai-suat-trong-nam-nay.htm",
-        "published": "Thu, 17 Sep 2026 00:41:10 GMT"
       }
     ],
     "Vietstock": [
