@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T15:40:11.734772",
+  "fetched_at": "2026-09-18T16:09:18.289382",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Report finds ’culture of risk aversion’ hindered oversight of SVB, Fed official says",
-        "link": "https://www.investing.com/news/economy-news/report-finds-culture-of-risk-aversion-hindered-oversight-of-svb-fed-official-says-4907618",
-        "published": "2026-09-18 15:12:53"
+        "title": "Wall St slips as higher Treasury yields weigh on sentiment",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
+        "published": "2026-09-18 15:54:47"
       },
       {
         "title": "Fed’s Bowman says overhaul of bank stress test will make process more transparent",
         "link": "https://www.investing.com/news/economy-news/feds-bowman-says-changes-to-bank-stress-test-coming-soon-4907497",
-        "published": "2026-09-18 15:06:33"
+        "published": "2026-09-18 15:43:07"
+      },
+      {
+        "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
+        "link": "https://www.investing.com/news/economy-news/eu-banks-must-be-bigger-have-deeper-capital-market-to-compete-with-us-say-top-eu-officials-4907600",
+        "published": "2026-09-18 15:36:49"
+      },
+      {
+        "title": "Report finds ’culture of risk aversion’ hindered oversight of SVB, Fed official says",
+        "link": "https://www.investing.com/news/economy-news/report-finds-culture-of-risk-aversion-hindered-oversight-of-svb-fed-official-says-4907618",
+        "published": "2026-09-18 15:36:30"
+      },
+      {
+        "title": "California governor orders AI safety measures after recent incidents",
+        "link": "https://www.investing.com/news/economy-news/california-governor-orders-ai-safety-measures-after-recent-incidents-93CH-4907623",
+        "published": "2026-09-18 15:24:36"
       },
       {
         "title": "Dollar jumps against yen as BOJ dissent clouds rate-hike outlook",
         "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
         "published": "2026-09-18 15:00:30"
-      },
-      {
-        "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
-        "link": "https://www.investing.com/news/economy-news/eu-banks-must-be-bigger-have-deeper-capital-market-to-compete-with-us-say-top-eu-officials-4907600",
-        "published": "2026-09-18 14:54:53"
-      },
-      {
-        "title": "Wall St slips as higher Treasury yields weigh on sentiment",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
-        "published": "2026-09-18 14:36:27"
-      },
-      {
-        "title": "Indian bonds fall for fifth week on Fed hike, RBI moves",
-        "link": "https://www.investing.com/news/economy-news/indian-bonds-fall-for-fifth-week-on-fed-hike-rbi-moves-93CH-4907339",
-        "published": "2026-09-18 12:45:37"
       }
     ]
   }
