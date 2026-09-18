@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T08:41:20.576586",
+  "fetched_at": "2026-09-18T09:09:18.415105",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Khối ngoại mua ròng hơn 1.200 tỷ đồng phiên các quỹ ETF mới nổi giải ngân đợt 1, cổ phiếu nào được gom mạnh nhất?",
+        "link": "https://cafef.vn/khoi-ngoai-mua-rong-hon-1200-ty-dong-phien-cac-quy-etf-moi-noi-giai-ngan-dot-1-co-phieu-nao-duoc-gom-manh-nhat-18826091815182367.chn",
+        "published": "Fri, 18 Sep 26 15:45:00 +0700"
+      },
       {
         "title": "Không phải dòng vốn tỷ USD sau nâng hạng, Tổng Giám đốc Dragon Capital chỉ ra điều quan trọng hơn cả",
         "link": "https://cafef.vn/khong-phai-dong-von-ty-usd-sau-nang-hang-tong-giam-doc-dragon-capital-chi-ra-dieu-quan-trong-hon-ca-188260918150036876.chn",
@@ -27,11 +32,6 @@
         "title": "Âu Lạc dự kiến chia cổ phiếu thưởng tỷ lệ 49%",
         "link": "https://cafef.vn/au-lac-du-kien-chia-co-phieu-thuong-ty-le-49-188260918130819413.chn",
         "published": "Fri, 18 Sep 26 13:34:00 +0700"
-      },
-      {
-        "title": "Vinhomes nâng hợp đồng tổng thầu siêu dự án Cần Giờ tăng 76%, lên hơn 12 tỷ USD",
-        "link": "https://cafef.vn/vinhomes-nang-hop-dong-tong-thau-sieu-du-an-can-gio-tang-76-len-hon-12-ty-usd-188260918125909481.chn",
-        "published": "Fri, 18 Sep 26 12:59:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Stocks and bonds dip as central banks jack up rates to tame inflation",
+        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+        "published": "2026-09-18 08:42:52"
+      },
+      {
         "title": "BOJ Governor Ueda’s comments at news conference",
         "link": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
         "published": "2026-09-18 08:00:48"
@@ -123,11 +128,6 @@
         "title": "Berlin’s acute housing shortage and soaring rents dominate city election",
         "link": "https://www.investing.com/news/economy-news/berlins-acute-housing-shortage-and-soaring-rents-dominate-city-election-4906717",
         "published": "2026-09-18 06:24:26"
-      },
-      {
-        "title": "Moody’s hikes India fiscal 2027 GDP forecast to 7%",
-        "link": "https://www.investing.com/news/economy-news/moodys-hikes-india-fiscal-2027-gdp-forecast-to-7-4906720",
-        "published": "2026-09-18 06:24:18"
       }
     ]
   }
