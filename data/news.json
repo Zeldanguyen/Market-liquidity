@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T01:38:22.868164",
+  "fetched_at": "2026-09-18T02:09:32.279970",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Sàn giao dịch chứng khoán lớn nhất thế giới NYSE chúc mừng Việt Nam",
+        "link": "https://cafef.vn/san-giao-dich-chung-khoan-lon-nhat-the-gioi-nyse-chuc-mung-viet-nam-188260918085930066.chn",
+        "published": "Fri, 18 Sep 26 09:00:00 +0700"
+      },
       {
         "title": "Điểm tựa mới của chứng khoán Việt Nam",
         "link": "https://cafef.vn/diem-tua-moi-cua-chung-khoan-viet-nam-188260917182140074.chn",
@@ -26,11 +31,6 @@
       {
         "title": "Không phải FPT, đây mới là cổ phiếu bị khối ngoại bán ròng nhiều nhất từ đầu năm",
         "link": "https://cafef.vn/khong-phai-fpt-day-moi-la-co-phieu-bi-khoi-ngoai-ban-rong-nhieu-nhat-tu-dau-nam-188260918000348157.chn",
-        "published": "Fri, 18 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "CTCK điểm tên loạt \"siêu cổ phiếu\" tiềm năng với tỷ suất cổ tức cao, rủng rỉnh tiền mặt",
-        "link": "https://cafef.vn/ctck-diem-ten-loat-sieu-co-phieu-tiem-nang-voi-ty-suat-co-tuc-cao-rung-rinh-tien-mat-188260917234728625.chn",
         "published": "Fri, 18 Sep 26 00:03:00 +0700"
       }
     ],
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Australia’s central bank chief warns inflation risks materialising",
+        "link": "https://www.investing.com/news/economy-news/australias-central-bank-chief-warns-inflation-risks-materialising-4906611",
+        "published": "2026-09-18 01:42:27"
+      },
+      {
+        "title": "Stocks rise as oil dips, yen wobbles ahead of BOJ",
+        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+        "published": "2026-09-18 01:36:26"
+      },
+      {
         "title": "Yen weak ahead of BOJ decision; rate hike expected",
         "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
         "published": "2026-09-18 01:06:51"
@@ -118,16 +128,6 @@
         "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
         "published": "2026-09-17 22:48:29"
-      },
-      {
-        "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-        "link": "https://www.investing.com/news/economy-news/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models-4906530",
-        "published": "2026-09-17 22:12:29"
-      },
-      {
-        "title": "Bank of Japan set to raise interest rates to 31-year high",
-        "link": "https://www.investing.com/news/economy-news/bank-of-japan-set-to-raise-interest-rates-to-31year-high-4906528",
-        "published": "2026-09-17 22:06:30"
       }
     ]
   }
