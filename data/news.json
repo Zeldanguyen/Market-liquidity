@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T17:36:32.048415",
+  "fetched_at": "2026-09-18T18:10:12.053503",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Khối ngoại bất ngờ \"tung\" hơn 2.600 tỷ mua ròng trong tuần Index tăng 20 điểm, cổ phiếu nào được gom mạnh nhất?",
+        "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tung-hon-2600-ty-mua-rong-trong-tuan-index-tang-20-diem-co-phieu-nao-duoc-gom-manh-nhat-188260919003615549.chn",
+        "published": "Sat, 19 Sep 26 00:35:00 +0700"
+      },
       {
         "title": "FTSE Russell đề xuất loạt hợp tác mới với Việt Nam sau dấu mốc nâng hạng",
         "link": "https://cafef.vn/ftse-russell-de-xuat-loat-hop-tac-moi-voi-viet-nam-sau-dau-moc-nang-hang-188260919001917604.chn",
@@ -27,11 +32,6 @@
         "title": "Việt Nam \"sánh vai\" Trung Quốc, Singapore, Hàn Quốc trong một nhóm đặc biệt",
         "link": "https://cafef.vn/viet-nam-sanh-vai-trung-quoc-singapore-han-quoc-trong-mot-nhom-dac-biet-1882609182151546.chn",
         "published": "Sat, 19 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Bộ trưởng Bộ Tài chính: Nâng hạng chứng khoán không phải là đích đến cuối cùng",
-        "link": "https://cafef.vn/bo-truong-bo-tai-chinh-nang-hang-chung-khoan-khong-phai-la-dich-den-cuoi-cung-188260918223303352.chn",
-        "published": "Fri, 18 Sep 26 22:33:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Explainer-Why France’s budget problems have driven its bond risk premium to 2012 highs",
+        "link": "https://www.investing.com/news/economy-news/explainerwhy-frances-budget-problems-have-driven-its-bond-risk-premium-to-2012-highs-4907752",
+        "published": "2026-09-18 17:42:34"
+      },
+      {
+        "title": "Grok releases Voice Transcribe 2.0 with improved accuracy",
+        "link": "https://www.investing.com/news/economy-news/grok-releases-voice-transcribe-20-with-improved-accuracy-93CH-4907746",
+        "published": "2026-09-18 17:36:18"
+      },
+      {
+        "title": "AI error nearly sparked US-China military collision in Middle East - CNN",
+        "link": "https://www.investing.com/news/economy-news/ai-error-nearly-sparked-uschina-military-collision-in-middle-east--cnn-4907726",
+        "published": "2026-09-18 17:26:07"
+      },
+      {
         "title": "Europe’s STOXX 600 falls as autos, telecoms lead broad sell-off",
         "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
         "published": "2026-09-18 16:49:18"
@@ -113,21 +128,6 @@
         "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
         "link": "https://www.investing.com/news/economy-news/eu-banks-must-be-bigger-have-deeper-capital-market-to-compete-with-us-say-top-eu-officials-4907600",
         "published": "2026-09-18 16:32:01"
-      },
-      {
-        "title": "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
-        "published": "2026-09-18 16:31:40"
-      },
-      {
-        "title": "London’s FTSE 100 retreats as financials weigh; Airtel Africa tumbles",
-        "link": "https://www.investing.com/news/economy-news/londons-ftse-100-retreats-as-banks-energy-weigh-but-eyes-weekly-rise-4906988",
-        "published": "2026-09-18 16:30:36"
-      },
-      {
-        "title": "Brazil’s Lula boosts welfare payments, eyes new debt-relief push ahead of election",
-        "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
-        "published": "2026-09-18 16:18:51"
       }
     ]
   }
