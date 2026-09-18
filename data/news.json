@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-18T02:09:32.279970",
+  "fetched_at": "2026-09-18T02:40:40.050284",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "TKV, Đất Xanh Miền Bắc và nhiều doanh nghiệp bị xử phạt",
+        "link": "https://cafef.vn/tkv-dat-xanh-mien-bac-va-nhieu-doanh-nghiep-bi-xu-phat-18826091809341264.chn",
+        "published": "Fri, 18 Sep 26 09:34:00 +0700"
+      },
+      {
+        "title": "Nâng hạng chứng khoán Việt Nam: Thị trường diễn biến thế nào sau ngày 21/9?",
+        "link": "https://cafef.vn/nang-hang-chung-khoan-viet-nam-thi-truong-dien-bien-the-nao-sau-ngay-21-9-188260918093045386.chn",
+        "published": "Fri, 18 Sep 26 09:30:00 +0700"
+      },
       {
         "title": "Sàn giao dịch chứng khoán lớn nhất thế giới NYSE chúc mừng Việt Nam",
         "link": "https://cafef.vn/san-giao-dich-chung-khoan-lon-nhat-the-gioi-nyse-chuc-mung-viet-nam-188260918085930066.chn",
@@ -22,16 +32,6 @@
         "title": "Chứng khoán SSI phát thông báo quan trọng",
         "link": "https://cafef.vn/chung-khoan-ssi-phat-thong-bao-quan-trong-188260917235958427.chn",
         "published": "Fri, 18 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Gần 200 triệu USD chờ đổ vào chứng khoán Việt Nam trong tháng này, CTCK điểm tên 3 nhóm cổ phiếu \"hút tiền\" mạnh",
-        "link": "https://cafef.vn/gan-200-trieu-usd-cho-do-vao-chung-khoan-viet-nam-trong-thang-nay-ctck-diem-ten-3-nhom-co-phieu-hut-tien-manh-188260917215326325.chn",
-        "published": "Fri, 18 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Không phải FPT, đây mới là cổ phiếu bị khối ngoại bán ròng nhiều nhất từ đầu năm",
-        "link": "https://cafef.vn/khong-phai-fpt-day-moi-la-co-phieu-bi-khoi-ngoai-ban-rong-nhieu-nhat-tu-dau-nam-188260918000348157.chn",
-        "published": "Fri, 18 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
