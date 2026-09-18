@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T06:43:56.134304",
+  "fetched_at": "2026-09-18T07:09:49.837625",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nhà đầu tư ngoại tăng mua cổ phiếu Việt Nam trước thềm nâng hạng FTSE",
+        "link": "https://cafef.vn/nha-dau-tu-ngoai-tang-mua-co-phieu-viet-nam-truoc-them-nang-hang-ftse-18826091814032272.chn",
+        "published": "Fri, 18 Sep 26 14:03:00 +0700"
+      },
       {
         "title": "Âu Lạc dự kiến chia cổ phiếu thưởng tỷ lệ 49%",
         "link": "https://cafef.vn/au-lac-du-kien-chia-co-phieu-thuong-ty-le-49-188260918130819413.chn",
@@ -27,11 +32,6 @@
         "title": "Thống đốc Phạm Đức Ấn tiếp Tổng Giám đốc điều hành FTSE Russell",
         "link": "https://cafef.vn/thong-doc-pham-duc-an-tiep-tong-giam-doc-dieu-hanh-ftse-russell-188260918110653018.chn",
         "published": "Fri, 18 Sep 26 11:06:00 +0700"
-      },
-      {
-        "title": "Lãnh đạo FTSE Russell, Vanguard, Morgan Stanley gửi thông điệp tới Việt Nam",
-        "link": "https://cafef.vn/lanh-dao-ftse-russell-vanguard-morgan-stanley-gui-thong-diep-toi-viet-nam-188260918104438738.chn",
-        "published": "Fri, 18 Sep 26 10:55:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "BOJ Governor Ueda’s comments at news conference",
+        "link": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
+        "published": "2026-09-18 06:54:31"
+      },
+      {
+        "title": "China set to keep loan rates steady for 16th consecutive month in September",
+        "link": "https://www.investing.com/news/economy-news/china-set-to-keep-loan-rates-steady-for-16th-consecutive-month-in-september-4906730",
+        "published": "2026-09-18 06:36:28"
+      },
+      {
         "title": "Berlin’s acute housing shortage and soaring rents dominate city election",
         "link": "https://www.investing.com/news/economy-news/berlins-acute-housing-shortage-and-soaring-rents-dominate-city-election-4906717",
         "published": "2026-09-18 06:24:26"
@@ -118,16 +128,6 @@
         "title": "Stocks rise, yen weakens as BOJ split-vote hike tempers hawkish wagers",
         "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
         "published": "2026-09-18 05:54:26"
-      },
-      {
-        "title": "Exclusive-ECB’s Vujcic cools oil-fuelled bets on rate hikes",
-        "link": "https://www.investing.com/news/economy-news/exclusiveecbs-vujcic-cools-oilfuelled-bets-on-rate-hikes-4906690",
-        "published": "2026-09-18 05:48:29"
-      },
-      {
-        "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
-        "link": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
-        "published": "2026-09-18 05:24:26"
       }
     ]
   }
