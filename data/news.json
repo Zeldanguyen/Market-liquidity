@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-18T03:09:34.568866",
+  "fetched_at": "2026-09-18T03:41:21.034707",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Phó Chủ tịch UBCKNN: Nâng hạng là bước khởi đầu, cần tiếp tục mở rộng quy mô và chất lượng thị trường vốn",
+        "link": "https://cafef.vn/pho-chu-tich-ubcknn-nang-hang-la-buoc-khoi-dau-can-tiep-tuc-mo-rong-quy-mo-va-chat-luong-thi-truong-von-188260918101352626.chn",
+        "published": "Fri, 18 Sep 26 10:24:00 +0700"
+      },
+      {
+        "title": "CEO SSI Nguyễn Đức Thông: Dù đầu tư sớm hay muộn, tương lai vẫn rất tươi sáng",
+        "link": "https://cafef.vn/ceo-ssi-nguyen-duc-thong-du-dau-tu-som-hay-muon-tuong-lai-van-rat-tuoi-sang-188260918101226822.chn",
+        "published": "Fri, 18 Sep 26 10:12:00 +0700"
+      },
+      {
+        "title": "Giá vàng bạc 18/9 tăng mạnh: Phú Quý, SJC lập đỉnh cao nhất tuần, bạc thỏi \"nổi sóng\"",
+        "link": "https://cafef.vn/gia-vang-bac-18-9-tang-manh-phu-quy-sjc-lap-dinh-cao-nhat-tuan-bac-thoi-noi-song-188260918100551874.chn",
+        "published": "Fri, 18 Sep 26 10:08:00 +0700"
+      },
       {
         "title": "Digiworld chia cổ tức năm 2026 bằng tiền mặt tỷ lệ 30%",
         "link": "https://cafef.vn/digiworld-chia-co-tuc-nam-2026-bang-tien-mat-ty-le-30-188260918093646719.chn",
@@ -17,21 +32,6 @@
         "title": "TKV, Đất Xanh Miền Bắc và nhiều doanh nghiệp bị xử phạt",
         "link": "https://cafef.vn/tkv-dat-xanh-mien-bac-va-nhieu-doanh-nghiep-bi-xu-phat-18826091809341264.chn",
         "published": "Fri, 18 Sep 26 09:34:00 +0700"
-      },
-      {
-        "title": "Nâng hạng chứng khoán Việt Nam: Thị trường diễn biến thế nào sau ngày 21/9?",
-        "link": "https://cafef.vn/nang-hang-chung-khoan-viet-nam-thi-truong-dien-bien-the-nao-sau-ngay-21-9-188260918093045386.chn",
-        "published": "Fri, 18 Sep 26 09:30:00 +0700"
-      },
-      {
-        "title": "Sàn giao dịch chứng khoán lớn nhất thế giới NYSE chúc mừng Việt Nam",
-        "link": "https://cafef.vn/san-giao-dich-chung-khoan-lon-nhat-the-gioi-nyse-chuc-mung-viet-nam-188260918085930066.chn",
-        "published": "Fri, 18 Sep 26 09:00:00 +0700"
-      },
-      {
-        "title": "Điểm tựa mới của chứng khoán Việt Nam",
-        "link": "https://cafef.vn/diem-tua-moi-cua-chung-khoan-viet-nam-188260917182140074.chn",
-        "published": "Fri, 18 Sep 26 08:00:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "10 doanh nghiệp bị phạt hơn 1.3 tỷ đồng, 8 vụ xoay quanh trái phiếu",
+        "link": "http://vietstock.vn/2026/09/10-doanh-nghiep-bi-phat-hon-13-ty-dong-8-vu-xoay-quanh-trai-phieu-830-1493526.htm",
+        "published": "Fri, 18 Sep 2026 09:36:12 +0700"
+      },
+      {
         "title": "Top cổ phiếu đáng chú ý đầu phiên 18/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1809-830-1493403.htm",
         "published": "Fri, 18 Sep 2026 08:00:00 +0700"
@@ -91,14 +96,24 @@
         "title": "Nhịp đập Thị trường 17/09: Cổ phiếu ngân hàng chỉ số",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1709-co-phieu-ngan-hang-chi-so-1636-1493182.htm",
         "published": "Thu, 17 Sep 2026 16:45:00 +0700"
-      },
-      {
-        "title": "Lễ Vinh danh IR Awards lần thứ 16 sẽ được tổ chức vào ngày 24/09/2026",
-        "link": "http://vietstock.vn/2026/09/le-vinh-danh-ir-awards-lan-thu-16-se-duoc-to-chuc-vao-ngay-24092026-830-1493263.htm",
-        "published": "Thu, 17 Sep 2026 13:32:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Investors react to BOJ raising interest rates to 31-year high",
+        "link": "https://www.investing.com/news/economy-news/investors-react-to-boj-raising-interest-rates-to-31year-high-4906646",
+        "published": "2026-09-18 03:24:32"
+      },
+      {
+        "title": "Bank of Japan hikes rates to 31-yr high amid growing inflationary risks",
+        "link": "https://www.investing.com/news/economy-news/bank-of-japan-hikes-rates-to-31yr-high-amid-growing-inflationary-risks-4906643",
+        "published": "2026-09-18 03:11:02"
+      },
+      {
+        "title": "BOJ raises interest rates to 31-year high in widely expected move",
+        "link": "https://www.investing.com/news/economy-news/boj-raises-interest-rates-to-31year-high-in-widely-expected-move-4906642",
+        "published": "2026-09-18 03:06:25"
+      },
       {
         "title": "Australia’s central bank chief warns inflation risks materialising",
         "link": "https://www.investing.com/news/economy-news/australias-central-bank-chief-warns-inflation-risks-materialising-4906611",
@@ -113,21 +128,6 @@
         "title": "Yen weak ahead of BOJ decision; rate hike expected",
         "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
         "published": "2026-09-18 01:06:51"
-      },
-      {
-        "title": "How Bessent, America’s bond salesman, cornered Japan on big spending",
-        "link": "https://www.investing.com/news/economy-news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending-4906555",
-        "published": "2026-09-18 00:12:31"
-      },
-      {
-        "title": "US judge strikes down Education Department’s anti-DEI grant policy",
-        "link": "https://www.investing.com/news/economy-news/us-judge-strikes-down-education-departments-antidei-grant-policy-4906553",
-        "published": "2026-09-17 23:00:35"
-      },
-      {
-        "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-fed-rate-hike-lifts-longstanding-overhang-4905088",
-        "published": "2026-09-17 22:48:29"
       }
     ]
   }
