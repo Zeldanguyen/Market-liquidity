@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T14:40:20.715967",
+  "fetched_at": "2026-09-18T15:09:28.400138",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,14 +100,19 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
+        "link": "https://www.investing.com/news/economy-news/eu-banks-must-be-bigger-have-deeper-capital-market-to-compete-with-us-say-top-eu-officials-4907600",
+        "published": "2026-09-18 14:54:53"
+      },
+      {
+        "title": "Wall St slips as higher Treasury yields weigh on sentiment",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
+        "published": "2026-09-18 14:36:27"
+      },
+      {
         "title": "Fed’s Bowman says changes to bank stress test coming soon",
         "link": "https://www.investing.com/news/economy-news/feds-bowman-says-changes-to-bank-stress-test-coming-soon-4907497",
         "published": "2026-09-18 13:43:05"
-      },
-      {
-        "title": "Wall St set for tepid open as oil prices fall, Treasury yields rise",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
-        "published": "2026-09-18 12:54:29"
       },
       {
         "title": "Indian bonds fall for fifth week on Fed hike, RBI moves",
@@ -123,11 +128,6 @@
         "title": "Italy’s debt burden rising at alarming rate, economy minister says",
         "link": "https://www.investing.com/news/economy-news/italys-debt-burden-rising-at-alarming-rate-economy-minister-says-4907270",
         "published": "2026-09-18 12:18:29"
-      },
-      {
-        "title": "Has long-term dollar strength arrived? Standard Chartered weighs in.",
-        "link": "https://www.investing.com/news/economy-news/has-longterm-dollar-strength-arrived-standard-chartered-weighs-in-4907250",
-        "published": "2026-09-18 12:16:13"
       }
     ]
   }
