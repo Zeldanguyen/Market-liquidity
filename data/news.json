@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-18T17:08:56.576678",
+  "fetched_at": "2026-09-18T17:36:32.048415",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "FTSE Russell đề xuất loạt hợp tác mới với Việt Nam sau dấu mốc nâng hạng",
+        "link": "https://cafef.vn/ftse-russell-de-xuat-loat-hop-tac-moi-voi-viet-nam-sau-dau-moc-nang-hang-188260919001917604.chn",
+        "published": "Sat, 19 Sep 26 00:19:00 +0700"
+      },
+      {
+        "title": "Doanh nghiệp đề xuất xây tòa tháp đôi cao nhất thế giới bất ngờ huỷ họp bất thường",
+        "link": "https://cafef.vn/doanh-nghiep-de-xuat-xay-toa-thap-doi-cao-nhat-the-gioi-bat-ngo-huy-hop-bat-thuong-188260919001332622.chn",
+        "published": "Sat, 19 Sep 26 00:12:00 +0700"
+      },
       {
         "title": "Đại diện Morgan Stanley: 2,5 tỷ USD vào chứng khoán Việt Nam mới chỉ là khởi đầu, dòng vốn có thể còn lớn hơn",
         "link": "https://cafef.vn/dai-dien-morgan-stanley-25-ty-usd-vao-chung-khoan-viet-nam-moi-chi-la-khoi-dau-dong-von-co-the-con-lon-hon-188260918223215715.chn",
@@ -22,16 +32,6 @@
         "title": "Bộ trưởng Bộ Tài chính: Nâng hạng chứng khoán không phải là đích đến cuối cùng",
         "link": "https://cafef.vn/bo-truong-bo-tai-chinh-nang-hang-chung-khoan-khong-phai-la-dich-den-cuoi-cung-188260918223303352.chn",
         "published": "Fri, 18 Sep 26 22:33:00 +0700"
-      },
-      {
-        "title": "Chứng khoán Việt Nam chính thức gia nhập rổ chỉ số toàn cầu FTSE Russell",
-        "link": "https://cafef.vn/chung-khoan-viet-nam-chinh-thuc-gia-nhap-ro-chi-so-toan-cau-ftse-russell-18826091820182807.chn",
-        "published": "Fri, 18 Sep 26 20:47:00 +0700"
-      },
-      {
-        "title": "Bộ trưởng Bộ Tài chính tiếp Tổng Giám đốc điều hành FTSE Russell",
-        "link": "https://cafef.vn/bo-truong-bo-tai-chinh-tiep-tong-giam-doc-dieu-hanh-ftse-russell-188260918201516328.chn",
-        "published": "Fri, 18 Sep 26 20:15:00 +0700"
       }
     ],
     "VnEconomy": [
