@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T08:09:58.830688",
+  "fetched_at": "2026-09-18T08:41:20.576586",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Không phải dòng vốn tỷ USD sau nâng hạng, Tổng Giám đốc Dragon Capital chỉ ra điều quan trọng hơn cả",
+        "link": "https://cafef.vn/khong-phai-dong-von-ty-usd-sau-nang-hang-tong-giam-doc-dragon-capital-chi-ra-dieu-quan-trong-hon-ca-188260918150036876.chn",
+        "published": "Fri, 18 Sep 26 15:37:00 +0700"
+      },
       {
         "title": "Tổng Giám đốc Dragon Capital: Giải được \"bài toán\" này, chứng khoán sẽ có đợt bùng nổ mạnh mẽ",
         "link": "https://cafef.vn/tong-giam-doc-dragon-capital-giai-duoc-bai-toan-nay-chung-khoan-se-co-dot-bung-no-manh-me-188260918145453562.chn",
@@ -27,11 +32,6 @@
         "title": "Vinhomes nâng hợp đồng tổng thầu siêu dự án Cần Giờ tăng 76%, lên hơn 12 tỷ USD",
         "link": "https://cafef.vn/vinhomes-nang-hop-dong-tong-thau-sieu-du-an-can-gio-tang-76-len-hon-12-ty-usd-188260918125909481.chn",
         "published": "Fri, 18 Sep 26 12:59:00 +0700"
-      },
-      {
-        "title": "Động thái mới nhất của tỷ phú Phạm Nhật Vượng tại Mỹ",
-        "link": "https://cafef.vn/dong-thai-moi-nhat-cua-ty-phu-pham-nhat-vuong-tai-my-18826091812303291.chn",
-        "published": "Fri, 18 Sep 26 12:30:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "C21 sắp rời UPCoM sau 10 năm",
+        "link": "http://vietstock.vn/2026/09/c21-sap-roi-upcom-sau-10-nam-830-1493647.htm",
+        "published": "Fri, 18 Sep 2026 14:59:18 +0700"
+      },
+      {
         "title": "Nhịp đập Thị trường 18/09: Thị trường duy trì sắc xanh",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1809-thi-truong-duy-tri-sac-xanh-1636-1493608.htm",
         "published": "Fri, 18 Sep 2026 14:12:00 +0700"
@@ -91,23 +96,23 @@
         "title": "18/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/1809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493538.htm",
         "published": "Fri, 18 Sep 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 17/09: Tự doanh gom mạnh VPB",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1709-tu-doanh-gom-manh-vpb-830-1493523.htm",
-        "published": "Thu, 17 Sep 2026 19:17:28 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "BOJ Governor Ueda’s comments at news conference",
+        "link": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
+        "published": "2026-09-18 08:00:48"
+      },
+      {
+        "title": "BOJ hikes rates; Huang on Nvidia chip sales - what’s moving markets",
+        "link": "https://www.investing.com/news/economy-news/boj-hikes-rates-huang-on-nvidia-chip-sales--whats-moving-markets-4906787",
+        "published": "2026-09-18 07:55:52"
+      },
+      {
         "title": "European shares inch lower as telecoms, energy shares dip",
         "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
         "published": "2026-09-18 07:43:09"
-      },
-      {
-        "title": "BOJ Governor Ueda’s comments at news conference",
-        "link": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
-        "published": "2026-09-18 07:42:49"
       },
       {
         "title": "China set to keep loan rates steady for 16th consecutive month in September",
@@ -123,11 +128,6 @@
         "title": "Moody’s hikes India fiscal 2027 GDP forecast to 7%",
         "link": "https://www.investing.com/news/economy-news/moodys-hikes-india-fiscal-2027-gdp-forecast-to-7-4906720",
         "published": "2026-09-18 06:24:18"
-      },
-      {
-        "title": "Barclays expects BoE rate hikes in November and February on inflation risks",
-        "link": "https://www.investing.com/news/economy-news/barclays-expects-boe-rate-hikes-in-november-and-february-on-inflation-risks-4906715",
-        "published": "2026-09-18 06:16:48"
       }
     ]
   }
