@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T06:11:42.034400",
+  "fetched_at": "2026-09-18T06:43:56.134304",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Âu Lạc dự kiến chia cổ phiếu thưởng tỷ lệ 49%",
+        "link": "https://cafef.vn/au-lac-du-kien-chia-co-phieu-thuong-ty-le-49-188260918130819413.chn",
+        "published": "Fri, 18 Sep 26 13:34:00 +0700"
+      },
       {
         "title": "Vinhomes nâng hợp đồng tổng thầu siêu dự án Cần Giờ tăng 76%, lên hơn 12 tỷ USD",
         "link": "https://cafef.vn/vinhomes-nang-hop-dong-tong-thau-sieu-du-an-can-gio-tang-76-len-hon-12-ty-usd-188260918125909481.chn",
@@ -27,14 +32,14 @@
         "title": "Lãnh đạo FTSE Russell, Vanguard, Morgan Stanley gửi thông điệp tới Việt Nam",
         "link": "https://cafef.vn/lanh-dao-ftse-russell-vanguard-morgan-stanley-gui-thong-diep-toi-viet-nam-188260918104438738.chn",
         "published": "Fri, 18 Sep 26 10:55:00 +0700"
-      },
-      {
-        "title": "Bức ảnh nghìn tỷ USD ông Nguyễn Duy Hưng vừa đăng",
-        "link": "https://cafef.vn/buc-anh-nghin-ty-usd-ong-nguyen-duy-hung-vua-dang-188260918104555265.chn",
-        "published": "Fri, 18 Sep 26 10:46:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Giá vàng trong nước bật tăng tới 1,3 triệu đồng/lượng trong phiên",
+        "link": "https://vneconomy.vn/gia-vang-trong-nuoc-bat-tang-toi-13-trieu-dongluong-trong-phien.htm",
+        "published": "Fri, 18 Sep 2026 06:39:17 GMT"
+      },
       {
         "title": "BOE giữ nguyên lãi suất dù lạm phát vượt xa mục tiêu",
         "link": "https://vneconomy.vn/boe-giu-nguyen-lai-suat-du-lam-phat-vuot-xa-muc-tieu.htm",
@@ -59,18 +64,13 @@
         "title": "Thấy gì từ việc nhà đầu tư mua nhiều cổ phiếu Mỹ hơn trái phiếu kho bạc Mỹ?",
         "link": "https://vneconomy.vn/thay-gi-tu-viec-nha-dau-tu-mua-nhieu-co-phieu-my-hon-trai-phieu-kho-bac-my.htm",
         "published": "Fri, 18 Sep 2026 00:10:43 GMT"
-      },
-      {
-        "title": "Giá vàng hồi phục mạnh, SPDR Gold Trust tiếp tục mua ròng",
-        "link": "https://vneconomy.vn/gia-vang-hoi-phuc-manh-spdr-gold-trust-tiep-tuc-mua-rong.htm",
-        "published": "Fri, 18 Sep 2026 00:10:03 GMT"
       }
     ],
     "Vietstock": [
       {
-        "title": "Nhịp đập Thị trường 18/09: VN-Index vọt lên 1,837.58 điểm, dòng tiền ngoại đảo chiều mua ròng",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1809-vn-index-vot-len-183758-diem-dong-tien-ngoai-dao-chieu-mua-rong-1636-1493608.htm",
-        "published": "Fri, 18 Sep 2026 12:07:00 +0700"
+        "title": "Phân tích kỹ thuật phiên chiều 18/09: Sắc xanh lan tỏa",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1809-sac-xanh-lan-toa-585-1493644.htm",
+        "published": "Fri, 18 Sep 2026 13:03:44 +0700"
       },
       {
         "title": "10 doanh nghiệp bị phạt hơn 1.3 tỷ đồng, 8 vụ xoay quanh trái phiếu",
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Berlin’s acute housing shortage and soaring rents dominate city election",
+        "link": "https://www.investing.com/news/economy-news/berlins-acute-housing-shortage-and-soaring-rents-dominate-city-election-4906717",
+        "published": "2026-09-18 06:24:26"
+      },
+      {
+        "title": "Moody’s hikes India fiscal 2027 GDP forecast to 7%",
+        "link": "https://www.investing.com/news/economy-news/moodys-hikes-india-fiscal-2027-gdp-forecast-to-7-4906720",
+        "published": "2026-09-18 06:24:18"
+      },
+      {
+        "title": "Barclays expects BoE rate hikes in November and February on inflation risks",
+        "link": "https://www.investing.com/news/economy-news/barclays-expects-boe-rate-hikes-in-november-and-february-on-inflation-risks-4906715",
+        "published": "2026-09-18 06:16:48"
+      },
+      {
         "title": "Stocks rise, yen weakens as BOJ split-vote hike tempers hawkish wagers",
         "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
         "published": "2026-09-18 05:54:26"
@@ -113,21 +128,6 @@
         "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
         "link": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
         "published": "2026-09-18 05:24:26"
-      },
-      {
-        "title": "How Bessent, America’s bond salesman, cornered Japan on big spending",
-        "link": "https://www.investing.com/news/economy-news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending-4906555",
-        "published": "2026-09-18 05:01:03"
-      },
-      {
-        "title": "Yen slumps after BOJ hikes rates as expected",
-        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
-        "published": "2026-09-18 04:42:28"
-      },
-      {
-        "title": "Morning Bid: BOJ struggling to keep pace with hiking partners",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-boj-struggling-to-keep-pace-with-hiking-partners-4906670",
-        "published": "2026-09-18 04:36:49"
       }
     ]
   }
