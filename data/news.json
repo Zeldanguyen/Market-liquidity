@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T05:08:40.387686",
+  "fetched_at": "2026-09-18T05:39:13.336154",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Động thái mới nhất của tỷ phú Phạm Nhật Vượng tại Mỹ",
+        "link": "https://cafef.vn/dong-thai-moi-nhat-cua-ty-phu-pham-nhat-vuong-tai-my-18826091812303291.chn",
+        "published": "Fri, 18 Sep 26 12:30:00 +0700"
+      },
       {
         "title": "Chuyên gia Morgan Stanley: Thanh khoản chứng khoán Việt Nam có thể lên 3-4 tỷ USD/ngày",
         "link": "https://cafef.vn/chuyen-gia-morgan-stanley-thanh-khoan-chung-khoan-viet-nam-co-the-len-3-4-ty-usd-ngay-188260918113737857.chn",
@@ -27,11 +32,6 @@
         "title": "Phó Chủ tịch UBCKNN: Nâng hạng là bước khởi đầu, cần tiếp tục mở rộng quy mô và chất lượng thị trường vốn",
         "link": "https://cafef.vn/pho-chu-tich-ubcknn-nang-hang-la-buoc-khoi-dau-can-tiep-tuc-mo-rong-quy-mo-va-chat-luong-thi-truong-von-188260918101352626.chn",
         "published": "Fri, 18 Sep 26 10:24:00 +0700"
-      },
-      {
-        "title": "CEO SSI Nguyễn Đức Thông: Dù đầu tư sớm hay muộn, tương lai vẫn rất tươi sáng",
-        "link": "https://cafef.vn/ceo-ssi-nguyen-duc-thong-du-dau-tu-som-hay-muon-tuong-lai-van-rat-tuoi-sang-188260918101226822.chn",
-        "published": "Fri, 18 Sep 26 10:12:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
+        "link": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
+        "published": "2026-09-18 05:24:26"
+      },
+      {
+        "title": "How Bessent, America’s bond salesman, cornered Japan on big spending",
+        "link": "https://www.investing.com/news/economy-news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending-4906555",
+        "published": "2026-09-18 05:01:03"
+      },
+      {
         "title": "Yen slumps after BOJ hikes rates as expected",
         "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
         "published": "2026-09-18 04:42:28"
@@ -118,16 +128,6 @@
         "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected",
         "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
         "published": "2026-09-18 03:36:35"
-      },
-      {
-        "title": "Bank of Japan hikes rates to 31-yr high amid growing inflationary risks",
-        "link": "https://www.investing.com/news/economy-news/bank-of-japan-hikes-rates-to-31yr-high-amid-growing-inflationary-risks-4906643",
-        "published": "2026-09-18 03:11:02"
-      },
-      {
-        "title": "BOJ raises interest rates to 31-year high in widely expected move",
-        "link": "https://www.investing.com/news/economy-news/boj-raises-interest-rates-to-31year-high-in-widely-expected-move-4906642",
-        "published": "2026-09-18 03:06:25"
       }
     ]
   }
