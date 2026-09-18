@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T07:40:20.369689",
+  "fetched_at": "2026-09-18T08:09:58.830688",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tổng Giám đốc Dragon Capital: Giải được \"bài toán\" này, chứng khoán sẽ có đợt bùng nổ mạnh mẽ",
+        "link": "https://cafef.vn/tong-giam-doc-dragon-capital-giai-duoc-bai-toan-nay-chung-khoan-se-co-dot-bung-no-manh-me-188260918145453562.chn",
+        "published": "Fri, 18 Sep 26 15:00:00 +0700"
+      },
       {
         "title": "Dòng tiền sau ngày 21/9: 90 cổ phiếu Micro Cap mở ra một “bản đồ” mới",
         "link": "https://cafef.vn/dong-tien-sau-ngay-21-9-90-co-phieu-micro-cap-mo-ra-mot-ban-do-moi-18826091814131583.chn",
@@ -27,11 +32,6 @@
         "title": "Động thái mới nhất của tỷ phú Phạm Nhật Vượng tại Mỹ",
         "link": "https://cafef.vn/dong-thai-moi-nhat-cua-ty-phu-pham-nhat-vuong-tai-my-18826091812303291.chn",
         "published": "Fri, 18 Sep 26 12:30:00 +0700"
-      },
-      {
-        "title": "Chuyên gia Morgan Stanley: Thanh khoản chứng khoán Việt Nam có thể lên 3-4 tỷ USD/ngày",
-        "link": "https://cafef.vn/chuyen-gia-morgan-stanley-thanh-khoan-chung-khoan-viet-nam-co-the-len-3-4-ty-usd-ngay-188260918113737857.chn",
-        "published": "Fri, 18 Sep 26 11:40:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 18/09: Thị trường duy trì sắc xanh",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1809-thi-truong-duy-tri-sac-xanh-1636-1493608.htm",
+        "published": "Fri, 18 Sep 2026 14:12:00 +0700"
+      },
+      {
         "title": "Phân tích kỹ thuật phiên chiều 18/09: Sắc xanh lan tỏa",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1809-sac-xanh-lan-toa-585-1493644.htm",
         "published": "Fri, 18 Sep 2026 13:03:44 +0700"
@@ -91,18 +96,18 @@
         "title": "Theo dấu dòng tiền cá mập 17/09: Tự doanh gom mạnh VPB",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1709-tu-doanh-gom-manh-vpb-830-1493523.htm",
         "published": "Thu, 17 Sep 2026 19:17:28 +0700"
-      },
-      {
-        "title": "Vietstock Daily 18/09/2026: Lực cầu trở lại?",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-18092026-luc-cau-tro-lai-1636-1493421.htm",
-        "published": "Thu, 17 Sep 2026 18:12:23 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "European shares inch lower as telecoms, energy shares dip",
+        "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
+        "published": "2026-09-18 07:43:09"
+      },
+      {
         "title": "BOJ Governor Ueda’s comments at news conference",
         "link": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
-        "published": "2026-09-18 07:25:14"
+        "published": "2026-09-18 07:42:49"
       },
       {
         "title": "China set to keep loan rates steady for 16th consecutive month in September",
@@ -123,11 +128,6 @@
         "title": "Barclays expects BoE rate hikes in November and February on inflation risks",
         "link": "https://www.investing.com/news/economy-news/barclays-expects-boe-rate-hikes-in-november-and-february-on-inflation-risks-4906715",
         "published": "2026-09-18 06:16:48"
-      },
-      {
-        "title": "Stocks rise, yen weakens as BOJ split-vote hike tempers hawkish wagers",
-        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
-        "published": "2026-09-18 05:54:26"
       }
     ]
   }
