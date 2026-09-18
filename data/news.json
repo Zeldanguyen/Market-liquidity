@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T19:36:36.046608",
+  "fetched_at": "2026-09-18T20:09:10.271972",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Bolivia approves $1.9 billion IMF deal in hopes of accessing external financing",
+        "link": "https://www.investing.com/news/economy-news/bolivia-approves-19-billion-imf-deal-in-hopes-of-accessing-external-financing-4907817",
+        "published": "2026-09-18 19:48:31"
+      },
+      {
+        "title": "Exclusive-Kennedy names new chair for US autism advisory panel, sources say",
+        "link": "https://www.investing.com/news/economy-news/exclusivekennedy-names-new-chair-for-us-autism-advisory-panel-sources-say-4907814",
+        "published": "2026-09-18 19:42:37"
+      },
+      {
         "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
         "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
         "published": "2026-09-18 19:18:49"
@@ -118,16 +128,6 @@
         "title": "Explainer-Why France’s budget problems have driven its bond risk premium to 2012 highs",
         "link": "https://www.investing.com/news/economy-news/explainerwhy-frances-budget-problems-have-driven-its-bond-risk-premium-to-2012-highs-4907752",
         "published": "2026-09-18 18:00:58"
-      },
-      {
-        "title": "Grok releases Voice Transcribe 2.0 with improved accuracy",
-        "link": "https://www.investing.com/news/economy-news/grok-releases-voice-transcribe-20-with-improved-accuracy-93CH-4907746",
-        "published": "2026-09-18 17:36:18"
-      },
-      {
-        "title": "AI error nearly sparked US-China military collision in Middle East - CNN",
-        "link": "https://www.investing.com/news/economy-news/ai-error-nearly-sparked-uschina-military-collision-in-middle-east--cnn-4907726",
-        "published": "2026-09-18 17:26:07"
       }
     ]
   }
