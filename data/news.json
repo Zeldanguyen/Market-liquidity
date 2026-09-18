@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T18:41:17.232597",
+  "fetched_at": "2026-09-18T19:09:32.840130",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Musk bets AI will double US economic growth next year",
+        "link": "https://www.investing.com/news/economy-news/musk-bets-ai-will-double-us-economic-growth-next-year-4907780",
+        "published": "2026-09-18 18:38:00"
+      },
+      {
+        "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
+        "published": "2026-09-18 18:37:02"
+      },
+      {
         "title": "Explainer-Why France’s budget problems have driven its bond risk premium to 2012 highs",
         "link": "https://www.investing.com/news/economy-news/explainerwhy-frances-budget-problems-have-driven-its-bond-risk-premium-to-2012-highs-4907752",
         "published": "2026-09-18 18:00:58"
@@ -118,16 +128,6 @@
         "title": "Europe’s STOXX 600 falls as autos, telecoms lead broad sell-off",
         "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
         "published": "2026-09-18 16:49:18"
-      },
-      {
-        "title": "Report finds ’culture of risk aversion’ hindered oversight of SVB, Fed official says",
-        "link": "https://www.investing.com/news/economy-news/report-finds-culture-of-risk-aversion-hindered-oversight-of-svb-fed-official-says-4907618",
-        "published": "2026-09-18 16:49:02"
-      },
-      {
-        "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
-        "link": "https://www.investing.com/news/economy-news/eu-banks-must-be-bigger-have-deeper-capital-market-to-compete-with-us-say-top-eu-officials-4907600",
-        "published": "2026-09-18 16:32:01"
       }
     ]
   }
