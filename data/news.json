@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T23:09:39.674803",
+  "fetched_at": "2026-09-18T23:37:46.014435",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,9 +100,14 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "OpenAI expects to burn through almost $280 billion by 2030, FT reports",
+        "title": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
         "link": "https://www.investing.com/news/economy-news/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports-4907970",
-        "published": "2026-09-18 22:55:22"
+        "published": "2026-09-18 23:30:29"
+      },
+      {
+        "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
+        "published": "2026-09-18 23:12:30"
       },
       {
         "title": "Exclusive-OpenAI’s Sam Altman to brief UN Security Council next week",
@@ -123,11 +128,6 @@
         "title": "Global shares edge higher as central banks double down on inflation fight",
         "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
         "published": "2026-09-18 21:07:26"
-      },
-      {
-        "title": "Bank of Japan lifts rates as global tightening cycle takes shape",
-        "link": "https://www.investing.com/news/economy-news/bank-of-japan-lifts-rates-as-global-tightening-cycle-takes-shape-93CH-4907895",
-        "published": "2026-09-18 21:01:50"
       }
     ]
   }
