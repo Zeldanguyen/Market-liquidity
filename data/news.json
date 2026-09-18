@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T11:39:25.078012",
+  "fetched_at": "2026-09-18T12:11:22.977809",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,14 +36,24 @@
     ],
     "VnEconomy": [
       {
+        "title": "Muốn vay theo dòng tiền, doanh nghiệp phải minh bạch tài chính",
+        "link": "https://vneconomy.vn/muon-vay-theo-dong-tien-doanh-nghiep-phai-minh-bach-tai-chinh.htm",
+        "published": "Fri, 18 Sep 2026 12:00:53 GMT"
+      },
+      {
+        "title": "Bộ trưởng Tài chính: Nâng hạng không phải là bước tiến cuối cùng mà là một bước tiến mới",
+        "link": "https://vneconomy.vn/bo-truong-tai-chinh-nang-hang-khong-phai-la-buoc-tien-cuoi-cung-ma-la-mot-buoc-tien-moi.htm",
+        "published": "Fri, 18 Sep 2026 11:40:34 GMT"
+      },
+      {
+        "title": "DBV ra mắt bảo hiểm ô tô điện, bảo vệ chuyên biệt cho pin và rủi ro sạc",
+        "link": "https://vneconomy.vn/dbv-ra-mat-bao-hiem-o-to-dien-bao-ve-chuyen-biet-cho-pin-va-rui-ro-sac.htm",
+        "published": "Fri, 18 Sep 2026 11:09:56 GMT"
+      },
+      {
         "title": "UOB: Triển vọng tăng trưởng 2026 tích cực, tỷ giá vẫn ổn định",
         "link": "https://vneconomy.vn/uob-trien-vong-tang-truong-2026-tich-cuc-ty-gia-van-on-dinh.htm",
         "published": "Fri, 18 Sep 2026 11:00:57 GMT"
-      },
-      {
-        "title": "Muốn vay theo dòng tiền, doanh nghiệp phải minh bạch tài chính",
-        "link": "https://vneconomy.vn/muon-vay-theo-dong-tien-doanh-nghiep-phai-minh-bach-tai-chinh.htm",
-        "published": "Fri, 18 Sep 2026 09:41:53 GMT"
       },
       {
         "title": "HDBank tiếp tục vào Top 50 Forbes Việt Nam trong bước chuyển lớn của thị trường vốn",
@@ -54,19 +64,14 @@
         "title": "Giá vàng trong nước bật tăng tới 1,3 triệu đồng/lượng trong phiên",
         "link": "https://vneconomy.vn/gia-vang-trong-nuoc-bat-tang-toi-13-trieu-dongluong-trong-phien.htm",
         "published": "Fri, 18 Sep 2026 07:20:17 GMT"
-      },
-      {
-        "title": "Ông Nguyễn Xuân Vũ được bầu làm Phó Chủ tịch Hội đồng Quản trị SACOMBANK",
-        "link": "https://vneconomy.vn/ong-nguyen-xuan-vu-duoc-bau-lam-pho-chu-tich-hoi-dong-quan-tri-sacombank.htm",
-        "published": "Fri, 18 Sep 2026 07:10:16 GMT"
-      },
-      {
-        "title": "MDP trở thành hội viên chính thức của Hiệp hội Ngân hàng Việt Nam",
-        "link": "https://vneconomy.vn/mdp-tro-thanh-hoi-vien-chinh-thuc-cua-hiep-hoi-ngan-hang-viet-nam.htm",
-        "published": "Fri, 18 Sep 2026 06:12:21 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Chứng khoán Tuần 14-18/09/2026: Cần thêm sự đồng thuận?",
+        "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-14-18092026-can-them-su-dong-thuan-1636-1493806.htm",
+        "published": "Fri, 18 Sep 2026 18:17:00 +0700"
+      },
       {
         "title": "Nhịp đập Thị trường 18/09: VN-Index lao dốc cuối phiên, khối ngoại mua ròng hơn 1,250 tỷ đồng",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1809-vn-index-lao-doc-cuoi-phien-khoi-ngoai-mua-rong-hon-1250-ty-dong-1636-1493608.htm",
@@ -91,14 +96,14 @@
         "title": "10 doanh nghiệp bị phạt hơn 1.3 tỷ đồng, 8 vụ xoay quanh trái phiếu",
         "link": "http://vietstock.vn/2026/09/10-doanh-nghiep-bi-phat-hon-13-ty-dong-8-vu-xoay-quanh-trai-phieu-830-1493526.htm",
         "published": "Fri, 18 Sep 2026 09:36:12 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 18/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1809-830-1493403.htm",
-        "published": "Fri, 18 Sep 2026 08:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Saudi Aramco halts crude oil supply to European customers",
+        "link": "https://www.investing.com/news/economy-news/saudi-aramco-halts-crude-oil-supply-to-european-customers-4907169",
+        "published": "2026-09-18 11:40:30"
+      },
       {
         "title": "Barclays, UBS back BoE hikes as inflation risks mount",
         "link": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
@@ -123,11 +128,6 @@
         "title": "Italy’s public debt costs rising amid geopolitical tensions",
         "link": "https://www.investing.com/news/economy-news/italys-public-debt-costs-rising-amid-geopolitical-tensions-93CH-4907078",
         "published": "2026-09-18 10:58:54"
-      },
-      {
-        "title": "Lagarde says ECB rates don’t track energy prices directly",
-        "link": "https://www.investing.com/news/economy-news/lagarde-says-ecb-rates-dont-track-energy-prices-directly-93CH-4907076",
-        "published": "2026-09-18 10:58:01"
       }
     ]
   }
