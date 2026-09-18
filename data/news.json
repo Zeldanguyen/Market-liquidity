@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T15:09:28.400138",
+  "fetched_at": "2026-09-18T15:40:11.734772",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Bộ trưởng Bộ Tài chính: Nâng hạng chứng khoán không phải là đích đến cuối cùng",
+        "link": "https://cafef.vn/bo-truong-bo-tai-chinh-nang-hang-chung-khoan-khong-phai-la-dich-den-cuoi-cung-188260918223303352.chn",
+        "published": "Fri, 18 Sep 26 22:33:00 +0700"
+      },
       {
         "title": "Chứng khoán Việt Nam chính thức gia nhập rổ chỉ số toàn cầu FTSE Russell",
         "link": "https://cafef.vn/chung-khoan-viet-nam-chinh-thuc-gia-nhap-ro-chi-so-toan-cau-ftse-russell-18826091820182807.chn",
@@ -27,11 +32,6 @@
         "title": "VN-Index đảo chiều trước giờ nâng hạng",
         "link": "https://cafef.vn/vn-index-dao-chieu-truoc-gio-nang-hang-188260918170117351.chn",
         "published": "Fri, 18 Sep 26 17:30:00 +0700"
-      },
-      {
-        "title": "Giầy Thượng Đình thay Tổng Giám đốc mới",
-        "link": "https://cafef.vn/giay-thuong-dinh-thay-tong-giam-doc-moi-188260918170532504.chn",
-        "published": "Fri, 18 Sep 26 17:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Report finds ’culture of risk aversion’ hindered oversight of SVB, Fed official says",
+        "link": "https://www.investing.com/news/economy-news/report-finds-culture-of-risk-aversion-hindered-oversight-of-svb-fed-official-says-4907618",
+        "published": "2026-09-18 15:12:53"
+      },
+      {
+        "title": "Fed’s Bowman says overhaul of bank stress test will make process more transparent",
+        "link": "https://www.investing.com/news/economy-news/feds-bowman-says-changes-to-bank-stress-test-coming-soon-4907497",
+        "published": "2026-09-18 15:06:33"
+      },
+      {
+        "title": "Dollar jumps against yen as BOJ dissent clouds rate-hike outlook",
+        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
+        "published": "2026-09-18 15:00:30"
+      },
+      {
         "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
         "link": "https://www.investing.com/news/economy-news/eu-banks-must-be-bigger-have-deeper-capital-market-to-compete-with-us-say-top-eu-officials-4907600",
         "published": "2026-09-18 14:54:53"
@@ -110,24 +125,9 @@
         "published": "2026-09-18 14:36:27"
       },
       {
-        "title": "Fed’s Bowman says changes to bank stress test coming soon",
-        "link": "https://www.investing.com/news/economy-news/feds-bowman-says-changes-to-bank-stress-test-coming-soon-4907497",
-        "published": "2026-09-18 13:43:05"
-      },
-      {
         "title": "Indian bonds fall for fifth week on Fed hike, RBI moves",
         "link": "https://www.investing.com/news/economy-news/indian-bonds-fall-for-fifth-week-on-fed-hike-rbi-moves-93CH-4907339",
         "published": "2026-09-18 12:45:37"
-      },
-      {
-        "title": "Yen slumps to two-week low after BOJ rate hike underwhelms",
-        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
-        "published": "2026-09-18 12:30:48"
-      },
-      {
-        "title": "Italy’s debt burden rising at alarming rate, economy minister says",
-        "link": "https://www.investing.com/news/economy-news/italys-debt-burden-rising-at-alarming-rate-economy-minister-says-4907270",
-        "published": "2026-09-18 12:18:29"
       }
     ]
   }
