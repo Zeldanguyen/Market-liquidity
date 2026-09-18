@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T09:09:18.415105",
+  "fetched_at": "2026-09-18T09:40:03.408887",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Fed tăng lãi suất tác động thị trường chứng khoán Việt Nam ra sao?",
+        "link": "http://vietstock.vn/2026/09/fed-tang-lai-suat-tac-dong-thi-truong-chung-khoan-viet-nam-ra-sao-145-1493708.htm",
+        "published": "Fri, 18 Sep 2026 15:56:45 +0700"
+      },
+      {
         "title": "C21 sắp rời UPCoM sau 10 năm",
         "link": "http://vietstock.vn/2026/09/c21-sap-roi-upcom-sau-10-nam-830-1493647.htm",
         "published": "Fri, 18 Sep 2026 14:59:18 +0700"
@@ -91,43 +96,38 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 18/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1809-830-1493403.htm",
         "published": "Fri, 18 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "18/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493538.htm",
-        "published": "Fri, 18 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Stocks and bonds dip as central banks jack up rates to tame inflation",
-        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
-        "published": "2026-09-18 08:42:52"
+        "title": "European shares tick lower on telecoms weakness, but poised for weekly gains",
+        "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
+        "published": "2026-09-18 09:30:32"
+      },
+      {
+        "title": "Nasdaq futures lead Wall St gains as oil retreat eases inflation worries",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
+        "published": "2026-09-18 09:19:38"
       },
       {
         "title": "BOJ Governor Ueda’s comments at news conference",
         "link": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
-        "published": "2026-09-18 08:00:48"
+        "published": "2026-09-18 09:19:00"
       },
       {
-        "title": "BOJ hikes rates; Huang on Nvidia chip sales - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/boj-hikes-rates-huang-on-nvidia-chip-sales--whats-moving-markets-4906787",
-        "published": "2026-09-18 07:55:52"
+        "title": "Analysis-Jet financiers fret as Iran war pumps up fuel and borrowing costs",
+        "link": "https://www.investing.com/news/economy-news/analysisjet-financiers-fret-as-iran-war-pumps-up-fuel-and-borrowing-costs-4906887",
+        "published": "2026-09-18 09:18:41"
       },
       {
-        "title": "European shares inch lower as telecoms, energy shares dip",
-        "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
-        "published": "2026-09-18 07:43:09"
+        "title": "UBS flips BoE call, sees rate hikes to 4.25% in November and February 2027",
+        "link": "https://www.investing.com/news/economy-news/ubs-flips-boe-call-sees-rate-hikes-to-425-in-november-and-february-2027-4906880",
+        "published": "2026-09-18 09:17:04"
       },
       {
-        "title": "China set to keep loan rates steady for 16th consecutive month in September",
-        "link": "https://www.investing.com/news/economy-news/china-set-to-keep-loan-rates-steady-for-16th-consecutive-month-in-september-4906730",
-        "published": "2026-09-18 06:36:28"
-      },
-      {
-        "title": "Berlin’s acute housing shortage and soaring rents dominate city election",
-        "link": "https://www.investing.com/news/economy-news/berlins-acute-housing-shortage-and-soaring-rents-dominate-city-election-4906717",
-        "published": "2026-09-18 06:24:26"
+        "title": "Yen slumps to two-week low after BOJ rate hike underwhelms",
+        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
+        "published": "2026-09-18 09:00:33"
       }
     ]
   }
