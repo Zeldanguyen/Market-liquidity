@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-18T16:39:43.826955",
+  "fetched_at": "2026-09-18T17:08:56.576678",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Đại diện Morgan Stanley: 2,5 tỷ USD vào chứng khoán Việt Nam mới chỉ là khởi đầu, dòng vốn có thể còn lớn hơn",
+        "link": "https://cafef.vn/dai-dien-morgan-stanley-25-ty-usd-vao-chung-khoan-viet-nam-moi-chi-la-khoi-dau-dong-von-co-the-con-lon-hon-188260918223215715.chn",
+        "published": "Sat, 19 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Phó Tổng Giám đốc Masan nói về những “quả trứng vàng” và “con rồng lớn” trong tương lai",
+        "link": "https://cafef.vn/pho-tong-giam-doc-masan-noi-ve-nhung-qua-trung-vang-va-con-rong-lon-trong-tuong-lai-188260918223101494.chn",
+        "published": "Sat, 19 Sep 26 00:02:00 +0700"
+      },
+      {
+        "title": "Việt Nam \"sánh vai\" Trung Quốc, Singapore, Hàn Quốc trong một nhóm đặc biệt",
+        "link": "https://cafef.vn/viet-nam-sanh-vai-trung-quoc-singapore-han-quoc-trong-mot-nhom-dac-biet-1882609182151546.chn",
+        "published": "Sat, 19 Sep 26 00:02:00 +0700"
+      },
       {
         "title": "Bộ trưởng Bộ Tài chính: Nâng hạng chứng khoán không phải là đích đến cuối cùng",
         "link": "https://cafef.vn/bo-truong-bo-tai-chinh-nang-hang-chung-khoan-khong-phai-la-dich-den-cuoi-cung-188260918223303352.chn",
@@ -17,21 +32,6 @@
         "title": "Bộ trưởng Bộ Tài chính tiếp Tổng Giám đốc điều hành FTSE Russell",
         "link": "https://cafef.vn/bo-truong-bo-tai-chinh-tiep-tong-giam-doc-dieu-hanh-ftse-russell-188260918201516328.chn",
         "published": "Fri, 18 Sep 26 20:15:00 +0700"
-      },
-      {
-        "title": "Đánh cồng ghi dấu chứng khoán Việt Nam vào nhóm thị trường mới nổi",
-        "link": "https://cafef.vn/danh-cong-ghi-dau-chung-khoan-viet-nam-vao-nhom-thi-truong-moi-noi-188260918201037525.chn",
-        "published": "Fri, 18 Sep 26 20:10:00 +0700"
-      },
-      {
-        "title": "Tối nay đánh cồng chính thức nâng hạng chứng khoán Việt Nam",
-        "link": "https://cafef.vn/toi-nay-danh-cong-chinh-thuc-nang-hang-chung-khoan-viet-nam-188260918200640726.chn",
-        "published": "Fri, 18 Sep 26 20:06:00 +0700"
-      },
-      {
-        "title": "VN-Index đảo chiều trước giờ nâng hạng",
-        "link": "https://cafef.vn/vn-index-dao-chieu-truoc-gio-nang-hang-188260918170117351.chn",
-        "published": "Fri, 18 Sep 26 17:30:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Brazil’s Lula boosts welfare payments, eyes new debt-relief push ahead of election",
-        "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
-        "published": "2026-09-18 16:18:51"
-      },
-      {
-        "title": "Yen jumps over 1 yen after BOJ conducts rate check",
-        "link": "https://www.investing.com/news/economy-news/yen-jumps-over-1-yen-after-boj-conducts-rate-check-4907665",
-        "published": "2026-09-18 16:07:53"
-      },
-      {
-        "title": "Wall St slips as higher Treasury yields weigh on sentiment",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
-        "published": "2026-09-18 15:54:47"
-      },
-      {
-        "title": "Fed’s Bowman says overhaul of bank stress test will make process more transparent",
-        "link": "https://www.investing.com/news/economy-news/feds-bowman-says-changes-to-bank-stress-test-coming-soon-4907497",
-        "published": "2026-09-18 15:43:07"
-      },
-      {
-        "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
-        "link": "https://www.investing.com/news/economy-news/eu-banks-must-be-bigger-have-deeper-capital-market-to-compete-with-us-say-top-eu-officials-4907600",
-        "published": "2026-09-18 15:36:49"
+        "title": "Europe’s STOXX 600 falls as autos, telecoms lead broad sell-off",
+        "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
+        "published": "2026-09-18 16:49:18"
       },
       {
         "title": "Report finds ’culture of risk aversion’ hindered oversight of SVB, Fed official says",
         "link": "https://www.investing.com/news/economy-news/report-finds-culture-of-risk-aversion-hindered-oversight-of-svb-fed-official-says-4907618",
-        "published": "2026-09-18 15:36:30"
+        "published": "2026-09-18 16:49:02"
+      },
+      {
+        "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
+        "link": "https://www.investing.com/news/economy-news/eu-banks-must-be-bigger-have-deeper-capital-market-to-compete-with-us-say-top-eu-officials-4907600",
+        "published": "2026-09-18 16:32:01"
+      },
+      {
+        "title": "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+        "published": "2026-09-18 16:31:40"
+      },
+      {
+        "title": "London’s FTSE 100 retreats as financials weigh; Airtel Africa tumbles",
+        "link": "https://www.investing.com/news/economy-news/londons-ftse-100-retreats-as-banks-energy-weigh-but-eyes-weekly-rise-4906988",
+        "published": "2026-09-18 16:30:36"
+      },
+      {
+        "title": "Brazil’s Lula boosts welfare payments, eyes new debt-relief push ahead of election",
+        "link": "https://www.investing.com/news/economy-news/brazils-lula-raises-welfare-benefit-ahead-of-october-election-4905920",
+        "published": "2026-09-18 16:18:51"
       }
     ]
   }
