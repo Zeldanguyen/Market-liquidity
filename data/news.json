@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T07:09:49.837625",
+  "fetched_at": "2026-09-18T07:40:20.369689",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Dòng tiền sau ngày 21/9: 90 cổ phiếu Micro Cap mở ra một “bản đồ” mới",
+        "link": "https://cafef.vn/dong-tien-sau-ngay-21-9-90-co-phieu-micro-cap-mo-ra-mot-ban-do-moi-18826091814131583.chn",
+        "published": "Fri, 18 Sep 26 14:13:00 +0700"
+      },
       {
         "title": "Nhà đầu tư ngoại tăng mua cổ phiếu Việt Nam trước thềm nâng hạng FTSE",
         "link": "https://cafef.vn/nha-dau-tu-ngoai-tang-mua-co-phieu-viet-nam-truoc-them-nang-hang-ftse-18826091814032272.chn",
@@ -27,18 +32,23 @@
         "title": "Chuyên gia Morgan Stanley: Thanh khoản chứng khoán Việt Nam có thể lên 3-4 tỷ USD/ngày",
         "link": "https://cafef.vn/chuyen-gia-morgan-stanley-thanh-khoan-chung-khoan-viet-nam-co-the-len-3-4-ty-usd-ngay-188260918113737857.chn",
         "published": "Fri, 18 Sep 26 11:40:00 +0700"
-      },
-      {
-        "title": "Thống đốc Phạm Đức Ấn tiếp Tổng Giám đốc điều hành FTSE Russell",
-        "link": "https://cafef.vn/thong-doc-pham-duc-an-tiep-tong-giam-doc-dieu-hanh-ftse-russell-188260918110653018.chn",
-        "published": "Fri, 18 Sep 26 11:06:00 +0700"
       }
     ],
     "VnEconomy": [
       {
         "title": "Giá vàng trong nước bật tăng tới 1,3 triệu đồng/lượng trong phiên",
         "link": "https://vneconomy.vn/gia-vang-trong-nuoc-bat-tang-toi-13-trieu-dongluong-trong-phien.htm",
-        "published": "Fri, 18 Sep 2026 06:39:17 GMT"
+        "published": "Fri, 18 Sep 2026 07:20:17 GMT"
+      },
+      {
+        "title": "Ông Nguyễn Xuân Vũ được bầu làm Phó Chủ tịch Hội đồng Quản trị SACOMBANK",
+        "link": "https://vneconomy.vn/ong-nguyen-xuan-vu-duoc-bau-lam-pho-chu-tich-hoi-dong-quan-tri-sacombank.htm",
+        "published": "Fri, 18 Sep 2026 07:10:16 GMT"
+      },
+      {
+        "title": "MDP trở thành hội viên chính thức của Hiệp hội Ngân hàng Việt Nam",
+        "link": "https://vneconomy.vn/mdp-tro-thanh-hoi-vien-chinh-thuc-cua-hiep-hoi-ngan-hang-viet-nam.htm",
+        "published": "Fri, 18 Sep 2026 06:12:21 GMT"
       },
       {
         "title": "BOE giữ nguyên lãi suất dù lạm phát vượt xa mục tiêu",
@@ -54,16 +64,6 @@
         "title": "[Bài 3] Tìm lối ra cho doanh nghiệp “chết lâm sàng”",
         "link": "https://vneconomy.vn/bai-3-tim-loi-ra-cho-doanh-nghiep-chet-lam-sang.htm",
         "published": "Fri, 18 Sep 2026 00:50:11 GMT"
-      },
-      {
-        "title": "“Ác mộng” của người định mua nhà ở Mỹ: Lãi suất vay thế chấp nhà có thể vượt 7%",
-        "link": "https://vneconomy.vn/ac-mong-cua-nguoi-dinh-mua-nha-o-my-lai-suat-vay-the-chap-nha-co-the-vuot-7.htm",
-        "published": "Fri, 18 Sep 2026 00:11:57 GMT"
-      },
-      {
-        "title": "Thấy gì từ việc nhà đầu tư mua nhiều cổ phiếu Mỹ hơn trái phiếu kho bạc Mỹ?",
-        "link": "https://vneconomy.vn/thay-gi-tu-viec-nha-dau-tu-mua-nhieu-co-phieu-my-hon-trai-phieu-kho-bac-my.htm",
-        "published": "Fri, 18 Sep 2026 00:10:43 GMT"
       }
     ],
     "Vietstock": [
@@ -102,7 +102,7 @@
       {
         "title": "BOJ Governor Ueda’s comments at news conference",
         "link": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
-        "published": "2026-09-18 06:54:31"
+        "published": "2026-09-18 07:25:14"
       },
       {
         "title": "China set to keep loan rates steady for 16th consecutive month in September",
