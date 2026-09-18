@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-18T09:40:03.408887",
+  "fetched_at": "2026-09-18T10:09:46.725678",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán Thành Công trở thành cổ đông lớn tại Freco Việt Nam",
+        "link": "https://cafef.vn/chung-khoan-thanh-cong-tro-thanh-co-dong-lon-tai-freco-viet-nam-188260918170409036.chn",
+        "published": "Fri, 18 Sep 26 17:04:00 +0700"
+      },
       {
         "title": "Khối ngoại mua ròng hơn 1.200 tỷ đồng phiên các quỹ ETF mới nổi giải ngân đợt 1, cổ phiếu nào được gom mạnh nhất?",
         "link": "https://cafef.vn/khoi-ngoai-mua-rong-hon-1200-ty-dong-phien-cac-quy-etf-moi-noi-giai-ngan-dot-1-co-phieu-nao-duoc-gom-manh-nhat-18826091815182367.chn",
@@ -27,14 +32,14 @@
         "title": "Nhà đầu tư ngoại tăng mua cổ phiếu Việt Nam trước thềm nâng hạng FTSE",
         "link": "https://cafef.vn/nha-dau-tu-ngoai-tang-mua-co-phieu-viet-nam-truoc-them-nang-hang-ftse-18826091814032272.chn",
         "published": "Fri, 18 Sep 26 14:03:00 +0700"
-      },
-      {
-        "title": "Âu Lạc dự kiến chia cổ phiếu thưởng tỷ lệ 49%",
-        "link": "https://cafef.vn/au-lac-du-kien-chia-co-phieu-thuong-ty-le-49-188260918130819413.chn",
-        "published": "Fri, 18 Sep 26 13:34:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Muốn vay theo dòng tiền, doanh nghiệp phải minh bạch tài chính",
+        "link": "https://vneconomy.vn/muon-vay-theo-dong-tien-doanh-nghiep-phai-minh-bach-tai-chinh.htm",
+        "published": "Fri, 18 Sep 2026 09:41:53 GMT"
+      },
       {
         "title": "Giá vàng trong nước bật tăng tới 1,3 triệu đồng/lượng trong phiên",
         "link": "https://vneconomy.vn/gia-vang-trong-nuoc-bat-tang-toi-13-trieu-dongluong-trong-phien.htm",
@@ -59,11 +64,6 @@
         "title": "Xuất hàng dự trữ có hoàn trả: Cơ chế điều tiết khi thị trường đứt gãy nguồn cung",
         "link": "https://vneconomy.vn/xuat-hang-du-tru-co-hoan-tra-co-che-dieu-tiet-khi-thi-truong-dut-gay-nguon-cung.htm",
         "published": "Fri, 18 Sep 2026 01:02:00 GMT"
-      },
-      {
-        "title": "[Bài 3] Tìm lối ra cho doanh nghiệp “chết lâm sàng”",
-        "link": "https://vneconomy.vn/bai-3-tim-loi-ra-cho-doanh-nghiep-chet-lam-sang.htm",
-        "published": "Fri, 18 Sep 2026 00:50:11 GMT"
       }
     ],
     "Vietstock": [
@@ -76,11 +76,6 @@
         "title": "C21 sắp rời UPCoM sau 10 năm",
         "link": "http://vietstock.vn/2026/09/c21-sap-roi-upcom-sau-10-nam-830-1493647.htm",
         "published": "Fri, 18 Sep 2026 14:59:18 +0700"
-      },
-      {
-        "title": "Nhịp đập Thị trường 18/09: Thị trường duy trì sắc xanh",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1809-thi-truong-duy-tri-sac-xanh-1636-1493608.htm",
-        "published": "Fri, 18 Sep 2026 14:12:00 +0700"
       },
       {
         "title": "Phân tích kỹ thuật phiên chiều 18/09: Sắc xanh lan tỏa",
@@ -96,9 +91,24 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 18/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1809-830-1493403.htm",
         "published": "Fri, 18 Sep 2026 08:00:00 +0700"
+      },
+      {
+        "title": "18/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/1809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493538.htm",
+        "published": "Fri, 18 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Take Five: High stakes, low bars",
+        "link": "https://www.investing.com/news/economy-news/take-five-high-stakes-low-bars-4906923",
+        "published": "2026-09-18 09:55:21"
+      },
+      {
+        "title": "Saudi Aramco to lift Gulf exports to 60 million in September and October - Reuters",
+        "link": "https://www.investing.com/news/economy-news/saudi-aramco-to-lift-gulf-exports-to-60-million-in-september-and-october--reuters-4906922",
+        "published": "2026-09-18 09:55:14"
+      },
       {
         "title": "European shares tick lower on telecoms weakness, but poised for weekly gains",
         "link": "https://www.investing.com/news/economy-news/european-shares-inch-lower-as-telecoms-energy-shares-dip-4906779",
@@ -118,16 +128,6 @@
         "title": "Analysis-Jet financiers fret as Iran war pumps up fuel and borrowing costs",
         "link": "https://www.investing.com/news/economy-news/analysisjet-financiers-fret-as-iran-war-pumps-up-fuel-and-borrowing-costs-4906887",
         "published": "2026-09-18 09:18:41"
-      },
-      {
-        "title": "UBS flips BoE call, sees rate hikes to 4.25% in November and February 2027",
-        "link": "https://www.investing.com/news/economy-news/ubs-flips-boe-call-sees-rate-hikes-to-425-in-november-and-february-2027-4906880",
-        "published": "2026-09-18 09:17:04"
-      },
-      {
-        "title": "Yen slumps to two-week low after BOJ rate hike underwhelms",
-        "link": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
-        "published": "2026-09-18 09:00:33"
       }
     ]
   }
