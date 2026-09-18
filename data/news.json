@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T11:09:31.607741",
+  "fetched_at": "2026-09-18T11:39:25.078012",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 18/09: VN-Index lao dốc cuối phiên, khối ngoại mua ròng hơn 1,250 tỷ đồng",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1809-vn-index-lao-doc-cuoi-phien-khoi-ngoai-mua-rong-hon-1250-ty-dong-1636-1493608.htm",
+        "published": "Fri, 18 Sep 2026 17:52:00 +0700"
+      },
+      {
         "title": "Fed tăng lãi suất tác động thị trường chứng khoán Việt Nam ra sao?",
         "link": "http://vietstock.vn/2026/09/fed-tang-lai-suat-tac-dong-thi-truong-chung-khoan-viet-nam-ra-sao-145-1493708.htm",
         "published": "Fri, 18 Sep 2026 15:56:45 +0700"
@@ -91,14 +96,29 @@
         "title": "Top cổ phiếu đáng chú ý đầu phiên 18/09",
         "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1809-830-1493403.htm",
         "published": "Fri, 18 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "18/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/1809-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493538.htm",
-        "published": "Fri, 18 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Barclays, UBS back BoE hikes as inflation risks mount",
+        "link": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
+        "published": "2026-09-18 11:36:24"
+      },
+      {
+        "title": "Nasdaq futures lead Wall St gains as oil retreat eases inflation worries",
+        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
+        "published": "2026-09-18 11:20:00"
+      },
+      {
+        "title": "Analysis-Global rate-hike cycle in view as central banks take on inflation",
+        "link": "https://www.investing.com/news/economy-news/analysisglobal-ratehike-cycle-in-view-as-central-banks-take-on-inflation-4907130",
+        "published": "2026-09-18 11:19:42"
+      },
+      {
+        "title": "US equity funds post fourth weekly outflow on inflation worries, rate concerns",
+        "link": "https://www.investing.com/news/economy-news/us-equity-funds-post-fourth-weekly-outflow-on-inflation-worries-rate-concerns-4907129",
+        "published": "2026-09-18 11:19:17"
+      },
       {
         "title": "Italy’s public debt costs rising amid geopolitical tensions",
         "link": "https://www.investing.com/news/economy-news/italys-public-debt-costs-rising-amid-geopolitical-tensions-93CH-4907078",
@@ -108,26 +128,6 @@
         "title": "Lagarde says ECB rates don’t track energy prices directly",
         "link": "https://www.investing.com/news/economy-news/lagarde-says-ecb-rates-dont-track-energy-prices-directly-93CH-4907076",
         "published": "2026-09-18 10:58:01"
-      },
-      {
-        "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
-        "link": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
-        "published": "2026-09-18 10:42:33"
-      },
-      {
-        "title": "Major central banks on tightening path amid energy price shock",
-        "link": "https://www.investing.com/news/economy-news/major-central-banks-on-tightening-path-amid-energy-price-shock-4905732",
-        "published": "2026-09-18 10:36:32"
-      },
-      {
-        "title": "Global equity fund outflows hit nine-month high on inflation fears",
-        "link": "https://www.investing.com/news/economy-news/global-equity-fund-outflows-hit-ninemonth-high-on-inflation-fears-4907011",
-        "published": "2026-09-18 10:31:22"
-      },
-      {
-        "title": "Thailand to extend its consumer subsidy programme, PM says",
-        "link": "https://www.investing.com/news/economy-news/thailand-to-extend-its-consumer-subsidy-programme-pm-says-4907008",
-        "published": "2026-09-18 10:31:02"
       }
     ]
   }
