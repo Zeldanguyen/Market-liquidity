@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T15:09:07.563738",
+  "fetched_at": "2026-09-19T15:38:28.475091",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+        "link": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908097",
+        "published": "2026-09-19 15:12:59"
+      },
+      {
         "title": "EU presses global allies to plug Ukraine’s $27 bln funding gap",
         "link": "https://www.investing.com/news/economy-news/eu-presses-global-allies-to-plug-ukraines-27-bln-funding-gap-4908092",
         "published": "2026-09-19 14:43:26"
@@ -123,11 +128,6 @@
         "title": "Europe’s winter power prices jump as gas supply concerns grow - Bloomberg",
         "link": "https://www.investing.com/news/economy-news/europes-winter-power-prices-jump-as-gas-supply-concerns-grow--bloomberg-4908070",
         "published": "2026-09-19 09:56:25"
-      },
-      {
-        "title": "How AI concerns moved to the center of the midterm debate",
-        "link": "https://www.investing.com/news/economy-news/how-ai-concerns-moved-to-the-center-of-the-midterm-debate-4908066",
-        "published": "2026-09-19 08:26:42"
       }
     ]
   }
