@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T09:09:13.067302",
+  "fetched_at": "2026-09-19T09:38:52.310709",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Điểm nghẽn phía sau dòng vốn dài hạn vào hạ tầng",
+        "link": "https://vneconomy.vn/diem-nghen-phia-sau-dong-von-dai-han-vao-ha-tang.htm",
+        "published": "Sat, 19 Sep 2026 09:31:26 GMT"
+      },
+      {
         "title": "FTSE Russell đề nghị phát triển sản phẩm phái sinh dựa trên chỉ số FTSE Vietnam ở nước ngoài",
         "link": "https://vneconomy.vn/ftse-russell-de-nghi-phat-trien-san-pham-phai-sinh-dua-tren-chi-so-ftse-vietnam-o-nuoc-ngoai.htm",
         "published": "Sat, 19 Sep 2026 05:23:34 GMT"
@@ -59,11 +64,6 @@
         "title": "Nối tiếp động thái của Fed, BOJ tăng lãi suất lên mức cao nhất 31 năm",
         "link": "https://vneconomy.vn/noi-tiep-dong-thai-cua-fed-boj-tang-lai-suat-len-muc-cao-nhat-31-nam.htm",
         "published": "Fri, 18 Sep 2026 13:52:30 GMT"
-      },
-      {
-        "title": "Giám đốc của Vanguard: Sẽ đầu tư vào Việt Nam 2,5 tỷ USD và nắm giữ các khoản này trong nhiều thập kỷ",
-        "link": "https://vneconomy.vn/giam-doc-cua-vanguard-se-dau-tu-vao-viet-nam-25-ty-usd-va-nam-giu-cac-khoan-nay-trong-nhieu-thap-ky.htm",
-        "published": "Fri, 18 Sep 2026 13:02:03 GMT"
       }
     ],
     "Vietstock": [
