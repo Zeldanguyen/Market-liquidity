@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T03:39:57.010948",
+  "fetched_at": "2026-09-19T04:09:32.072199",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Việt Nam vào rổ chỉ số FTSE: Dấu mốc mới, yêu cầu mới",
+        "link": "http://vietstock.vn/2026/09/viet-nam-vao-ro-chi-so-ftse-dau-moc-moi-yeu-cau-moi-143-1494003.htm",
+        "published": "Sat, 19 Sep 2026 10:33:35 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 18/09: Khối ngoại mua ròng gần ngàn tỷ, tự doanh bán ròng nhẹ",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1809-khoi-ngoai-mua-rong-gan-ngan-ty-tu-doanh-ban-rong-nhe-830-1493956.htm",
         "published": "Fri, 18 Sep 2026 19:38:57 +0700"
@@ -91,14 +96,14 @@
         "title": "C21 sắp rời UPCoM sau 10 năm",
         "link": "http://vietstock.vn/2026/09/c21-sap-roi-upcom-sau-10-nam-830-1493647.htm",
         "published": "Fri, 18 Sep 2026 14:59:18 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 18/09: Sắc xanh lan tỏa",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1809-sac-xanh-lan-toa-585-1493644.htm",
-        "published": "Fri, 18 Sep 2026 13:03:44 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
+        "link": "https://www.investing.com/news/economy-news/us-approves-potential-27-billion-air-defense-sale-to-ukraine-4908046",
+        "published": "2026-09-19 03:33:51"
+      },
       {
         "title": "How to position for the next wave of AI-led scientific breakthroughs",
         "link": "https://www.investing.com/news/economy-news/how-to-position-for-the-next-wave-of-ailed-scientific-breakthroughs-4908020",
@@ -123,11 +128,6 @@
         "title": "Exclusive-Kennedy names new chair for US autism advisory panel",
         "link": "https://www.investing.com/news/economy-news/exclusivekennedy-names-new-chair-for-us-autism-advisory-panel-sources-say-4907814",
         "published": "2026-09-18 22:02:27"
-      },
-      {
-        "title": "Trump says U.S. and Denmark reached permanent security deal over Greenland",
-        "link": "https://www.investing.com/news/economy-news/us-and-denmark-near-deal-on-expanded-military-presence-in-greenland--report-4907924",
-        "published": "2026-09-18 21:23:04"
       }
     ]
   }
