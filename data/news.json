@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T14:10:07.184393",
+  "fetched_at": "2026-09-19T14:38:32.327153",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Techcombank ra mắt Techcom Wealth - Kiến tạo chuẩn mực mới về quản trị gia sản tại Việt Nam",
+        "link": "https://vneconomy.vn/techcombank-ra-mat-techcom-wealth-kien-tao-chuan-muc-moi-ve-quan-tri-gia-san-tai-viet-nam.htm",
+        "published": "Sat, 19 Sep 2026 14:30:15 GMT"
+      },
+      {
         "title": "Điểm nghẽn phía sau dòng vốn dài hạn vào hạ tầng",
         "link": "https://vneconomy.vn/diem-nghen-phia-sau-dong-von-dai-han-vao-ha-tang.htm",
         "published": "Sat, 19 Sep 2026 09:31:26 GMT"
@@ -59,11 +64,6 @@
         "title": "Giá vàng tăng lên mức cao nhất 1 tuần, SPDR Gold Trust mua ròng hơn 4 tấn",
         "link": "https://vneconomy.vn/gia-vang-tang-len-muc-cao-nhat-1-tuan-spdr-gold-trust-mua-rong-hon-4-tan.htm",
         "published": "Sat, 19 Sep 2026 01:10:58 GMT"
-      },
-      {
-        "title": "Nối tiếp động thái của Fed, BOJ tăng lãi suất lên mức cao nhất 31 năm",
-        "link": "https://vneconomy.vn/noi-tiep-dong-thai-cua-fed-boj-tang-lai-suat-len-muc-cao-nhat-31-nam.htm",
-        "published": "Fri, 18 Sep 2026 13:52:30 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "ECB should stay vigilant on inflation but avoid hasty rate moves - Stournaras",
+        "link": "https://www.investing.com/news/economy-news/ecb-should-stay-vigilant-on-inflation-but-avoid-hasty-rate-moves--stournaras-4908086",
+        "published": "2026-09-19 13:54:50"
+      },
+      {
         "title": "French draft budget caps spending growth to satisfy EU despite rising debt burden",
         "link": "https://www.investing.com/news/economy-news/french-draft-budget-caps-spending-growth-to-satisfy-eu-despite-rising-debt-burden-4908083",
         "published": "2026-09-19 12:30:44"
@@ -123,11 +128,6 @@
         "title": "China opens probes into four online travel booking platforms",
         "link": "https://www.investing.com/news/economy-news/china-opens-probes-into-four-online-travel-booking-platforms-4908053",
         "published": "2026-09-19 04:53:25"
-      },
-      {
-        "title": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
-        "link": "https://www.investing.com/news/economy-news/us-approves-potential-27-billion-air-defense-sale-to-ukraine-4908046",
-        "published": "2026-09-19 03:33:51"
       }
     ]
   }
