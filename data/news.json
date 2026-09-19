@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-19T03:09:15.626619",
+  "fetched_at": "2026-09-19T03:39:57.010948",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "VinFast của tỷ phú Phạm Nhật Vượng ra mắt xe bán tải điện đầu tiên tại Việt Nam",
+        "link": "https://cafef.vn/vinfast-cua-ty-phu-pham-nhat-vuong-ra-mat-xe-ban-tai-dien-dau-tien-tai-viet-nam-188260919102605694.chn",
+        "published": "Sat, 19 Sep 26 10:25:00 +0700"
+      },
       {
         "title": "Hãng taxi của tỷ phú Phạm Nhật Vượng làm điều chưa từng có: Tuyên bố chia sẻ 100% doanh thu cho đối tác tài xế",
         "link": "https://cafef.vn/hang-taxi-cua-ty-phu-pham-nhat-vuong-lam-dieu-chua-tung-co-tuyen-bo-chia-se-100-doanh-thu-cho-doi-tac-tai-xe-188260919092941172.chn",
@@ -27,14 +32,14 @@
         "title": "FTSE Russell đề xuất loạt hợp tác mới với Việt Nam sau dấu mốc nâng hạng",
         "link": "https://cafef.vn/ftse-russell-de-xuat-loat-hop-tac-moi-voi-viet-nam-sau-dau-moc-nang-hang-188260919001917604.chn",
         "published": "Sat, 19 Sep 26 00:19:00 +0700"
-      },
-      {
-        "title": "Doanh nghiệp đề xuất xây tòa tháp đôi cao nhất thế giới bất ngờ huỷ họp bất thường",
-        "link": "https://cafef.vn/doanh-nghiep-de-xuat-xay-toa-thap-doi-cao-nhat-the-gioi-bat-ngo-huy-hop-bat-thuong-188260919001332622.chn",
-        "published": "Sat, 19 Sep 26 00:12:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Lễ đánh cồng chào đón chứng khoán Việt Nam chính thức tham gia vào thị trường mới nổi",
+        "link": "https://vneconomy.vn/le-danh-cong-chao-don-chung-khoan-viet-nam-chinh-thuc-tham-gia-vao-thi-truong-moi-noi.htm",
+        "published": "Sat, 19 Sep 2026 02:16:27 GMT"
+      },
       {
         "title": "Giá vàng tăng lên mức cao nhất 1 tuần, SPDR Gold Trust mua ròng hơn 4 tấn",
         "link": "https://vneconomy.vn/gia-vang-tang-len-muc-cao-nhat-1-tuan-spdr-gold-trust-mua-rong-hon-4-tan.htm",
@@ -59,11 +64,6 @@
         "title": "DBV ra mắt bảo hiểm ô tô điện, bảo vệ chuyên biệt cho pin và rủi ro sạc",
         "link": "https://vneconomy.vn/dbv-ra-mat-bao-hiem-o-to-dien-bao-ve-chuyen-biet-cho-pin-va-rui-ro-sac.htm",
         "published": "Fri, 18 Sep 2026 11:09:56 GMT"
-      },
-      {
-        "title": "UOB: Triển vọng tăng trưởng 2026 tích cực, tỷ giá vẫn ổn định",
-        "link": "https://vneconomy.vn/uob-trien-vong-tang-truong-2026-tich-cuc-ty-gia-van-on-dinh.htm",
-        "published": "Fri, 18 Sep 2026 11:00:57 GMT"
       }
     ],
     "Vietstock": [
