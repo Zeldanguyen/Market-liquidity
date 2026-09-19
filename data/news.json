@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T07:08:37.621090",
+  "fetched_at": "2026-09-19T07:38:17.420659",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Chuyên gia DNSE: Dòng tiền nâng hạng trợ lực, yếu tố vĩ mô vẫn đóng vai chi phối",
+        "link": "http://vietstock.vn/2026/09/chuyen-gia-dnse-dong-tien-nang-hang-tro-luc-yeu-to-vi-mo-van-dong-vai-chi-phoi-145-1494014.htm",
+        "published": "Sat, 19 Sep 2026 14:02:00 +0700"
+      },
+      {
         "title": "Bài kiểm tra về khả năng hấp thụ vốn hậu nâng hạng thị trường",
         "link": "http://vietstock.vn/2026/09/bai-kiem-tra-ve-kha-nang-hap-thu-von-hau-nang-hang-thi-truong-145-1494027.htm",
         "published": "Sat, 19 Sep 2026 12:18:18 +0700"
@@ -91,11 +96,6 @@
         "title": "Nhịp đập Thị trường 18/09: VN-Index lao dốc cuối phiên, khối ngoại mua ròng hơn 1,250 tỷ đồng",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1809-vn-index-lao-doc-cuoi-phien-khoi-ngoai-mua-rong-hon-1250-ty-dong-1636-1493608.htm",
         "published": "Fri, 18 Sep 2026 17:52:00 +0700"
-      },
-      {
-        "title": "Fed tăng lãi suất tác động thị trường chứng khoán Việt Nam ra sao?",
-        "link": "http://vietstock.vn/2026/09/fed-tang-lai-suat-tac-dong-thi-truong-chung-khoan-viet-nam-ra-sao-145-1493708.htm",
-        "published": "Fri, 18 Sep 2026 15:56:45 +0700"
       }
     ],
     "Investing.com Economy": [
