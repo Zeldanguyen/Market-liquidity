@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T18:10:21.487726",
+  "fetched_at": "2026-09-19T18:40:33.386622",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Trump calls for plans to form federal ’AI Force’",
+        "link": "https://www.investing.com/news/economy-news/trump-calla-for-plans-to-form-federal-ai-force-4908110",
+        "published": "2026-09-19 18:14:18"
+      },
+      {
         "title": "Hormuz oil flows hit 6-month high as U.S. mine clearance pays off, CENTCOM says",
         "link": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
         "published": "2026-09-19 16:22:11"
@@ -123,11 +128,6 @@
         "title": "ECB should stay vigilant on inflation but avoid hasty rate moves - Stournaras",
         "link": "https://www.investing.com/news/economy-news/ecb-should-stay-vigilant-on-inflation-but-avoid-hasty-rate-moves--stournaras-4908086",
         "published": "2026-09-19 13:54:50"
-      },
-      {
-        "title": "French draft budget caps spending growth to satisfy EU despite rising debt burden",
-        "link": "https://www.investing.com/news/economy-news/french-draft-budget-caps-spending-growth-to-satisfy-eu-despite-rising-debt-burden-4908083",
-        "published": "2026-09-19 12:30:44"
       }
     ]
   }
