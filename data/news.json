@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-19T08:40:13.613298",
+  "fetched_at": "2026-09-19T09:09:13.067302",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Tác động lớn nhất sau nâng hạng thị trường chứng khoán Việt Nam",
+        "link": "https://cafef.vn/tac-dong-lon-nhat-sau-nang-hang-thi-truong-chung-khoan-viet-nam-188260919154506977.chn",
+        "published": "Sat, 19 Sep 26 15:45:00 +0700"
+      },
       {
         "title": "Bộ Tài chính sắp tổ chức đợt tiếp xúc nhà đầu tư không kèm phát hành trái phiếu quốc tế",
         "link": "https://cafef.vn/bo-tai-chinh-sap-to-chuc-dot-tiep-xuc-nha-dau-tu-khong-kem-phat-hanh-trai-phieu-quoc-te-188260919121750854.chn",
@@ -27,11 +32,6 @@
         "title": "Haxaco muốn mua lại 5 triệu cổ phiếu",
         "link": "https://cafef.vn/haxaco-muon-mua-lai-5-trieu-co-phieu-188260919111126526.chn",
         "published": "Sat, 19 Sep 26 11:11:00 +0700"
-      },
-      {
-        "title": "VietinBank bán đấu giá thành công hơn 2,2 triệu cổ phiếu Cảng Hải Phòng",
-        "link": "https://cafef.vn/vietinbank-ban-dau-gia-thanh-cong-hon-22-trieu-co-phieu-cang-hai-phong-188260919111010958.chn",
-        "published": "Sat, 19 Sep 26 11:10:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "How AI concerns moved to the center of the midterm debate",
+        "link": "https://www.investing.com/news/economy-news/how-ai-concerns-moved-to-the-center-of-the-midterm-debate-4908066",
+        "published": "2026-09-19 08:26:42"
+      },
+      {
         "title": "Saudi alerts sound as Yemen fighting puts key oil shipping routes under pressure",
         "link": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
         "published": "2026-09-19 05:41:50"
@@ -123,11 +128,6 @@
         "title": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
         "link": "https://www.investing.com/news/economy-news/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports-4907970",
         "published": "2026-09-18 23:30:29"
-      },
-      {
-        "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
-        "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
-        "published": "2026-09-18 23:12:30"
       }
     ]
   }
