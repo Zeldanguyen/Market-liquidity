@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-19T16:38:48.700258",
+  "fetched_at": "2026-09-19T17:08:26.544979",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Quỹ vàng lớn nhất thế giới \"gom\" gần 10 tấn vàng khi giá bật tăng trở lại",
+        "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-gom-gan-10-tan-vang-khi-gia-bat-tang-tro-lai-188260919225004454.chn",
+        "published": "Sun, 20 Sep 26 00:04:00 +0700"
+      },
+      {
+        "title": "7-9 tỷ USD có thể đổ vào chứng khoán Việt Nam, CTCK chỉ ra 5 cổ phiếu “đón sóng” nâng hạng",
+        "link": "https://cafef.vn/7-9-ty-usd-co-the-do-vao-chung-khoan-viet-nam-ctck-chi-ra-5-co-phieu-don-song-nang-hang-188260919101934991.chn",
+        "published": "Sun, 20 Sep 26 00:03:00 +0700"
+      },
       {
         "title": "Sau nâng hạng, các định chế tài chính toàn cầu quan tâm cổ phiếu Việt ra sao?",
         "link": "https://cafef.vn/sau-nang-hang-cac-dinh-che-tai-chinh-toan-cau-quan-tam-co-phieu-viet-ra-sao-188260919192712943.chn",
@@ -22,16 +32,6 @@
         "title": "Vì sao nhiều doanh nghiệp lớn vẫn đứng ngoài rổ FTSE?",
         "link": "https://cafef.vn/vi-sao-nhieu-doanh-nghiep-lon-van-dung-ngoai-ro-ftse-188260919121019641.chn",
         "published": "Sat, 19 Sep 26 12:10:00 +0700"
-      },
-      {
-        "title": "TCBS bổ nhiệm Tổng giám đốc",
-        "link": "https://cafef.vn/tcbs-bo-nhiem-tong-giam-doc-188260919110855839.chn",
-        "published": "Sat, 19 Sep 26 12:08:00 +0700"
-      },
-      {
-        "title": "Bộ Tài chính nói gì về kế hoạch phát hành trái phiếu quốc tế?",
-        "link": "https://cafef.vn/bo-tai-chinh-noi-gi-ve-ke-hoach-phat-hanh-trai-phieu-quoc-te-188260919111457997.chn",
-        "published": "Sat, 19 Sep 26 11:15:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Hormuz oil flows hit 6-month high as U.S. mine clearance pays off, CENTCOM says",
+        "link": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
+        "published": "2026-09-19 16:22:11"
+      },
+      {
         "title": "Why the Fed hiked into a supply shock?",
         "link": "https://www.investing.com/news/economy-news/why-the-fed-hiked-into-a-supply-shock-4908102",
         "published": "2026-09-19 15:50:18"
@@ -113,11 +118,6 @@
         "title": "EU presses global allies to plug Ukraine’s $27 bln funding gap",
         "link": "https://www.investing.com/news/economy-news/eu-presses-global-allies-to-plug-ukraines-27-bln-funding-gap-4908092",
         "published": "2026-09-19 14:43:26"
-      },
-      {
-        "title": "Explosion and black smoke reported at Riyadh airport following Saudi alert",
-        "link": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
-        "published": "2026-09-19 14:38:08"
       },
       {
         "title": "ECB should stay vigilant on inflation but avoid hasty rate moves - Stournaras",
