@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T13:38:28.587349",
+  "fetched_at": "2026-09-19T14:10:07.184393",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Tuần bản lề trước nâng hạng: Cổ phiếu nào dẫn dắt VN-Index tiến lên giữa sóng gió toàn cầu?",
+        "link": "http://vietstock.vn/2026/09/tuan-ban-le-truoc-nang-hang-co-phieu-nao-dan-dat-vn-index-tien-len-giua-song-gio-toan-cau-830-1494026.htm",
+        "published": "Sat, 19 Sep 2026 20:30:00 +0700"
+      },
+      {
         "title": "Thị trường phục hồi xuất phát từ hoạt động tái cơ cấu danh mục của các quỹ ETF",
         "link": "http://vietstock.vn/2026/09/thi-truong-phuc-hoi-xuat-phat-tu-hoat-dong-tai-co-cau-danh-muc-cua-cac-quy-etf-830-1494037.htm",
         "published": "Sat, 19 Sep 2026 18:02:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Theo dấu dòng tiền cá mập 18/09: Khối ngoại mua ròng gần ngàn tỷ, tự doanh bán ròng nhẹ",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1809-khoi-ngoai-mua-rong-gan-ngan-ty-tu-doanh-ban-rong-nhe-830-1493956.htm",
         "published": "Fri, 18 Sep 2026 19:38:57 +0700"
-      },
-      {
-        "title": "Chứng khoán Tuần 14-18/09/2026: Cần thêm sự đồng thuận?",
-        "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-14-18092026-can-them-su-dong-thuan-1636-1493806.htm",
-        "published": "Fri, 18 Sep 2026 18:17:00 +0700"
       }
     ],
     "Investing.com Economy": [
