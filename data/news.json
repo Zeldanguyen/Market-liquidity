@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T04:39:20.720169",
+  "fetched_at": "2026-09-19T05:08:40.307782",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China opens probes into four online travel booking platforms",
+        "link": "https://www.investing.com/news/economy-news/china-opens-probes-into-four-online-travel-booking-platforms-4908053",
+        "published": "2026-09-19 04:53:25"
+      },
+      {
         "title": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
         "link": "https://www.investing.com/news/economy-news/us-approves-potential-27-billion-air-defense-sale-to-ukraine-4908046",
         "published": "2026-09-19 03:33:51"
@@ -123,11 +128,6 @@
         "title": "Exclusive-OpenAI’s Sam Altman to brief UN Security Council next week",
         "link": "https://www.investing.com/news/economy-news/openais-sam-altmanto-brief-un-security-council-next-week-4907866",
         "published": "2026-09-18 22:02:48"
-      },
-      {
-        "title": "Exclusive-Kennedy names new chair for US autism advisory panel",
-        "link": "https://www.investing.com/news/economy-news/exclusivekennedy-names-new-chair-for-us-autism-advisory-panel-sources-say-4907814",
-        "published": "2026-09-18 22:02:27"
       }
     ]
   }
