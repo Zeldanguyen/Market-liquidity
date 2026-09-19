@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T10:09:21.919145",
+  "fetched_at": "2026-09-19T10:38:45.983466",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Europe’s winter power prices jump as gas supply concerns grow - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/europes-winter-power-prices-jump-as-gas-supply-concerns-grow--bloomberg-4908070",
+        "published": "2026-09-19 09:56:25"
+      },
+      {
         "title": "How AI concerns moved to the center of the midterm debate",
         "link": "https://www.investing.com/news/economy-news/how-ai-concerns-moved-to-the-center-of-the-midterm-debate-4908066",
         "published": "2026-09-19 08:26:42"
@@ -123,11 +128,6 @@
         "title": "How to position for the next wave of AI-led scientific breakthroughs",
         "link": "https://www.investing.com/news/economy-news/how-to-position-for-the-next-wave-of-ailed-scientific-breakthroughs-4908020",
         "published": "2026-09-19 01:06:30"
-      },
-      {
-        "title": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
-        "link": "https://www.investing.com/news/economy-news/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports-4907970",
-        "published": "2026-09-18 23:30:29"
       }
     ]
   }
