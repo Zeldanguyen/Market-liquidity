@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T01:08:35.230028",
+  "fetched_at": "2026-09-19T01:39:29.562035",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -36,6 +36,11 @@
     ],
     "VnEconomy": [
       {
+        "title": "Giá vàng tăng lên mức cao nhất 1 tuần, SPDR Gold Trust mua ròng hơn 4 tấn",
+        "link": "https://vneconomy.vn/gia-vang-tang-len-muc-cao-nhat-1-tuan-spdr-gold-trust-mua-rong-hon-4-tan.htm",
+        "published": "Sat, 19 Sep 2026 01:10:58 GMT"
+      },
+      {
         "title": "Nối tiếp động thái của Fed, BOJ tăng lãi suất lên mức cao nhất 31 năm",
         "link": "https://vneconomy.vn/noi-tiep-dong-thai-cua-fed-boj-tang-lai-suat-len-muc-cao-nhat-31-nam.htm",
         "published": "Fri, 18 Sep 2026 13:52:30 GMT"
@@ -59,11 +64,6 @@
         "title": "UOB: Triển vọng tăng trưởng 2026 tích cực, tỷ giá vẫn ổn định",
         "link": "https://vneconomy.vn/uob-trien-vong-tang-truong-2026-tich-cuc-ty-gia-van-on-dinh.htm",
         "published": "Fri, 18 Sep 2026 11:00:57 GMT"
-      },
-      {
-        "title": "Muốn vay theo dòng tiền, doanh nghiệp phải minh bạch tài chính",
-        "link": "https://vneconomy.vn/muon-vay-theo-dong-tien-doanh-nghiep-phai-minh-bach-tai-chinh.htm",
-        "published": "Fri, 18 Sep 2026 09:41:53 GMT"
       }
     ],
     "Vietstock": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "How to position for the next wave of AI-led scientific breakthroughs",
+        "link": "https://www.investing.com/news/economy-news/how-to-position-for-the-next-wave-of-ailed-scientific-breakthroughs-4908020",
+        "published": "2026-09-19 01:06:30"
+      },
+      {
         "title": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
         "link": "https://www.investing.com/news/economy-news/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports-4907970",
         "published": "2026-09-18 23:30:29"
@@ -123,11 +128,6 @@
         "title": "Trump says U.S. and Denmark reached permanent security deal over Greenland",
         "link": "https://www.investing.com/news/economy-news/us-and-denmark-near-deal-on-expanded-military-presence-in-greenland--report-4907924",
         "published": "2026-09-18 21:23:04"
-      },
-      {
-        "title": "Global shares edge higher as central banks double down on inflation fight",
-        "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
-        "published": "2026-09-18 21:07:26"
       }
     ]
   }
