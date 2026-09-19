@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-19T04:09:32.072199",
+  "fetched_at": "2026-09-19T04:39:20.720169",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Bộ Tài chính nói gì về kế hoạch phát hành trái phiếu quốc tế?",
+        "link": "https://cafef.vn/bo-tai-chinh-noi-gi-ve-ke-hoach-phat-hanh-trai-phieu-quoc-te-188260919111457997.chn",
+        "published": "Sat, 19 Sep 26 11:15:00 +0700"
+      },
+      {
+        "title": "Haxaco muốn mua lại 5 triệu cổ phiếu",
+        "link": "https://cafef.vn/haxaco-muon-mua-lai-5-trieu-co-phieu-188260919111126526.chn",
+        "published": "Sat, 19 Sep 26 11:11:00 +0700"
+      },
+      {
+        "title": "VietinBank bán đấu giá thành công hơn 2,2 triệu cổ phiếu Cảng Hải Phòng",
+        "link": "https://cafef.vn/vietinbank-ban-dau-gia-thanh-cong-hon-22-trieu-co-phieu-cang-hai-phong-188260919111010958.chn",
+        "published": "Sat, 19 Sep 26 11:10:00 +0700"
+      },
       {
         "title": "VinFast của tỷ phú Phạm Nhật Vượng ra mắt xe bán tải điện đầu tiên tại Việt Nam",
         "link": "https://cafef.vn/vinfast-cua-ty-phu-pham-nhat-vuong-ra-mat-xe-ban-tai-dien-dau-tien-tai-viet-nam-188260919102605694.chn",
@@ -17,24 +32,14 @@
         "title": "Giá vàng trở lại mức đỉnh trong 2 tuần",
         "link": "https://cafef.vn/gia-vang-tro-lai-muc-dinh-trong-2-tuan-188260919092840294.chn",
         "published": "Sat, 19 Sep 26 09:29:00 +0700"
-      },
-      {
-        "title": "CLIP: Khoảnh khắc đặc biệt trong lịch sử chứng khoán Việt Nam",
-        "link": "https://cafef.vn/clip-danh-cong-dac-biet-nhat-lich-su-chung-khoan-viet-nam-188260919091646145.chn",
-        "published": "Sat, 19 Sep 26 09:20:00 +0700"
-      },
-      {
-        "title": "Khối ngoại bất ngờ \"tung\" hơn 2.600 tỷ mua ròng trong tuần Index tăng 20 điểm, cổ phiếu nào được gom mạnh nhất?",
-        "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tung-hon-2600-ty-mua-rong-trong-tuan-index-tang-20-diem-co-phieu-nao-duoc-gom-manh-nhat-188260919003615549.chn",
-        "published": "Sat, 19 Sep 26 00:35:00 +0700"
-      },
-      {
-        "title": "FTSE Russell đề xuất loạt hợp tác mới với Việt Nam sau dấu mốc nâng hạng",
-        "link": "https://cafef.vn/ftse-russell-de-xuat-loat-hop-tac-moi-voi-viet-nam-sau-dau-moc-nang-hang-188260919001917604.chn",
-        "published": "Sat, 19 Sep 26 00:19:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Chính phủ sẽ tăng tính độc lập của Ngân hàng Nhà nước trong điều hành chính sách tiền tệ",
+        "link": "https://vneconomy.vn/chinh-phu-se-tang-tinh-doc-lap-cua-ngan-hang-nha-nuoc-trong-dieu-hanh-chinh-sach-tien-te.htm",
+        "published": "Sat, 19 Sep 2026 04:29:51 GMT"
+      },
       {
         "title": "Lễ đánh cồng chào đón chứng khoán Việt Nam chính thức tham gia vào thị trường mới nổi",
         "link": "https://vneconomy.vn/le-danh-cong-chao-don-chung-khoan-viet-nam-chinh-thuc-tham-gia-vao-thi-truong-moi-noi.htm",
@@ -59,11 +64,6 @@
         "title": "Bộ trưởng Tài chính: Nâng hạng không phải là bước tiến cuối cùng mà là một bước tiến mới",
         "link": "https://vneconomy.vn/bo-truong-tai-chinh-nang-hang-khong-phai-la-buoc-tien-cuoi-cung-ma-la-mot-buoc-tien-moi.htm",
         "published": "Fri, 18 Sep 2026 11:40:34 GMT"
-      },
-      {
-        "title": "DBV ra mắt bảo hiểm ô tô điện, bảo vệ chuyên biệt cho pin và rủi ro sạc",
-        "link": "https://vneconomy.vn/dbv-ra-mat-bao-hiem-o-to-dien-bao-ve-chuyen-biet-cho-pin-va-rui-ro-sac.htm",
-        "published": "Fri, 18 Sep 2026 11:09:56 GMT"
       }
     ],
     "Vietstock": [
