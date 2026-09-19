@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-19T17:08:26.544979",
+  "fetched_at": "2026-09-19T17:36:12.704966",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Lịch chốt quyền cổ tức tuần 21-25/9: VPBank, FPT \"lăn chốt\", một ông lớn sắp chi hơn 6.000 tỷ đồng",
+        "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-21-25-9-vpbank-fpt-lan-chot-mot-ong-lon-sap-chi-hon-6000-ty-dong-188260919161154667.chn",
+        "published": "Sun, 20 Sep 26 00:07:00 +0700"
+      },
+      {
+        "title": "Tỷ phú Phạm Nhật Vượng đang cho gần 9.000 người, hơn 2.000 máy móc thi công xuyên ngày đêm tại siêu dự án 18 tỷ USD",
+        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-dang-cho-gan-9000-nguoi-hon-2000-may-moc-thi-cong-xuyen-ngay-dem-tai-sieu-du-an-18-ty-usd-188260919225046953.chn",
+        "published": "Sun, 20 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Góp gần 80% kim ngạch xuất khẩu, doanh nghiệp FDI vẫn kém hiện diện trên sàn chứng khoán",
+        "link": "https://cafef.vn/gop-gan-80-kim-ngach-xuat-khau-doanh-nghiep-fdi-van-kem-hien-dien-tren-san-chung-khoan-188260919121316345.chn",
+        "published": "Sun, 20 Sep 26 00:05:00 +0700"
+      },
       {
         "title": "Quỹ vàng lớn nhất thế giới \"gom\" gần 10 tấn vàng khi giá bật tăng trở lại",
         "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-gom-gan-10-tan-vang-khi-gia-bat-tang-tro-lai-188260919225004454.chn",
@@ -17,21 +32,6 @@
         "title": "Sau nâng hạng, các định chế tài chính toàn cầu quan tâm cổ phiếu Việt ra sao?",
         "link": "https://cafef.vn/sau-nang-hang-cac-dinh-che-tai-chinh-toan-cau-quan-tam-co-phieu-viet-ra-sao-188260919192712943.chn",
         "published": "Sat, 19 Sep 26 19:27:00 +0700"
-      },
-      {
-        "title": "Tác động lớn nhất sau nâng hạng thị trường chứng khoán Việt Nam",
-        "link": "https://cafef.vn/tac-dong-lon-nhat-sau-nang-hang-thi-truong-chung-khoan-viet-nam-188260919154506977.chn",
-        "published": "Sat, 19 Sep 26 15:45:00 +0700"
-      },
-      {
-        "title": "Bộ Tài chính sắp tổ chức đợt tiếp xúc nhà đầu tư không kèm phát hành trái phiếu quốc tế",
-        "link": "https://cafef.vn/bo-tai-chinh-sap-to-chuc-dot-tiep-xuc-nha-dau-tu-khong-kem-phat-hanh-trai-phieu-quoc-te-188260919121750854.chn",
-        "published": "Sat, 19 Sep 26 12:24:00 +0700"
-      },
-      {
-        "title": "Vì sao nhiều doanh nghiệp lớn vẫn đứng ngoài rổ FTSE?",
-        "link": "https://cafef.vn/vi-sao-nhieu-doanh-nghiep-lon-van-dung-ngoai-ro-ftse-188260919121019641.chn",
-        "published": "Sat, 19 Sep 26 12:10:00 +0700"
       }
     ],
     "VnEconomy": [
