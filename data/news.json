@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T15:38:28.475091",
+  "fetched_at": "2026-09-19T16:09:14.609937",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Why the Fed hiked into a supply shock?",
+        "link": "https://www.investing.com/news/economy-news/why-the-fed-hiked-into-a-supply-shock-4908102",
+        "published": "2026-09-19 15:50:18"
+      },
+      {
         "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
         "link": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908097",
         "published": "2026-09-19 15:12:59"
@@ -123,11 +128,6 @@
         "title": "French draft budget caps spending growth to satisfy EU despite rising debt burden",
         "link": "https://www.investing.com/news/economy-news/french-draft-budget-caps-spending-growth-to-satisfy-eu-despite-rising-debt-burden-4908083",
         "published": "2026-09-19 12:30:44"
-      },
-      {
-        "title": "Europe’s winter power prices jump as gas supply concerns grow - Bloomberg",
-        "link": "https://www.investing.com/news/economy-news/europes-winter-power-prices-jump-as-gas-supply-concerns-grow--bloomberg-4908070",
-        "published": "2026-09-19 09:56:25"
       }
     ]
   }
