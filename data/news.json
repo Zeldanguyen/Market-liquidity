@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-19T05:08:40.307782",
+  "fetched_at": "2026-09-19T05:38:31.538617",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Bộ Tài chính sắp tổ chức đợt tiếp xúc nhà đầu tư không kèm phát hành trái phiếu quốc tế",
+        "link": "https://cafef.vn/bo-tai-chinh-sap-to-chuc-dot-tiep-xuc-nha-dau-tu-khong-kem-phat-hanh-trai-phieu-quoc-te-188260919121750854.chn",
+        "published": "Sat, 19 Sep 26 12:24:00 +0700"
+      },
+      {
+        "title": "Vì sao nhiều doanh nghiệp lớn vẫn đứng ngoài rổ FTSE?",
+        "link": "https://cafef.vn/vi-sao-nhieu-doanh-nghiep-lon-van-dung-ngoai-ro-ftse-188260919121019641.chn",
+        "published": "Sat, 19 Sep 26 12:10:00 +0700"
+      },
+      {
+        "title": "TCBS bổ nhiệm Tổng giám đốc",
+        "link": "https://cafef.vn/tcbs-bo-nhiem-tong-giam-doc-188260919110855839.chn",
+        "published": "Sat, 19 Sep 26 12:08:00 +0700"
+      },
       {
         "title": "Bộ Tài chính nói gì về kế hoạch phát hành trái phiếu quốc tế?",
         "link": "https://cafef.vn/bo-tai-chinh-noi-gi-ve-ke-hoach-phat-hanh-trai-phieu-quoc-te-188260919111457997.chn",
@@ -17,24 +32,14 @@
         "title": "VietinBank bán đấu giá thành công hơn 2,2 triệu cổ phiếu Cảng Hải Phòng",
         "link": "https://cafef.vn/vietinbank-ban-dau-gia-thanh-cong-hon-22-trieu-co-phieu-cang-hai-phong-188260919111010958.chn",
         "published": "Sat, 19 Sep 26 11:10:00 +0700"
-      },
-      {
-        "title": "VinFast của tỷ phú Phạm Nhật Vượng ra mắt xe bán tải điện đầu tiên tại Việt Nam",
-        "link": "https://cafef.vn/vinfast-cua-ty-phu-pham-nhat-vuong-ra-mat-xe-ban-tai-dien-dau-tien-tai-viet-nam-188260919102605694.chn",
-        "published": "Sat, 19 Sep 26 10:25:00 +0700"
-      },
-      {
-        "title": "Hãng taxi của tỷ phú Phạm Nhật Vượng làm điều chưa từng có: Tuyên bố chia sẻ 100% doanh thu cho đối tác tài xế",
-        "link": "https://cafef.vn/hang-taxi-cua-ty-phu-pham-nhat-vuong-lam-dieu-chua-tung-co-tuyen-bo-chia-se-100-doanh-thu-cho-doi-tac-tai-xe-188260919092941172.chn",
-        "published": "Sat, 19 Sep 26 09:30:00 +0700"
-      },
-      {
-        "title": "Giá vàng trở lại mức đỉnh trong 2 tuần",
-        "link": "https://cafef.vn/gia-vang-tro-lai-muc-dinh-trong-2-tuan-188260919092840294.chn",
-        "published": "Sat, 19 Sep 26 09:29:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "FTSE Russell đề nghị phát triển sản phẩm phái sinh dựa trên chỉ số FTSE Vietnam ở nước ngoài",
+        "link": "https://vneconomy.vn/ftse-russell-de-nghi-phat-trien-san-pham-phai-sinh-dua-tren-chi-so-ftse-vietnam-o-nuoc-ngoai.htm",
+        "published": "Sat, 19 Sep 2026 05:23:34 GMT"
+      },
       {
         "title": "Chính phủ sẽ tăng tính độc lập của Ngân hàng Nhà nước trong điều hành chính sách tiền tệ",
         "link": "https://vneconomy.vn/chinh-phu-se-tang-tinh-doc-lap-cua-ngan-hang-nha-nuoc-trong-dieu-hanh-chinh-sach-tien-te.htm",
@@ -59,11 +64,6 @@
         "title": "Giám đốc của Vanguard: Sẽ đầu tư vào Việt Nam 2,5 tỷ USD và nắm giữ các khoản này trong nhiều thập kỷ",
         "link": "https://vneconomy.vn/giam-doc-cua-vanguard-se-dau-tu-vao-viet-nam-25-ty-usd-va-nam-giu-cac-khoan-nay-trong-nhieu-thap-ky.htm",
         "published": "Fri, 18 Sep 2026 13:02:03 GMT"
-      },
-      {
-        "title": "Bộ trưởng Tài chính: Nâng hạng không phải là bước tiến cuối cùng mà là một bước tiến mới",
-        "link": "https://vneconomy.vn/bo-truong-tai-chinh-nang-hang-khong-phai-la-buoc-tien-cuoi-cung-ma-la-mot-buoc-tien-moi.htm",
-        "published": "Fri, 18 Sep 2026 11:40:34 GMT"
       }
     ],
     "Vietstock": [
