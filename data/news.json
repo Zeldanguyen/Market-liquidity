@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-19T12:10:40.102069",
+  "fetched_at": "2026-09-19T12:42:23.085811",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Sau nâng hạng, các định chế tài chính toàn cầu quan tâm cổ phiếu Việt ra sao?",
+        "link": "https://cafef.vn/sau-nang-hang-cac-dinh-che-tai-chinh-toan-cau-quan-tam-co-phieu-viet-ra-sao-188260919192712943.chn",
+        "published": "Sat, 19 Sep 26 19:27:00 +0700"
+      },
       {
         "title": "Tác động lớn nhất sau nâng hạng thị trường chứng khoán Việt Nam",
         "link": "https://cafef.vn/tac-dong-lon-nhat-sau-nang-hang-thi-truong-chung-khoan-viet-nam-188260919154506977.chn",
@@ -27,11 +32,6 @@
         "title": "Bộ Tài chính nói gì về kế hoạch phát hành trái phiếu quốc tế?",
         "link": "https://cafef.vn/bo-tai-chinh-noi-gi-ve-ke-hoach-phat-hanh-trai-phieu-quoc-te-188260919111457997.chn",
         "published": "Sat, 19 Sep 26 11:15:00 +0700"
-      },
-      {
-        "title": "Haxaco muốn mua lại 5 triệu cổ phiếu",
-        "link": "https://cafef.vn/haxaco-muon-mua-lai-5-trieu-co-phieu-188260919111126526.chn",
-        "published": "Sat, 19 Sep 26 11:11:00 +0700"
       }
     ],
     "VnEconomy": [
