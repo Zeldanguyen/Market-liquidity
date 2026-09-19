@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T05:38:31.538617",
+  "fetched_at": "2026-09-19T06:10:51.189456",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Bài kiểm tra về khả năng hấp thụ vốn hậu nâng hạng thị trường",
+        "link": "http://vietstock.vn/2026/09/bai-kiem-tra-ve-kha-nang-hap-thu-von-hau-nang-hang-thi-truong-145-1494027.htm",
+        "published": "Sat, 19 Sep 2026 12:18:18 +0700"
+      },
+      {
         "title": "Việt Nam vào rổ chỉ số FTSE: Dấu mốc mới, yêu cầu mới",
         "link": "http://vietstock.vn/2026/09/viet-nam-vao-ro-chi-so-ftse-dau-moc-moi-yeu-cau-moi-143-1494003.htm",
         "published": "Sat, 19 Sep 2026 10:33:35 +0700"
@@ -91,14 +96,14 @@
         "title": "Fed tăng lãi suất tác động thị trường chứng khoán Việt Nam ra sao?",
         "link": "http://vietstock.vn/2026/09/fed-tang-lai-suat-tac-dong-thi-truong-chung-khoan-viet-nam-ra-sao-145-1493708.htm",
         "published": "Fri, 18 Sep 2026 15:56:45 +0700"
-      },
-      {
-        "title": "C21 sắp rời UPCoM sau 10 năm",
-        "link": "http://vietstock.vn/2026/09/c21-sap-roi-upcom-sau-10-nam-830-1493647.htm",
-        "published": "Fri, 18 Sep 2026 14:59:18 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Saudi alerts sound as Yemen fighting puts key oil shipping routes under pressure",
+        "link": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
+        "published": "2026-09-19 05:41:50"
+      },
       {
         "title": "China opens probes into four online travel booking platforms",
         "link": "https://www.investing.com/news/economy-news/china-opens-probes-into-four-online-travel-booking-platforms-4908053",
@@ -123,11 +128,6 @@
         "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
         "link": "https://www.investing.com/news/economy-news/nasdaq-futures-lead-wall-st-gains-as-oil-retreat-eases-inflation-worries-4906888",
         "published": "2026-09-18 23:12:30"
-      },
-      {
-        "title": "Exclusive-OpenAI’s Sam Altman to brief UN Security Council next week",
-        "link": "https://www.investing.com/news/economy-news/openais-sam-altmanto-brief-un-security-council-next-week-4907866",
-        "published": "2026-09-18 22:02:48"
       }
     ]
   }
