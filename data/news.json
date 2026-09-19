@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T19:36:17.125806",
+  "fetched_at": "2026-09-19T20:09:13.392236",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Citi expects hawkish Fed to slow non-AI economy",
+        "link": "https://www.investing.com/news/economy-news/citi-expects-hawkish-fed-to-slow-nonai-economy-4908117",
+        "published": "2026-09-19 19:46:14"
+      },
+      {
         "title": "Trump calls for plans to form federal ’AI Force’",
         "link": "https://www.investing.com/news/economy-news/trump-calla-for-plans-to-form-federal-ai-force-4908110",
         "published": "2026-09-19 18:14:18"
@@ -123,11 +128,6 @@
         "title": "EU presses global allies to plug Ukraine’s $27 bln funding gap",
         "link": "https://www.investing.com/news/economy-news/eu-presses-global-allies-to-plug-ukraines-27-bln-funding-gap-4908092",
         "published": "2026-09-19 14:43:26"
-      },
-      {
-        "title": "ECB should stay vigilant on inflation but avoid hasty rate moves - Stournaras",
-        "link": "https://www.investing.com/news/economy-news/ecb-should-stay-vigilant-on-inflation-but-avoid-hasty-rate-moves--stournaras-4908086",
-        "published": "2026-09-19 13:54:50"
       }
     ]
   }
