@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T12:42:23.085811",
+  "fetched_at": "2026-09-19T13:08:44.447736",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "French draft budget caps spending growth to satisfy EU despite rising debt burden",
+        "link": "https://www.investing.com/news/economy-news/french-draft-budget-caps-spending-growth-to-satisfy-eu-despite-rising-debt-burden-4908083",
+        "published": "2026-09-19 12:30:44"
+      },
+      {
         "title": "Europe’s winter power prices jump as gas supply concerns grow - Bloomberg",
         "link": "https://www.investing.com/news/economy-news/europes-winter-power-prices-jump-as-gas-supply-concerns-grow--bloomberg-4908070",
         "published": "2026-09-19 09:56:25"
@@ -123,11 +128,6 @@
         "title": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
         "link": "https://www.investing.com/news/economy-news/us-approves-potential-27-billion-air-defense-sale-to-ukraine-4908046",
         "published": "2026-09-19 03:33:51"
-      },
-      {
-        "title": "How to position for the next wave of AI-led scientific breakthroughs",
-        "link": "https://www.investing.com/news/economy-news/how-to-position-for-the-next-wave-of-ailed-scientific-breakthroughs-4908020",
-        "published": "2026-09-19 01:06:30"
       }
     ]
   }
