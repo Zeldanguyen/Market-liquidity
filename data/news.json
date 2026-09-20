@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-20T02:39:52.814600",
+  "fetched_at": "2026-09-20T03:09:32.284789",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Vingroup vừa khởi công bệnh viện tiêu chuẩn hàng đầu thế giới tại thành phố giàu nhất Việt Nam",
+        "link": "https://cafef.vn/vingroup-vua-khoi-cong-benh-vien-tieu-chuan-hang-dau-the-gioi-tai-thanh-pho-giau-nhat-viet-nam-188260920093440297.chn",
+        "published": "Sun, 20 Sep 26 09:40:00 +0700"
+      },
       {
         "title": "Thị trường chứng khoán được nâng hạng, nên đầu tư cổ phiếu nào?",
         "link": "https://cafef.vn/thi-truong-chung-khoan-duoc-nang-hang-nen-dau-tu-co-phieu-nao-188260920082627622.chn",
@@ -27,11 +32,6 @@
         "title": "Quỹ vàng lớn nhất thế giới \"gom\" gần 10 tấn vàng khi giá bật tăng trở lại",
         "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-gom-gan-10-tan-vang-khi-gia-bat-tang-tro-lai-188260919225004454.chn",
         "published": "Sun, 20 Sep 26 00:04:00 +0700"
-      },
-      {
-        "title": "7-9 tỷ USD có thể đổ vào chứng khoán Việt Nam, CTCK chỉ ra 5 cổ phiếu “đón sóng” nâng hạng",
-        "link": "https://cafef.vn/7-9-ty-usd-co-the-do-vao-chung-khoan-viet-nam-ctck-chi-ra-5-co-phieu-don-song-nang-hang-188260919101934991.chn",
-        "published": "Sun, 20 Sep 26 00:03:00 +0700"
       }
     ],
     "VnEconomy": [
