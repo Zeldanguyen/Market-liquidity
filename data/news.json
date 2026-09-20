@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-20T03:40:39.695065",
+  "fetched_at": "2026-09-20T04:09:39.207203",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nâng hạng thị trường chứng khoán: ‘Sức ép’ tiếp tục cải cách?",
+        "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-suc-ep-tiep-tuc-cai-cach-188260920105322543.chn",
+        "published": "Sun, 20 Sep 26 10:53:00 +0700"
+      },
+      {
+        "title": "Chứng khoán tuần qua: Khối ngoại gom ngàn tỷ, cổ phiếu ‘vua’ dẫn sóng thị trường",
+        "link": "https://cafef.vn/chung-khoan-tuan-qua-khoi-ngoai-gom-ngan-ty-co-phieu-vua-dan-song-thi-truong-188260920105048294.chn",
+        "published": "Sun, 20 Sep 26 10:50:00 +0700"
+      },
       {
         "title": "Nâng hạng thị trường chứng khoán: Mở \"cánh cửa\" đến dòng vốn tỷ USD",
         "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-mo-canh-cua-den-dong-von-ty-usd-188260920102345527.chn",
@@ -22,16 +32,6 @@
         "title": "Lịch chốt quyền cổ tức tuần 21-25/9: VPBank, FPT \"lăn chốt\", một ông lớn sắp chi hơn 6.000 tỷ đồng",
         "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-21-25-9-vpbank-fpt-lan-chot-mot-ong-lon-sap-chi-hon-6000-ty-dong-188260919161154667.chn",
         "published": "Sun, 20 Sep 26 00:07:00 +0700"
-      },
-      {
-        "title": "Tỷ phú Phạm Nhật Vượng đang cho gần 9.000 người, hơn 2.000 máy móc thi công xuyên ngày đêm tại siêu dự án 18 tỷ USD",
-        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-dang-cho-gan-9000-nguoi-hon-2000-may-moc-thi-cong-xuyen-ngay-dem-tai-sieu-du-an-18-ty-usd-188260919225046953.chn",
-        "published": "Sun, 20 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Góp gần 80% kim ngạch xuất khẩu, doanh nghiệp FDI vẫn kém hiện diện trên sàn chứng khoán",
-        "link": "https://cafef.vn/gop-gan-80-kim-ngach-xuat-khau-doanh-nghiep-fdi-van-kem-hien-dien-tren-san-chung-khoan-188260919121316345.chn",
-        "published": "Sun, 20 Sep 26 00:05:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "China keeps lending rates on hold as room for monetary easing narrows",
+        "link": "https://www.investing.com/news/economy-news/china-keeps-lending-rates-on-hold-as-room-for-monetary-easing-narrows-4908136",
+        "published": "2026-09-20 03:33:45"
+      },
+      {
         "title": "What does the EU have that the U.S. does not?",
         "link": "https://www.investing.com/news/economy-news/what-does-the-eu-have-that-the-us-does-not-4908133",
         "published": "2026-09-20 02:00:44"
@@ -123,11 +128,6 @@
         "title": "Citi expects hawkish Fed to slow non-AI economy",
         "link": "https://www.investing.com/news/economy-news/citi-expects-hawkish-fed-to-slow-nonai-economy-4908117",
         "published": "2026-09-19 19:46:14"
-      },
-      {
-        "title": "Trump calls for plans to form federal ’AI Force’",
-        "link": "https://www.investing.com/news/economy-news/trump-calla-for-plans-to-form-federal-ai-force-4908110",
-        "published": "2026-09-19 18:14:18"
       }
     ]
   }
