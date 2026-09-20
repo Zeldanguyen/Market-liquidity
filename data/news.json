@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-20T03:09:32.284789",
+  "fetched_at": "2026-09-20T03:40:39.695065",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Nâng hạng thị trường chứng khoán: Mở \"cánh cửa\" đến dòng vốn tỷ USD",
+        "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-mo-canh-cua-den-dong-von-ty-usd-188260920102345527.chn",
+        "published": "Sun, 20 Sep 26 10:23:00 +0700"
+      },
       {
         "title": "Vingroup vừa khởi công bệnh viện tiêu chuẩn hàng đầu thế giới tại thành phố giàu nhất Việt Nam",
         "link": "https://cafef.vn/vingroup-vua-khoi-cong-benh-vien-tieu-chuan-hang-dau-the-gioi-tai-thanh-pho-giau-nhat-viet-nam-188260920093440297.chn",
@@ -27,11 +32,6 @@
         "title": "Góp gần 80% kim ngạch xuất khẩu, doanh nghiệp FDI vẫn kém hiện diện trên sàn chứng khoán",
         "link": "https://cafef.vn/gop-gan-80-kim-ngach-xuat-khau-doanh-nghiep-fdi-van-kem-hien-dien-tren-san-chung-khoan-188260919121316345.chn",
         "published": "Sun, 20 Sep 26 00:05:00 +0700"
-      },
-      {
-        "title": "Quỹ vàng lớn nhất thế giới \"gom\" gần 10 tấn vàng khi giá bật tăng trở lại",
-        "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-gom-gan-10-tan-vang-khi-gia-bat-tang-tro-lai-188260919225004454.chn",
-        "published": "Sun, 20 Sep 26 00:04:00 +0700"
       }
     ],
     "VnEconomy": [
