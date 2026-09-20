@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-20T01:08:28.583802",
+  "fetched_at": "2026-09-20T01:38:36.727982",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Thị trường chứng khoán được nâng hạng, nên đầu tư cổ phiếu nào?",
+        "link": "https://cafef.vn/thi-truong-chung-khoan-duoc-nang-hang-nen-dau-tu-co-phieu-nao-188260920082627622.chn",
+        "published": "Sun, 20 Sep 26 08:26:00 +0700"
+      },
       {
         "title": "Lịch chốt quyền cổ tức tuần 21-25/9: VPBank, FPT \"lăn chốt\", một ông lớn sắp chi hơn 6.000 tỷ đồng",
         "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-21-25-9-vpbank-fpt-lan-chot-mot-ong-lon-sap-chi-hon-6000-ty-dong-188260919161154667.chn",
@@ -27,11 +32,6 @@
         "title": "7-9 tỷ USD có thể đổ vào chứng khoán Việt Nam, CTCK chỉ ra 5 cổ phiếu “đón sóng” nâng hạng",
         "link": "https://cafef.vn/7-9-ty-usd-co-the-do-vao-chung-khoan-viet-nam-ctck-chi-ra-5-co-phieu-don-song-nang-hang-188260919101934991.chn",
         "published": "Sun, 20 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "Sau nâng hạng, các định chế tài chính toàn cầu quan tâm cổ phiếu Việt ra sao?",
-        "link": "https://cafef.vn/sau-nang-hang-cac-dinh-che-tai-chinh-toan-cau-quan-tam-co-phieu-viet-ra-sao-188260919192712943.chn",
-        "published": "Sat, 19 Sep 26 19:27:00 +0700"
       }
     ],
     "VnEconomy": [
