@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-20T15:21:20.911893",
+  "fetched_at": "2026-09-20T18:16:31.277418",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chứng khoán Việt Nam đứng trước cơ hội “tái định giá” sau nâng hạng",
+        "link": "https://cafef.vn/chung-khoan-viet-nam-dung-truoc-co-hoi-tai-dinh-gia-sau-nang-hang-188260919155923467.chn",
+        "published": "Mon, 21 Sep 26 00:06:00 +0700"
+      },
+      {
+        "title": "Một mô hình đô thị nổi tiếng tại Nhật Bản đang được tỷ phú Phạm Nhật Vượng đưa vào siêu dự án chục tỷ USD ở Việt Nam",
+        "link": "https://cafef.vn/mot-mo-hinh-do-thi-noi-tieng-tai-nhat-ban-dang-duoc-ty-phu-pham-nhat-vuong-dua-vao-sieu-du-an-chuc-ty-usd-o-viet-nam-188260920220634152.chn",
+        "published": "Mon, 21 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Vì sao giá vàng tăng mạnh sau khi FED tăng lãi suất?",
+        "link": "https://cafef.vn/vi-sao-gia-vang-tang-manh-sau-khi-fed-tang-lai-suat-188260920220546939.chn",
+        "published": "Mon, 21 Sep 26 00:01:00 +0700"
+      },
       {
         "title": "Góc nhìn chuyên gia: Tin tốt lớn nhất đã ra, chứng khoán Việt Nam tuần tới sẽ đi đâu?",
         "link": "https://cafef.vn/goc-nhin-chuyen-gia-tin-tot-lon-nhat-da-ra-chung-khoan-viet-nam-tuan-toi-se-di-dau-188260920155606423.chn",
@@ -17,21 +32,6 @@
         "title": "Chủ tịch, CEO đồng loạt mua cổ phiếu khi chứng khoán nâng hạng",
         "link": "https://cafef.vn/chu-tich-ceo-dong-loat-mua-co-phieu-khi-chung-khoan-nang-hang-188260920125420275.chn",
         "published": "Sun, 20 Sep 26 13:11:00 +0700"
-      },
-      {
-        "title": "Nâng hạng thị trường chứng khoán: ‘Sức ép’ tiếp tục cải cách?",
-        "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-suc-ep-tiep-tuc-cai-cach-188260920105322543.chn",
-        "published": "Sun, 20 Sep 26 10:53:00 +0700"
-      },
-      {
-        "title": "Chứng khoán tuần qua: Khối ngoại gom ngàn tỷ, cổ phiếu ‘vua’ dẫn sóng thị trường",
-        "link": "https://cafef.vn/chung-khoan-tuan-qua-khoi-ngoai-gom-ngan-ty-co-phieu-vua-dan-song-thi-truong-188260920105048294.chn",
-        "published": "Sun, 20 Sep 26 10:50:00 +0700"
-      },
-      {
-        "title": "Nâng hạng thị trường chứng khoán: Mở \"cánh cửa\" đến dòng vốn tỷ USD",
-        "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-mo-canh-cua-den-dong-von-ty-usd-188260920102345527.chn",
-        "published": "Sun, 20 Sep 26 10:23:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,21 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Fed’s Kashkari says inflation is still too high in ’all aspects’ of US economy, in Fox News interview",
+        "link": "https://www.investing.com/news/economy-news/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-to-fox-news-interview-4908180",
+        "published": "2026-09-20 17:12:23"
+      },
+      {
+        "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
+        "link": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
+        "published": "2026-09-20 16:42:06"
+      },
+      {
+        "title": "Minneapolis Fed’s Kashkari says inflation remains too high",
+        "link": "https://www.investing.com/news/economy-news/minneapolis-feds-kashkari-says-inflation-remains-too-high-4908181",
+        "published": "2026-09-20 15:13:02"
+      },
+      {
         "title": "Trump converts planned triumphal arch into drone facility",
         "link": "https://www.investing.com/news/economy-news/trump-converts-planned-triumphal-arch-into-drone-facility-93CH-4908179",
         "published": "2026-09-20 14:23:26"
@@ -113,21 +128,6 @@
         "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
         "link": "https://www.investing.com/news/economy-news/saudi-gulf-stocks-fall-after-houthisclaim-riyadh-attacks-4908151",
         "published": "2026-09-20 13:00:47"
-      },
-      {
-        "title": "Investors focus on rate path, AI slowdown after Fed hike",
-        "link": "https://www.investing.com/news/economy-news/investors-focus-on-rate-path-ai-slowdown-after-fed-hike-4908174",
-        "published": "2026-09-20 13:00:30"
-      },
-      {
-        "title": "North Korea fires two ballistic missiles off east coast in three hours",
-        "link": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
-        "published": "2026-09-20 11:12:08"
-      },
-      {
-        "title": "Iran sets conditions for talks as threat of wider regional war grows",
-        "link": "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144",
-        "published": "2026-09-20 11:10:18"
       }
     ]
   }
