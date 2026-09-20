@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-20T06:11:35.352171",
+  "fetched_at": "2026-09-20T06:42:37.361457",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chủ tịch, CEO đồng loạt mua cổ phiếu khi chứng khoán nâng hạng",
+        "link": "https://cafef.vn/chu-tich-ceo-dong-loat-mua-co-phieu-khi-chung-khoan-nang-hang-188260920125420275.chn",
+        "published": "Sun, 20 Sep 26 13:11:00 +0700"
+      },
       {
         "title": "Nâng hạng thị trường chứng khoán: ‘Sức ép’ tiếp tục cải cách?",
         "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-suc-ep-tiep-tuc-cai-cach-188260920105322543.chn",
@@ -27,11 +32,6 @@
         "title": "Thị trường chứng khoán được nâng hạng, nên đầu tư cổ phiếu nào?",
         "link": "https://cafef.vn/thi-truong-chung-khoan-duoc-nang-hang-nen-dau-tu-co-phieu-nao-188260920082627622.chn",
         "published": "Sun, 20 Sep 26 08:26:00 +0700"
-      },
-      {
-        "title": "Lịch chốt quyền cổ tức tuần 21-25/9: VPBank, FPT \"lăn chốt\", một ông lớn sắp chi hơn 6.000 tỷ đồng",
-        "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-21-25-9-vpbank-fpt-lan-chot-mot-ong-lon-sap-chi-hon-6000-ty-dong-188260919161154667.chn",
-        "published": "Sun, 20 Sep 26 00:07:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Iran sets terms for US talks as Houthis step up attacks on Saudi Arabia",
+        "link": "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144",
+        "published": "2026-09-20 06:05:48"
+      },
+      {
         "title": "Why Greek banks deserve your attention",
         "link": "https://www.investing.com/news/economy-news/why-greek-banks-deserve-your-attention-4908143",
         "published": "2026-09-20 05:31:13"
@@ -123,11 +128,6 @@
         "title": "Apple’s Cook calls Australia’s social media curbs ‘world-leading,’ PM says",
         "link": "https://www.investing.com/news/economy-news/apples-cook-calls-australias-social-media-curbs-worldleading-pm-says-4908129",
         "published": "2026-09-20 01:28:18"
-      },
-      {
-        "title": "AI risk debate: Existential threat or dangerous tool?",
-        "link": "https://www.investing.com/news/economy-news/ai-risk-debate-existential-threat-or-dangerous-tool-4908123",
-        "published": "2026-09-19 23:00:38"
       }
     ]
   }
