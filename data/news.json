@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-20T08:09:33.212537",
+  "fetched_at": "2026-09-20T08:39:54.148985",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Chuyện gì đây: Người nhà và 3 Phó Tổng Giám đốc một ngân hàng đồng loạt đăng ký thoái vốn",
+        "link": "https://cafef.vn/chuyen-gi-day-nguoi-nha-va-3-pho-tong-giam-doc-mot-ngan-hang-dong-loat-dang-ky-thoai-von-188260920143327117.chn",
+        "published": "Sun, 20 Sep 26 15:31:00 +0700"
+      },
       {
         "title": "Chủ tịch, CEO đồng loạt mua cổ phiếu khi chứng khoán nâng hạng",
         "link": "https://cafef.vn/chu-tich-ceo-dong-loat-mua-co-phieu-khi-chung-khoan-nang-hang-188260920125420275.chn",
@@ -27,11 +32,6 @@
         "title": "Vingroup vừa khởi công bệnh viện tiêu chuẩn hàng đầu thế giới tại thành phố giàu nhất Việt Nam",
         "link": "https://cafef.vn/vingroup-vua-khoi-cong-benh-vien-tieu-chuan-hang-dau-the-gioi-tai-thanh-pho-giau-nhat-viet-nam-188260920093440297.chn",
         "published": "Sun, 20 Sep 26 09:40:00 +0700"
-      },
-      {
-        "title": "Thị trường chứng khoán được nâng hạng, nên đầu tư cổ phiếu nào?",
-        "link": "https://cafef.vn/thi-truong-chung-khoan-duoc-nang-hang-nen-dau-tu-co-phieu-nao-188260920082627622.chn",
-        "published": "Sun, 20 Sep 26 08:26:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -100,6 +100,16 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
+        "link": "https://www.investing.com/news/economy-news/saudi-gulf-stocks-fall-after-houthisclaim-riyadh-attacks-4908151",
+        "published": "2026-09-20 08:12:26"
+      },
+      {
+        "title": "Reform UK’s record donations face risk from election spending review",
+        "link": "https://www.investing.com/news/economy-news/reform-uks-record-donations-face-risk-from-election-spending-review-4908150",
+        "published": "2026-09-20 08:11:41"
+      },
+      {
         "title": "Russia, Ukraine trade major drone attacks as Moscow oil refinery hit",
         "link": "https://www.investing.com/news/economy-news/russia-ukraine-trade-major-drone-attacks-as-moscow-oil-refinery-hit-4908148",
         "published": "2026-09-20 07:24:15"
@@ -118,16 +128,6 @@
         "title": "Why Greek banks deserve your attention",
         "link": "https://www.investing.com/news/economy-news/why-greek-banks-deserve-your-attention-4908143",
         "published": "2026-09-20 05:31:13"
-      },
-      {
-        "title": "China keeps lending rates on hold as room for monetary easing narrows",
-        "link": "https://www.investing.com/news/economy-news/china-keeps-lending-rates-on-hold-as-room-for-monetary-easing-narrows-4908136",
-        "published": "2026-09-20 03:33:45"
-      },
-      {
-        "title": "What does the EU have that the U.S. does not?",
-        "link": "https://www.investing.com/news/economy-news/what-does-the-eu-have-that-the-us-does-not-4908133",
-        "published": "2026-09-20 02:00:44"
       }
     ]
   }
