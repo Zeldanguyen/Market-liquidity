@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T07:08:35.921446",
+  "fetched_at": "2026-09-20T07:38:35.926033",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Russia, Ukraine trade major drone attacks as Moscow oil refinery hit",
+        "link": "https://www.investing.com/news/economy-news/russia-ukraine-trade-major-drone-attacks-as-moscow-oil-refinery-hit-4908148",
+        "published": "2026-09-20 07:24:15"
+      },
+      {
         "title": "US, China set for talks on AI, tariffs and critical minerals ahead of summit",
         "link": "https://www.investing.com/news/economy-news/us-china-set-for-talks-on-ai-tariffs-and-critical-minerals-ahead-of-summit-4908147",
         "published": "2026-09-20 06:41:22"
@@ -123,11 +128,6 @@
         "title": "What does the EU have that the U.S. does not?",
         "link": "https://www.investing.com/news/economy-news/what-does-the-eu-have-that-the-us-does-not-4908133",
         "published": "2026-09-20 02:00:44"
-      },
-      {
-        "title": "China keeps benchmark lending rates unchanged for 16th month in September",
-        "link": "https://www.investing.com/news/economy-news/china-keeps-benchmark-lending-rates-unchanged-for-16th-month-in-september-4908131",
-        "published": "2026-09-20 01:36:45"
       }
     ]
   }
