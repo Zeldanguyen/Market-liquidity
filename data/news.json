@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T05:39:00.695544",
+  "fetched_at": "2026-09-20T06:11:35.352171",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "Why Greek banks deserve your attention",
+        "link": "https://www.investing.com/news/economy-news/why-greek-banks-deserve-your-attention-4908143",
+        "published": "2026-09-20 05:31:13"
+      },
+      {
         "title": "China keeps lending rates on hold as room for monetary easing narrows",
         "link": "https://www.investing.com/news/economy-news/china-keeps-lending-rates-on-hold-as-room-for-monetary-easing-narrows-4908136",
         "published": "2026-09-20 03:33:45"
@@ -123,11 +128,6 @@
         "title": "AI risk debate: Existential threat or dangerous tool?",
         "link": "https://www.investing.com/news/economy-news/ai-risk-debate-existential-threat-or-dangerous-tool-4908123",
         "published": "2026-09-19 23:00:38"
-      },
-      {
-        "title": "Citi expects hawkish Fed to slow non-AI economy",
-        "link": "https://www.investing.com/news/economy-news/citi-expects-hawkish-fed-to-slow-nonai-economy-4908117",
-        "published": "2026-09-19 19:46:14"
       }
     ]
   }
