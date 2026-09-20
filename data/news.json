@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T06:42:37.361457",
+  "fetched_at": "2026-09-20T07:08:35.921446",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,6 +100,11 @@
     ],
     "Investing.com Economy": [
       {
+        "title": "US, China set for talks on AI, tariffs and critical minerals ahead of summit",
+        "link": "https://www.investing.com/news/economy-news/us-china-set-for-talks-on-ai-tariffs-and-critical-minerals-ahead-of-summit-4908147",
+        "published": "2026-09-20 06:41:22"
+      },
+      {
         "title": "Iran sets terms for US talks as Houthis step up attacks on Saudi Arabia",
         "link": "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144",
         "published": "2026-09-20 06:05:48"
@@ -123,11 +128,6 @@
         "title": "China keeps benchmark lending rates unchanged for 16th month in September",
         "link": "https://www.investing.com/news/economy-news/china-keeps-benchmark-lending-rates-unchanged-for-16th-month-in-september-4908131",
         "published": "2026-09-20 01:36:45"
-      },
-      {
-        "title": "Apple’s Cook calls Australia’s social media curbs ‘world-leading,’ PM says",
-        "link": "https://www.investing.com/news/economy-news/apples-cook-calls-australias-social-media-curbs-worldleading-pm-says-4908129",
-        "published": "2026-09-20 01:28:18"
       }
     ]
   }
