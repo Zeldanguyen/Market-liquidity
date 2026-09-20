@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T00:44:17.205481",
+  "fetched_at": "2026-09-20T01:08:28.583802",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 21-25/09/2026",
+        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-21-25092026-585-1494000.htm",
+        "published": "Sun, 20 Sep 2026 07:30:00 +0700"
+      },
+      {
         "title": "Tuần bản lề trước nâng hạng: Cổ phiếu nào dẫn dắt VN-Index tiến lên giữa sóng gió toàn cầu?",
         "link": "http://vietstock.vn/2026/09/tuan-ban-le-truoc-nang-hang-co-phieu-nao-dan-dat-vn-index-tien-len-giua-song-gio-toan-cau-830-1494026.htm",
         "published": "Sat, 19 Sep 2026 20:30:00 +0700"
@@ -91,11 +96,6 @@
         "title": "Việt Nam vào rổ chỉ số FTSE: Dấu mốc mới, yêu cầu mới",
         "link": "http://vietstock.vn/2026/09/viet-nam-vao-ro-chi-so-ftse-dau-moc-moi-yeu-cau-moi-143-1494003.htm",
         "published": "Sat, 19 Sep 2026 10:33:35 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 18/09: Khối ngoại mua ròng gần ngàn tỷ, tự doanh bán ròng nhẹ",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1809-khoi-ngoai-mua-rong-gan-ngan-ty-tu-doanh-ban-rong-nhe-830-1493956.htm",
-        "published": "Fri, 18 Sep 2026 19:38:57 +0700"
       }
     ],
     "Investing.com Economy": [
