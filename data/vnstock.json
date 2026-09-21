@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T23:03:45.229057",
+  "fetched_at": "2026-09-21T01:20:16.289701",
   "status": "ok",
   "vnindex_history": [
     {
@@ -86,11 +86,11 @@
     },
     {
       "time": "2026-09-18 00:00:00",
-      "open": 74.5,
-      "high": 74.8,
-      "low": 71.7,
-      "close": 71.7,
-      "volume": 15500700,
+      "open": 67.73,
+      "high": 68.0,
+      "low": 65.18,
+      "close": 65.18,
+      "volume": 15529012,
       "symbol": "FPT",
       "status": "ok"
     },

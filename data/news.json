@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-09-20T23:05:16.809827",
+  "fetched_at": "2026-09-21T01:21:38.343343",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Mở mới tài khoản ký quỹ tại KIS, nhận thưởng 3 cổ phiếu",
+        "link": "https://cafef.vn/mo-moi-tai-khoan-ky-quy-tai-kis-nhan-thuong-3-co-phieu-188260919153937783.chn",
+        "published": "Mon, 21 Sep 26 08:00:00 +0700"
+      },
+      {
+        "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 21/9-25/9, tỷ lệ cao nhất 120%",
+        "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-21-9-25-9-ty-le-cao-nhat-120-188260921071251003.chn",
+        "published": "Mon, 21 Sep 26 07:33:00 +0700"
+      },
       {
         "title": "Chứng khoán Việt Nam đứng trước cơ hội “tái định giá” sau nâng hạng",
         "link": "https://cafef.vn/chung-khoan-viet-nam-dung-truoc-co-hoi-tai-dinh-gia-sau-nang-hang-188260919155923467.chn",
@@ -22,16 +32,6 @@
         "title": "Góc nhìn chuyên gia: Tin tốt lớn nhất đã ra, chứng khoán Việt Nam tuần tới sẽ đi đâu?",
         "link": "https://cafef.vn/goc-nhin-chuyen-gia-tin-tot-lon-nhat-da-ra-chung-khoan-viet-nam-tuan-toi-se-di-dau-188260920155606423.chn",
         "published": "Sun, 20 Sep 26 15:56:00 +0700"
-      },
-      {
-        "title": "Chuyện gì đây: Người nhà và 3 Phó Tổng Giám đốc một ngân hàng đồng loạt đăng ký thoái vốn",
-        "link": "https://cafef.vn/chuyen-gi-day-nguoi-nha-va-3-pho-tong-giam-doc-mot-ngan-hang-dong-loat-dang-ky-thoai-von-188260920143327117.chn",
-        "published": "Sun, 20 Sep 26 15:31:00 +0700"
-      },
-      {
-        "title": "Chủ tịch, CEO đồng loạt mua cổ phiếu khi chứng khoán nâng hạng",
-        "link": "https://cafef.vn/chu-tich-ceo-dong-loat-mua-co-phieu-khi-chung-khoan-nang-hang-188260920125420275.chn",
-        "published": "Sun, 20 Sep 26 13:11:00 +0700"
       }
     ],
     "VnEconomy": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "21/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/2109-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1494058.htm",
+        "published": "Mon, 21 Sep 2026 06:02:00 +0700"
+      },
+      {
         "title": "Vietstock Weekly 21-25/09/2026: Thế giằng co vẫn còn?",
         "link": "http://vietstock.vn/2026/09/vietstock-weekly-21-25092026-the-giang-co-van-con-1636-1493999.htm",
         "published": "Sun, 20 Sep 2026 18:00:00 +0700"
@@ -91,23 +96,23 @@
         "title": "Chuyên gia DNSE: Dòng tiền nâng hạng trợ lực, yếu tố vĩ mô vẫn đóng vai chi phối",
         "link": "http://vietstock.vn/2026/09/chuyen-gia-dnse-dong-tien-nang-hang-tro-luc-yeu-to-vi-mo-van-dong-vai-chi-phoi-145-1494014.htm",
         "published": "Sat, 19 Sep 2026 14:02:00 +0700"
-      },
-      {
-        "title": "Bài kiểm tra về khả năng hấp thụ vốn hậu nâng hạng thị trường",
-        "link": "http://vietstock.vn/2026/09/bai-kiem-tra-ve-kha-nang-hap-thu-von-hau-nang-hang-thi-truong-145-1494027.htm",
-        "published": "Sat, 19 Sep 2026 12:18:18 +0700"
       }
     ],
     "Investing.com Economy": [
       {
+        "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
+        "link": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
+        "published": "2026-09-21 01:12:32"
+      },
+      {
+        "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+        "link": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908213",
+        "published": "2026-09-21 01:01:21"
+      },
+      {
         "title": "Fed’s Kashkari says inflation is still too high in ’all aspects’ of US economy, in Fox News interview",
         "link": "https://www.investing.com/news/economy-news/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-to-fox-news-interview-4908180",
         "published": "2026-09-20 17:12:23"
-      },
-      {
-        "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
-        "link": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
-        "published": "2026-09-20 16:42:06"
       },
       {
         "title": "Minneapolis Fed’s Kashkari says inflation remains too high",
@@ -123,11 +128,6 @@
         "title": "Who’s who in Fed’s September 2026 dot plot?",
         "link": "https://www.investing.com/news/economy-news/whos-who-in-feds-september-2026-dot-plot-4908178",
         "published": "2026-09-20 14:17:27"
-      },
-      {
-        "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
-        "link": "https://www.investing.com/news/economy-news/saudi-gulf-stocks-fall-after-houthisclaim-riyadh-attacks-4908151",
-        "published": "2026-09-20 13:00:47"
       }
     ]
   }
