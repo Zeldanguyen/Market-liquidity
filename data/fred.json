@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-09-21T13:34:08.535408",
+  "fetched_at": "2026-09-21T19:01:35.491091",
   "series": {
     "fed_funds_rate": [
       {
@@ -100,32 +100,32 @@
     ],
     "us_2y_yield": [
       {
-        "realtime_start": "2026-09-18",
-        "realtime_end": "2026-09-18",
+        "realtime_start": "2026-09-19",
+        "realtime_end": "2026-09-19",
         "date": "2026-09-17",
         "value": "4.67"
       },
       {
-        "realtime_start": "2026-09-18",
-        "realtime_end": "2026-09-18",
+        "realtime_start": "2026-09-19",
+        "realtime_end": "2026-09-19",
         "date": "2026-09-16",
         "value": "4.74"
       },
       {
-        "realtime_start": "2026-09-18",
-        "realtime_end": "2026-09-18",
+        "realtime_start": "2026-09-19",
+        "realtime_end": "2026-09-19",
         "date": "2026-09-15",
         "value": "4.67"
       },
       {
-        "realtime_start": "2026-09-18",
-        "realtime_end": "2026-09-18",
+        "realtime_start": "2026-09-19",
+        "realtime_end": "2026-09-19",
         "date": "2026-09-14",
         "value": "4.65"
       },
       {
-        "realtime_start": "2026-09-18",
-        "realtime_end": "2026-09-18",
+        "realtime_start": "2026-09-19",
+        "realtime_end": "2026-09-19",
         "date": "2026-09-11",
         "value": "4.63"
       }
@@ -190,32 +190,32 @@
     ],
     "m2_money_supply": [
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-07-01",
         "value": "23218"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-06-01",
         "value": "23115.2"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-05-01",
         "value": "23013.9"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-04-01",
         "value": "22756.7"
       },
       {
-        "realtime_start": "2026-08-25",
-        "realtime_end": "2026-08-25",
+        "realtime_start": "2026-08-29",
+        "realtime_end": "2026-08-29",
         "date": "2026-03-01",
         "value": "22640.4"
       }
