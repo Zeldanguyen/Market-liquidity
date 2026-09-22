@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T22:42:15.202318",
+  "fetched_at": "2026-09-22T01:24:20.678671",
   "status": "ok",
   "vnindex_history": [
     {
@@ -90,17 +90,17 @@
       "high": 66.8,
       "low": 65.0,
       "close": 66.4,
-      "volume": 8401600,
+      "volume": 8488671,
       "symbol": "FPT",
       "status": "ok"
     },
     {
       "time": "2026-09-21 00:00:00",
-      "open": 87.5,
-      "high": 89.7,
-      "low": 87.4,
-      "close": 88.6,
-      "volume": 1452700,
+      "open": 85.03,
+      "high": 87.17,
+      "low": 84.94,
+      "close": 86.1,
+      "volume": 1461988,
       "symbol": "GAS",
       "status": "ok"
     },

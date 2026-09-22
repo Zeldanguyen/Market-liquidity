@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-09-21T22:43:47.369873",
+  "fetched_at": "2026-09-22T01:25:56.194321",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Cổ phiếu VPB tăng mạnh trong ngày Việt Nam chính thức vào nhóm thị trường chứng khoán mới nổi",
+        "link": "https://cafef.vn/co-phieu-vpb-tang-manh-trong-ngay-viet-nam-chinh-thuc-vao-nhom-thi-truong-chung-khoan-moi-noi-188260921212329318.chn",
+        "published": "Tue, 22 Sep 26 08:00:00 +0700"
+      },
       {
         "title": "Phó Tổng Giám đốc Đạm Cà Mau (DCM) thôi chức trước thềm ĐHĐCĐ bất thường",
         "link": "https://cafef.vn/pho-tong-giam-doc-dam-ca-mau-dcm-thoi-chuc-truoc-them-dhdcd-bat-thuong-188260921222719991.chn",
@@ -24,17 +29,17 @@
         "published": "Tue, 22 Sep 26 00:03:00 +0700"
       },
       {
-        "title": "Một nữ tiến sĩ vừa vượt qua vợ ông Phạm Nhật Vượng, trở thành người giàu thứ 2 Việt Nam",
-        "link": "https://cafef.vn/mot-nu-tien-si-vua-vuot-qua-vo-ong-pham-nhat-vuong-tro-thanh-nguoi-giau-thu-2-viet-nam-188260921233239466.chn",
+        "title": "Một nữ tiến sĩ vừa trở thành người giàu thứ 2 Việt Nam",
+        "link": "https://cafef.vn/mot-nu-tien-si-vua-tro-thanh-nguoi-giau-thu-2-viet-nam-188260921233239466.chn",
         "published": "Tue, 22 Sep 26 00:01:00 +0700"
-      },
-      {
-        "title": "Thông báo mới nhất từ Công an Thành phố Hà Nội: Tất cả người dân cảnh giác thủ đoạn lừa đảo đầu tư sau",
-        "link": "https://cafef.vn/thong-bao-moi-nhat-tu-cong-an-thanh-pho-ha-noi-tat-ca-nguoi-dan-canh-giac-thu-doan-lua-dao-dau-tu-sau-188260921221434098.chn",
-        "published": "Mon, 21 Sep 26 23:00:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Vàng tụt giá vì triển vọng lãi suất cao hơn lâu hơn, SPDR Gold Trust bán ròng",
+        "link": "https://vneconomy.vn/vang-tut-gia-vi-trien-vong-lai-suat-cao-hon-lau-hon-spdr-gold-trust-ban-rong.htm",
+        "published": "Mon, 21 Sep 2026 23:55:55 GMT"
+      },
       {
         "title": "Kết nối QR xuyên biên giới: Củng cố “chủ quyền thanh toán”, thêm động lực cho tăng trưởng",
         "link": "https://vneconomy.vn/ket-noi-qr-xuyen-bien-gioi-cung-co-chu-quyen-thanh-toan-them-dong-luc-cho-tang-truong.htm",
@@ -59,14 +64,14 @@
         "title": "Tỷ giá ổn định trước làn sóng tăng lãi suất toàn cầu nhờ điều tiết thanh khoản linh hoạt",
         "link": "https://vneconomy.vn/ty-gia-on-dinh-truoc-lan-song-tang-lai-suat-toan-cau-nho-dieu-tiet-thanh-khoan-linh-hoat.htm",
         "published": "Mon, 21 Sep 2026 04:44:39 GMT"
-      },
-      {
-        "title": "Tỷ phú Buffett rời ghế Chủ tịch Berkshire Hathaway",
-        "link": "https://vneconomy.vn/ty-phu-buffett-roi-ghe-chu-tich-berkshire-hathaway.htm",
-        "published": "Mon, 21 Sep 2026 03:23:01 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "22/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/2209-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1494538.htm",
+        "published": "Tue, 22 Sep 2026 06:00:00 +0700"
+      },
       {
         "title": "Cổ phiếu ngân hàng, dầu khí có tuần hút tiền",
         "link": "http://vietstock.vn/2026/09/co-phieu-ngan-hang-dau-khi-co-tuan-hut-tien-830-1494415.htm",
@@ -91,14 +96,19 @@
         "title": "Chứng khoán Việt sẽ diễn biến ra sao sau khi được nâng hạng?",
         "link": "http://vietstock.vn/2026/09/chung-khoan-viet-se-dien-bien-ra-sao-sau-khi-duoc-nang-hang-830-1494316.htm",
         "published": "Mon, 21 Sep 2026 16:31:00 +0700"
-      },
-      {
-        "title": "Nâng hạng FTSE: “Sóng” tỷ USD mở ra, nhà đầu tư chọn bước đi nào?",
-        "link": "http://vietstock.vn/2026/09/nang-hang-ftse-song-ty-usd-mo-ra-nha-dau-tu-chon-buoc-di-nao-145-1494141.htm",
-        "published": "Mon, 21 Sep 2026 15:17:03 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "Yen squeezed as hawkish turn grips central banks",
+        "link": "https://www.investing.com/news/economy-news/yen-squeezed-as-hawkish-turn-grips-central-banks-4909801",
+        "published": "2026-09-22 00:54:33"
+      },
+      {
+        "title": "RBA’s Hunter warns another rate hike may be needed to tame inflation",
+        "link": "https://www.investing.com/news/economy-news/rbas-hunter-warns-another-rate-hike-may-be-needed-to-tame-inflation-4909758",
+        "published": "2026-09-21 23:56:28"
+      },
       {
         "title": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on",
         "link": "https://www.investing.com/news/economy-news/nvidia-qiabacked-iambic-therapeutics-files-for-us-ipo-as-biotech-boom-rolls-on-4909708",
@@ -118,16 +128,6 @@
         "title": "World Bank, IMF back changes to debt framework for poor countries",
         "link": "https://www.investing.com/news/economy-news/world-bank-board-backs-changes-to-debt-sustainability-framework-for-poor-countries-4909387",
         "published": "2026-09-21 20:12:54"
-      },
-      {
-        "title": "Saudi’s Ceer unveils first EVs in bid to build regional auto powerhouse",
-        "link": "https://www.investing.com/news/economy-news/saudis-ceer-unveils-first-evs-in-bid-to-build-regional-auto-powerhouse-4909554",
-        "published": "2026-09-21 19:43:17"
-      },
-      {
-        "title": "Yen eases as potential for intervention eyed",
-        "link": "https://www.investing.com/news/economy-news/volatile-yen-draws-intervention-watch-other-currencies-subdued-4908219",
-        "published": "2026-09-21 19:25:04"
       }
     ]
   }
