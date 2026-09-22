@@ -1,40 +1,45 @@
 {
-  "fetched_at": "2026-09-22T12:20:15.557538",
+  "fetched_at": "2026-09-22T17:09:37.704262",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
-        "title": "Một người Việt vừa \"tái xuất\" danh sách tỷ phú USD",
-        "link": "https://cafef.vn/mot-nguoi-viet-vua-tai-xuat-danh-sach-ty-phu-usd-188260922113742696.chn",
-        "published": "Tue, 22 Sep 26 19:00:00 +0700"
+        "title": "Một nữ doanh nhân kín tiếng vừa có thêm 107 triệu USD, giàu hơn tỷ phú Trần Đình Long và 2 chủ tịch ngân hàng",
+        "link": "https://cafef.vn/mot-nu-doanh-nhan-kin-tieng-vua-co-them-107-trieu-usd-giau-hon-ty-phu-tran-dinh-long-va-2-chu-tich-ngan-hang-188260922234217582.chn",
+        "published": "Wed, 23 Sep 26 00:05:00 +0700"
       },
       {
-        "title": "Con gái Chủ tịch PNJ bán 18 triệu cổ phiếu",
-        "link": "https://cafef.vn/con-gai-chu-tich-pnj-ban-18-trieu-co-phieu-188260922165641792.chn",
-        "published": "Tue, 22 Sep 26 17:48:00 +0700"
+        "title": "Nâng hạng chưa đủ, Tổng Giám đốc SGI Capital tiết lộ 2 điều kiện để khối ngoại trở lại mạnh mẽ",
+        "link": "https://cafef.vn/nang-hang-chua-du-tong-giam-doc-sgi-capital-tiet-lo-2-dieu-kien-de-khoi-ngoai-tro-lai-manh-me-188260922225231566.chn",
+        "published": "Wed, 23 Sep 26 00:05:00 +0700"
       },
       {
-        "title": "Cặp vợ chồng người Việt vừa có thêm hơn 15.000 tỷ đồng sau 6 tiếng",
-        "link": "https://cafef.vn/cap-vo-chong-nguoi-viet-vua-co-them-hon-15000-ty-dong-sau-6-tieng-188260922172244595.chn",
-        "published": "Tue, 22 Sep 26 17:21:00 +0700"
+        "title": "Một trường đại học nổi tiếng đặt mục tiêu đào tạo 100 tiến sĩ cho Việt Nam",
+        "link": "https://cafef.vn/mot-truong-dai-hoc-noi-tieng-dat-muc-tieu-dao-tao-100-tien-si-cho-viet-nam-188260922220947372.chn",
+        "published": "Wed, 23 Sep 26 00:03:00 +0700"
       },
       {
-        "title": "Tăng hơn 17 điểm, VN-Index lấy lại mốc 1.800",
-        "link": "https://cafef.vn/tang-hon-17-diem-vn-index-lay-lai-moc-1800-188260922165725996.chn",
-        "published": "Tue, 22 Sep 26 16:57:00 +0700"
+        "title": "“Cơn gió ngược” mới xuất hiện, Tổng Giám đốc SGI Capital chỉ ra biến số lớn cuối năm",
+        "link": "https://cafef.vn/con-gio-nguoc-moi-xuat-hien-tong-giam-doc-sgi-capital-chi-ra-bien-so-lon-cuoi-nam-188260922223534322.chn",
+        "published": "Wed, 23 Sep 26 00:02:00 +0700"
       },
       {
-        "title": "Một cổ phiếu ngân hàng bất ngờ được tự doanh CTCK mua ròng trăm tỷ trong phiên 22/9",
-        "link": "https://cafef.vn/mot-co-phieu-ngan-hang-bat-ngo-duoc-tu-doanh-ctck-mua-rong-tram-ty-trong-phien-22-9-188260922164507884.chn",
-        "published": "Tue, 22 Sep 26 16:45:00 +0700"
+        "title": "Một doanh nghiệp sắp lăn chốt cổ tức 15% bằng tiền mặt, quá khứ từng “bạo chi” gần 45%",
+        "link": "https://cafef.vn/mot-doanh-nghiep-sap-lan-chot-co-tuc-15-bang-tien-mat-qua-khu-tung-bao-chi-gan-45-188260922221029409.chn",
+        "published": "Wed, 23 Sep 26 00:02:00 +0700"
       },
       {
-        "title": "Công bố danh sách hơn 10.000 bị hại vụ Shark Thủy, tổng số tiền đầu tư hơn 17.000 tỷ đồng",
-        "link": "https://cafef.vn/cong-bo-danh-sach-hon-10000-bi-hai-vu-shark-thuy-tong-so-tien-dau-tu-hon-17000-ty-dong-188260922161633001.chn",
-        "published": "Tue, 22 Sep 26 16:16:00 +0700"
+        "title": "“Đại gia” dầu khí Việt Nam tham gia siêu dự án có 7 hạng mục ngoài khơi nặng hơn 78.000 tấn, doanh thu dự báo vượt 39.000 tỷ",
+        "link": "https://cafef.vn/dai-gia-dau-khi-viet-nam-tham-gia-sieu-du-an-co-7-hang-muc-ngoai-khoi-nang-hon-78000-tan-doanh-thu-du-bao-vuot-39000-ty-188260922170801645.chn",
+        "published": "Wed, 23 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Ưu đãi thuế thu nhập doanh nghiệp cho giáo dục cần rõ tiêu chí",
+        "link": "https://vneconomy.vn/uu-dai-thue-thu-nhap-doanh-nghiep-cho-giao-duc-can-ro-tieu-chi.htm",
+        "published": "Tue, 22 Sep 2026 14:38:36 GMT"
+      },
       {
         "title": "Hơn 1.000 tỷ đồng bổ sung vào Quỹ Bình ổn giá xăng dầu trong quý II",
         "link": "https://vneconomy.vn/hon-1000-ty-dong-bo-sung-vao-quy-binh-on-gia-xang-dau-trong-quy-ii.htm",
@@ -59,14 +64,19 @@
         "title": "PVcomBank ra mắt bộ thẻ tín dụng mới, đa dạng lựa chọn cho khách hàng",
         "link": "https://vneconomy.vn/pvcombank-ra-mat-bo-the-tin-dung-moi-da-dang-lua-chon-cho-khach-hang.htm",
         "published": "Tue, 22 Sep 2026 08:00:36 GMT"
-      },
-      {
-        "title": "Một loạt quan chức Fed ủng hộ tiếp tục tăng lãi suất",
-        "link": "https://vneconomy.vn/mot-loat-quan-chuc-fed-ung-ho-tiep-tuc-tang-lai-suat.htm",
-        "published": "Tue, 22 Sep 2026 06:51:32 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Góc nhìn 23/09: Tận dụng các nhịp rung lắc",
+        "link": "http://vietstock.vn/2026/09/goc-nhin-2309-tan-dung-cac-nhip-rung-lac-145-1494928.htm",
+        "published": "Tue, 22 Sep 2026 19:47:03 +0700"
+      },
+      {
+        "title": "Theo dấu dòng tiền cá mập 22/09: Khối ngoại, tự doanh đồng thuận mua ròng",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-2209-khoi-ngoai-tu-doanh-dong-thuan-mua-rong-830-1494929.htm",
+        "published": "Tue, 22 Sep 2026 19:41:56 +0700"
+      },
       {
         "title": "Vietstock Daily 23/09/2026: Hồi phục trong thận trọng",
         "link": "http://vietstock.vn/2026/09/vietstock-daily-23092026-hoi-phuc-trong-than-trong-1636-1494830.htm",
@@ -86,48 +96,38 @@
         "title": "Phân tích kỹ thuật phiên chiều 22/09: Thị trường phân hóa",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-2209-thi-truong-phan-hoa-585-1494683.htm",
         "published": "Tue, 22 Sep 2026 13:03:13 +0700"
-      },
-      {
-        "title": "Cổ phiếu VPG thêm lý do vào diện cảnh báo",
-        "link": "http://vietstock.vn/2026/09/co-phieu-vpg-them-ly-do-vao-dien-canh-bao-830-1494395.htm",
-        "published": "Tue, 22 Sep 2026 10:21:31 +0700"
-      },
-      {
-        "title": "Cổ phiếu VPG thêm lý do vào diện cảnh báo",
-        "link": "http://vietstock.vn/2026/09/co-phieu-vpg-them-ly-do-vao-dien-canh-bao-830-1494395.htm",
-        "published": "Tue, 22 Sep 2026 10:21:31 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Goldman Sachs sees a surprising twist in the global inflation picture",
-        "link": "https://www.investing.com/news/economy-news/goldman-sachs-sees-a-surprising-twist-in-the-global-inflation-picture-4910578",
-        "published": "2026-09-22 11:44:37"
+        "title": "Fed’s Barkin says US economy firming but inflation risks persist",
+        "link": "https://www.investing.com/news/economy-news/feds-barkin-says-us-economy-firming-but-inflation-risks-persist-4911359",
+        "published": "2026-09-22 17:02:58"
       },
       {
-        "title": "US open to Iran talks at UN General Assembly, Rubio says",
-        "link": "https://www.investing.com/news/economy-news/us-open-to-iran-talks-at-un-general-assembly-rubio-says-93CH-4910527",
-        "published": "2026-09-22 11:27:30"
+        "title": "Fed’s Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
+        "link": "https://www.investing.com/news/economy-news/feds-barkin-says-economy-may-be-firming-inflation-not-limited-to-energy-tariff-shocks-4911347",
+        "published": "2026-09-22 17:00:32"
       },
       {
-        "title": "Don’t expect a grand bargain from the Trump-Xi summit: Yardeni",
-        "link": "https://www.investing.com/news/economy-news/dont-expect-a-grand-bargain-from-the-trumpxi-summit-yardeni-4910378",
-        "published": "2026-09-22 10:49:43"
+        "title": "Transportation chief seeks $30 billion for air control upgrades",
+        "link": "https://www.investing.com/news/economy-news/transportation-chief-seeks-30-billion-for-air-control-upgrades-93CH-4911352",
+        "published": "2026-09-22 16:56:46"
       },
       {
-        "title": "Taiwan minister says he was not \"belittled\" in China during official visit",
-        "link": "https://www.investing.com/news/economy-news/taiwan-minister-says-he-was-not-belittled-in-china-during-official-visit-93CH-4910312",
-        "published": "2026-09-22 10:30:07"
+        "title": "At the UN, Brazil’s Lula warns against foreign interference in upcoming election",
+        "link": "https://www.investing.com/news/economy-news/brazil-needs-cooperation-not-intervention-to-fight-crime-lula-says-4911185",
+        "published": "2026-09-22 16:12:45"
       },
       {
-        "title": "China supports automaker investments in Europe, minister says",
-        "link": "https://www.investing.com/news/economy-news/china-supports-automaker-investments-in-europe-minister-says-93CH-4910304",
-        "published": "2026-09-22 10:26:52"
+        "title": "Fed’s Collins says she supported rate hike, warns of elevated inflation risks",
+        "link": "https://www.investing.com/news/economy-news/feds-collins-says-she-supported-rate-hike-warns-of-elevated-inflation-risks-4911212",
+        "published": "2026-09-22 15:07:18"
       },
       {
-        "title": "Wall St futures pause after AI rally, focus on Mideast tensions",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-pause-after-ai-rally-focus-on-mideast-tensions-4910302",
-        "published": "2026-09-22 10:25:43"
+        "title": "Argentina grain output may reach record on higher soy, corn",
+        "link": "https://www.investing.com/news/economy-news/argentina-grain-output-may-reach-record-on-higher-soy-corn-93CH-4911203",
+        "published": "2026-09-22 14:56:33"
       }
     ]
   }
