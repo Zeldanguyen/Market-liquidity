@@ -1,40 +1,60 @@
 {
-  "fetched_at": "2026-09-22T01:25:56.194321",
+  "fetched_at": "2026-09-22T06:33:11.815746",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
-        "title": "Cổ phiếu VPB tăng mạnh trong ngày Việt Nam chính thức vào nhóm thị trường chứng khoán mới nổi",
-        "link": "https://cafef.vn/co-phieu-vpb-tang-manh-trong-ngay-viet-nam-chinh-thuc-vao-nhom-thi-truong-chung-khoan-moi-noi-188260921212329318.chn",
-        "published": "Tue, 22 Sep 26 08:00:00 +0700"
+        "title": "Một nữ Phó Giáo sư Tiến sĩ trở thành Chủ tịch doanh nghiệp trên sàn chứng khoán",
+        "link": "https://cafef.vn/mot-nu-pho-giao-su-tien-si-tro-thanh-chu-tich-doanh-nghiep-tren-san-chung-khoan-18826092211431858.chn",
+        "published": "Tue, 22 Sep 26 11:43:00 +0700"
       },
       {
-        "title": "Phó Tổng Giám đốc Đạm Cà Mau (DCM) thôi chức trước thềm ĐHĐCĐ bất thường",
-        "link": "https://cafef.vn/pho-tong-giam-doc-dam-ca-mau-dcm-thoi-chuc-truoc-them-dhdcd-bat-thuong-188260921222719991.chn",
-        "published": "Tue, 22 Sep 26 00:05:00 +0700"
+        "title": "Gã khổng lồ BlackRock vừa \"gom\" hàng trăm tấn vàng bạc chỉ trong 1 ngày",
+        "link": "https://cafef.vn/ga-khong-lo-blackrock-vua-gom-hang-tram-tan-vang-bac-chi-trong-1-ngay-188260922105400015.chn",
+        "published": "Tue, 22 Sep 26 11:08:00 +0700"
       },
       {
-        "title": "Novaland (NVL) chốt ngày phát hành gần 801 triệu cổ phiếu, huy động hơn 8.000 tỷ đồng xử lý nợ",
-        "link": "https://cafef.vn/novaland-nvl-chot-ngay-phat-hanh-gan-801-trieu-co-phieu-huy-dong-hon-8000-ty-dong-xu-ly-no-188260921221505758.chn",
-        "published": "Tue, 22 Sep 26 00:05:00 +0700"
+        "title": "Chương Dương Corp muốn vay ngân hàng 500 tỷ đồng",
+        "link": "https://cafef.vn/chuong-duong-corp-muon-vay-ngan-hang-500-ty-dong-188260922101547919.chn",
+        "published": "Tue, 22 Sep 26 11:05:00 +0700"
       },
       {
-        "title": "Một tuyến đường “nửa nổi, nửa chìm” chưa từng có đang được tỷ phú Phạm Nhật Vượng cho xây tại Việt Nam",
-        "link": "https://cafef.vn/mot-tuyen-duong-nua-noi-nua-chim-chua-tung-co-dang-duoc-ty-phu-pham-nhat-vuong-cho-xay-tai-viet-nam-188260921221410486.chn",
-        "published": "Tue, 22 Sep 26 00:04:00 +0700"
+        "title": "Chứng khoán Xuân Thiện thay Tổng giám đốc",
+        "link": "https://cafef.vn/chung-khoan-xuan-thien-thay-tong-giam-doc-188260922094715724.chn",
+        "published": "Tue, 22 Sep 26 10:41:00 +0700"
       },
       {
-        "title": "Một “nghịch lý” bất ngờ xuất hiện trên TTCK sau nâng hạng",
-        "link": "https://cafef.vn/mot-nghich-ly-bat-ngo-xuat-hien-tren-ttck-sau-nang-hang-188260921214546834.chn",
-        "published": "Tue, 22 Sep 26 00:03:00 +0700"
+        "title": "Giá vàng bạc 22/9: Phú Quý, Bảo Tín Minh Châu, Doji giảm đồng loạt, bạc bất ngờ!",
+        "link": "https://cafef.vn/gia-vang-bac-22-9-phu-quy-bao-tin-minh-chau-doji-giam-dong-loat-bac-bat-ngo-188260922101454027.chn",
+        "published": "Tue, 22 Sep 26 10:25:00 +0700"
       },
       {
-        "title": "Một nữ tiến sĩ vừa trở thành người giàu thứ 2 Việt Nam",
-        "link": "https://cafef.vn/mot-nu-tien-si-vua-tro-thanh-nguoi-giau-thu-2-viet-nam-188260921233239466.chn",
-        "published": "Tue, 22 Sep 26 00:01:00 +0700"
+        "title": "Phát triển thị trường vốn: Cân bằng cấu trúc và củng cố niềm tin",
+        "link": "https://cafef.vn/phat-trien-thi-truong-von-can-bang-cau-truc-va-cung-co-niem-tin-188260922091450822.chn",
+        "published": "Tue, 22 Sep 26 09:14:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Dự kiến mở rộng phạm vi thu thập dữ liệu để giám sát rửa tiền",
+        "link": "https://vneconomy.vn/du-kien-mo-rong-pham-vi-thu-thap-du-lieu-de-giam-sat-rua-tien.htm",
+        "published": "Tue, 22 Sep 2026 06:17:47 GMT"
+      },
+      {
+        "title": "Giá mua, bán vàng miếng SJC sụt 1,5 triệu đồng/lượng trong hai phiên",
+        "link": "https://vneconomy.vn/gia-mua-ban-vang-mieng-sjc-sut-15-trieu-dongluong-trong-hai-phien.htm",
+        "published": "Tue, 22 Sep 2026 06:16:01 GMT"
+      },
+      {
+        "title": "Đồng yên trượt giá trở lại sau động thái tăng lãi suất của BOJ",
+        "link": "https://vneconomy.vn/dong-yen-truot-gia-tro-lai-sau-dong-thai-tang-lai-suat-cua-boj.htm",
+        "published": "Tue, 22 Sep 2026 04:13:52 GMT"
+      },
+      {
+        "title": "Dự kiến 6 lĩnh vực tập trung kiểm toán Nhà nước trong năm 2027",
+        "link": "https://vneconomy.vn/du-kien-6-linh-vuc-tap-trung-kiem-toan-nha-nuoc-trong-nam-2027.htm",
+        "published": "Tue, 22 Sep 2026 03:48:51 GMT"
+      },
       {
         "title": "Vàng tụt giá vì triển vọng lãi suất cao hơn lâu hơn, SPDR Gold Trust bán ròng",
         "link": "https://vneconomy.vn/vang-tut-gia-vi-trien-vong-lai-suat-cao-hon-lau-hon-spdr-gold-trust-ban-rong.htm",
@@ -44,90 +64,70 @@
         "title": "Kết nối QR xuyên biên giới: Củng cố “chủ quyền thanh toán”, thêm động lực cho tăng trưởng",
         "link": "https://vneconomy.vn/ket-noi-qr-xuyen-bien-gioi-cung-co-chu-quyen-thanh-toan-them-dong-luc-cho-tang-truong.htm",
         "published": "Mon, 21 Sep 2026 14:55:00 GMT"
-      },
-      {
-        "title": "Giá vàng miếng SJC và vàng nhẫn sụt mạnh sau hai phiên bất động",
-        "link": "https://vneconomy.vn/gia-vang-mieng-sjc-va-vang-nhan-sut-manh-sau-hai-phien-bat-dong.htm",
-        "published": "Mon, 21 Sep 2026 14:53:14 GMT"
-      },
-      {
-        "title": "Các ngân hàng trung ương có thể đã bước vào một chu kỳ thắt chặt mới",
-        "link": "https://vneconomy.vn/cac-ngan-hang-trung-uong-co-the-da-buoc-vao-mot-chu-ky-that-chat-moi.htm",
-        "published": "Mon, 21 Sep 2026 11:47:28 GMT"
-      },
-      {
-        "title": "Việt Nam đang tạo ra những Doanh nghiệp Quốc gia - Động lực mới cho nền kinh tế",
-        "link": "https://vneconomy.vn/viet-nam-dang-tao-ra-nhung-doanh-nghiep-quoc-gia-dong-luc-moi-cho-nen-kinh-te.htm",
-        "published": "Mon, 21 Sep 2026 10:39:18 GMT"
-      },
-      {
-        "title": "Tỷ giá ổn định trước làn sóng tăng lãi suất toàn cầu nhờ điều tiết thanh khoản linh hoạt",
-        "link": "https://vneconomy.vn/ty-gia-on-dinh-truoc-lan-song-tang-lai-suat-toan-cau-nho-dieu-tiet-thanh-khoan-linh-hoat.htm",
-        "published": "Mon, 21 Sep 2026 04:44:39 GMT"
       }
     ],
     "Vietstock": [
       {
+        "title": "Nhịp đập Thị trường 22/09: VN-Index giằng co ở vùng 1,810 điểm",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-2209-vn-index-giang-co-o-vung-1810-diem-1636-1494612.htm",
+        "published": "Tue, 22 Sep 2026 11:47:00 +0700"
+      },
+      {
+        "title": "Cổ phiếu VPG thêm lý do vào diện cảnh báo",
+        "link": "http://vietstock.vn/2026/09/co-phieu-vpg-them-ly-do-vao-dien-canh-bao-830-1494395.htm",
+        "published": "Tue, 22 Sep 2026 10:21:31 +0700"
+      },
+      {
+        "title": "Cổ phiếu VPG thêm lý do vào diện cảnh báo",
+        "link": "http://vietstock.vn/2026/09/co-phieu-vpg-them-ly-do-vao-dien-canh-bao-830-1494395.htm",
+        "published": "Tue, 22 Sep 2026 10:21:31 +0700"
+      },
+      {
+        "title": "Ngày 22/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+        "link": "http://vietstock.vn/2026/09/ngay-22092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1494402.htm",
+        "published": "Tue, 22 Sep 2026 10:00:00 +0700"
+      },
+      {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 22/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-2209-830-1494416.htm",
+        "published": "Tue, 22 Sep 2026 08:00:00 +0700"
+      },
+      {
         "title": "22/09: Đọc gì trước giờ giao dịch chứng khoán?",
         "link": "http://vietstock.vn/2026/09/2209-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1494538.htm",
         "published": "Tue, 22 Sep 2026 06:00:00 +0700"
-      },
-      {
-        "title": "Cổ phiếu ngân hàng, dầu khí có tuần hút tiền",
-        "link": "http://vietstock.vn/2026/09/co-phieu-ngan-hang-dau-khi-co-tuan-hut-tien-830-1494415.htm",
-        "published": "Mon, 21 Sep 2026 20:30:00 +0700"
-      },
-      {
-        "title": "TTF giải trình việc cổ phiếu bị cảnh báo giữa bối cảnh thị giá suy yếu",
-        "link": "http://vietstock.vn/2026/09/ttf-giai-trinh-viec-co-phieu-bi-canh-bao-giua-boi-canh-thi-gia-suy-yeu-830-1494504.htm",
-        "published": "Mon, 21 Sep 2026 20:02:00 +0700"
-      },
-      {
-        "title": "Theo dấu dòng tiền cá mập 21/09: Khối ngoại, tự doanh bán ròng hàng trăm tỷ ngày nâng hạng",
-        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-2109-khoi-ngoai-tu-doanh-ban-rong-hang-tram-ty-ngay-nang-hang-830-1494484.htm",
-        "published": "Mon, 21 Sep 2026 19:17:30 +0700"
-      },
-      {
-        "title": "Vietstock Daily 22/09/2026: Áp lực sau khi nâng hạng",
-        "link": "http://vietstock.vn/2026/09/vietstock-daily-22092026-ap-luc-sau-khi-nang-hang-1636-1494406.htm",
-        "published": "Mon, 21 Sep 2026 18:21:28 +0700"
-      },
-      {
-        "title": "Chứng khoán Việt sẽ diễn biến ra sao sau khi được nâng hạng?",
-        "link": "http://vietstock.vn/2026/09/chung-khoan-viet-se-dien-bien-ra-sao-sau-khi-duoc-nang-hang-830-1494316.htm",
-        "published": "Mon, 21 Sep 2026 16:31:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Yen squeezed as hawkish turn grips central banks",
-        "link": "https://www.investing.com/news/economy-news/yen-squeezed-as-hawkish-turn-grips-central-banks-4909801",
-        "published": "2026-09-22 00:54:33"
+        "title": "ECB’s Lane sees inflation returning to target from mid-2027-paper",
+        "link": "https://www.investing.com/news/economy-news/ecbs-lane-sees-inflation-returning-to-target-from-mid2027paper-4909871",
+        "published": "2026-09-22 05:19:19"
       },
       {
-        "title": "RBA’s Hunter warns another rate hike may be needed to tame inflation",
-        "link": "https://www.investing.com/news/economy-news/rbas-hunter-warns-another-rate-hike-may-be-needed-to-tame-inflation-4909758",
-        "published": "2026-09-21 23:56:28"
+        "title": "Australia’s central bank says inflation risks may be materialising",
+        "link": "https://www.investing.com/news/economy-news/australias-central-bank-says-inflation-risks-may-be-materialising-4909857",
+        "published": "2026-09-22 04:42:31"
       },
       {
-        "title": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on",
-        "link": "https://www.investing.com/news/economy-news/nvidia-qiabacked-iambic-therapeutics-files-for-us-ipo-as-biotech-boom-rolls-on-4909708",
-        "published": "2026-09-21 21:48:55"
+        "title": "Morning Bid: AI trade gets its Muse",
+        "link": "https://www.investing.com/news/economy-news/morning-bid-ai-trade-gets-its-muse-4909856",
+        "published": "2026-09-22 04:36:33"
       },
       {
-        "title": "Trading Day: AI euphoria back with a bang",
-        "link": "https://www.investing.com/news/economy-news/trading-day-ai-euphoria-back-with-a-bang-4909669",
-        "published": "2026-09-21 21:12:28"
+        "title": "New Zealand central bank chief sees risks to economy, inflation",
+        "link": "https://www.investing.com/news/economy-news/new-zealand-central-bank-chief-sees-risks-to-economy-inflation-4909835",
+        "published": "2026-09-22 03:24:31"
       },
       {
-        "title": "Texas halts data center permits pending grid audit",
-        "link": "https://www.investing.com/news/economy-news/texas-halts-data-center-permits-pending-grid-audit-93CH-4909639",
-        "published": "2026-09-21 20:48:30"
+        "title": "Tech rally boosts Asian stocks, dollar firms on rate-hike wagers",
+        "link": "https://www.investing.com/news/economy-news/tech-rally-boosts-asian-stocks-dollar-firms-on-ratehike-wagers-4909825",
+        "published": "2026-09-22 02:12:26"
       },
       {
-        "title": "World Bank, IMF back changes to debt framework for poor countries",
-        "link": "https://www.investing.com/news/economy-news/world-bank-board-backs-changes-to-debt-sustainability-framework-for-poor-countries-4909387",
-        "published": "2026-09-21 20:12:54"
+        "title": "Bank of Korea to assess inflation, growth for rate hikes, board member says",
+        "link": "https://www.investing.com/news/economy-news/bank-of-korea-to-assess-inflation-growth-for-rate-hikes-board-member-says-4909823",
+        "published": "2026-09-22 02:06:45"
       }
     ]
   }
