@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T17:41:39.450700",
+  "fetched_at": "2026-09-23T21:01:13.590634",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "Five-year US Treasury yield tops 5% for first time since 2007",
-        "link": "https://www.investing.com/news/economy-news/fiveyear-us-treasury-yield-tops-5-for-first-time-since-2007-4913665",
-        "published": "2026-09-23 17:23:35"
+        "title": "UPS diverts F-35 parts to Hong Kong, China takes possession - Bloomberg",
+        "link": "https://www.investing.com/news/economy-news/ups-diverts-f35-parts-to-hong-kong-china-takes-possession--bloomberg-93CH-4913879",
+        "published": "2026-09-23 20:17:38"
       },
       {
-        "title": "AI leaders to brief UN amid warnings the technology could slip beyond human control",
+        "title": "Analysis-As 5% Treasury yields lose shock value, investors start worrying about 6%",
+        "link": "https://www.investing.com/news/economy-news/analysisas-5-treasury-yields-lose-shock-value-investors-start-worrying-about-6-4913678",
+        "published": "2026-09-23 20:13:40"
+      },
+      {
+        "title": "AI leaders warn UN of security risks as systems grow more powerful",
         "link": "https://www.investing.com/news/economy-news/ai-leaders-to-brief-un-amid-warnings-the-technology-could-slip-beyond-human-control-4912463",
-        "published": "2026-09-23 17:14:52"
+        "published": "2026-09-23 20:12:42"
       },
       {
-        "title": "Trump admin said to mull 90-day diesel export ban, refiner stocks, futures fall",
-        "link": "https://www.investing.com/news/economy-news/trump-admin-said-to-mull-90day-diesel-export-ban-refiner-stocks-futures-fall-4913652",
-        "published": "2026-09-23 17:13:33"
-      },
-      {
-        "title": "Wall Street falls as oil rebounds, Middle East tensions simmer",
+        "title": "Wall Street ends down as oil prices, Treasury yields rise",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-steady-with-focus-on-mideast-talks-uschina-summit-4912483",
-        "published": "2026-09-23 16:30:28"
+        "published": "2026-09-23 20:07:34"
       },
       {
-        "title": "Italy sticks with plan to bring 2026 deficit below EU 3% of GDP ceiling",
-        "link": "https://www.investing.com/news/economy-news/italy-sticks-with-commitment-to-keep-2026-deficit-below-eu-3-of-gdp-ceiling-4912236",
-        "published": "2026-09-23 15:48:34"
+        "title": "ECB not seeing any big wage response to surging inflation",
+        "link": "https://www.investing.com/news/economy-news/ecb-not-seeing-any-big-wage-response-to-surging-inflation-4913705",
+        "published": "2026-09-23 18:48:34"
       },
       {
-        "title": "Japan’s steep yield curve opens ’reverse carry’ trade opportunity, Eastspring says",
-        "link": "https://www.investing.com/news/economy-news/japans-steep-yield-curve-opens-reverse-carry-trade-opportunity-eastspring-says-4913530",
-        "published": "2026-09-23 15:43:20"
+        "title": "Analysis-There’s a reason Trump is the only one talking about 1% interest rates",
+        "link": "https://www.investing.com/news/economy-news/analysistheres-a-reason-trump-is-the-only-one-talking-about-1-rates-4912676",
+        "published": "2026-09-23 18:30:52"
       }
     ]
   }
