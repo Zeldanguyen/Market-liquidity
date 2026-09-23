@@ -1,8 +1,23 @@
 {
-  "fetched_at": "2026-09-22T23:10:29.641874",
+  "fetched_at": "2026-09-23T01:39:13.475599",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
+      {
+        "title": "Hai doanh nghiệp bị xử phạt do vi phạm trong lĩnh vực chứng khoán",
+        "link": "https://cafef.vn/hai-doanh-nghiep-bi-xu-phat-do-vi-pham-trong-linh-vuc-chung-khoan-18826092307550794.chn",
+        "published": "Wed, 23 Sep 26 08:00:00 +0700"
+      },
+      {
+        "title": "Doanh thu đạt 21.536 tỷ đồng, MCH mở rộng các trụ cột tăng trưởng",
+        "link": "https://cafef.vn/doanh-thu-dat-21536-ty-dong-mch-mo-rong-cac-tru-cot-tang-truong-188260922193737382.chn",
+        "published": "Wed, 23 Sep 26 08:00:00 +0700"
+      },
+      {
+        "title": "Từ 0,7% lên 5% GDP: Ngành quỹ lấy gì để bứt tốc?",
+        "link": "https://cafef.vn/tu-07-len-5-gdp-nganh-quy-lay-gi-de-but-toc-188260923075759852.chn",
+        "published": "Wed, 23 Sep 26 07:57:00 +0700"
+      },
       {
         "title": "Một nữ doanh nhân kín tiếng vừa có thêm 107 triệu USD, giàu hơn tỷ phú Trần Đình Long và 2 chủ tịch ngân hàng",
         "link": "https://cafef.vn/mot-nu-doanh-nhan-kin-tieng-vua-co-them-107-trieu-usd-giau-hon-ty-phu-tran-dinh-long-va-2-chu-tich-ngan-hang-188260922234217582.chn",
@@ -17,24 +32,24 @@
         "title": "Một trường đại học nổi tiếng đặt mục tiêu đào tạo 100 tiến sĩ cho Việt Nam",
         "link": "https://cafef.vn/mot-truong-dai-hoc-noi-tieng-dat-muc-tieu-dao-tao-100-tien-si-cho-viet-nam-188260922220947372.chn",
         "published": "Wed, 23 Sep 26 00:03:00 +0700"
-      },
-      {
-        "title": "“Cơn gió ngược” mới xuất hiện, Tổng Giám đốc SGI Capital chỉ ra biến số lớn cuối năm",
-        "link": "https://cafef.vn/con-gio-nguoc-moi-xuat-hien-tong-giam-doc-sgi-capital-chi-ra-bien-so-lon-cuoi-nam-188260922223534322.chn",
-        "published": "Wed, 23 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "Một doanh nghiệp sắp lăn chốt cổ tức 15% bằng tiền mặt, quá khứ từng “bạo chi” gần 45%",
-        "link": "https://cafef.vn/mot-doanh-nghiep-sap-lan-chot-co-tuc-15-bang-tien-mat-qua-khu-tung-bao-chi-gan-45-188260922221029409.chn",
-        "published": "Wed, 23 Sep 26 00:02:00 +0700"
-      },
-      {
-        "title": "“Đại gia” dầu khí Việt Nam tham gia siêu dự án có 7 hạng mục ngoài khơi nặng hơn 78.000 tấn, doanh thu dự báo vượt 39.000 tỷ",
-        "link": "https://cafef.vn/dai-gia-dau-khi-viet-nam-tham-gia-sieu-du-an-co-7-hang-muc-ngoai-khoi-nang-hon-78000-tan-doanh-thu-du-bao-vuot-39000-ty-188260922170801645.chn",
-        "published": "Wed, 23 Sep 26 00:01:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Cảnh báo rủi ro không phải căn cứ để giữ toàn bộ tiền hoàn thuế",
+        "link": "https://vneconomy.vn/canh-bao-rui-ro-khong-phai-can-cu-de-giu-toan-bo-tien-hoan-thue.htm",
+        "published": "Wed, 23 Sep 2026 01:36:48 GMT"
+      },
+      {
+        "title": "Ngân hàng tìm cách “giải phóng” tín dụng khỏi tài sản bảo đảm",
+        "link": "https://vneconomy.vn/ngan-hang-tim-cach-giai-phong-tin-dung-khoi-tai-san-bao-dam.htm",
+        "published": "Wed, 23 Sep 2026 01:29:15 GMT"
+      },
+      {
+        "title": "Giá vàng hồi phục dù áp lực giảm còn lớn",
+        "link": "https://vneconomy.vn/gia-vang-hoi-phuc-du-ap-luc-giam-con-lon.htm",
+        "published": "Wed, 23 Sep 2026 00:22:51 GMT"
+      },
       {
         "title": "Ưu đãi thuế thu nhập doanh nghiệp cho giáo dục cần rõ tiêu chí",
         "link": "https://vneconomy.vn/uu-dai-thue-thu-nhap-doanh-nghiep-cho-giao-duc-can-ro-tieu-chi.htm",
@@ -49,24 +64,19 @@
         "title": "Ngân hàng thu phí thẻ: Đâu là căn cứ tính?",
         "link": "https://vneconomy.vn/ngan-hang-thu-phi-the-dau-la-can-cu-tinh.htm",
         "published": "Tue, 22 Sep 2026 08:56:33 GMT"
-      },
-      {
-        "title": "Ngân hàng NCB ký kết thỏa thuận hợp tác chiến lược toàn diện với Petrolimex",
-        "link": "https://vneconomy.vn/ngan-hang-ncb-ky-ket-thoa-thuan-hop-tac-chien-luoc-toan-dien-voi-petrolimex.htm",
-        "published": "Tue, 22 Sep 2026 08:56:23 GMT"
-      },
-      {
-        "title": "Nửa đầu tháng 9, nhập khẩu tăng gần gấp ba xuất khẩu, nhập siêu 2,8 tỷ USD",
-        "link": "https://vneconomy.vn/nua-dau-thang-9-nhap-khau-tang-gan-gap-ba-xuat-khau-nhap-sieu-28-ty-usd.htm",
-        "published": "Tue, 22 Sep 2026 08:11:35 GMT"
-      },
-      {
-        "title": "PVcomBank ra mắt bộ thẻ tín dụng mới, đa dạng lựa chọn cho khách hàng",
-        "link": "https://vneconomy.vn/pvcombank-ra-mat-bo-the-tin-dung-moi-da-dang-lua-chon-cho-khach-hang.htm",
-        "published": "Tue, 22 Sep 2026 08:00:36 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Top cổ phiếu đáng chú ý đầu phiên 23/09",
+        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-2309-830-1494940.htm",
+        "published": "Wed, 23 Sep 2026 08:00:00 +0700"
+      },
+      {
+        "title": "23/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/2309-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1494937.htm",
+        "published": "Wed, 23 Sep 2026 06:00:00 +0700"
+      },
       {
         "title": "Góc nhìn 23/09: Tận dụng các nhịp rung lắc",
         "link": "http://vietstock.vn/2026/09/goc-nhin-2309-tan-dung-cac-nhip-rung-lac-145-1494928.htm",
@@ -86,19 +96,14 @@
         "title": "Nhịp đập Thị trường 22/09: Thanh khoản suy yếu, cổ phiếu trụ kéo VN-Index lên mức cao nhất trong phiên",
         "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-2209-thanh-khoan-suy-yeu-co-phieu-tru-keo-vn-index-len-muc-cao-nhat-trong-phien-1636-1494612.htm",
         "published": "Tue, 22 Sep 2026 17:17:00 +0700"
-      },
-      {
-        "title": "TTCK Việt Nam bước sang chương mới, Chứng khoán An Bình sẵn sàng hội nhập",
-        "link": "http://vietstock.vn/2026/09/ttck-viet-nam-buoc-sang-chuong-moi-chung-khoan-an-binh-san-sang-hoi-nhap-830-1494705.htm",
-        "published": "Tue, 22 Sep 2026 16:02:00 +0700"
-      },
-      {
-        "title": "Phân tích kỹ thuật phiên chiều 22/09: Thị trường phân hóa",
-        "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-2209-thi-truong-phan-hoa-585-1494683.htm",
-        "published": "Tue, 22 Sep 2026 13:03:13 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "UK employers’ pay awards cool to 3%, Brightmine data shows",
+        "link": "https://www.investing.com/news/economy-news/uk-employers-pay-awards-cool-to-3-brightmine-data-shows-4911840",
+        "published": "2026-09-22 23:12:30"
+      },
       {
         "title": "Trump hails Burnham as ’natural business person’ after first meeting",
         "link": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-and-us-president-trump-have-established-good-connection-4911381",
@@ -123,11 +128,6 @@
         "title": "Trading Day: Oil slips, Nasdaq rips",
         "link": "https://www.investing.com/news/economy-news/trading-day-oil-slips-nasdaq-rips-4911721",
         "published": "2026-09-22 21:12:38"
-      },
-      {
-        "title": "NY Fed’s Perli says monetary policy toolkit working very well",
-        "link": "https://www.investing.com/news/economy-news/ny-feds-perli-says-monetary-policy-toolkit-working-very-well-4911640",
-        "published": "2026-09-22 20:30:59"
       }
     ]
   }
