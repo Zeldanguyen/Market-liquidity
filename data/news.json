@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T21:01:13.590634",
+  "fetched_at": "2026-09-23T23:35:09.738956",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
@@ -68,6 +68,11 @@
     ],
     "Vietstock": [
       {
+        "title": "24/09: Đọc gì trước giờ giao dịch chứng khoán?",
+        "link": "http://vietstock.vn/2026/09/2409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1495354.htm",
+        "published": "Thu, 24 Sep 2026 06:00:00 +0700"
+      },
+      {
         "title": "Theo dấu dòng tiền cá mập 23/09: Khối ngoại bán ròng trên ngàn tỷ, thách thức kỳ vọng hút vốn hậu nâng hạng",
         "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-2309-khoi-ngoai-ban-rong-tren-ngan-ty-thach-thuc-ky-vong-hut-von-hau-nang-hang-830-1495312.htm",
         "published": "Wed, 23 Sep 2026 19:32:00 +0700"
@@ -91,43 +96,38 @@
         "title": "Phân tích kỹ thuật phiên chiều 23/09: Tâm lý phân vân",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-2309-tam-ly-phan-van-585-1495054.htm",
         "published": "Wed, 23 Sep 2026 13:07:57 +0700"
-      },
-      {
-        "title": "Chứng khoán EVS bị phạt 200 triệu trước thềm tổ chức đại hội bất thường",
-        "link": "http://vietstock.vn/2026/09/chung-khoan-evs-bi-phat-200-trieu-truoc-them-to-chuc-dai-hoi-bat-thuong-830-1495012.htm",
-        "published": "Wed, 23 Sep 2026 11:25:53 +0700"
       }
     ],
     "Investing.com Economy": [
+      {
+        "title": "AI leaders warn UN of security risks as systems grow more powerful",
+        "link": "https://www.investing.com/news/economy-news/ai-leaders-to-brief-un-amid-warnings-the-technology-could-slip-beyond-human-control-4912463",
+        "published": "2026-09-23 21:24:47"
+      },
+      {
+        "title": "Trading Day: US yields cross 5% threshold​",
+        "link": "https://www.investing.com/news/economy-news/trading-day-us-yields-cross-5-threshold-4914027",
+        "published": "2026-09-23 21:13:09"
+      },
+      {
+        "title": "Analysis-As 5% Treasury yields lose shock value, investors start worrying about 6%",
+        "link": "https://www.investing.com/news/economy-news/analysisas-5-treasury-yields-lose-shock-value-investors-start-worrying-about-6-4913678",
+        "published": "2026-09-23 21:01:37"
+      },
+      {
+        "title": "Wall Street ends down as oil prices, Treasury yields rise",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-steady-with-focus-on-mideast-talks-uschina-summit-4912483",
+        "published": "2026-09-23 20:24:45"
+      },
       {
         "title": "UPS diverts F-35 parts to Hong Kong, China takes possession - Bloomberg",
         "link": "https://www.investing.com/news/economy-news/ups-diverts-f35-parts-to-hong-kong-china-takes-possession--bloomberg-93CH-4913879",
         "published": "2026-09-23 20:17:38"
       },
       {
-        "title": "Analysis-As 5% Treasury yields lose shock value, investors start worrying about 6%",
-        "link": "https://www.investing.com/news/economy-news/analysisas-5-treasury-yields-lose-shock-value-investors-start-worrying-about-6-4913678",
-        "published": "2026-09-23 20:13:40"
-      },
-      {
-        "title": "AI leaders warn UN of security risks as systems grow more powerful",
-        "link": "https://www.investing.com/news/economy-news/ai-leaders-to-brief-un-amid-warnings-the-technology-could-slip-beyond-human-control-4912463",
-        "published": "2026-09-23 20:12:42"
-      },
-      {
-        "title": "Wall Street ends down as oil prices, Treasury yields rise",
-        "link": "https://www.investing.com/news/economy-news/wall-st-futures-steady-with-focus-on-mideast-talks-uschina-summit-4912483",
-        "published": "2026-09-23 20:07:34"
-      },
-      {
         "title": "ECB not seeing any big wage response to surging inflation",
         "link": "https://www.investing.com/news/economy-news/ecb-not-seeing-any-big-wage-response-to-surging-inflation-4913705",
         "published": "2026-09-23 18:48:34"
-      },
-      {
-        "title": "Analysis-There’s a reason Trump is the only one talking about 1% interest rates",
-        "link": "https://www.investing.com/news/economy-news/analysistheres-a-reason-trump-is-the-only-one-talking-about-1-rates-4912676",
-        "published": "2026-09-23 18:30:52"
       }
     ]
   }
