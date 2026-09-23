@@ -1,72 +1,82 @@
 {
-  "fetched_at": "2026-09-23T07:16:15.645844",
+  "fetched_at": "2026-09-23T12:54:20.588593",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
-        "title": "Lần đầu tiên Việt Nam đăng cai Diễn đàn Chứng khoán châu Á, mở cơ hội đón dòng vốn quốc tế sau nâng hạng",
-        "link": "https://cafef.vn/lan-dau-tien-viet-nam-dang-cai-dien-dan-chung-khoan-chau-a-mo-co-hoi-don-dong-von-quoc-te-sau-nang-hang-188260923131438481.chn",
-        "published": "Wed, 23 Sep 26 13:40:00 +0700"
+        "title": "Bitcoin phá vỡ “lời nguyền” tồn tại 4 năm",
+        "link": "https://cafef.vn/bitcoin-pha-vo-loi-nguyen-ton-tai-4-nam-188260923183044327.chn",
+        "published": "Wed, 23 Sep 26 19:00:00 +0700"
       },
       {
-        "title": "Khoảnh khắc Việt Nam giữa New York trong tuần thị trường được nâng hạng",
-        "link": "https://cafef.vn/khoanh-khac-viet-nam-giua-new-york-trong-tuan-thi-truong-duoc-nang-hang-188260923114841271.chn",
-        "published": "Wed, 23 Sep 26 11:48:00 +0700"
+        "title": "Ông Nguyễn Hữu Chỉnh bị bắt, doanh nghiệp công bố kế hoạch mới",
+        "link": "https://cafef.vn/ong-nguyen-huu-chinh-bi-bat-doanh-nghiep-cong-bo-ke-hoach-moi-188260923160953522.chn",
+        "published": "Wed, 23 Sep 26 18:09:00 +0700"
       },
       {
-        "title": "Chuyên gia: Tesla khó cạnh tranh với hãng xe của tỷ phú Phạm Nhật Vượng tại Việt Nam",
-        "link": "https://cafef.vn/chuyen-gia-tesla-kho-canh-tranh-voi-hang-xe-cua-ty-phu-pham-nhat-vuong-tai-viet-nam-188260923112637645.chn",
-        "published": "Wed, 23 Sep 26 11:27:00 +0700"
+        "title": "Tỷ phú Phạm Nhật Vượng tuyển diễn viên phim hài, biết \"bật cười\" đúng lúc",
+        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tuyen-dien-vien-phim-hai-biet-bat-cuoi-dung-luc-188260923173247549.chn",
+        "published": "Wed, 23 Sep 26 17:30:00 +0700"
       },
       {
-        "title": "Loạt \"cá mập\" xuống tiền gom vàng, điều gì đang diễn ra?",
-        "link": "https://cafef.vn/loat-ca-map-xuong-tien-gom-vang-dieu-gi-dang-dien-ra-188260923110003434.chn",
-        "published": "Wed, 23 Sep 26 11:00:00 +0700"
+        "title": "VN-Index hụt hơi cuối phiên, khối ngoại bán ròng hơn 1.000 tỷ đồng",
+        "link": "https://cafef.vn/vn-index-hut-hoi-cuoi-phien-khoi-ngoai-ban-rong-hon-1000-ty-dong-188260923164942778.chn",
+        "published": "Wed, 23 Sep 26 17:27:00 +0700"
       },
       {
-        "title": "Một doanh nghiệp hóa chất chốt ngày chi hơn trăm tỷ trả cổ tức",
-        "link": "https://cafef.vn/mot-doanh-nghiep-hoa-chat-chot-ngay-chi-hon-tram-ty-tra-co-tuc-188260923101933477.chn",
-        "published": "Wed, 23 Sep 26 10:39:00 +0700"
+        "title": "TTC Hospitality muốn chuyển nhượng vốn góp tại công ty mới 1 tháng tuổi, giá không dưới 700 tỷ đồng",
+        "link": "https://cafef.vn/ttc-hospitality-muon-chuyen-nhuong-von-gop-tai-cong-ty-moi-1-thang-tuoi-gia-khong-duoi-700-ty-dong-188260923161909074.chn",
+        "published": "Wed, 23 Sep 26 17:19:00 +0700"
       },
       {
-        "title": "Tài sản số có thể được Nhà nước trưng dụng trong trường hợp đặc biệt",
-        "link": "https://cafef.vn/tai-san-so-co-the-duoc-nha-nuoc-trung-dung-trong-truong-hop-dac-biet-188260923091849936.chn",
-        "published": "Wed, 23 Sep 26 09:23:00 +0700"
+        "title": "Công ty đứng sau PUBG \"bốc hơi\" hơn 4.400 tỷ đồng vốn hóa giữa drama liên quan 2 game thủ Việt",
+        "link": "https://cafef.vn/cong-ty-dung-sau-pubg-boc-hoi-hon-4400-ty-dong-von-hoa-giua-drama-lien-quan-2-game-thu-viet-188260923171019248.chn",
+        "published": "Wed, 23 Sep 26 17:09:00 +0700"
       }
     ],
     "VnEconomy": [
       {
-        "title": "Cảnh báo rủi ro không phải căn cứ để giữ toàn bộ tiền hoàn thuế",
-        "link": "https://vneconomy.vn/canh-bao-rui-ro-khong-phai-can-cu-de-giu-toan-bo-tien-hoan-thue.htm",
-        "published": "Wed, 23 Sep 2026 01:36:48 GMT"
+        "title": "Những quốc gia phải trả lãi nợ công nhiều nhất",
+        "link": "https://vneconomy.vn/nhung-quoc-gia-phai-tra-lai-no-cong-nhieu-nhat.htm",
+        "published": "Wed, 23 Sep 2026 10:40:21 GMT"
       },
       {
-        "title": "Ngân hàng tìm cách “giải phóng” tín dụng khỏi tài sản bảo đảm",
-        "link": "https://vneconomy.vn/ngan-hang-tim-cach-giai-phong-tin-dung-khoi-tai-san-bao-dam.htm",
-        "published": "Wed, 23 Sep 2026 01:29:15 GMT"
+        "title": "Prudential Việt Nam nằm trong Top 10 doanh nghiệp bảo hiểm nộp ngân sách lớn nhất tại VNTAX 2026",
+        "link": "https://vneconomy.vn/prudential-viet-nam-nam-trong-top-10-doanh-nghiep-bao-hiem-nop-ngan-sach-lon-nhat-tai-vntax-2026.htm",
+        "published": "Wed, 23 Sep 2026 09:29:26 GMT"
       },
       {
-        "title": "Giá vàng hồi phục dù áp lực giảm còn lớn",
-        "link": "https://vneconomy.vn/gia-vang-hoi-phuc-du-ap-luc-giam-con-lon.htm",
-        "published": "Wed, 23 Sep 2026 00:22:51 GMT"
+        "title": "ADB nâng dự báo tăng trưởng 2026 lên 7,8% đi kèm lạm phát 4,3%",
+        "link": "https://vneconomy.vn/adb-nang-du-bao-tang-truong-2026-len-78-di-kem-lam-phat-43.htm",
+        "published": "Wed, 23 Sep 2026 08:58:18 GMT"
       },
       {
-        "title": "Ưu đãi thuế thu nhập doanh nghiệp cho giáo dục cần rõ tiêu chí",
-        "link": "https://vneconomy.vn/uu-dai-thue-thu-nhap-doanh-nghiep-cho-giao-duc-can-ro-tieu-chi.htm",
-        "published": "Tue, 22 Sep 2026 14:38:36 GMT"
+        "title": "Vì sao biến động thị trường tài chính Nhật Bản có thể gây ảnh hưởng toàn cầu?",
+        "link": "https://vneconomy.vn/vi-sao-bien-dong-thi-truong-tai-chinh-nhat-ban-co-the-gay-anh-huong-toan-cau.htm",
+        "published": "Wed, 23 Sep 2026 08:23:53 GMT"
       },
       {
-        "title": "Hơn 1.000 tỷ đồng bổ sung vào Quỹ Bình ổn giá xăng dầu trong quý II",
-        "link": "https://vneconomy.vn/hon-1000-ty-dong-bo-sung-vao-quy-binh-on-gia-xang-dau-trong-quy-ii.htm",
-        "published": "Tue, 22 Sep 2026 11:42:07 GMT"
+        "title": "Tín dụng địa bàn TP. Hồ Chí Minh và TP. Đồng Nai tăng hơn 10% sau 8 tháng",
+        "link": "https://vneconomy.vn/tin-dung-dia-ban-tp-ho-chi-minh-va-tp-dong-nai-tang-hon-10-sau-8-thang.htm",
+        "published": "Wed, 23 Sep 2026 08:04:37 GMT"
       },
       {
-        "title": "Ngân hàng thu phí thẻ: Đâu là căn cứ tính?",
-        "link": "https://vneconomy.vn/ngan-hang-thu-phi-the-dau-la-can-cu-tinh.htm",
-        "published": "Tue, 22 Sep 2026 08:56:33 GMT"
+        "title": "Danh hiệu “Ngân hàng Bán lẻ tốt nhất châu Á” lần đầu tiên được trao cho một ngân hàng Việt Nam",
+        "link": "https://vneconomy.vn/danh-hieu-ngan-hang-ban-le-tot-nhat-chau-a-lan-dau-tien-duoc-trao-cho-mot-ngan-hang-viet-nam.htm",
+        "published": "Wed, 23 Sep 2026 08:00:41 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Vietstock Daily 24/09/2026: Chưa hết rung lắc",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-24092026-chua-het-rung-lac-1636-1495201.htm",
+        "published": "Wed, 23 Sep 2026 18:17:00 +0700"
+      },
+      {
+        "title": "Nhịp đập Thị trường 23/09: Khối ngoại tiếp tục bán ròng nhóm bluechip, VN-Index cheo leo tại ngưỡng 1,800 điểm",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-2309-khoi-ngoai-tiep-tuc-ban-rong-nhom-bluechip-vn-index-cheo-leo-tai-nguong-1800-diem-1636-1495006.htm",
+        "published": "Wed, 23 Sep 2026 16:52:00 +0700"
+      },
       {
         "title": "Triển vọng nào cho cổ phiếu MSN trong quý 3/2026?",
         "link": "http://vietstock.vn/2026/09/trien-vong-nao-cho-co-phieu-msn-trong-quy-32026-830-1495066.htm",
@@ -86,48 +96,38 @@
         "title": "RongViet Invest 2026 lan tỏa sức nóng đến sinh viên 32 trường đại học",
         "link": "http://vietstock.vn/2026/09/rongviet-invest-2026-lan-toa-suc-nong-den-sinh-vien-32-truong-dai-hoc-830-1494966.htm",
         "published": "Wed, 23 Sep 2026 10:00:00 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 23/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-2309-830-1494940.htm",
-        "published": "Wed, 23 Sep 2026 08:00:00 +0700"
-      },
-      {
-        "title": "23/09: Đọc gì trước giờ giao dịch chứng khoán?",
-        "link": "http://vietstock.vn/2026/09/2309-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1494937.htm",
-        "published": "Wed, 23 Sep 2026 06:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "South Korea says Trump welcomes progress in US strategic investment projects",
-        "link": "https://www.investing.com/news/economy-news/south-koreas-lee-trump-welcome-progress-in-us-strategic-investment-projects-4912022",
-        "published": "2026-09-23 06:54:31"
+        "title": "Analysis-There’s a reason Trump is the only one talking about 1% interest rates",
+        "link": "https://www.investing.com/news/economy-news/analysistheres-a-reason-trump-is-the-only-one-talking-about-1-rates-4912676",
+        "published": "2026-09-23 12:42:30"
       },
       {
-        "title": "Sri Lanka economy resilient but risks remain tilted to downside, IMF says",
-        "link": "https://www.investing.com/news/economy-news/sri-lanka-economy-resilient-but-risks-remain-tilted-to-downside-imf-says-4912103",
-        "published": "2026-09-23 06:00:53"
+        "title": "EU could recoup third of US economic lead with bigger firms, ECB says",
+        "link": "https://www.investing.com/news/economy-news/eu-could-recoup-third-of-us-economic-lead-with-bigger-firms-ecb-says-4912917",
+        "published": "2026-09-23 12:07:56"
       },
       {
-        "title": "Trump hails Burnham as ’natural business person’ after first meeting",
-        "link": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-and-us-president-trump-have-established-good-connection-4911381",
-        "published": "2026-09-23 05:54:52"
+        "title": "BofA forecasts two BoE rate hikes as energy prices stoke inflation concerns",
+        "link": "https://www.investing.com/news/economy-news/bofa-forecasts-two-boe-rate-hikes-as-energy-prices-stoke-inflation-concerns-4912807",
+        "published": "2026-09-23 11:43:07"
       },
       {
-        "title": "India business activity rebounds in September to 3-month high, PMI shows",
-        "link": "https://www.investing.com/news/economy-news/india-business-activity-rebounds-in-september-to-3month-high-pmi-shows-4912090",
-        "published": "2026-09-23 05:42:27"
+        "title": "Wall St futures muted; Mideast talks, US-China summit in focus",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-steady-with-focus-on-mideast-talks-uschina-summit-4912483",
+        "published": "2026-09-23 11:42:32"
       },
       {
-        "title": "Morning Bid: A$ gets a bit part as AI steals the show",
-        "link": "https://www.investing.com/news/economy-news/morning-bid-a-gets-a-bit-part-as-ai-steals-the-show-4912066",
-        "published": "2026-09-23 04:36:31"
+        "title": "Corporate finance chiefs lift inflation outlook, cite rates as concern - Fed survey",
+        "link": "https://www.investing.com/news/economy-news/corporate-finance-chiefs-lift-inflation-outlook-cite-rates-as-concern--fed-survey-4912679",
+        "published": "2026-09-23 11:24:33"
       },
       {
-        "title": "Trump says Iran deal close, held ‘very good’ UN talks",
-        "link": "https://www.investing.com/news/economy-news/trump-says-iran-deal-close-held-very-good-un-talks-4912062",
-        "published": "2026-09-23 04:22:30"
+        "title": "China central bank to inject more liquidity as Golden Week nears",
+        "link": "https://www.investing.com/news/economy-news/china-central-bank-to-inject-more-liquidity-as-golden-week-nears-4912735",
+        "published": "2026-09-23 11:19:21"
       }
     ]
   }
