@@ -1,40 +1,50 @@
 {
-  "fetched_at": "2026-09-24T13:42:13.782385",
+  "fetched_at": "2026-09-24T18:08:59.066852",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
+        "title": "Một Phó Tổng Giám đốc ngân hàng nhầm lệnh mua bán cổ phiếu",
+        "link": "https://cafef.vn/mot-pho-tong-giam-doc-ngan-hang-nham-lenh-mua-ban-co-phieu-18826092422021143.chn",
+        "published": "Fri, 25 Sep 26 00:05:00 +0700"
+      },
+      {
+        "title": "Việt Nam sắp có thêm một “đại công trình” thép gần 80.000 tỷ đồng: Diện tích lớn hơn cả Hòa Phát Dung Quất 2",
+        "link": "https://cafef.vn/viet-nam-sap-co-them-mot-dai-cong-trinh-thep-gan-80000-ty-dong-dien-tich-lon-hon-ca-hoa-phat-dung-quat-2-18826092422072351.chn",
+        "published": "Fri, 25 Sep 26 00:03:00 +0700"
+      },
+      {
+        "title": "Khối ngoại bán thẳng tay 2.600 tỷ đồng ngay sau nâng hạng, điều gì đang diễn ra?",
+        "link": "https://cafef.vn/khoi-ngoai-ban-thang-tay-2600-ty-dong-ngay-sau-nang-hang-dieu-gi-dang-dien-ra-188260924164857616.chn",
+        "published": "Fri, 25 Sep 26 00:02:00 +0700"
+      },
+      {
+        "title": "Nhóm công nghệ áp đảo top 10 công ty vốn hóa lớn nhất thế giới, không có bóng dáng ngân hàng, bất động sản",
+        "link": "https://cafef.vn/nhom-cong-nghe-ap-dao-top-10-cong-ty-von-hoa-lon-nhat-the-gioi-khong-co-bong-dang-ngan-hang-bat-dong-san-188260924225047509.chn",
+        "published": "Fri, 25 Sep 26 00:01:00 +0700"
+      },
+      {
+        "title": "Lọc hóa dầu Việt Nam đạt thoả thuận mua dầu thô từ ExxonMobil của Mỹ",
+        "link": "https://cafef.vn/loc-hoa-dau-viet-nam-dat-thoa-thuan-mua-dau-tho-tu-exxonmobil-cua-my-188260924210741052.chn",
+        "published": "Thu, 24 Sep 26 21:07:00 +0700"
+      },
+      {
         "title": "Quỹ nắm những \"viên kim cương\" của chứng khoán Việt Nam bất ngờ bị rút vốn liên tiếp sau nâng hạng",
         "link": "https://cafef.vn/quy-nam-nhung-vien-kim-cuong-cua-chung-khoan-viet-nam-bat-ngo-bi-rut-von-lien-tiep-sau-nang-hang-18826092416422618.chn",
         "published": "Thu, 24 Sep 26 19:02:00 +0700"
-      },
-      {
-        "title": "Một Thành viên HĐQT độc lập của Đầu tư MST xin từ nhiệm",
-        "link": "https://cafef.vn/mot-thanh-vien-hdqt-doc-lap-cua-dau-tu-mst-xin-tu-nhiem-188260924190045633.chn",
-        "published": "Thu, 24 Sep 26 19:00:00 +0700"
-      },
-      {
-        "title": "Nhà cung ứng nguyên liệu đầu vào quan trọng cho Samsung Việt Nam công bố kế hoạch mới",
-        "link": "https://cafef.vn/nha-cung-ung-nguyen-lieu-dau-vao-quan-trong-cho-samsung-viet-nam-cong-bo-ke-hoach-moi-188260924115609841.chn",
-        "published": "Thu, 24 Sep 26 18:00:00 +0700"
-      },
-      {
-        "title": "Kết nối dòng vốn Hoa Kỳ với các cơ hội tăng trưởng dài hạn tại Việt Nam",
-        "link": "https://cafef.vn/ket-noi-dong-von-hoa-ky-voi-cac-co-hoi-tang-truong-dai-han-tai-viet-nam-18826092417470923.chn",
-        "published": "Thu, 24 Sep 26 17:47:01 +0700"
-      },
-      {
-        "title": "Một cổ phiếu ngân hàng được tự doanh CTCK \"gom\" hàng trăm tỷ đồng trong phiên 24/9",
-        "link": "https://cafef.vn/mot-co-phieu-ngan-hang-duoc-tu-doanh-ctck-gom-hang-tram-ty-dong-trong-phien-24-9-188260924174326256.chn",
-        "published": "Thu, 24 Sep 26 17:43:00 +0700"
-      },
-      {
-        "title": "Hơn 400 cổ phiếu chìm trong sắc đỏ",
-        "link": "https://cafef.vn/hon-400-co-phieu-chim-trong-sac-do-188260924170507023.chn",
-        "published": "Thu, 24 Sep 26 17:36:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Sắp diễn ra Hội thảo “Thúc đẩy thanh toán xuyên biên giới qua mã QR: Động lực mới cho bán lẻ và du lịch”",
+        "link": "https://vneconomy.vn/sap-dien-ra-hoi-thao-thuc-day-thanh-toan-xuyen-bien-gioi-qua-ma-qr-dong-luc-moi-cho-ban-le-va-du-lich.htm",
+        "published": "Thu, 24 Sep 2026 14:32:23 GMT"
+      },
+      {
+        "title": "Giải pháp tối ưu tiền nhàn rỗi, linh hoạt khi cần chi tiêu",
+        "link": "https://vneconomy.vn/giai-phap-toi-uu-tien-nhan-roi-linh-hoat-khi-can-chi-tieu.htm",
+        "published": "Thu, 24 Sep 2026 13:06:03 GMT"
+      },
       {
         "title": "Khởi đầu đúng tạo nền tảng cho doanh nghiệp vươn xa",
         "link": "https://vneconomy.vn/khoi-dau-dung-tao-nen-tang-cho-doanh-nghiep-vuon-xa.htm",
@@ -51,19 +61,9 @@
         "published": "Thu, 24 Sep 2026 07:16:51 GMT"
       },
       {
-        "title": "Sắp diễn ra Hội thảo “Thúc đẩy thanh toán xuyên biên giới qua mã QR: Động lực mới cho bán lẻ và du lịch”",
-        "link": "https://vneconomy.vn/sap-dien-ra-hoi-thao-thuc-day-thanh-toan-xuyen-bien-gioi-qua-ma-qr-dong-luc-moi-cho-ban-le-va-du-lich.htm",
-        "published": "Thu, 24 Sep 2026 05:32:23 GMT"
-      },
-      {
         "title": "Giá mua, bán vàng miếng SJC giảm gấp đôi vàng nhẫn “4 số 9”",
         "link": "https://vneconomy.vn/gia-mua-ban-vang-mieng-sjc-giam-gap-doi-vang-nhan-4-so-9.htm",
         "published": "Thu, 24 Sep 2026 05:31:25 GMT"
-      },
-      {
-        "title": "Tỷ giá USD hưởng lợi từ sự cứng rắn của Fed và giá dầu tăng cao",
-        "link": "https://vneconomy.vn/ty-gia-usd-huong-loi-tu-su-cung-ran-cua-fed-va-gia-dau-tang-cao.htm",
-        "published": "Thu, 24 Sep 2026 04:05:40 GMT"
       }
     ],
     "Vietstock": [
@@ -100,34 +100,34 @@
     ],
     "Investing.com Economy": [
       {
-        "title": "NATO commander says US to provide limited support as Europe expands role",
-        "link": "https://www.investing.com/news/economy-news/nato-commander-says-us-to-provide-limited-support-as-europe-expands-role-4915525",
-        "published": "2026-09-24 13:30:22"
+        "title": "Fed officials see rates likely rising to curb high inflation",
+        "link": "https://www.investing.com/news/economy-news/feds-paulson-says-more-rate-hikes-may-be-needed-to-quash-inflation-4915669",
+        "published": "2026-09-24 17:50:39"
       },
       {
-        "title": "Egypt’s central bank holds interest rates steady",
-        "link": "https://www.investing.com/news/economy-news/egypts-central-bank-holds-interest-rates-steady-93CH-4915520",
-        "published": "2026-09-24 13:28:33"
+        "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports",
+        "link": "https://www.investing.com/news/economy-news/white-house-asks-openai-anthropic-to-hold-models-from-british-testers-politico-reports-4915985",
+        "published": "2026-09-24 17:49:23"
       },
       {
-        "title": "Wall St set for lower open as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
+        "title": "Repsol warns 90% of crude supplies may not meet EU methane rules",
+        "link": "https://www.investing.com/news/economy-news/repsol-warns-90-of-crude-supplies-may-not-meet-eu-methane-rules-4915971",
+        "published": "2026-09-24 17:34:45"
+      },
+      {
+        "title": "Bahamas accuses DEA agents of illegal \"rogue\" operations on its soil",
+        "link": "https://www.investing.com/news/economy-news/bahamas-accuses-dea-agents-of-illegal-rogue-operations-on-its-soil-4915956",
+        "published": "2026-09-24 17:21:19"
+      },
+      {
+        "title": "Egypt central bank holds interest rates steady at 19%",
+        "link": "https://www.investing.com/news/economy-news/egypt-central-bank-holds-interest-rates-steady-at-19-93CH-4915934",
+        "published": "2026-09-24 17:09:37"
+      },
+      {
+        "title": "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
         "link": "https://www.investing.com/news/economy-news/wall-st-futures-fall-on-middle-east-uncertainties-ahead-of-trumpxi-talks-4914927",
-        "published": "2026-09-24 13:26:39"
-      },
-      {
-        "title": "How the world’s biggest bond managers are investing in a tumultuous market",
-        "link": "https://www.investing.com/news/economy-news/how-the-worlds-biggest-bond-managers-are-investing-in-a-tumultuous-market-4914675",
-        "published": "2026-09-24 13:19:19"
-      },
-      {
-        "title": "Fed’s Hammack warns inflation pressures remain tilted to upside",
-        "link": "https://www.investing.com/news/economy-news/feds-hammack-warns-inflation-pressures-remain-tilted-to-upside-4915488",
-        "published": "2026-09-24 13:18:41"
-      },
-      {
-        "title": "Canada retail sales slide in July, raising fresh concerns over consumer strength",
-        "link": "https://www.investing.com/news/economy-news/canada-retail-sales-slide-in-july-raising-fresh-concerns-over-consumer-strength-4915405",
-        "published": "2026-09-24 13:00:10"
+        "published": "2026-09-24 16:54:42"
       }
     ]
   }
