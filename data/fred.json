@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "fetched_at": "2026-09-24T02:52:59.219458",
+  "fetched_at": "2026-09-24T08:05:05.419228",
   "series": {
     "fed_funds_rate": [
       {
@@ -36,32 +36,32 @@
     ],
     "cpi": [
       {
-        "realtime_start": "2026-09-21",
-        "realtime_end": "2026-09-21",
+        "realtime_start": "2026-09-11",
+        "realtime_end": "2026-09-11",
         "date": "2026-08-01",
         "value": "334.131"
       },
       {
-        "realtime_start": "2026-09-21",
-        "realtime_end": "2026-09-21",
+        "realtime_start": "2026-09-11",
+        "realtime_end": "2026-09-11",
         "date": "2026-07-01",
         "value": "332.813"
       },
       {
-        "realtime_start": "2026-09-21",
-        "realtime_end": "2026-09-21",
+        "realtime_start": "2026-09-11",
+        "realtime_end": "2026-09-11",
         "date": "2026-06-01",
         "value": "332.568"
       },
       {
-        "realtime_start": "2026-09-21",
-        "realtime_end": "2026-09-21",
+        "realtime_start": "2026-09-11",
+        "realtime_end": "2026-09-11",
         "date": "2026-05-01",
         "value": "333.979"
       },
       {
-        "realtime_start": "2026-09-21",
-        "realtime_end": "2026-09-21",
+        "realtime_start": "2026-09-11",
+        "realtime_end": "2026-09-11",
         "date": "2026-04-01",
         "value": "332.407"
       }
