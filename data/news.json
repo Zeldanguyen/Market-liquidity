@@ -1,40 +1,50 @@
 {
-  "fetched_at": "2026-09-24T08:06:49.919402",
+  "fetched_at": "2026-09-24T13:42:13.782385",
   "feeds": {
     "Reuters Business": [],
     "CafeF": [
       {
-        "title": "Một công ty bị xử phạt vì để nhân viên chưa có chứng chỉ hành nghề mở tài khoản giao dịch chứng khoán cho khách hàng",
-        "link": "https://cafef.vn/mot-cong-ty-bi-xu-phat-vi-de-nhan-vien-chua-co-chung-chi-hanh-nghe-mo-tai-khoan-giao-dich-chung-khoan-cho-khach-hang-188260924143017487.chn",
-        "published": "Thu, 24 Sep 26 14:30:00 +0700"
+        "title": "Quỹ nắm những \"viên kim cương\" của chứng khoán Việt Nam bất ngờ bị rút vốn liên tiếp sau nâng hạng",
+        "link": "https://cafef.vn/quy-nam-nhung-vien-kim-cuong-cua-chung-khoan-viet-nam-bat-ngo-bi-rut-von-lien-tiep-sau-nang-hang-18826092416422618.chn",
+        "published": "Thu, 24 Sep 26 19:02:00 +0700"
       },
       {
-        "title": "Ông Đỗ Quang Vinh bất ngờ rời HĐQT Vietravel Airlines",
-        "link": "https://cafef.vn/ong-do-quang-vinh-bat-ngo-roi-hdqt-vietravel-airlines-188260924121448609.chn",
-        "published": "Thu, 24 Sep 26 12:18:00 +0700"
+        "title": "Một Thành viên HĐQT độc lập của Đầu tư MST xin từ nhiệm",
+        "link": "https://cafef.vn/mot-thanh-vien-hdqt-doc-lap-cua-dau-tu-mst-xin-tu-nhiem-188260924190045633.chn",
+        "published": "Thu, 24 Sep 26 19:00:00 +0700"
       },
       {
-        "title": "Cổ phiếu Grab rơi xuống đáy 3 năm",
-        "link": "https://cafef.vn/co-phieu-grab-roi-xuong-day-3-nam-188260924111029785.chn",
-        "published": "Thu, 24 Sep 26 12:10:00 +0700"
+        "title": "Nhà cung ứng nguyên liệu đầu vào quan trọng cho Samsung Việt Nam công bố kế hoạch mới",
+        "link": "https://cafef.vn/nha-cung-ung-nguyen-lieu-dau-vao-quan-trong-cho-samsung-viet-nam-cong-bo-ke-hoach-moi-188260924115609841.chn",
+        "published": "Thu, 24 Sep 26 18:00:00 +0700"
       },
       {
-        "title": "KSB được cho phép chuyển mục đích sử dụng hơn 5ha đất để thực hiện dự án",
-        "link": "https://cafef.vn/ksb-duoc-cho-phep-chuyen-muc-dich-su-dung-hon-5ha-dat-de-thuc-hien-du-an-188260924105753415.chn",
-        "published": "Thu, 24 Sep 26 11:58:00 +0700"
+        "title": "Kết nối dòng vốn Hoa Kỳ với các cơ hội tăng trưởng dài hạn tại Việt Nam",
+        "link": "https://cafef.vn/ket-noi-dong-von-hoa-ky-voi-cac-co-hoi-tang-truong-dai-han-tai-viet-nam-18826092417470923.chn",
+        "published": "Thu, 24 Sep 26 17:47:01 +0700"
       },
       {
-        "title": "Công ty đầu tiên hé lộ kết quả kinh doanh 9 tháng đầu năm",
-        "link": "https://cafef.vn/cong-ty-dau-tien-he-lo-ket-qua-kinh-doanh-9-thang-dau-nam-188260924112322024.chn",
-        "published": "Thu, 24 Sep 26 11:37:00 +0700"
+        "title": "Một cổ phiếu ngân hàng được tự doanh CTCK \"gom\" hàng trăm tỷ đồng trong phiên 24/9",
+        "link": "https://cafef.vn/mot-co-phieu-ngan-hang-duoc-tu-doanh-ctck-gom-hang-tram-ty-dong-trong-phien-24-9-188260924174326256.chn",
+        "published": "Thu, 24 Sep 26 17:43:00 +0700"
       },
       {
-        "title": "Phân lân Văn Điển chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 10%",
-        "link": "https://cafef.vn/phan-lan-van-dien-chuan-bi-chia-co-tuc-bang-co-phieu-ty-le-10-18826092410582823.chn",
-        "published": "Thu, 24 Sep 26 11:24:00 +0700"
+        "title": "Hơn 400 cổ phiếu chìm trong sắc đỏ",
+        "link": "https://cafef.vn/hon-400-co-phieu-chim-trong-sac-do-188260924170507023.chn",
+        "published": "Thu, 24 Sep 26 17:36:00 +0700"
       }
     ],
     "VnEconomy": [
+      {
+        "title": "Khởi đầu đúng tạo nền tảng cho doanh nghiệp vươn xa",
+        "link": "https://vneconomy.vn/khoi-dau-dung-tao-nen-tang-cho-doanh-nghiep-vuon-xa.htm",
+        "published": "Thu, 24 Sep 2026 09:12:40 GMT"
+      },
+      {
+        "title": "Thúc đẩy chuyển dịch mạnh mẽ từ “số hóa” sang “quản trị số”, ngành tài chính xây dựng hệ sinh thái tài chính số thông minh, an toàn",
+        "link": "https://vneconomy.vn/thuc-day-chuyen-dich-manh-me-tu-so-hoa-sang-quan-tri-so-nganh-tai-chinh-xay-dung-he-sinh-thai-tai-chinh-so-thong-minh-an-toan.htm",
+        "published": "Thu, 24 Sep 2026 08:57:03 GMT"
+      },
       {
         "title": "Điểm bán hưởng lợi kép từ VietQRGlobal: Giảm phí, thêm cơ hội tăng doanh thu",
         "link": "https://vneconomy.vn/diem-ban-huong-loi-kep-tu-vietqrglobal-giam-phi-them-co-hoi-tang-doanh-thu.htm",
@@ -54,80 +64,70 @@
         "title": "Tỷ giá USD hưởng lợi từ sự cứng rắn của Fed và giá dầu tăng cao",
         "link": "https://vneconomy.vn/ty-gia-usd-huong-loi-tu-su-cung-ran-cua-fed-va-gia-dau-tang-cao.htm",
         "published": "Thu, 24 Sep 2026 04:05:40 GMT"
-      },
-      {
-        "title": "i-1Depo VIB: Thêm một nhịp sinh lời hằng tháng cho dòng tiền chờ doanh nghiệp",
-        "link": "https://vneconomy.vn/i-1depo-vib-them-mot-nhip-sinh-loi-hang-thang-cho-dong-tien-cho-doanh-nghiep.htm",
-        "published": "Thu, 24 Sep 2026 03:44:17 GMT"
-      },
-      {
-        "title": "Vì sao Tổng thống Trump liên tục đòi Fed hạ lãi suất xuống 1%?",
-        "link": "https://vneconomy.vn/vi-sao-tong-thong-trump-lien-tuc-doi-fed-ha-lai-suat-xuong-1.htm",
-        "published": "Thu, 24 Sep 2026 03:10:57 GMT"
       }
     ],
     "Vietstock": [
+      {
+        "title": "Chứng khoán VTG bị phạt 187.5 triệu đồng do không tách biệt tài sản khách hàng",
+        "link": "http://vietstock.vn/2026/09/chung-khoan-vtg-bi-phat-1875-trieu-dong-do-khong-tach-biet-tai-san-khach-hang-830-1495741.htm",
+        "published": "Thu, 24 Sep 2026 19:33:59 +0700"
+      },
+      {
+        "title": "Theo dấu dòng tiền cá mập 24/09: Khối ngoại và tự doanh trái chiều",
+        "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-2409-khoi-ngoai-va-tu-doanh-trai-chieu-830-1495742.htm",
+        "published": "Thu, 24 Sep 2026 19:32:25 +0700"
+      },
+      {
+        "title": "Vietstock Daily 25/09/2026: Sức ép lan rộng",
+        "link": "http://vietstock.vn/2026/09/vietstock-daily-25092026-suc-ep-lan-rong-1636-1495623.htm",
+        "published": "Thu, 24 Sep 2026 18:05:09 +0700"
+      },
+      {
+        "title": "Nhịp đập Thị trường 24/09: Khối ngoại tiếp tục bán ròng hơn 520 tỷ VIC và VHM, VN-Index tiếp tục lao dốc",
+        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-2409-khoi-ngoai-tiep-tuc-ban-rong-hon-520-ty-vic-va-vhm-vn-index-tiep-tuc-lao-doc-1636-1495409.htm",
+        "published": "Thu, 24 Sep 2026 16:45:00 +0700"
+      },
       {
         "title": "Phân tích kỹ thuật phiên chiều 24/09: Áp lực bán gia tăng",
         "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-2409-ap-luc-ban-gia-tang-585-1495477.htm",
         "published": "Thu, 24 Sep 2026 12:55:41 +0700"
       },
       {
-        "title": "Nhịp đập Thị trường 24/09: Sắc đỏ bao phủ",
-        "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-2409-sac-do-bao-phu-1636-1495409.htm",
-        "published": "Thu, 24 Sep 2026 11:37:00 +0700"
-      },
-      {
         "title": "Ngày 24/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
         "link": "http://vietstock.vn/2026/09/ngay-24092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1495200.htm",
         "published": "Thu, 24 Sep 2026 10:00:00 +0700"
-      },
-      {
-        "title": "Doanh nghiệp niêm yết có hoạt động IR tốt nhất năm 2026",
-        "link": "http://vietstock.vn/2026/09/doanh-nghiep-niem-yet-co-hoat-dong-ir-tot-nhat-nam-2026-830-1495194.htm",
-        "published": "Thu, 24 Sep 2026 09:32:00 +0700"
-      },
-      {
-        "title": "Phá đỉnh 88 lần, ngân hàng vẫn chưa có sóng “đủ dài”",
-        "link": "http://vietstock.vn/2026/09/pha-dinh-88-lan-ngan-hang-van-chua-co-song-du-dai-757-1495349.htm",
-        "published": "Thu, 24 Sep 2026 09:00:00 +0700"
-      },
-      {
-        "title": "Top cổ phiếu đáng chú ý đầu phiên 24/09",
-        "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-2409-830-1495180.htm",
-        "published": "Thu, 24 Sep 2026 08:00:00 +0700"
       }
     ],
     "Investing.com Economy": [
       {
-        "title": "Dollar near 2-month peak as investors pause after rally, geopolitics eyed",
-        "link": "https://www.investing.com/news/economy-news/dollar-perched-at-twomonth-high-as-hot-pmi-fuels-inflation-fears-rate-hike-bets-4914371",
-        "published": "2026-09-24 07:54:53"
+        "title": "NATO commander says US to provide limited support as Europe expands role",
+        "link": "https://www.investing.com/news/economy-news/nato-commander-says-us-to-provide-limited-support-as-europe-expands-role-4915525",
+        "published": "2026-09-24 13:30:22"
       },
       {
-        "title": "Trump-Xi summit ahead; bond market selloff in focus - what’s moving markets",
-        "link": "https://www.investing.com/news/economy-news/trumpxi-summit-ahead-bond-market-selloff-in-focus--whats-moving-markets-4914551",
-        "published": "2026-09-24 07:48:02"
+        "title": "Egypt’s central bank holds interest rates steady",
+        "link": "https://www.investing.com/news/economy-news/egypts-central-bank-holds-interest-rates-steady-93CH-4915520",
+        "published": "2026-09-24 13:28:33"
       },
       {
-        "title": "German home prices edge up but pace slows",
-        "link": "https://www.investing.com/news/economy-news/german-home-prices-edge-up-but-pace-slows-4914532",
-        "published": "2026-09-24 07:18:26"
+        "title": "Wall St set for lower open as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
+        "link": "https://www.investing.com/news/economy-news/wall-st-futures-fall-on-middle-east-uncertainties-ahead-of-trumpxi-talks-4914927",
+        "published": "2026-09-24 13:26:39"
       },
       {
-        "title": "US packaged food makers could help cut diet-related deaths, study shows",
-        "link": "https://www.investing.com/news/economy-news/us-packaged-food-makers-could-help-cut-dietrelated-deaths-study-shows-4914526",
-        "published": "2026-09-24 07:12:52"
+        "title": "How the world’s biggest bond managers are investing in a tumultuous market",
+        "link": "https://www.investing.com/news/economy-news/how-the-worlds-biggest-bond-managers-are-investing-in-a-tumultuous-market-4914675",
+        "published": "2026-09-24 13:19:19"
       },
       {
-        "title": "Analysis-There’s a reason Trump is the only one talking about 1% interest rates",
-        "link": "https://www.investing.com/news/economy-news/analysistheres-a-reason-trump-is-the-only-one-talking-about-1-rates-4912676",
-        "published": "2026-09-24 07:00:51"
+        "title": "Fed’s Hammack warns inflation pressures remain tilted to upside",
+        "link": "https://www.investing.com/news/economy-news/feds-hammack-warns-inflation-pressures-remain-tilted-to-upside-4915488",
+        "published": "2026-09-24 13:18:41"
       },
       {
-        "title": "ECB will decide on rates from meeting to meeting, Kocher tells newspaper",
-        "link": "https://www.investing.com/news/economy-news/ecb-will-decide-on-rates-from-meeting-to-meeting-kocher-tells-newspaper-4914474",
-        "published": "2026-09-24 06:18:47"
+        "title": "Canada retail sales slide in July, raising fresh concerns over consumer strength",
+        "link": "https://www.investing.com/news/economy-news/canada-retail-sales-slide-in-july-raising-fresh-concerns-over-consumer-strength-4915405",
+        "published": "2026-09-24 13:00:10"
       }
     ]
   }
